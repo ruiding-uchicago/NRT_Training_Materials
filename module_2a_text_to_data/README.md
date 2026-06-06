@@ -31,8 +31,6 @@ Domain: 150 papers from the T3 FET-biosensor corpus (R. Ding et al.), with hand-
 ## Citation
 Data and task adapted from the T3 / text-to-data project (R. Ding et al.). Cite the corresponding paper when using this material.
 
-## Live mode key on Colab
+## Live mode key
 
-For live mode (`USE_CACHE = False`), provide an OpenRouter key one of two ways:
-- Colab Secret (recommended): click the key icon in the left sidebar, add a secret named `OPENROUTER_API_KEY`, and toggle notebook access on. The notebook reads it automatically.
-- Or run the cell and paste the key when prompted (getpass; it is not stored in the notebook).
+For live mode (set `USE_CACHE = False`), paste your OpenRouter key into the `OPENROUTER_API_KEY = ""` line near the top of the notebook, for example `"sk-or-v1-..."`. That is the only step. You can instead set an `OPENROUTER_API_KEY` environment variable and leave the line blank.
