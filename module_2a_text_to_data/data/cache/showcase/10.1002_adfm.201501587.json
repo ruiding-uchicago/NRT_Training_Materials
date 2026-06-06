@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adfm.201501587",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "acetylcholine",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "0.1 M",
+      "probe_material": "perallyloxycucurbit[6]uril (AOCB[6])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

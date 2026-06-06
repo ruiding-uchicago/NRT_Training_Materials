@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acs.analchem.6b03208",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "nitric oxide",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "reduced graphene oxide/iron(III) meso-tetra(4-carboxyphenyl)porphyrin functionalized graphene (RGO/FGPCs)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

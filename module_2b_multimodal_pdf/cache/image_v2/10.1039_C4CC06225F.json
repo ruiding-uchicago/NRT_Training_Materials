@@ -1,0 +1,544 @@
+{
+ "records": [
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "2,4-dinitrophenol",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "4-nitrophenol",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "2,4,6-trinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "2,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "3,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "4-nitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "4-nitrobenzoic acid",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "1,3-dinitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "picric acid",
+   "interferent": "nitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "Ksv = 2.2 × 10⁵ M⁻¹",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "4-nitrophenol",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "2,4,6-trinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "2,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "3,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "4-nitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "4-nitrobenzoic acid",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "1,3-dinitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4-dinitrophenol",
+   "interferent": "nitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "2,4,6-trinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "2,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "3,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "4-nitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "4-nitrobenzoic acid",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "1,3-dinitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "4-nitrophenol",
+   "interferent": "nitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "2,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "3,4-dinitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "4-nitrotoluene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "4-nitrobenzoic acid",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "1,3-dinitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  },
+  {
+   "receptor": "cage 4",
+   "target": "2,4,6-trinitrotoluene",
+   "interferent": "nitrobenzene",
+   "condition": {
+    "solvent": "DCM",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "quenching efficiency (%)",
+   "target_value": "strong",
+   "interferent_value": "weak",
+   "evidence": {
+    "figure_or_table": "Fig. 3",
+    "page": "15789"
+   }
+  }
+ ]
+}

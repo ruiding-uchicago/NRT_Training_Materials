@@ -1,0 +1,245 @@
+{
+ "records": [
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Acetone",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "314 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Acetonitrile",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "195 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "CTC",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "410 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Dioxane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "142 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "DMF",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "62 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Ethanol",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "61.5 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Ethylacetate",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "258 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Chloroform",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "798 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Xylene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "100 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Methanol",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "56 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "n-Hexane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "144 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "MC",
+   "interferent": "Toluene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "Δf",
+   "target_value": "1047 Hz",
+   "interferent_value": "85 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 14700,
+  "completion_tokens": 4449,
+  "total_tokens": 19149,
+  "cost": 0.00885144,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00885144,
+   "upstream_inference_prompt_cost": 0.001911,
+   "upstream_inference_completions_cost": 0.00694044
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2793,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 12
+}

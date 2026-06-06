@@ -1,0 +1,35 @@
+{
+  "stem": "10.1002_adfm.201501587",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "acetylcholine (ACh+)",
+      "lower_detection_limit": "1 × 10⁻¹² M",
+      "upper_detection_limit": "100 × 10⁻³ M",
+      "probe_material": "perallyloxyCB[6] (AOCB[6])",
+      "test_operating_temperature (celcius)": "25 °C (ambient, inferred from 'under ambient conditions')",
+      "pH_value": "7.4 (for PBS buffer condition)",
+      "test_medium": "deionized water (also tested in PBS buffer)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "choline (Ch+)",
+      "lower_detection_limit": "1 × 10⁻⁶ M",
+      "upper_detection_limit": "100 × 10⁻³ M",
+      "probe_material": "perallyloxyCB[6] (AOCB[6])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "deionized water"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "sodium ion (Na+)",
+      "lower_detection_limit": "1 × 10⁻⁶ M",
+      "upper_detection_limit": "100 × 10⁻³ M",
+      "probe_material": "perallyloxyCB[6] (AOCB[6])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "deionized water"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10825-019-01373-9",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "trinitrotoluene",
+      "lower_detection_limit": "1e-7 M",
+      "upper_detection_limit": "2e-5 M",
+      "probe_material": "APTES(3-aminopropyltriethoxysilane)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

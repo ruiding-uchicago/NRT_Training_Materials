@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.201403263",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-13 M",
+      "upper_detection_limit": "1e-9 M",
+      "probe_material": "platinum/3-carboxylate polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline/water"
+    }
+  ]
+}

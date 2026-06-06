@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admi.201901696",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "5,11-bis(triethylsilylethynyl)anthradithiophene (TES-ADT)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ]
+}

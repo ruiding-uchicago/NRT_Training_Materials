@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.snb.2009.01.061",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "protein A (antigen)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "platinum nano-particles (PtNPs) and silver enhancement",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "liquid (buffer solution for immunoassay)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "creatinine",
+      "lower_detection_limit": "0.2 mg/mL",
+      "upper_detection_limit": "1.3 mg/mL",
+      "probe_material": "MIP (molecularly imprinted polymer; poly(ethylene-co-vinyl alcohol) / EVAL)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "phosphate buffered saline (PBS)"
+    }
+  ]
+}

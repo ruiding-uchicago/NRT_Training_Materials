@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00542-012-1434-z",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "NOx (NO and NO2)",
+      "lower_detection_limit": "50 ppm (NO)",
+      "upper_detection_limit": "200 ppm (NO)",
+      "probe_material": "Platinum, Iridium",
+      "test_operating_temperature (celcius)": "118-380",
+      "pH_value": "-1",
+      "test_medium": "10% O2 in N2 with background gases (CO, C2H4, NH3), dry or 50% RH at room temperature"
+    }
+  ]
+}

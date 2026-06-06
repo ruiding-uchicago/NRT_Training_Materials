@@ -1,0 +1,84 @@
+Polycrystalline fluorine-doped tin oxide as sensoring thin film in EGFET pH sensor
+Published: 19 May 2010
+Volume 45, pages 5478–5481, (2010)
+Cite this article
+Download PDF
+Access provided by Argonne Research Library
+
+
+Journal of Materials Science
+Aims and scope
+Submit manuscript
+Polycrystalline fluorine-doped tin oxide as sensoring thin film in EGFET pH sensor
+Download PDF
+Pablo Diniz Batista & Marcelo Mulato 
+1092 Accesses
+
+Explore all metrics 
+
+Abstract
+The Extended Gate Field Effect Transistor (EGFET) is a device composed of a conventional ion-sensitive electrode and a MOSFET device, which can be applied for the measurement of ion content in a solution. The EGFET is fabricated connecting the sensitive membrane to a commercial MOSFET. We investigated the use of fluorine-doped tin oxide films (FTO) as sensitive membrane to EGFET. The commercial FTO shows a low resistivity and a crystalline structure, both determined using conductivity set-up and X-ray diffraction experiments, respectively. So far, it has been known that an amorphous structure is desirable to obtain high sensitivity. Despite of the a crystalline structure, we have fabricated the FTO as EGFET for pH sensor and carried out experiments in order to obtain the response of the device inserted into solutions with pH values from 2 up to 12. In this range, we have quantified a sensitivity of 50 mV/pH, which may have large potential applications as pH and biosensors. In addition, both the film and the structure of the sensor are cheaper and easier to make than in common techniques.
+
+Similar content being viewed by others
+
+Interdigitated Extended Gate Field Effect Transistor Without Reference Electrode
+Article 21 October 2016
+
+Extended Gate Field Effect Transistor-Based N-Type Gallium Nitride as a pH Sensor
+Article 28 September 2021
+
+Proposal, Design, and Performance Investigation of ZnO-Based ISFET pH Sensor
+Chapter © 2024
+Introduction
+The ion-sensitive field effect transistor (ISFET) technology was presented by Bergveld in 1970 as a new alternative to the glass electrode with application in the field of pH measurement [1]. Since then, several applications using this device have been implemented and today the ISFET is known as a versatile pH sensor based on the field effect principle [2]. However, in the meantime other devices were proposed as an alternative to the fabrication of ISFET. For instance, the Light-Addressable Potentiometric Sensor (LAPS) was presented as a new device based on the ISFET with the main characteristic as the possibility to be optically addressed [3]. In 1983, Van Der Spiegel et al. reported the operation of the first Extended Gate Field Effect Transistor (EGFET) [4]. In addition, in 2000, Yin et al. presented to the scientific community a low cost EGFET fabrication. Unlike Van Der Spiegel, they have developed the device connecting the sensitive membrane with a commercial MOSFET [5]. As well as the LAPS, the EGFET is based on the same ISFET operation principle. However, the main difference is the fact that the gate is not fabricated directly on the MOSFET structure. Therefore, the costs are reduced facilitating the pH sensor fabrication once that some steps related to the development of the MOSFET structure are excluded. In addition, other characteristics were well recognized by the scientific community. For example, as the commercial MOSFET is not immersed in the solution, unlike the ISFET, the EGFET is not damaged and can be reused several times. Moreover, the problems related to the ISFET encapsulation are not observed during EGFET fabrication. These characteristics made this new approach a viable alternative to pH or ion sensor development.
+
+During the past years, it was observed that the H+ sensing materials normally used in an ISFET do not respond as a function of pH when used in an EGFET [6, 7]. This led to the search of new materials, and their corresponding fabrication methods. Nevertheless, the same material, fabricated according to varying techniques, may present distinguished sensing responses. Some of the used oxides can also present varying sensitivity for specific pH ranges, even preventing their technological use. For instance, sol–gel-fabricated SnO2 is totally destroyed when immersed in solutions with pH values above 9 [7]. This incident is not observed when the material is fabricated using sputtering [5, 8]. As other examples, sputtering-fabricated W3O2 is destroyed for solutions with pH values above 7 [9], while sol–gel-fabricated Pb2O3 presents a reasonable stability [10]. In summary, it is clearly demonstrated that not only the sensing material but also its fabrication technique must be deeply studied before its use as selective membrane in pH or ion EGFET sensor.
+
+The role of the electrical properties of the selective membrane, such as its resistivity, is another important issue addressed in the literature [11]. For instance, insulating oxides such as TiO2, Al2O3, Si02, Si3NO4, and Ta2O5, commonly used for the fabrication of ISFET, present a very low sensitivity when used in EGFET. On the other way, oxides with high electrical conductivities, indium-doped SnO2 (ITO) present reasonable responses [12]. Thus, it is a common belief that materials with low conductivities can lead to reduced sensitivities when the membrane is connected to a commercial MOSFET. This is not the case for the ISFET once that the selective membrane is deposited directly on the structure of the transistor. Theoretical models superficially discuss the role of membrane resistivity for EGFET operation [11]. Nevertheless, a satisfactory explanation was not presented yet.
+
+One of the most important parameters is the sensitivity of the pH sensor. Theoretical predictions indicate an upper limit for EGFET at about 59 mV/pH. Obviously, this must be related to the properties of the membrane, such as surface and oxide structure [13–17]. Sensors using sputtered-SnO2 and sol–gel-Pb2O3 as sensing membranes, presented a reduction in sensitivity from about 55 to 30 mV/pH when the structure is changed from amorphous to crystalline [10, 17, 18]. It was theoretically suggested in the literature that the smaller number of surface sites for hydrogen ions bonding in the crystalline form is responsible for the reduced sensitivity. According to that, field effect sensors based on selective membranes in EGFET would necessarily have to be produced using an amorphous phase with large amount of surface sites.
+
+Despite of that, it can be observed in the literature that little effort has been spent for the development of amorphous thin films by low cost deposition methods. Techniques such as sol–gel and spray pyrolysis might be viable options. The main drawback is the need for the elimination of the solvents from the precursor solutions, which can affect the amorphous structure during processing. For instance, in order to obtain a pure and amorphous ZnO film by sol–gel, organic material from the precursor solution must be removed by thermally heating the sample to temperatures above 300 °C, which induces the crystallization of the sample [19].
+
+Instead of trying to obtain an amorphous structure using a low cost fabrication technique, we tried to figure out other characteristics that could increase the number of sites responsible for a higher sensitivity. It can be observed in the literature that the pH sensitivity of some sensors increases after a chemical attack, mainly due to the modification of the surface of the sensing membrane. Thus, a crystalline membrane, with surface modification (increased roughness, etc.) might probably be also a good candidate for a large number of surface sites.
+
+Experimental
+This work presents the use of highly rough, polycrystalline fluor-doped tin oxide as sensing membrane in EGFET, where a commercial CD4007UB MOSFET was chosen. Doping of SnO2 is essential to guarantee a large electrical conductivity as previously discussed, and fluor was chosen as the doping element in place of the traditional indium due to lower production costs. Commercially available 1 × 1 cm2 FTO films deposited on glass substrates by spray pyrolysis were used. The films have an electrical resistivity of about 10 Ohms/cm. Details about recipes and fabrication steps can be found in the literature [20].
+
+Results and discussion
+The surface morphology and thickness of the FTO films deposited onto glass substrates using the spray pyrolysis were examined by scanning electron microscopy (SEM). Figure 1a shows that the surface of the FTO is very irregular, with a distribution of gains with variable sizes. Certainly the surface is not smooth. An average grain size of about 30 nm was estimated, and an interesting packing was obtained. Note that the present samples have a better homogeneity than the previously reported sol–gel-produced SnO2 films [21]. An average thickness of about 15 μm was estimated using the cross-section image of the FTO/Glass structure, as shown in Fig. 1b. The image indicates also an irregular internal structure due to crystals arrangement induced by the deposition technique.
+
+Fig. 1
+figure 1
+SEM images of the FTO thin film deposited on glass substrate by spray pyrolysis: a the morphology of the surface pointing out its grain distribution characteristics and b cross-section used to estimate a thickness of about 15 μm
+
+Full size image
+The structure of the film was investigated by X-ray diffraction experiments. The resulting spectrum shown in Fig. 2 indicates the existence of a polycrystalline structure. The 110 peak has the largest intensity, but others like 002, 200, and 211 are clearly identified. The ratio of the intensities of the peaks 110 to 200, i.e., I 110/I 200, is about 4 suggesting preferential growth along direction 110.
+
+Fig. 2
+figure 2
+X-ray diffraction spectrum for the film presented in Fig. 1. A polycrystalline structure mainly oriented along direction 110 is seen
+
+Full size image
+Despite of the polycrystalline structure, we used the FTO film to fabricate an EGFET pH sensor. Experiments were carried out in order to obtain the response of the device when inserted into solutions with pH values from 2 up to 12. The device is fabricated connecting the FTO thin film (the sensitive part) to a commercial CD4007UB MOSFET. The response of the device was obtained from the electric characterization where basically the electric current between the source and drain (I DS) of the commercial MOSFET is monitored as a function of the potential applied between the source and drain (V DS) as well as on the reference electrode (V REF) as shown in Fig. 3. Figure 4a shows the EGFET characterization curves (I DS versus V DS) obtained setting the MOSFET in the saturation region with V REF equal to 3 V and V DS scanned from 0 to 5 V. It is easily observed that the I DS–V DS curves are vertically shifted with the pH value of the buffer solution.
+
+Fig. 3
+figure 3
+The device is fabricated connecting the FTO thin film (the sensitive part) to a commercial CD4007UB MOSFET and the sensitive membrane is immersed in a pH solution ranging from 2 up to 12. For each pH value, voltages are applied on the reference electrode (V REF) and source–drain contacts (V DS) while the source drain current is measured (I DS)
+
+Full size image
+Fig. 4
+figure 4
+Electric characterization of the pH EGFET sensor using a polycrystalline FTO thin film as the sensitive membrane connected to a commercial MOSFET. a The I DS versus V DS curves obtained with the MOSFET operating in the saturation regime, using V REF of 3 V and V DS varying from 0 to 5 V, as a function of pH value. b Square root of I DS as a function of pH, for a fixed V DS of 0.3 V. Note the linear behavior
+
+Full size image
+The data from Fig. 4a can be processed to produce the square root of IDS as a function of pH. I DS varies about 15 mA for pH values between 2 and 12, for a fixed V DS of 0.3 V, as shown in Fig. 4b. Note the linear behavior. On the other hand, the results presented in Fig. 5a were obtained for the device operating in the non-saturation regime. A V DS of 0.3 V was kept constant, while V REF was varied from 0 to 5 V. The drain–source current scale is shown at the left for pH values from 2 to 12, while the transconductance is shown at the right for the two extreme pH cases, dashed lines. Note the right shift as a function of pH for both cases. Figure 5b was constructed from Fig. 5a by choosing I DS at 2 mA. V REF is shown as a function of pH value. Surprisingly, the crystalline structure led to a sensitivity of 50 mV/pH, not ever reported before. Besides that, the experimental results show that the pH current sensitivity of the FTO sensing structure produced a fairly linear pH response, as shown in Fig. 5b.
+
+Fig. 5
+figure 5
+Non-saturation regime of the device. a At left, I DS as a function of V REF for a fixed V DS of 3 V. Note the right shift for pH values from 2 to 12. At right, the transconductance for the two extreme pH values. b V REF as a function of pH value, for I DS = 2 mA. The crystalline structure led to a sensitivity of 50 mV/pH, not reported before
+
+Full size image
+Conclusion
+In this study, polycrystalline FTO films deposited by spray pyrolysis were used as sensitive membranes in EGFET ion sensor. Even after multiple uses the membranes keep the same performance, presenting no injury. The sensitive and the performance of the polycrystalline FTO films as a pH sensor, based on the EGFET platform, are comparable to traditional sensors developed using amorphous materials. In addition, a low cost production method was used. Linear pH current sensitivity of approximately 50 mV/pH and 51.73 μA/pH are estimated based on the FTO/Glass sensing structure in the range of pH 2–12. The previous literature data only presented satisfactory results for amorphous membranes. But the present results show that rough surface, polycrystalline fluor-doped tin oxides can have sensitivity as large as the materials used up to now. Thus, rough crystalline surfaces can be as interesting as amorphous surfaces for the development of sensing EGFET membranes.
+

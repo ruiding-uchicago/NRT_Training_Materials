@@ -1,0 +1,269 @@
+Redox-Reactive Field-Effect Transistor Nanodevices for the Direct Monitoring of Small Metabolites in Biofluids toward Implantable Nanosensors Arrays
+Vadim Krivitsky*Marina ZverzhinetskyFernando Patolsky*
+Open PDF
+Supporting Information (1)
+OpenURL UNIV OF CHICAGO
+Abstract
+
+Chemically modified field-effect transistor (FET) nanodevices were shown to be a selective and extremely sensitive detection platform. In FET-based sensors, signal amplification and transduction is based on electrostatic gating of the nanometric semiconductor channel by analyte–receptor interactions, which measurably affect the transconductance of the device. However, chemically modified FETs must overcome several fundamental limitations before they can be effectively deployed as real-time sensors for bioevents occurring on their surface in complex biofluids. Here, we demonstrate the development of amperoFET devices for the real-time continuous monitoring of small molecular metabolites in biofluids. The surface of the nanowires is covalently modified with a redox reversible moiety, which is easily oxidized in the presence of H2O2. The reversible redox transformation of the surface-confined molecules is carried out by a hot electron injection mechanism, conducted simply by the modulation of the source–drain current through the nanoFET sensing device. By this approach, electrons may be injected by the nanowire element into the surface-confined redox moiety and thus maintain a whole-electrically actuated redox system in which the oxidation state is completely controlled by the current applied to the amperoFET system. The modulation of the source–drain current allows the control of the reduced versus oxidized redox moieties population on the nanowire surface, and this, in turn, is applied as the main sensing mechanism. At a given constant source–drain and gate voltage, the chemical perturbation exerted by the presence of chemical oxidants in the tested biofluid will lead to a measurable conductance change. Alteration in the concentration of the specific metabolite will chemically regulate the extent of perturbation applied to the redox system, which can be utilized for the quantification of the molecular metabolite of interest. These ‘equilibrium’-type sensors are fully electrically operated and can be further used in implantable sensing applications.
+
+Copyright © 2020 American Chemical Society
+Subjects
+what are subjects
+Carbohydrates
+Metabolism
+Nanodevices
+Nanowires
+Redox reactions
+Keywords
+what are keywords
+silicon nanowires
+field-effect transistor
+redox
+biomolecules
+metabolites
+nanosensors
+Chemically modified field-effect transistor (FET) nanodevices were shown to be a selective and extremely sensitive detection platform. (1−27) In FET-based sensors, signal amplification and transduction is based on electrostatic gating of the nanometric semiconductor channel by analyte–receptor interactions, which measurably affect the transconductance of the device. (28) However, chemically modified FETs must overcome three fundamental limitations before they can be effectively deployed in real-world biosensing applications. First, the electrical double layer in biofluids of high ionic concentration dramatically shields charge carriers, thus limiting the gating effect as a consequence of biorecognition events. The extent of shielding is characterized by the Debye length, <1 nm in physiological fluids. (29) Second, small uncharged molecular targets exert a minimal gating effect on semiconductor transconductance unless they affect the surface potential through triggering changes in receptors within the Debye length. (30) Third, most detection schemes based on nanoFETs require washing steps following the biorecognition events, in order for the sensor to be able to perform additional cycles of detection. This in turn strongly limits the use of nanoFET devices in implantable in vivo applications, where real-time equilibrium-based sensors are highly desirable. Thus, a strong need exists for the development of nanoFET devices capable of directly monitoring bioevents occurring on the surface of the sensor in real-time in complex biofluid environments.
+Our group recently demonstrated the development of redox-reactive nanowire biosensors for multiplex monitoring of metabolic activity in physiological environments. (13) The surface of the nanowires is covalently modified with a redox reversible system, 9,10-dihydroxyanthracene/9,10-anthraquinone (DHA/AQ). The reversible redox transformation of the surface-confined DHA molecules can occur by alternatively applying chemical reductants and oxidants, such as N,N-diethylhydroxylamine (DEHA), and hydrogen peroxide, respectively. (31,32) DHA tends to selectively react with oxygen reactive species (ROS) or with H2O2. (33,34) Therefore, by introducing a metabolite, glucose, for example, to a specific oxidase enzyme, such as glucose oxidase, the coproduction of H2O2 will occur. ROS or H2O2 will selectively oxidize the DHA on the surface of the nanowire FET, and as a result, the charge density on the nanowire’s surface will deeply change and alter the conductivity of the device. (35) Initially, measurements were obtained using the chemical reductant DEHA, for performing the chemical reduction of the redox-reactive moiety. (36,37) This type of analysis was shown very useful for non-invasive ex vivo monitoring of excreted extracellular metabolites.
+However, in order to realize implantable and real-time continuous monitoring sensing devices, it is impractical to use the described chemical reduction of the AQ moiety, thus it will be highly desirable and important to be able to electrically reduce/oxidize the surface-confined redox moieties by the nanowire element directly.
+In 2002, Professor Lieber’s group presented the first molecular nonvolatile memory constructed on a back-gated Si nanowire FET covered by redox-reactive molecules. (38) Here, the switching between on and off states has been realized via controlling the Si nanowire FET channel conductance through back-gate voltage. This reversible on and off states switching process relied on hot electron injection from the channel into the redox-reactive molecules, which served as a floating gate, through a tunneling native oxide layer of the Si nanowire. (39) Therefore, in an aqueous environment, where H+ is available, and particularly in biofluids, modulating the applied gate electrode voltage, Vg, allows maintaining a constant population of DHA/AQ, or a constant reduced/oxidized ratio, on the nanowire surface, which results in an equilibrium state between the gate voltage and the ‘reduced-to-oxidized’ moieties population on the nanowire surface. By this mechanism, electrons may be injected by the nanowire element into the surface-confined redox moiety (9) and thus maintain a whole-electrically actuated redox system in which the state of oxidation is completely controlled by the gate voltage applied to the amperoFET system.
+Here, we demonstrate the development of amperoFET devices for the real-time continuous monitoring of small molecular metabolites in biofluids. The modulation of the gate voltage allows the control of the reduced versus oxidized redox moieties population on the nanowire surface, and this, in turn, is applied as the main sensing mechanism. At a given constant gate voltage, the chemical perturbation exerted by the presence of chemical oxidants in the tested biofluid will lead to a measurable conductance change. Change in the concentration of the specific metabolite will chemically regulate the extent of perturbation applied to the redox system and eventually used for the quantification of the molecular metabolite of interest. These ‘equilibrium’-type sensors are fully electrically operated and can be further used in implantable sensing applications.
+Results
+Electrical Reduction of Redox Species on Surface-Modified Silicon Nanowire FETs
+The effect of different gate voltages applied to the biosensing system, while maintaining a constant source–drain voltage (Vsd), was investigated. SiNW devices were converted to their fully oxidized state, specifically, the AQ population was increased to its maximum on the surface. This was achieved by introducing a 1 mM H2O2 solution in phosphate buffer saline (PBS) to the SiNW device that receives electrons from DHA and consequently oxidizes it. Then, the source–drain voltage was set to a constant (Vsd = 0.3), and a series of negative voltages were applied at the gate electrode. Consequently, after the gate voltage returned back to zero, a decrease in the current signal from the SiNW devices was received, namely a change of potential on the surface of the SiNWs FET occurred, resulting from the reduction of the redox-reactive moieties. For comparison, we performed a ‘chemical’ reduction experiment, in which the SiNW devices were first converted to their fully oxidized state, using 1 mM H2O2 solution in PBS, in a similar manner. In this case, the gate voltage (Vg) was turned off (Vg = 0 V) for the entire experiment, while the source–drain voltage was set to a constant for the time frame of obtaining the signals and turned off for the reductant injection (Table 1). The nanowire device was fully reduced by 1 vol % DEHA (the reductant) in PBS, as we have shown in previous work (13) by XPS analysis and the device response to H2O2. In Figure 1, it is clearly shown that a SiNW surface reduction achieved by applying a voltage on the gate is as effective as the chemical reduction.
+Table 1. Summary of the Source–Drain and Gate Voltages as a Function of the Redox-Reactive Nanosensors Operation Modes
+Operation mode	Vsd (V)	Vg (V)
+Chemical reduction	0.3	0.0
+AmperoFET – detection limit	0.3	–0.9
+AmperoFET – continuous sensing in biofluids	0.3	–0.5
+Figure 1
+
+Figure 1. A comparison between reduction by hot electron injection (left panel) and chemical reduction (right panel). Before each experiment, the redox reactive nanoFET devices were fully oxidized by 1 mM H2O2 (at time = 0 s). All the measurements were performed in PBS solution (155 mM pH = 7.45). The same device was used for both experiments. During all the measurements, the Vsd was 0.3 V and Vg was set to 0 V, except times that the gate was used for hot electron injection. The device was switched off (Vsd = 0 V) during the solutions exchange (chemical reduction by 1% DEHA) at time 240–300 s (right panel). During the hot electron injection experiment (left panel), negative gate voltages of −0.4 V (at time 100–180 s) and −0.5 V (at time 350–430 s) were applied, which caused a decline in the current of the nanodevice after the Vg was back to 0 V. This phenomenon of the current decline is also observed after the redox-reactive nanowire device is reduced by a chemical reductant (1 vol % DEHA in PBS).
+
+Next, control experiments were performed in order to confirm that the reductive abilities of the applied gate voltages are attributed to the specific reduction of the AQ moieties. For this purpose, SiNW devices were modified with the nonredox reactive molecule (3-aminopropyl)-dimethyl-ethoxysilane (APDMES). In both systems, the SiNW devices were initially oxidized using a 1 mM H2O2 solution. Then, the source–drain voltage was set to Vsd = 0.3 V, while the gate voltage was turned off during signal collection. In our previous work with redox-reactive nanowires sensors, (13) this setup of voltages has shown a great sensitivity (down to 100 nM to oxidative spices) in high ionic strength samples. Afterward, each system, three different gate voltages were applied in order to investigate the surface reaction. In both cases, the gate voltage of −0.3 V had no effect on the nanowires that were modified with AQ or APDMES only on their surface. However, when gate voltages of −0.4 V and −0.5 V were applied, the difference between these two systems was clearly demonstrated (Figure 2). While SiNW devices modified with the nonredox reactive group (APDMES) did not display any change in the current signal (Figure 2b), devices modified with the redox reactive moiety (AQ) reacted through a decrease in the current signal, similarly to the previously demonstrated electrochemical reduction by the gate voltage (Figure 1). According to these results, we deduce that the electrochemical gate-induced reduction is specific to the AQ redox-reactive moiety.
+Figure 2
+
+Figure 2. A comparison between nonredox reactive and redox-reactive moiety modified nanoFET devices. Before each experiment, the AQ and APDMES modified nanoFETs were introduced to 1 mM H2O2 (at time = 0 s). All the measurements were performed in PBS solution (155 mM pH = 7.45). During all the measurements, the Vsd was 0.3 V, and Vg was set to 0 V, except times that the gate was used for hot electron injection. (a) Redox reactive devices modified with redox reversible moiety. When applying a sufficient negative gate voltage (higher than Vg = −0.3 V and Vg = −0.4 at time 240 s and Vg = −0.5 at time 420 s) for ∼3 min, a decline in the current of the nanodevice is shown, after the Vg was back to 0 V, which indicates a reduction process. (b) Nonredox reactive devices, modified with APDMES only, demonstrate no visible changes in the current after applying a negative gate voltage (Vg = −0.3, Vg = −0.4, and Vg = −0.5) for ∼3 min and then turning off Vg voltage (Vg = 0).
+
+Figure 3 schematically represents the electrochemical equilibrium sensing mechanism achieved by the redox-reactive moiety modified nanowire device. (9) Initially, the moiety is fully reduced to DHA, and its population is maintained fixed on the nanowire surface by applying a given constant gate voltage. In this way, the equilibrium between the gate voltage and the reduced DHA population on the nanowire surface is achieved. Next, the oxidant ROS or H2O2 is introduced to the system and perturbs this equilibrium. These species oxidize the population of DHA on the nanowire surface, resulting in a conductivity change. Importantly, by removing the ROS or H2O2 species from the vicinity of the modified nanodevice, electrons from the nanowire are injected into the AQ oxidized units, which in turn reduce back to DHA, a process which is also accompanied by a change in the conductivity of the device.
+Figure 3
+
+Figure 3. Metabolite sensing mechanism of redox-reactive nanoFET based on nanowire-to-redox moiety electron injection. The left panel of the scheme illustrates the hot electrons (e–) injection, from the conductive band throughout the native oxide layer into the AQ molecules, which receive protons (H+) from the aqueous surroundings, in order to be fully reduced to DHA. In the right panel, the DHA population on the nanoFET surface is maintained fixed by applying a given constant Vg and Vsd, maintaining a constant conductivity of the device. The presence of H2O2, from oxidase enzyme activity, or other oxidant species, perturbs the DHA population on the nanoFET surface, causing a change in the conductivity of the nanodevice.
+
+Metabolites Sensing under Physiological Conditions
+The redox-reactive nanoFET array was first calibrated for sensing of H2O2 and glucose, under physiological conditions (Figures 4 and 5). The signals obtained for the detection of various concentrations of H2O2 (from 100 nM to 1 mM) correlated (R = 0.961, Figure 3b) and covered the concentration of H2O2 in plasma (∼1–5 μM). (40) Notably, H2O2 and ROS play a very important role in cellular signaling and are normally produced as a byproduct of metabolism. Nonetheless, increased ROS/H2O2 production may lead to “oxidative stress” and signifies the development of various diseases. (41) Importantly, the redox-reactive nanoFET is not limited to the detection of ROS/H2O2 and can be forward expanded to the detection of a wide variety of metabolites by coupling the nanodevice with corresponding oxidase enzymes. (13) The calibrated response signal was obtained using eq 1:
+	(1)
+where I0 is the current at time = 0, It is the current at time = t, and Imax,ox is the current when the device is maximally oxidized during the measurement, which is the lowest current value.
+Figure 4
+
+Figure 4. H2O2 detection under physiological conditions. All the measurements were performed in PBS solution (155 mM pH = 7.45). During all the measurements, the Vsd = 0.3 V and Vg = −0.9 V. Prior to the injection of a new sample, the device was switched off (Vsd = 0 V). The left panel represents the current signals acquired from the redox-reactive nanoFET device at different concentrations of H2O2 (from 100 nM to 1 mM). The right panel represents the concentration-dependent (R = 0.961) calibration curve of calibrated response versus concentration. The current values of the last 50 s of each measurement were used for the extraction of the calibration curve. See Experimental Section for detailed error analysis.
+
+Figure 5
+
+Figure 5. Sensing of glucose under physiological conditions. All the measurements were performed in PBS solution (155 mM pH = 7.45). During all the measurements, the Vsd = 0.3 V and Vg = −0.4 V. Prior to the injection of a new sample, the device was switched off (Vsd = 0 V). The left panel represents the current signals acquired from the redox-reactive nanoFET devices at different concentrations of glucose (from 0.1 mM to 10 mM). The right panel represents the concentration-dependent (R1 = 0.99, R2 = 1.00) calibration curve of calibrated response versus concentration for each one of the nanoFET devices. The current values of the last 50 s of each measurement were used for the extraction of the calibration curve. See the Experimental Section for detailed error analysis.
+
+Furthermore, blood glucose concentration in a healthy body varies from 4.4 to 6.1 mM, (42) while impaired glucose tolerance and diabetes set the blood glucose concentration range to limits as high as 10 mM. (43) First, we performed a set of sensing experiments detecting glucose blood concentration, covering hyperglycemic (>7.8 mM) (44) and hypoglycemic (<3.9 mM) (45) ranges, under physiological conditions (PBS). These measurements (Figure 4) were realized using glucose oxidase, which produces H2O2 from glucose oxidation, as aforementioned. Each time a new sample with different concentrations of glucose is injected into sensing channel, the amperoFETs nanodevices were turned off (Vsd = 0 V), in order to prevent electronic noise caused by pressure changes inside the sensing channel during the sample injection. Then, the nanodevices were turned on in amperoFET mode in which the Vsd = 0.3 V and Vg = −0.4 V for glucose concentration sensing. These lower electrical voltages better suit future in vivo sensing applications, although less sensitivity compared to the conditions in Figure 4. The obtained calibrated response from the nanodevices for the detection of different concentrations of glucose (from 0.1 mM to 10 mM) was perfectly correlated (correlation coefficients = 0.99 and 1.00, Figure 5b) and covered the glucose concentration range in blood. Moreover, the sensitivity that was achieved with glucose and H2O2 sensing suggests that other important metabolites, like lactate, (46) can be easily monitored.
+Continuous Glucose Monitoring under Physiological Conditions
+Finally, for simulating the most reliable conditions of physiological glucose concentration alterations, including sudden spikes after food consumption, we performed glucose sensing in unprocessed blood samples, spiked with varying glucose concentrations. The blood was continuously injected into a sensing channel through tubing using a syringe pump. The amperoFET nanodevices inside the sensing channel were connected to a printed circuit board (PCB) using a wire bonder in order to connect the sensing chip to the multiplex direct current input/output system (Figure 6d and Figure S7). The nanodevice measured calibrated response correlated (R = 0.993) with increasing concentrations of glucose (Figure 6a,b). Next, we performed continuous glucose monitoring in a simulated interstitial fluid, containing 25% bovine serum and 75% PBS, while applying concentration changes to the injected sample, achieved by constant dilution/concentration of the sample at a known rate. Previous studies demonstrated the correlation between glucose concentrations in blood and in interstitial fluid. (47) The signals acquired from two modified nanowire devices were concentration dependent and correlated, as presented in Figure 6c. Through all the experiments, the source–drain voltage was set to Vsd = 0.3 V, and the gate voltage to −0.5 V. These results demonstrate the capability of our system to quantitatively and selectively monitor in real-time different small molecular metabolites directly from complex biofluids, such as blood and interstitial fluid, based on the application of our fully electrically controlled amperoFET devices. In addition, our nanodevice in amperoFET mode can perform continuous metabolic monitoring for at least 2 h (Figure 6c) and can operate properly as a redox reactive nanosensor for a period of several weeks. (13,48)
+Figure 6
+
+Figure 6. Glucose sensing in unprocessed blood samples and continuous glucose monitoring in simulated interstitial fluid samples. During all the measurements, the Vsd = 0.3 V and Vg = −0.5 V. (a) Calibrated response signals acquired from the redox-reactive nanoFET device after adding different concentrations of glucose to the untreated blood sample (from 2 mM to 5 mM). Prior to the injection of a new sample, the device was switched off (Vsd = 0 V). (b) Concentration-dependent (R = 0.993) calibration curve of the calibrated response versus glucose concentration in the blood sample. The current values of the last 50 s of each measurement were used for the extraction of the calibration curve. See Experimental Section for detailed error analysis. (c) Continuous glucose monitoring in a simulated interstitial fluid sample. The sample was introduced to the device at a flow rate of 5 μL/min (for the times 0–2500 s and 3250–end s) and 15 μL/min (for the times 2500–3250 s), through a fluid delivery system. The simulated interstitial fluid contained 25% bovine serum and 75% phosphate-buffered saline. (d) The entire composition of our sensing system, including the sensing chip with a PDMS microfluidic channel, tubing for fluidic delivery, and electrical contacts. See Supporting Information Sections 8–9 for the detailed system assembly.
+
+Conclusions
+We hereby present the development of a SiNW amperoFET device, modified with redox-reactive moieties, able to perform multiplex, real-time, and continuous monitoring of metabolic activity under real-world physiological conditions. Moreover, our method is calibrated for sensing in physiological environments, without preprocessing of the sample. Electrochemical reduction of the surface-confined redox moieties by direct application of different gate voltages (from −0.4 V to −0.9 V) was demonstrated. Furthermore, the reduction selectivity for the specific redox-reactive moiety was verified. Using our SiNW amperoFET device, calibration curves for glucose (from 0.1 mM to 10 mM) and H2O2 (from 0.1 μM to 1 mM) were obtained, covering the entire physiological range. Next, glucose monitoring in unprocessed blood, and continuous glucose monitoring in simulated interstitial fluid, including glucose concentration changes, was successfully performed. For future applications, self-calibration of the sensing platform could be achieved using a combined array of redox-reactive and nonredox reactive devices. All of these findings highlight the potential of our sensing devices for continuous glucose and other metabolites monitoring, as an implantable wearable patch, without the need for additional blood withdrawal for system calibration.
+Experimental Section
+Materials
+Gold nanoparticles 20 nm (Ted Pella), poly-l-lysine (Ted Pella), silicon wafer covered with 600 nm thermal oxide layer (<0.005 Ω/cm, SSP prime grade, Silicon Quest International), LOR5A (Microchem) and 500 nm S1805 (Shipley), sodium 9,10-anthraquinone-2-sulfonate (743038, Sigma-Aldrich), oxalyl chloride (O880, Sigma-Aldrich), N,N-dimethylformamide (227056, Sigma-Aldrich), (244511, Sigma-Aldrich), acetone (9005-68, J.T. Baker), isopropanol (9079-05, J. T. Baker), deionized water (18 MΩ·cm), glovebox (150B-G, Mbraun), (3-aminopropyl)-dimethyl-ethoxysilane (SIA0603.0, Gelest), anhydrous toluene (244511, Sigma-Aldrich), anhydrous pyridine (270970, Sigma-Aldrich), plasma-enhanced chemical vapor deposition (Benchmark 800 ICP, Axic), atomic layer deposition (Savannah 200 system, Cambridge Nanotech), Rapid Thermal Processor system (AnnealSys, AS-Micro), probe station include DAQ card (PCI-6030E, National Instrument) and current preamplifier (DL Instruments, model 1211), mass spectroscopy (Autospec M250Q, Waters Corp. USA), X-ray photoelectron spectroscopy (Multi-Technique System 5600, PHI), wire-bonder (Model 8850, West Bond), current recording system (FES-SM32P), syringe pump (Fusion 200, Chemyx).
+Silicon Nanowires P-Type Synthesis
+The synthesis of silicon nanowires (Si NWs) by chemical vapor deposition (CVD) was performed as previously described (see Supporting Information Section 1). (49)
+Silicon Nanowires Field-Effect Transistor Array Fabrication
+The SiNW-FET array was fabricated by photolithography as previously described, (49) with minor changes (see Supporting Information Section 2 and Figure S1).
+Electrical Characterization of Silicon Nanowire Devices
+As an initial quality control, prior to the completion of the SiNW FET devices, the electrical properties of the SiNW devices on the sensor chip were characterized in deionized water by using a probe station. (23) The best performing devices were selected and mapped for future sensing applications (for more details see Supporting Information Section 3 and Figure S2).
+Scanning Electron Microscope Analysis
+The synthesized p-type SiNWs and the SiNW devices were analyzed by Quanta 200 FEG environmental scanning electron microscope (ESEM). The images indicate the good quality of the synthesized nanowires (Figure S3a) and their successful assembly to FET devices (Figure S3b).
+Silicon Nanowire Devices Surface Modification
+Following the fabrication of the SiNW FET array, the chip was chemically modified with 9,10-anthraquinone-2-sulfochloride to enable the sensing of cellular metabolites. (13) The preparation and analysis of 9,10-anthraquinone-2-sulfochloride and surface modification of the nanodevices are described in Supporting Information Sections 5, 6, and 8.
+Fabrication of Fluid Delivery System
+The fabrication of the fluid delivery device from flexible polydimethylsiloxane (PDMS) elastomer was performed as previously described, (49) with minor changes (see Supporting Information Section 8).
+Metabolic Sensing Electrical Measurements
+The selected devices were wire-bonded and integrated into sensing array device chip using the PDMS microfluidic channels which connected to the syringe pump (Figure S7) as previously described. (6,8) Current versus time signals were recorded at 1 s intervals by the ‘current recording’ system. A more detailed description can be found in Supporting Information Section 9.
+Error Analysis
+To estimate the error in the reported calibrated response values, the standard deviation (SD) of the calibrated response values for 50 s was taken before the devices were switched off (Vsd = 0). This method was used for the estimation of the error in Y-axis in Figure 4b and Figure 5b.
+Supporting Information
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acsnano.9b10090.
+
+SiNWs p-type synthesis, SiNWs FET array fabrication, electrical characterization of SiNWs devices, and Figures S1–S7 (PDF)
+Supplementary Information
+Redox-Reactive Field Effect Transistor Nanodevices for the
+Direct Monitoring of Small Metabolites in Biofluids towards
+Implantable Nanosensors Arrays
+Vadim Krivitsky1*, Marina Zverzhinetsky1
+, and Fernando Patolsky1,2*
+1. School of Chemistry, Faculty of Exact Sciences, Tel Aviv University, Tel Aviv, 69978, Israel.
+2. Department of Materials Science and Engineering, the Iby and Aladar Fleischman Faculty of
+Engineering, Tel Aviv University, Tel Aviv 69978, Israel.
+3. Andrew and Erna Viterbi Faculty of Electrical Engineering, Technion, Haifa 3200003, Israel
+Email: fernando@post.tau.ac.il, vadimkri@mail.tau.ac.il.
+1. Silicon Nanowires p-type Synthesis via Chemical Vapor Deposition
+The synthesis of silicon nanowires (Si NWs) by chemical vapor deposition (CVD) was performed
+as previously described.1
+ Briefly, 20 nm gold nanoparticles (Ted Pella) have catalyzed the growth
+of Si NWs via the vapor-liquid-solid (VLS) mechanism. These nanoparticles were deposited on
+Silicon (100) growth substrates to define sites of Si NWs growth. In order to assist the attachment
+of the gold nanoparticles to the silicon substrate, poly-L-lysine (Ted Pella) was first introduced to
+the silicon wafer and served as an electrostatic binding agent. The organic materials were removed
+by applying 100W and 0.200 Torr oxygen plasma for 5 minutes. Next, the wafer was placed in a
+quartz tube furnace, where silane (SiH4) and diborane (B2H6, 100 ppm in H2 balance gas) were
+used as reactants for the Si NWs growth process, in which boron served as a p-type dopant with a
+boron/silicon ratio of 1/4000. The rate of the Si NW growth was ~1 µm/min.
+2. Silicon Nanowires Field-Effect Transistor Array Fabrication on Silicon Wafers
+The SiNW-FET array was fabricated by photolithography as previously described,1
+ with the
+following changes: Following fabrication of the outer electrodes (including the gates) by
+photolithography and evaporation of chromium/gold (5/60 nm), respectively, the SiNWs were
+deposited on the wafer by dispersion in ethanol and dropping 0.5 µL drops on the oxide layer. The
+p-type SiNWs were deposited on a 3-inch silicon wafer, covered with 600 nm thermal oxide layer
+(<0.005 ohm/cm, SSP prime grade, Silicon Quest International). Source and drain electrodes of
+FETs were defined with a multilayer photoresist structure consisting of 500 nm LOR5A
+(Microchem) and 500 nm S1805 (Shipley). Notably, the gap between the source and drain
+electrodes was 2 μm. Following exposure and development in MF319 developer, the chip was
+dipped in a buffered oxide etchant (hydrofluoric acid/ammonium fluoride ratio of 1/6) solution for
+6 seconds and immediately metalized by e-beam evaporation of titanium/ palladium/ titanium
+(5/60/10 nm). Subsequently, electrodes were insulated with a layer of 65 nm Si3N4, deposited by
+plasma-enhanced chemical vapor deposition at 80°C (ICP-PECVD, Axic), and a layer of 10 nm
+alumina, made by atomic layer deposition (ALD, Savannah 200 system, Cambridge Nanotech).
+The chip was then subjected to lift-off in PG remover (or N-Methyl-2-pyrrolidone). The
+fabrication of the FET devices was ended by annealing in forming gas (hydrogen nitrogen ratio of
+1/9), applied for 2 minutes at 380 °C by a rapid thermal processor ((AnnealSys, AS-Micro)).
+Supplementary Figure 1. SiNW FET p-type array fabrication scheme: (a) dark-field image of the
+SiNW p-type FET device that was fabricated via photolithography. (b) Silicon wafer chip, 15mm×20mm
+with 600 nm thermal oxide layer, which contains 200 potential SiNW FET devices. (c) Scheme of the
+fabrication procedure of a SiNW FET device.
+3. Electrical Characterization of SiNWs Devices Using Water-Gate
+As an initial quality control, prior to the completion of the SiNW FET devices, the electrical
+properties of the SiNW devices on the sensor chip were characterized in deionized water by using
+a probe station.2
+ The measurement indicated only ~15% of the 200 potential devices on the chip
+were active. Characterization of the device's activity using source-voltage sweep, enabled selection
+of the source-drain voltage (Vsd) that allowed full-scale sensitivity. Scanning the gate voltages
+(Vg) over fixed source voltage allowed characterizing parameters such as carrier mobility,
+(c)
+(a)
+(b)
+transconductance, and threshold voltage. Based on these measurements (Supplementary Figure 2),
+the best performing devices were selected and mapped for future sensing applications.
+Supplementary Figure 2. Electrical characterization of p-type SiNW FET nano-devices under watergate configuration: (a) Plot of source-drain current versus source-drain voltage (Vsd) at different gate
+voltages (Vg). (b) Plot of source-drain current versus gate voltages (Vg) at 0.1 V source-drain voltage (Vg).
+4. Scanning Electron Microscope Analysis
+The synthesized p-type SiNWs and the SiNW devices were analyzed by Quanta 200
+FEG environmental scanning electron microscope (ESEM). The images indicate good quality of
+the synthesized nanowires (Supplementary Figure 3a) and their successful assembly to FET
+devices (Supplementary Figure 3b).
+(a) (b)
+Supplementary Figure 3. Scanning Electron Microscope (SEM) images of SiNWs: (a) SEM image of
+the synthesized 20 nm p-type SiNW via chemical vapor deposition system on silicon (100) wafer. (b) SEM
+image of SiNW FET device consisting of SiNWs connected to the source and drain electrodes.
+5. Surface Modification
+Following the fabrication of the SiNW FET array, the chip was chemically-modified with 9,10-
+anthraquinone-2-sulfochloride to enable the sensing of cellular metabolites.3
+ The modifying agent
+was pre-synthesized as follows:
+5.1. Preparation of 9,10-anthraquinone-2-sulfochloride
+The sulfonate group of sodium 9,10-anthraquinone-2-sulfonate (743038, Sigma-Aldrich) was
+converted to sulfochloride, using oxalyl chloride (O880, Sigma-Aldrich) and N,Ndimethylformamide (227056, Sigma-Aldrich) in toluene (244511, Sigma-Aldrich). A mixture of
+sodium anthraquinone-2-sulfonate (5 grams, 0.0158 mol) and toluene (150 mL) was placed in 250
+mL round-bottomed flask, equipped with an automatic water separator (Dean-Stark trap) and
+condenser, and heated under reflux for 2 hours to dry the reaction mixture. The mixture was then
+cooled to 60 C and oxalyl chloride (6 mL) and N,N-dimethylformamide (2 drops, ~100 µL) were
+added. The resulting mixture was heated under reflux for 8 hours and a mixture of toluene and
+oxalyl chloride excess (30 mL) was thereafter distilled. A precipitate of sodium chloride was
+collected by filtration and the solvent was removed from the filtrate under reduced pressure. A
+(a) (b)
+solid residue was dried in vacuum overnight to give anthraquinone-2-sulfochloride (4.36 grams,
+90 % yield).
+5.2. SiNW FET Array Surface Modification with 9,10-anthraquinone-2-sulfochloride
+In order to conjugate the 9,10-anthraquinone-2-sulfochloride to the SiNWs surface, the FET chip
+was washed with acetone (9005-68, J.T.Baker), isopropanol (9079-05, J.T.Baker), and deionized
+water (18 MΩ·cm) successively, followed by nitrogen drying. Then, oxygen plasma (100 W, 0.2
+Torr) was applied for 15 minutes. The chip was covered by a glass dish and inserted into a glove
+box (150B-G,Mbraun) under the argon atmosphere (water and oxygen-free) to perform the aminosilane modification. Immediately afterward, the chip was covered with ~150 μL (3-aminopropyl)-
+dimethyl-ethoxysilane (APDMES; SIA0603.0, Gelest) for 60 minutes. Then, the chip was washed
+twice with ~30 mL of anhydrous toluene (244511, Sigma-Aldrich). The chip was transferred from
+the glove box to the cleanroom and washed again with isopropanol, followed by nitrogen drying.
+Next, the chip was placed on a hot plate at 115°C for 25 minutes. Finally, the chip was immersed
+in a mixture, containing 50 mg 9,10-anthraquinone-2-sulfochloride, 20 mL anhydrous toluene
+(244511, Sigma-Aldrich) and 1 mL anhydrous pyridine (270970, Sigma-Aldrich), in the glove
+box, under argon atmosphere (water and oxygen-free) for 24 hours, for the formation of
+sulfonamide that connects the 9,10-anthraquinone groups to the SiNW modified surface.
+6. Mass Spectra Analysis
+Mass spectroscopy (Autospec M250Q, Waters Corp. USA) analysis of 9,10-anthraquinone-2-
+sulfochloride (used for the SiNWs surface modification) confirmed the sulfochloride group
+formation.
+Supplementary Figure 4. Mass spectrum analysis of synthesized anthraquinone-2-sulfochloride: At
+a measurement mode of electron impact, using positive ionization of 70 eV. CH2Cl2 was used as a solvent.
+The mass-to-charge ratio (m/z) is normalized to the highest signal.
+7. X-ray Photoelectron Spectroscopy Surface Chemistry Analysis
+X-ray photoelectron spectroscopy (XPS) measurements were performed (Multi-Technique System
+5600, PHI) in ultrahigh vacuum (2.5×10-10 Torr base pressure). The sample was irradiated by Al
+Kα monochromated source (1486.6 eV) and outcome electrons were analyzed by a spherical
+capacitor analyzer using a slit aperture of 0.8 mm. Since samples were slightly charged during
+measurements, this input was corrected mathematically, with C1s at 285 eV taken as an energy
+reference. All the measurements were performed at a shallow take-off angle of 25º. Highresolution multiplex spectra were taken for different peaks in a low energy range window at a high
+resolution (Pass energy = 11.75 eV, 0.05 eV/step). These measurements allow precise energy
+position, and peak shape determination, necessary for bonding analysis.
+Supplementary Figure 5. Surface modification and XPS analysis of the redox-reactive SiNW FET: a.
+The stages of the surface modification: (1) Silanization of the SiNW activated surface with amine groups;
+(2) formation of a sulfonamide bond that connects between the 9,10-anthraquinone to the modified surface.
+b. XPS spectra and atomic compositions of the modified surface (for carbon (C), nitrogen (N) and sulfur
+(S)), following each step of the modification.
+Supplementary Figure 6: Calculation of C=O bonds from XPS analysis. XPS representative
+survey spectra of the oxidized 9,10-anthraquinone-modified silicon nanowire surface (the blue
+curve) and reduced 9,10-dihydroxyanthracene-modified silicon nanowire surface (the red curve).
+The percentage of C=O bonds was calculated from C1s curve fitting. After the reduction of the
+surface, a decrease in the C=O bond population was observed.
+8. Fabrication of Fluid-Delivery System
+The fabrication of the fluid-delivery device from flexible polydimethylsiloxane (PDMS) elastomer
+was performed as previously described,1
+ with the following changes: The PDMS was incubated
+with curing agent at 10:1 mass ratio for overnight at 60 °C. The resulting device was then cut into
+rectangular pieces, at dimensions of 10×10×5 mm. Upstream polyethylene tube (PE 20,
+Intramedic) was 14 cm long and had a 0.38 mm inner diameter. Downstream Tygon tube (S-50-
+HL, Tygon) was 13 cm long.
+9. Electrical Measurements with Chemically-Modified SiNWs FET Devices
+Based on their performance, as presented in the electrical characterization section, the selected
+devices were wire-bonded (using wire-bonder, model 8850, West Bond) and integrated into
+sensing array device chip using the aforementioned custom-made PDMS microfluidic channels
+(Supplementary Figure 7). A data acquisition system was used to measure the current of the SiNW
+FETs (Ids), induced by surface charges alterations. The selected devices were examined for their
+performance in sensing buffer. Gate voltage sweep was used for transconductance measurements
+and the subsequent determination of the transistor regime of operation. A suitable gate voltage was
+further selected to perform all the following sensing experiments. Sensing experiments were
+performed by monitoring the conductance of the SiNW devices over time (current-versus-time
+signals were recorded at 1-second intervals), during injection of the analytes to the sensing chip
+by a syringe pump (Fusion 200, Chemyx) via the microfluidic system.4, 5
+Supplementary Figure 7. The complete sensing system: including the SiNWs chip, wire-bonded to the
+PCB holder, which is connected to the electrical 'current recording' system (FES-SM32P). The microfluidic
+channel is placed directly above the SiNWs array, on the chip surface, and attached via clear Perspex sheet
+and screws.
+Recording
+system
+PCB
+holder
+Microfluidic
+pump
+References
+1. Patolsky, F.; Zheng, G. F.; Lieber, C. M., Fabrication of Silicon Nanowire Devices for
+Ultrasensitive, Label-Free, Real-Time Detection of Biological and Chemical Species. Nat. Protoc. 2006, 1,
+1711-1724.
+2. Engel, Y.; Elnathan, R.; Pevzner, A.; Davidi, G.; Flaxer, E.; Patolsky, F., Supersensitive Detection
+of Explosives by Silicon Nanowire Arrays. Angew. Chem. Int. Edit. 2010, 49, 6830-6835.
+3. Krivitsky, V.; Zverzhinetsky, M.; Krivitsky, A.; Hsiung, L.-C.; Naddaka, V.; Gabriel, I.; Lefler, S.;
+Conroy, J.; Burstein, L.; Patolsky, F., Cellular Metabolomics by a Universal Redox-Reactive Nanosensors
+Array: From the Cell Level to Tumor-on-a-Chip Analysis. Nano Lett. 2019, 19, 2478-2488.
+4. Krivitsky, V.; Hsiung, L.-C.; Lichtenstein, A.; Brudnik, B.; Kantaev, R.; Elnathan, R.; Pevzner, A.;
+Khatchtourints, A.; Patolsky, F., Si Nanowires Forest-Based On-Chip Biomolecular Filtering, Separation
+and Preconcentration Devices: Nanowires Do It All. Nano Lett. 2012, 12, 4748-4756.
+5. Krivitsky, V.; Zverzhinetsky, M.; Patolsky, F., Antigen-Dissociation from Antibody-Modified
+Nanotransistor Sensor Arrays as a Direct Biomarker Detection Method in Unprocessed Biosamples. Nano
+Lett. 2016, 16, 6272-6281.

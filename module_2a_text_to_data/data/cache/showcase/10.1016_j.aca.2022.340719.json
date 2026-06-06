@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.aca.2022.340719",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "25 mM",
+      "probe_material": "gold nanoparticles/reduced graphene oxide (AuNPs/RGO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

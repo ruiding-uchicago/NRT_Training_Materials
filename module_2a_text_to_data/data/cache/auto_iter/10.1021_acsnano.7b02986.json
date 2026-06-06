@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.7b02986",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "4e-8 M",
+      "upper_detection_limit": "6.3e-5 M",
+      "probe_material": "HfO2",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "sodium chloride/potassium chloride/disodium hydrogen phosphate/potassium dihydrogen phosphate/water"
+    }
+  ]
+}

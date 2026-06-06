@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.3c07045",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ethanol (EtOH)",
+      "lower_detection_limit": "10^-6 %",
+      "upper_detection_limit": "1 %",
+      "probe_material": "LUSH protein (Drosophila odorant-binding protein)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "deionized water (DI water)"
+    }
+  ]
+}

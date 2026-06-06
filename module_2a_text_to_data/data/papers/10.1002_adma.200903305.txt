@@ -1,0 +1,107 @@
+Induced Sensitivity and Selectivity in Thin-Film Transistor Sensors via Calixarene Layers
+Anatoliy N. Sokolov, Mark E. Roberts, Olasupo B. Johnson, Yadong Cao, Zhenan Bao
+First published: 31 May 2010 https://doi.org/10.1002/adma.200903305Citations: 73
+Find It at UChicago
+SectionsPDFTools Share
+Graphical Abstract
+Sensors based on organic field-effect transistors (OFETs) must overcome challenges in reproducibility, sensitivity, and selectivity. Here we describe an approach to increase the sensitivity and induce selectivity within an existing (OFET) through the incorporation of an evaporated sensor layer based on a calix[n]arene molecule. The mild method does not influence device properties, and is amendable to incorporation into reproducible, commercial transistors.
+
+Description unavailable
+The field of organic electronics holds tremendous potential for applications in solar cells (organic photovoltaics, OPV),1 radio-frequency identification tags (RFID),2 lighting or displays3 (organic light-emitting diodes, OLED),4 as well as sensors.5-7 These applications benefit from the use of organic materials, which are amendable to very low cost, flexible, and large-area processing techniques8 (e.g., roll-to-roll printing). Specifically, the design and development of sensors that take advantage of these benefits can lead to manufacturing of cheap, disposable electronic units for medicinal,9 food storage,10 and environmental monitoring applications.11 The ability to couple the sensory electrical output with on-chip signal processing can overcome the need for bulky, expensive equipment typically required for most optical detection methods. In order to attain commercial viability, chemical sensors based on organic electronics must continue to address the remaining issues in repeatability, reproducibility, stability, and selectivity.7
+
+It is well known that organic thin-film transistors (OTFTs) can experience a modulation in current upon exposure of the active organic semiconductor layer to the ambient environment or an analyte stream.7 This modulation occurs as the analytes interact with the transport region of a field-effect transistor (FET), typically the first few layers of the film, or within the grain boundaries formed during thin-film growth. The analytes may influence thin-film conductivity as either dopants or traps for charge carriers, through bulk resistive effects on inter-grain transport, or through accumulated electrostatic dipole interactions.7 Materials typically associated with high-performance electronic devices are based on simple polyaromatic structures and do not possess inherent sites that promote specific sensory response. Additionally, the sensor response critically depends on the film properties (e.g., functional groups, grain boundaries).12, 13 Thus far, two strategies for enhancing the selectivity of FET sensors have been investigated. The first is based on formation of non-specific chemical-fingerprint arrays5 and the second uses side-group functionality within the semiconductor backbone to elicit selective responses to a target analyte.14 The chains generally diminish the semiconductor performance; therefore, the use of bilayer architectures, or a combination of two semiconductor materials has been investigated to circumvent the performance limitation.15, 16
+
+Organic electronics face many challenges that must be addressed before achieving commercial viability, with reproducibility and stability especially critical for chemical sensors. While excellent device reproducibility can be obtained through careful optimization of process conditions in large-scale production, this can be costly for each individually functionalized sensor layer. To overcome this limitation, we have developed a general strategy that induces analyte sensitivity into any existing OTFT. Our strategy involves incorporating calixarene container molecules onto the surface of an existing OTFT.17 High-purity single crystals of calix[n]arene architectures have been grown via sublimation to provide materials for selective molecular uptake.18 The molecules also show high environmental and aqueous stability as demonstrated via gas- and analyte-sorption studies. The tunable nature of the container cavity serves to trap desired molecular shapes and functionalities with typically high selectivity.19 The burgeoning interest in host-guest materials has given rise to exceptionally complex single-20 and multi-component21 self-assembled structures, and such materials have been incorporated into sensors based on fluorescence,22 surface acoustic wave (SAW),23 and quartz crystal microbalance (QCM)24 and polymer-coated chemiresistors.25 In this article, we report the use of ultra-thin films of container molecules as sensory layers on an existing OTFT, resulting in both enhanced sensitivity as well as shape discrimination between vapors of small-molecule analytes.
+
+The container molecules evaluated in this report for thin-film modification were calix[8]arene (C[8]A) and C-methylcalix[4]resorcinarene (CM[4]RA) (Fig. 1 a,b). Molecules based on calixarene and resorcinarene units were chosen to compare the impact of cavity shape on selectivity. 5,5′-bis-(7-dodecyl-9H-fluoren-2-yl)-2,2′-bithiophene (DDFTTF) was selected as the active semiconductor layer owing to its known stability, relatively high mobility, and two-dimensional growth characteristics26
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Space-filling representations of the crystal structures and structural drawings of A) C[8]A, B) CM[4]RA, and C) a cartoon of the calixarene-modified OTFT.
+
+Films of 10 nm of the DDFTTF molecule were thermally evaporated onto octadecylsilane(OTS)-functionalized27 300 nm SiO2/Si substrates at 105 °C to achieve coverage of approximately two monolayers.12, 28 The two-monolayer thickness was chosen to provide maximal access to the conduction channel typically found within the first few layers of semiconductor while maintaining acceptable performance.26 Top-contact OTFTs were fabricated with interdigitated Au electrodes to provide external electrical contact while a vapor flow cell completely covers the channel region of the device. The semiconductor characteristics were initially evaluated for the bare DDFTTF devices.26 After determining the baseline transistor performance, 2 nm films of the calixarenes were thermally evaporated onto the interdigitated section of the electrodes and the transistor behavior was subsequently evaluated. The device characteristics for the bare and surface-modified DDFTTF films are shown in Figure 2a–c. Insignificant variations in device performance (i.e., µ, VT, and on/off ratio) were observed upon the deposition of the calixarene layer. The lack of impact of calixarene modification on transistor performance may be attributed to the preferential interactions of the aryl groups with the semiconductor layers.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+The transfer plots for A) bare DDFTTF, B) DDFTTF with 2 nm C[8]A, and C) DDFTTF with 2 nm CM[4]RA and the 5 µm × 5 µm atomic force micrographs of D) 10 nm of DDFTTF, E) 10 nm of DDFTTF with 2 nm of C[8]A, and F) 10 nm DDFTTF with 2 nm of CM[4]RA. (Large white particles present prior to calixarene evaporation).
+
+The pure DDFTTF film exhibited highly two-dimensional growth as characterized by atomic force microscopy (AFM), Figure 2 (d–f). The topography contains a fully formed first and mostly formed second layer with trace growth of the third molecular layer (Fig. 2d). This highly two-dimensional growth is ideal for ultra-thin film sensor applications as the entire film participates in the charge transport and is directly accessible to analytes. The calixarene layers were evaporated on top of the interdigitated electrodes of the functional device, instead of prior to electrode deposition, to prevent poor charge injection into the films. These films were evaluated with AFM, and the surface morphologies are shown in Figure 2e,f. In both cases, the calixarene film grows via formation of spherulites, without crystalline grain definition. Importantly, the calixarenes exhibit thin, uniform coverage over the semiconductor film providing a large surface area for analyte absorption.
+
+The device sensor behavior was characterized by placing an acrylic flow cell on top of the OTFT chip. The devices were characterized in the presence and absence of dry N2 gas, and no obvious changes were observed. The sensor experiments were conducted by monitoring the drain current (IDS) versus time while operating in the saturation regime (VDS = −60 V, VGS = −60 V). The flow of gas was delivered using a homemade mass-flow controller system (see Supporting Information). The devices were initially evaluated for the response to a range of analytes; however, a significant response of bare DDFTTF devices could only be detected for each analyte at concentrations of above 1000 PPM. Thus, in an effort to determine the selective properties of calixarene-based layers, 3000 PPM of each analyte was compared. Each sensor response was repeated at least four times to determine response reproducibility. Figure 3a (dashed line) shows the typical response (change in current) of a device upon the introduction of an analyte stream. However, accurate measurements of ΔIDS were difficult to obtain owing to the non-linear slope observed in IDS versus time plot, owing to gate-bias stress.29 Our attempts to model the IDS in the presence of the gate-bias stress introduced an additional error into the sensor evaluation. With this in mind, we found that the rate of the IDS change was also analyte dependent and provided a response signal independent of gate-bias stress. Thus, the response of the OTFT to the analyte may be measured as the change in the rate of IDS (dIDS/dt), shown in Figure 3a (solid line). The calculation of the response for both methods provides consistent results; however, gate-bias stress effects are not modeled for the derivative response (Fig. 3b). The response values are measured as the largest change from time of analyte injection (tanalyte injection) to the time of analyte stop (tanalyte stop). From the derivative plot, it is clear that the devices exhibit a fast rate of current change that quickly saturates within the initial seconds of analyte exposure. Comparison of the maximum rates of analyte response avoids the influence of gate-bias stress as well as provides a decreased timescale (∼10 s) for the analyte evaluation. Minimizing the time of response is highly desirable for medical applications (e.g., breath sensor devices).
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+A) Typical sensor response plot showing the magnitude (dashed) and rate (solid) of IDS change upon exposure to the target analyte and B) The variation in the magnitude (black) and rate (gray) of response for four separate sensor responses on the same device.
+
+The response of the bare DDFTTF device was evaluated for a series of twelve analytes to establish the response baselines prior to the calixarene-layer incorporation. The summary of the device response, given by the maximum rate of current change, is shown in Figure 4a. From Figure 4a it is clear that the device does not exhibit specific selectivity towards particular analytes, with the exception of a slightly higher response to ethyl acetate. However, in all cases the responses to 3000 PPM of analyte are low (0.01–0.1 µA/s).
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+a) The average rate of response for a DDFTTF OTFT to series of analytes at a concentration of 3000 PPM, b) sensitivity enhancement between bare and C[8]A modified DDFTTF and, c) a radial graph showing the enhancement of the calixarene-modified DDFTTF OTFT response to a series of volatile analytes.
+
+After demonstrating that bare DDFTTF devices lack inherent selectivity and sensitivity toward a variety of volatile organic solvents, the OTFTs were modified with calixarene molecules and evaluated with the same analytes. Figure 4b clearly shows that the introduction of a calixarene layer, C[8]A in particular, results in an increase in sensitivity to ethyl acetate. The C[8]A modified device demonstrates a strong signal response for concentrations as low as 200 ppm, while a corresponding signal for the bare DDFTTF OTFT is not reached until 1000 ppm. The enhancement in the OTFT rate of response (ΔRate) was defined as the total rate of response of the calixarene-modified DDFTTF device. The difference in response with the calixarene modification is shown in Figure 4c. For the device modified with a 2 nm layer of C[8]A, a drastic increase in selectivity and sensitivity was observed for ethyl acetate (ΔRate = 0.53 µA/s) as well as moderate improvement for isopropyl alcohol (ΔRate = 0.23 µA/s), and acetone (ΔRate = 0.16 µA/s). For the device modified with a 2 nm layer of CM[4]RA the largest increase was observed for isopropyl alcohol (ΔRate = 0.34 µA/s), with a substantial increase also observed for ethyl acetate (ΔRate = 0.31 µA/s) and acetone (ΔRate = 0.18 µA/s). The relatively similar selectivity pattern observed for both calixarene molecules may be attributed to a similar internal volume and the presence of eight hydroxyl groups. It should be noted that comparable devices utilizing calixarene layers for detection (e.g., QCM) observe an approximately similar level (10–100 ppm) of detection and selectivity (5 to 1 over similar molecules).23, 24 This data clearly shows that the calixarenes are responsible for increasing the sensitivity and inducing selectivity into the previously unselective DDFTTF device.
+
+The introduction of the calixarene layer is expected to assist selective gas adsorption on to the semiconductor surface. In this implementation, the cavity acts as a trap for the desired analyte and is thus expected to create a surface-dipole interaction that influences the change in IDS. This effect leads to increased sensitivity. The calixarene cavities on the surface of the DDFTTF layer preferentially absorb the molecular shape and functionality that best fit within the container framework, thus incorporating a degree of selectivity into the sensor. Incidentally, the surface coverage of the semiconductor with the calixarene can also passively prevent the interaction of undesired analytes through steric surface blocking. Thus, for C[8]A, it is clear that the shape and size of ethyl acetate best fits within the container and the signal response is amplified compared to other polar molecules. The cavity based on the resorcinarene, CM[4]RA, preferentially selects polar molecules with a molecular “V” shape (i.e., ketone, ester, or isopropanol). The CM[4]RA cavity also exhibits size selectivity, as small molecules (e.g., methanol) do not exhibit strong binding, and do not lead to enhanced sensitivity. This is in contrast to the bare DDFTTF device, wherein methanol exhibits one of the higher sensitivities, presumably owing to the ease of diffusion of the small molecule to the grain boundaries. In all cases the amphiphilic nature of the container plays a role, selecting those molecules that can interact through both lipophilic (e.g., CH···π) as well as hydrophilic (e.g. OH···O) interactions with both an aromatic core and a hydrophilic rim on the container surface. Interestingly, for both calixarene layers, an odd-even effect for linear-chain alcohols is observed, with a small enhancement in preferential selectivity for alcohols based on an even number of carbon units (ethyl, butyl, hexyl) versus those with an odd number of carbon units (methyl, propyl, pentyl). This effect is not prevalent for the bare DDFTTF layer and may be attributed to the presence of the calixarenes.
+
+In conclusion, a facile, robust technique for enhancing both the specificity as well as the sensitivity of traditional OTFT devices as sensors has been reported. The technique can be applied to any existing top- or bottom-contact device to induce a size and shape selective response to specific vapor analytes. The use of multiple derivatives may easily be incorporated into an array with highly specific and predetermined responses expected from individual array members, improving the overall selectivity. The method is compatible with high-throughput manufacturing of organic electronic devices and a plethora of container-like derivatives is available commercially and through molecular synthesis. Importantly, the method utilizes an existing OTFT, with only minute effects on device performance; thus, selectivity and sensitivity can be incorporated post-optimization of OTFT process parameters. The dependence of analyte response on morphology, thickness, and container size of the calixarene layers is currently under investigation.
+
+Experimental
+The experimental procedures and materials used are included in the Supporting Information.
+Supporting Information: DOI: 10.1002/adma.200903305
+Induced sensitivity and selectivity in thin film transistor sensors via calixarene layers
+By Anatoliy N. Sokolov1
+, Mark E. Roberts2
+, Olasupo B. Johnson1
+, Yadong Cao1
+ and Zhenan
+Bao1
+*
+[*] 1
+Prof. Z. Bao*, Dr. A.N. Sokolov, O.B. Johnson, Y. Cao
+ Department of Chemical Engineering, Stanford University
+ 381 North-South Mall, Stanford, CA 94305 (USA)
+ E-mail: zbao@stanford.edu
+2
+Dr. M.E. Roberts
+ Center for Integrated Nanotechnologies, Sandia National Laboratories,
+ Albuquerque, NM 87185, USA
+Materials: All materials were purchased from Aldrich and used as received unless otherwise
+noted. The organic semiconductor DDFTTF was synthesized according to previously reported
+methods[30]. DDFTTF was purified by gradient sublimation under high vacuum twice before
+use.
+Device Fabrication: Heavily doped silicon wafers with 300 nm oxide were cleaned with piranha
+solution (3:1 H2SO4:H2O2) prior to use. The wafers were modified with
+octadecyltrimethoxysilane prior to device fabrication according to a previously published
+procedure[27]. The DDFTTF and the calixarene films were deposited by thermal evaporation
+(Angstrom Engineering, Inc.) at a rate of 0.1-0.2 Å/s under a pressure of 5.0 × 10-7 Torr. The
+substrate temperature for DDFTTF deposition was kept at 105o
+C and controlled by heating a
+copper block during deposition. The calixarene films were deposited at room temperature. For all
+devices, the top gold contacts were thermally evaporated in high vacuum at a rate of 1 Å/s while
+rotating the substrate holder. The electrode dimensions were defined by a shadow mask with a
+channel width (W) and length (L) of 4 mm and 50 µm, respectively.
+Characterization: The electrical measurements were carried out in ambient using a twosourcemeter (Keithley 2635 (Drain-Source)/Keithley 2400 (Gate)) homemade probe station
+setup. The sensor measurement was performed via a homemade digital analyte delivery system.
+The analyte concentration was set via digitally controlled evaporation of a continuous flow from
+a liquid analyte source (Using STEC MV-1100), subsequently diluted through a series of gas
+mass-flow controllers (STEC-4400). All experiments were performed under dry N2 gas. This
+method ensures a steady stream of the analyte concentration for extended periods without
+concentration drop off. The mass-flow controllers ensure that the flow of gas onto the OTFT
+device is a constant 500 standard cubic centimeter (SCCM) in either the presence or absence of
+the analyte. During the course of the experiment (with and without analyte flow), the total flow
+rate of the N2 gas was set to a constant 500 SCCM. Each device was allowed to equilibrate for a
+period of 100 seconds under constant bias conditions, after which the analyte was introduced into
+the gas stream for a period of 50 seconds. An inert flow was reinstated for an additional 50
+seconds to monitor device recovery. A reverse gate bias of VGS = -60 V was applied to the device
+for a period of 60 seconds to accelerate analyte desorption and achieve reversibility between
+sample evaluations[16]. The flow controllers were controlled through LabView software. Atomic
+force microscopy (AFM) was performed using a Digital Instruments Nanoscope IV operated in
+tapping mode (320 kHz frequency, Si tip). 

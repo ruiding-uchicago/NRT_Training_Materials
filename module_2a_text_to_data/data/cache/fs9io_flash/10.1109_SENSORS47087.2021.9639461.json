@@ -1,0 +1,12 @@
+{
+  "stem": "10.1109_SENSORS47087.2021.9639461",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "cortisol",
+      "lower_detection_limit": "2.76e-12 M",
+      "upper_detection_limit": "2.76e-5 M",
+      "probe_material": "aptamer (cortisol aptamer)"
+    }
+  ]
+}

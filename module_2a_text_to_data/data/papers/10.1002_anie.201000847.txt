@@ -1,0 +1,225 @@
+Supersensitive Detection of Explosives by Silicon Nanowire Arrays†
+Yoni Engel, Roey Elnathan, Alexander Pevzner, Guy Davidi, Prof. Eli Flaxer, Prof. Fernando Patolsky
+First published: 16 August 2010 https://doi.org/10.1002/anie.201000847Citations: 245
+Find It at UChicago
+† This work was in part financially supported by the Legacy Fund–Israel Science Foundation (ISF) and the German–Israeli Foundation (GIF).
+SectionsPDFTools Share
+Graphical Abstract
+Dog on a chip: Explosives can be detected with unprecedented sensitivity by using arrays of silicon nanowire field-effect transistors modified with an electron-rich aminosilane monolayer, which form complexes with the analytes (see picture). These “nanosniffers” can be used to sense the presence of TNT at concentrations as low as 1×10−6 ppt, which is superior to that of sniffer dogs or any other known explosive detection method.
+
+Description unavailable
+There has been a great increase in the development of trace and ultra-trace explosive detection in the last decade, mainly because of the globalization of terrorist acts, and the reclamation of contaminated land previously used for military purposes. In this regard, detection methods for traces of explosives continue to be hampered by the low volatility of the analytes and thus, the analytical problem remains challenging.1
+
+One of the most commonly used high explosives in the last 100 years is 2,4,6-trinitrotoluene (TNT), which not only poses a security threat, but is also of great environmental concern because of soil and water contamination. Thus, TNT is a suitable target analyte for chemical sensing devices. Analytical procedures in use today for the trace detection of explosives typically involve the collection of vapor samples and their analysis by using a sensitive method. Although several sensitive and selective strategies have been reported for the detection of TNT and other explosives,2 these methods are usually time consuming, require bulky equipment, tedious sample preparation, and an expert operator. Furthermore, and of critical importance for practical use, these systems cannot be miniaturized and lack the ability to perform an automated high-throughput analysis.
+
+A successful chemical sensor for TNT, and any other explosives, must: 1) be extremely sensitive given that the vapor pressure of TNT at 25 °C is 5.8×10−6 Torr (<10 ppb),2c and even lower for other commonly used explosives, such as RDX (1,3,5-trinitroperhydro-1,3,5-triazine) and HMX (octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine) which have vapor pressures in the parts-per-trillion (ppt; 5×10−9 Torr) and parts-per-quadrillion (ppq; 8×10−11 Torr) levels, respectively; 2) be highly selective, and eliminate both false positive and false negative results; 3) be robust and not prone to drift; 4) have the ability to be easily miniaturized for field application; and 5) most importantly, be able to perform real-time high-throughput analysis based on arrays of multiple sensing elements.
+
+Nanowire-based field-effect transistors (NW-FETs) are powerful potential sensors for the detection of chemical and biological species.3 Recently, extensive work has been carried out with nanowire electrical devices for the simultaneous multiplexed detection of multiple biomolecular species of medical diagnostic relevance, such as DNA and proteins.4 For NW sensors operated as FETs, the sensing mechanism is the field-gating effect of charged molecules on the carrier conduction inside the NW.3c
+
+Herein, we demonstrate supersensitive, rapid, and label-free detection of TNT in real time with the use of large-scale arrays of SiNW-FET devices, which are chemically modified with a monolayer of an amine-functionalized silane derivative, namely 3-aminopropyltriethoxy silane (APTES). TNT molecules can strongly bind to the surface of the nanowires through an acid–base pairing interaction between TNT and amino ligands on the sensor surface. The exceptional performance of the SiNW devices enables the detection of TNT with unprecedented sensitivities reaching sub-femtomolar (<10−15 M) concentrations.
+
+Nanowire sensor arrays were fabricated and subsequently chemically modified with an APTES layer (Figure 1 a). The sensing array was then used for the detection of explosive species without any further chemical treatment (see the Supporting Information for experimental procedures). Figure 1 b shows the sensing of TNT by the nanowire sensor array. Our home-made sensing setup allows the direct detection of analyte molecules in the liquid phase as well as in the gas phase, without the need of preconcentration steps (Figure 1 c). Generally, the binding of electron-deficient TNT to the amino groups on the nano-sensor surface is expected to lead to the formation of charge-transfer complexes,5 which act as effective molecular gating elements and strongly modulate the electrical conductance of the nano-sensing elements. For example, solutions of TNT are almost colorless and do not absorb any visible light. Previous investigations6 have demonstrated that a solution of TNT changes from colorless to deep red after the addition of organic amines such as 3-aminopropyltriethoxysilane (APTES). Two kinds of strong interactions may occur between the electron-deficient aromatic ring of TNT and the electron-rich amino group of APTES: The charge transfer from amino groups to aromatic rings leads to the formation of Meisenheimer complexes between TNT and primary amine groups.6 Meanwhile, as a commonly accepted mechanism, a TNT molecule is a Brønsted–Lowry acid and can be deprontonated at the methyl group by a basic amine.6e–6i The negative charge on the TNT anion is distributed throughout the molecule through resonance stabilization by three electron-withdrawing nitro groups, thus leading to the formation of the acid–base pairing interaction. The TNT anions or TNT–amine complexes can strongly absorb the green part of visible light, and therefore the solution color changes to deep red. By both mechanisms, the reversible complexation of uncharged TNT molecules with surface amino groups leads to the formation of charges close to the sensing surface, thus leading to abrupt changes in the conductance of the device.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a) Representation of APTES surface modification on a silicon nanowire device. b) Representation of TNT sensing. c) Schematic representation of the setup for the fluid and gas sensing of explosives. d) Source–drain current (Ids) versus source–drain voltage (Vds) plots at different gate voltages (Vg) for a typical p-type SiNW FET: −5 (blue), −4 (green), −3 (black), −2 (pink), −1 (magenta), 0 (yellow), 1 (orange), 2 (light blue), and 3 V (brown). e) Transconductance curve of a typical device at Vsd=0.5 V. f) Ids versus Vg (Vg=water gate) recorded for the same p-type SiNW FET device at a Vds of 0.1 V, before (red), and after (blue) APTES surface modification. Inset: HRSEM image of a typical nanowire device.
+
+The chemical modification of the sensing elements and the electrical transport characteristics of the sensing devices obtained were first studied. Ellipsometry results have shown that the thickness of the APTES layer obtained generally ranges from 6.5 to 12 Å (between a monolayer and a bilayer) and, as expected, that the structure and thickness of APTES films are governed by the deposition time and the composition of the silane solution.7 Additionally, XPS measurements confirm the presence of amino and ammonium groups on the SiNW surface, thus, as expected, further validating the formation of an APTES layer. The dependence of the source–drain current (ISD) on source–drain voltage (VSD) for varying gate–source voltages (VGS) for a representative device, before any chemical modification is performed, is shown in Figure 1 d. Clearly, surface functionalization with 3-aminopropyltriethoxysilane to convert silanol (SiOH) groups to free amines does not have a detrimental effect on the electrical properties of the device (Figure 1 e).
+
+To assess the efficacy of our system for the sensing of TNT, aqueous solutions (deionized (DI) water containing 0.1 % DMSO) with added TNT at concentrations ranging from 500 fM to 5 μM were delivered to the sensor chip device through a built-in fluid-delivery system. Examination of the data (Figure 2 a, b) reveals that the conductance of the nanowires is extremely sensitive to the presence of TNT over the whole concentration range, and displays a well-defined increase and subsequent return to baseline when TNT solution and reference washing solution (DI water containing 0.1 % DMSO), respectively, are alternately delivered through the fluid-delivery system to the devices. A plot of these data (Figure 2 b) shows that the change in conductance is directly proportional to the TNT concentration for approximate values from 5 μM to 5 nM. The nanowire sensors can clearly detect TNT down to concentrations well below the femtomolar level (ca. 0.5 fM). Furthermore, the most sensitive devices can sense TNT down to the 50–100 attomolar range (Figure 2 c). In addition, sensing can be performed rapidly, in less than a minute, without the need for preconcentration steps. The change in conductance begins immediately upon exposure of the nanowire device to the TNT solution, and stabilizes at a new value over a period of a few minutes (Figure 2 a, inset). This behavior occurs even for the 500 fM solution of TNT. Significantly, control “unmodified” nanowire devices on the same chip, as well as devices modified with alkyl and fluoroalkyl silane derivatives did not produce any observable signal upon interaction with high concentrations of TNT (5 μm), or other nitroaromatic species (see Figure 1 S in the Supporting Information). This fact confirms that TNT indeed forms complexes with surface amino groups.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+a) Normalized conductance-versus-time of an APTES-functionalized p-type SiNW FET sensor (Vg=0) following the alternating delivery of TNT solutions of different concentrations and a reference solution. A) 500 fM, B) 5 pM, C) 5 nM, D) 75 nM, E) 100 nM, F) 500 nM, G) 5 μM. Inset: Magnification of a single TNT binding/washing sensing event. The blue box denotes the time to reach the sensing plateau. b) Relative conductance change (ΔG/G0) versus TNT concentration (drawn on a logarithmic scale). Inset: conductance change is proportional to the TNT concentration for values between 75 nM to 5 μM. c) Relative conductance change versus TNT concentration for an exceptionally sensitive device. d) TNT interacts with an amino group of the surface-bound APTES to create a strong charged complex. This complex is further stabilized by neighboring amino groups (ammonium functionalities).
+
+While certainly surprising, these results can be rationalized by taking into account the following important factors that are unique to our approach: 1) The APTES recognition elements in our platform are short organic molecules approximately 0.6 nm in length (Figure 1 a), the amino groups of which are close to the surface of the nanowire sensing elements. Generally, the charges on dissolved molecules and macromolecules are screened by dissolved counterions, since in most cases molecules bound to the devices are separated from the sensor surface by approximately 2–12 nm (the size of the receptor proteins or DNA linkers bound to the sensor surface). As a result of the screening, the electrostatic potential that arises from charges on the analyte molecule decays exponentially toward zero with distance.8 Thus, for optimal sensing, the Debye length must be carefully selected for nanowire FET measurements; 2) the fact that the recognition elements are not of a biological nature enables the use of a virtually salt-free solution (i.e., DI water). The Debye length λ is expected in this case to be around 1 μm. This large screening length results in extremely high sensitivities in the sensing of the charged complex pairs formed between TNT and the amino groups on the nanowire surface; 3) the negative charge formed on the surface-complexed TNT molecule can be further accommodated and stabilized by neighboring ammonium groups on the surface, thus leading to more stable complexes and enhanced sensitivities, as experimentally observed in this study (Figure 2 d).
+
+Cross-reactivity of the sensor to structurally related nitro-aromatic chemical derivatives was also investigated (Figure 3). The results clearly show a strong preference for binding TNT (1) over these compounds. Analysis of these results reveals that molecules such as TNT and 2,6-dinitrotoluene (2,6-DNT, 2), which have a higher ability to create charge-transfer complexes with the amino-modified monolayer, induce a stronger conductivity change than other nitro-substituted aromatic molecules of a less electron-withdrawing nature. The latter species cause changes in the conductance of the device only at concentrations greater or equal than 5 μM, orders of magnitude higher than that for TNT. Aniline (4) does not cause any decrease in conductivity, but a slight increase only at very high concentrations (>5 μM), thus suggesting the formation of surface dipoles of opposite sign caused by the interaction of this molecule with the surface APTES layer. At concentrations lower than 5 nM, interfering materials (2–6) do not give rise to appreciable signals, thus making our sensor highly suitable for the ultra-trace detection of TNT. These data provide strong support for the proposed charge-transfer interaction of TNT with the APTES-modified SiNW device.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Top: response of an APTES-functionalized silicon nanowire device towards (red) 5 μM solutions and (blue) 5 nM solutions of: TNT (1), 2,6-DNT (2), 2,4-dinitrophenol (2,4-DNP, 3), aniline (4), RDX (5), and p-nitrophenol (p-NP, 6). Bottom: molecular analytes used in this study.
+
+A key factor when considering a real-time field sensor is its ability to be quickly regenerated after operation, namely, its reversibility. When the reference washing solution containing no TNT is introduced into the system, after the interaction of TNT with the sensor, the device responded again very rapidly, and the conductance returns to its baseline value. Importantly, we have performed approximately 100 repeated TNT injection/wash cycles with the same nanowire device for over more than a week, and found remarkable sensing stability and reproducibility (see Figure 2 S b in the Supporting Information).
+
+In order to improve the detection limit of a sensor, it is not only necessary to have a high gain but also to reduce the noise level in order to provide a high signal-to-noise ratio, thus also preventing the high number of false positive and false negative incidents, which are intrinsic to current sensing technologies. One strategy to achieve this goal is by employing a large number of identical sensors that simultaneously sense the same analyte molecule in order to enhance the signal-to-noise level. Our sensor chip is designed to contain close to 200 devices that can potentially perform the simultaneous detection of TNT. To demonstrate this detection, we performed the simultaneous detection of TNT with three nanowire devices (Figure 4). Clearly, all devices behave similarly, and show the expected decrease in conductance upon exposure to TNT and subsequent increase when the TNT is washed away; this behavior also true for most of the working devices in a single chip (see Figure 2 Sa in the Supporting Information).
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Relative conductance change recorded simultaneously from three APTES functionalized p-type SiNW FETs. The decrease and increase in conductance correspond to times where a 0.1 % DMSO/H2O solution with added TNT (5 μM) and a reference solution, respectively, were delivered into the fluidic channel.
+
+In addition, we tested our sensing arrays for their ability to sense TNT directly from air samples, as TNT is able to form Meisenheimer complexes and acid–base pair complexes with amino groups, even in the gas phase.9 The gas-phase detection of TNT-containing vapors was conducted with the same detection set-up, but using either a nitrogen gas or dry air stream as the TNT vapor carrier. Clearly, the presence of TNT vapors is easily and rapidly detected by the nanowire sensor array (Figure 5; note that the vapor pressure of TNT at 20 °C is approximately 10 ng L−1 or 1 ppb). The TNT delivery line is open to the detection system for only a few seconds before it is closed again, thus exposing the sensing array to very short pulses of TNT-containing vapor of controlled concentration (see the Supporting Information for details). This result shows that the nano-sensors are extremely sensitive to the presence of TNT in air samples and that long sampling and most importantly, that preconcentration steps are not required in our sensing platform. The sensing of TNT could be performed repeatedly (>50 cycles) at low concentrations of TNT (between ppb and ppt concentrations), with unprecedented sensitivities down to at least 10−2 ppt in air (Figure 5). If required, the sensor surface can be readily reactivated by a short washing step in water/0.1 % DMSO solution. Additionally, no influence of humidity and odor materials (compounds 7–9) was detected at our experimental conditions (see Figure 3 S and Experimental Section in the Supporting Information). The possibility of sensing TNT vapors directly and rapidly from samples that were collected from the air but do not require preconcentration, and the effective complete regeneration of sensing elements, are of fundamental importance in the future deployment of our sensor in the practical detection of explosives.
+
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Relative percent conductance change versus time for an APTES functionalized p-type SiNW FET sensor after 5 s short pulses of ca. 1 ppt TNT vapors in carrier air samples (arrows denote the time when the TNT vapor pulses were applied).
+
+In conclusion, the present study has demonstrated a rapid, label-free, real-time, supersensitive, and selective detection for TNT with the use of large arrays of chemically modified SiNW-FETs with a detection limit that reaches the attomolar concentration range. Moreover, our results show that TNT could be distinguished from other related compounds, with or without nitro groups, and exhibit a clear concentration-dependent conductance response for TNT. This approach represents the first generation of selective and supersensitive electronic sensing arrays intended for the detection of TNT and other explosive-chemical analytes (see Table 1S in the Supporting Information for a comparison with existing TNT detection approaches). The sensor arrays allow for the detection of TNT vapors directly from samples in air, as no solution is required for sensing. Current experiments are focused on the modification of nano-sensor subgroups in a single array with a broad number of amine derivatives, each with different electron-donating capabilities, as this approach will allow the differentiation between different nitro containing explosives10 (see Figure 4 S in the Supporting Information for preliminary results). We thus hope, in the near future, to create a universal platform for the label-free simultaneous detection of a larger spectrum of explosive chemical agents, each selectively identified by the specific electrical signal pattern measured by the nano-sensor array.
+
+Supporting Information
+ Wiley-VCH 2010
+69451 Weinheim, Germany
+Supersensitive Detection of Explosives by Silicon Nanowire Arrays**
+Yoni Engel, Roey Elnathan, Alexander Pevzner, Guy Davidi, Eli Flaxer, and Fernando Patolsky*
+anie_201000847_sm_miscellaneous_information.pdf
+1
+Figure 1S. Response curves of nanowire devices to a 5µM TNT solution modified as
+follows: (black) APTES-modified nanowire device, (blue) Heptadecafluoro 1,1,2,2,
+tetrahydrodecyl dimethylcholrosilane modified device, (red) unmodified (silicon oxide)
+nanowire device, (green) n-octadecyldimethylcholrosilane modified nanowire device.
+2
+Figure 2S. a) Relative sensor response of a sensor chip recorded by > 30 devices
+(measured sequentially), for the sensing of 5nM TNT. b) Stability of sensing device chip
+for the sensing of TNT, over a period of weeks.
+Figure 3S. Non-explosive interferent molecules tested using silicon nanowire-based
+sensing devices.
+3
+Figure 4S. Sensing of different nitro-containing explosive analytes by differentiallymodified nanosensing devices in a single array. Blue bars (Left) represent response from
+devices modified with a stronger electron-donating amine N-Methyl-3-
+(trimethoxysilyl)propylamine). Red bars (right) represent response from devices modified
+with APTES. Bar values are an average of the signals obtained from 4-7 devices
+modified with APTES and 4-7 devices modified with N-Methyl-3-
+(trimethoxysilyl)propylamine , respectively. STD values are ~10% of reported values.
+Clearly, using different amine derivatives of different electron-donating characteristics it
+will be feasible to sense and simultaneously identify different explosive species,
+simulating a simple olfactory system. Note that the response to TNT is set as 100% and
+all other responses are normalized to that of TNT.
+4
+Experimental Methods Section
+(1) Nanowire FET fabrication
+Silicon nanowires (SiNWs) were synthesized by chemical vapor deposition (CVD) with
+the use of 20nm gold nanoparticles as catalysts and silane as reactant. Diborane was used
+during the growth to provide boron as a p-type dopant with a B:Si ratio of 1:4000. The
+FETs were fabricated by photolithography. Briefly, passivated source and drain
+electrodes were deposited with the use of a multilayer photoresist structure consisting of
+300nm LOR3A (Microchem) and 500nm 1805 (Shipley). After exposure and
+development of the electrode pattern, the contacts were metallized by e-beam and thermal
+evaporation of Ti/Pd (5/60nm) respectively and were then passivated from the electrolyte
+with an insulating layer of Si3N4 (50nm-thick) deposited by plasma-enhanced chemical
+vapor deposition (PECVD). The separation between the source and drain electrodes for
+each FET was 2μm. Last, the chip was coated with a 100µm SU-8 3050 photoresist
+(Microchem Inc.) and a channel was defined over the NW device regions by
+photolithography.
+(2) Fluid-delivery system
+The fluid-delivery device was fabricated from flexible polydimethylsiloxane (PDMS)
+elastomer mixed in a 10:1 ratio of base to curing agent. The PDMS was cured overnight
+in an oven at 60ºC and then cut into rectangular pieces. The dimensions of the PDMS are
+10x10x5mm. The lithographically-defined SU-8 channel sealed by the PDMS elastomer
+creates a fluid delivery system.
+(3) Surface modification of nanowire device
+The sensor device was cleaned with oxygen plasma, thus obtaining clean and oxidized
+nanowire-device surfaces for the effective chemical modification of 3-
+aminopropyltriethoxysilane (APTES) (Aldrich) to provide amino groups at the nanowire
+surface. The chip was first treated with 1%(v/v) 3-aminopropylethoxysilanesilane in
+95%/ethanol, was allowed to stand for 20 minutes before filtering through a 0.2µm-cutoff
+syringe filter. The plasma-cleaned sensor chip was immersed in the silane/ethanol
+solution for 30 minutes and then the chip was rinsed with ethanol, dried in a stream of
+5
+nitrogen gas and baked at 150ºC for 5 minutes. Additional amino-silane, N-Methyl-3-
+(trimethoxysilyl)propylamine were modified similarly to APTES. noctadecyldimethylcholrosilane and Heptadecafluoro 1,1,2,2, tetrahydrodecyl
+dimethylcholrosilane were modified in 2% silane solutions of 95% ethanol/DIW and 1:1
+dichloromethane/heptan, respectively. Ellipsometry measurements were performed in all
+samples for proper characterization of molecular layer thickness.
+(4) Preparation of TNT sample for liquid-phase detection
+The TNT was dissolved in 0.1%DMSO in a DI H2O and was delivered to the chip by the
+microfluidic system by means of a syringe pump (Dolomite Mitos Syringe Pump XS) at a
+flow rate of 5μl/min. (The action of injecting the solution might introduce some
+negligible noise into the electrical read-out signal). All studies, with the exception of the
+TNT gas detection, were carried out at room temperature.
+The conductance of the NWFET was measured by application of AC bias (70kHz,
+30mV) by means of a lock-in amplifier (Stanford Research System model SR830 DSP
+and National Instruments NI PXI-1042Q). The drain current was amplified with a
+variable-gain amplifier (model 99539 Amplifier System) and filtered by the lock-in
+amplifier with a time-constant setting of 300ms. The output data were recorded by using
+a multichannel I/O adaptor panel (BNC-2090, National Instrument).
+(5) Preparation of TNT sample for gas-phase detection
+The TNT vapor was delivered into the sensing chip by passing nitrogen gas (or
+compressed dry air) through a stainless steel vial containing small amounts of TNT
+(100g-2mg), with inlet and outlet gas ports. The TNT source vial temperature can be
+controlled between 5-150oC, in order to control the equilibrium vapor pressure of the
+TNT material (or any other explosive molecule). The flow of nitrogen carrier or
+compressed dry air) is controlled by the use of MKS mass flow controllers (from 0.1 to
+200 ml.min-1
+). Initially, the carrier gas at a known flow rate (dry N2 or dry compressed
+air) is passed through the diluting lines directly into the device. After a stable electrical
+signal has been obtained, the flow from the TNT source is opened by short time pulses of
+2-5 seconds.
+6
+A MFC-controlled gas carrier line flows through the explosive-containing temperaturecontrolled vial after reaching its equilibrium vapor pressure at a given temperature (~7
+ppb at 25 Co
+for TNT). If required for concentration-dependence sensing of TNT, the
+explosive vapors can be readily diluted using a series of MFC-controlled diluting gas
+lines, mixing their flowing gas with the TNT-vapor gas line before reaching the sensing
+set-up, always keeping the total flow constant by the use of a MFC (1-5 sccm). All gas
+lines leading to the sensing chip are heated to 120Co
+to prevent condensation of explosive
+vapors on the delivery lines and thus, large deviations of explosives effective
+concentrations. Absence of TNT in the vial leads to no change in the signal of sensing
+devices. Regeneration of the devices is accomplished by simply washing the sensor chip
+with 0.1% DMSO in DI H2O. In order to prevent potential humidity interferences, the
+carrier gases can be loaded with a controlled humidity extent (35-60%) or dried using a
+drying pre-column. Regardless, in our gas/vapor sensing experiments the electrical
+sensing nanowire array 'baseline' signal is first stabilized with the gas carriers in the
+absence of TNT, followed by short pulses of TNT-containing vapors, thus no effect of
+humidity is observed.
+7
+Table 1S. Comparison of different TNT detection approaches
+Detection Method Detection Limit Reference
+Remote electrochemical sensor for monitoring TNT in natural waters 50 ppb [1]
+luminiscent oligo(tetraphenyl)silole nanoparticles in water 20 ppb [2]
+quenching of fluorescence of polymer films in air 10 ppb [3]
+electrochemical detection by carbon nanotubes in water 5 ppb [4]
+biochip (on Au) via QCM or SPR in water 1-10 ppb [5]
+electrochemical detection using metallic NP-CNT composites in water 1 ppb [6]
+adsorptive stripping by carbon nanotubes-modified GCE in water 600 ppt [7]
+electrochemical detection by mesoporous SiO2-modified electrodes in
+water
+414 ppt [8]
+oligo(ethylene glycol)-based SPR in water 80 ppt [9]
+electrochemical sensing by imprinted electropolymerized
+bis-aniline-cross-linked AuNPs in water
+46 ppt [10]
+SPR, fabricated dinitrophenylated-keyhole lympet hemocyanin (DNPKLH) protein conjugate (in water)
+5 ppt [11]
+indirect competitive immunoassay using SPR (in water) 2 ppt [12]
+SPR sensing by bis-aniline-cross-linked picric acid-imprinted
+Au-nanoparticles composite in water
+[13] ppt 10-3 ׳ 1.2
+IMS (ion mobility spectroscopy) from air and water samples 5-10 ppt
+SAW in water 10 ppt
+Conducting polymers in water 20-40 ppt
+μ-Electron capture detector 100 ppt
+Airport sniffers from air samples 2000 ppt
+[1] J. Wang, R. K. Bhada, J. M. Lu, D. MacDonald, Anal. Chim. Acta 1998, 361, 85.
+[2] a)S. J. Toal, D. Magde, W. C. Trogler, Chem. Commun. (Cambridge, U. K.) 2005, 5465; b)S.
+Content, W. C. Trogler, M. J. Sailor, Chem.-Eur. J. 2000, 6, 2205.
+[3] a)T. M. Swager, Acc. Chem. Res. 1998, 31, 201; b)D. T. McQuade, A. E. Pullen, T. M. Swager,
+Chem. Rev. (Washington, DC, U. S.) 2000, 100, 2537; c)J. S. Yang, T. M. Swager, J. Am. Chem.
+Soc. 1998, 120, 11864; d)C. P. Chang, C. Y. Chao, J. H. Huang, A. K. Li, C. S. Hsu, M. S. Lin, B.
+R. Hsieh, A. C. Su, Synth. Met. 2004, 144, 297; e)H. Sohn, M. J. Sailor, D. Magde, W. C. Trogler,
+J. Am. Chem. Soc. 2003, 125, 3821.
+[4] H. X. Zhang, J. S. Hu, C. J. Yan, L. Jiang, L. J. Wan, Phys. Chem. Chem. Phys. 2006, 8, 3567.
+[5] A. Larsson, J. Angbrant, J. Ekeroth, P. Mansson, B. Liedberg, Sensors and Actuators B-Chemical
+2006, 113, 730.
+[6] S. Hrapovic, E. Majid, Y. Liu, K. Male, J. H. T. Luong, Anal. Chem. 2006, 78, 5504.
+[7] J. Wang, S. B. Hocevar, B. Ogorevc, Electrochem. Commun. 2004, 6, 176.
+[8] H. X. Zhang, A. M. Cao, J. S. Hu, L. J. Wan, S. T. Lee, Anal. Chem. 2006, 78, 1967.
+[9] Y. Mizuta, T. Onodera, P. Singh, K. Matsumoto, N. Miura, K. Toko, Biosens. Bioelectron. 2008,
+24, 191.
+[10] H. G. Tompkins, A Users’s Guide to Ellipsometry, Academic Press Inc, London, 1993.
+[11] P. Singh, T. Onodera, Y. Mizuta, K. Matsurnoto, N. Miura, K. Toko, Sensors and Materials 2007,
+19, 261.
+[12] D. R. Shankaran, T. Kawaguchi, S. J. Kim, K. Matsumoto, K. Toko, N. Miura, Anal. Bioanal.
+Chem. 2006, 386, 1313.
+[13] M. Riskin, R. Tel-Vered, O. Lioubashevski, I. Willner, J. Am. Chem. Soc. 2009, 131, 7368.
+8

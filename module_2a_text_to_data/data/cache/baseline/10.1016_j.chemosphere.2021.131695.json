@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.chemosphere.2021.131695",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Cr(III)",
+      "lower_detection_limit": "7.05 μM",
+      "upper_detection_limit": "100 μM",
+      "probe_material": "ZnO nanoglobules@GO (ZnO-NGs@GO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7,
+      "test_medium": "water (PBS buffer)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Cu(II)",
+      "lower_detection_limit": "14.9 μM",
+      "upper_detection_limit": "100 μM",
+      "probe_material": "ZnO nanoglobules@rGO (ZnO-NGs@rGO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7,
+      "test_medium": "water (PBS buffer)"
+    }
+  ]
+}

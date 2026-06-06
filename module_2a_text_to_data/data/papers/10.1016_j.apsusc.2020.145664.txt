@@ -1,0 +1,140 @@
+Full Length Article
+Modification of polyvinyl chloride ion-selective membrane for nitrate ISFET sensors
+Author links open overlay panel
+Woraphan Chaisriratanakul a
+, 
+Win Bunjongpru b
+, 
+Apirak Pankiew b
+, 
+Awirut Srisuwan b
+, 
+Wutthinan Jeamsaksiri b
+, 
+Ekalak Chaowicharat b
+, 
+Nutthaphat Thornyanadacha b
+, 
+Putapon Pengpad b
+, 
+Mati Horprathum c
+, 
+Darinee Phromyothin a
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.apsusc.2020.145664
+Get rights and content
+Highlights
+•
+Polyvinyl Chloride ion-selective membrane was modified based on ISFET.
+•
+Nitrate-Nitrogen detection limit is 1.20 ppm, linear range from 3−20 ppm.
+•
+This sensor could be applied in many applications such as agricultural industry.
+Abstract
+In this work, a Polyvinyl Chloride (PVC) ion-selective membrane was modified to detect nitrate based on Ion Selective Field Effect Transistor (ISFET) sensing technology in order to eliminate chloride interference. A modification was done with ethylenediamine solution to achieve animated PVC, which was then oxidized with sodium tungstate to form nitrone coated PVC membrane. The modified PVC was characterized using FTIR, 1H NMR, GPC, FE-SEM and EIS. The FTIR spectrum of animate PVC demonstrated -NH2 bending at 1580 cm−1, NO2 asymmetric stretching at 1650 cm−1 and Nsingle bondO out-of-plane deformation vibration at 837 cm−1. GPC analysis of the modified PVC showed that the PVC molecular weight was shifted to a high molecular weight. The PVC ion-selective membrane was immobilized on the ISFET to create nitrate sensors with the following characteristics. The Nitrate-Nitrogen detection limit is 1.20 ppm with linear range from 3−20 ppm at sensitivity of 56 ± 2 mV/dec. The sensor is useful for detecting small amount of nitrate in a mixed solution, which usually is the case in most situations. This sensor could be applied in many applications, such as agricultural industry, water reserve management and medical field as well.
+Previous article in issue
+Next article in issue
+Keywords
+Polyvinyl ChlorideAnimated PVCISFETGPC
+1. Introduction
+PVC is a common polymer used in an ion-selective membrane due to its excellent physicochemical properties and is applied in several areas, including biosensors [1], medical devices [2] and soil macro-nutrients [3]. Nitric Oxide (NO) is a small molecular substance that is important to pathophysiology as it is a marker on a few disease such as Inflammatory Bowel Disease (IBD), Hepatic Encephalopathy (HE) and Thalassemia [1], [2]. However NO is unstable and has very short half-life since it can easily be combined with Oxygen (O2) and turn into nitrate and nitrite. Detection of NO has to be fast and highly sensitive such as ozone-based chemiluminescent which is a complicate technique. Alternatively nitrate detection is an option for representing amount of NO in blood [3] in which healthy people normally have nitrate concentration between 3.1 and 6.2 ppm in their blood stream.
+A PVC ion-selective membrane could be coated on a insulate gate of the ISFET to implement a nitrate ISFET sensor. Nitrate ISFET sensors have been developed for monitoring nitrate content with potentially many different applications such as environment monitoring, precision agriculture and food production. It has advantages over standard method including simple methodology and operation, direct measurement of targeted ions, good selectivity, and portability. Selectivity is the most important characteristic of nitrate ISFET sensors. It can be defined as a ratio of a signal for a target analytic to another or several other electroactive species that may be simultaneously present in a sample, also called “interference ions”. The sensor is useful for agriculture and water reserve management since overdose of nitrate will contaminate underground water. High concentration of Chloride (Cl) in the tap water can be a major interference for the detection.
+Modification of PVC may improve selectivity [4], surface property [5], [6], life time [7] and blood compatibility [8]. Several methods had been developed by using physical techniques, chemical techniques and physical-chemical techniques including physical adsorption of Langmuir-Blodgett films, chemical grafting, functionalization, and surface treatment with UV irradiation or plasma treatment.
+Functionalization is a process for modification of a material surface chemical characteristic by adding functional group, abilities or properties. Material surfaces may be induced with molecules or nanoparticles through chemical bonds or adsorption. Easton and Allan prepared [9] sulfonated PVC membranes to increase water-uptake and proton conductivity to a PVC membranes without destroying membrane morphology. Hajibeygi and Maleki [10] studied a new nanocomposite to improve physical properties of a PVC such as thermal stability and mechanical properties. Jia and Hu [11] studied PVC material modified with citric acid triethyl ester onto azide-functionloze PVC that exhibited high thermal stability, low glass–transition temperature and reduce migration.
+The goal of this work is to modify PVC ion-selective membrane (Nitrone PVC) by functionalization in order to improve chloride interference. The chloride ions (nucleophile) were donating a lone pair electron to form a new bond with carbon of the Cdouble bondN bond of nitrone group (electrophile) of the modified PVC [12]. Several researchers reported improvements of chloride interference using plasticizer with high dielectric constant [13], [14], [15] and membranes containing non-symmetrical ionophore [16]. An oxidation of the animated PVC and hydrogen peroxide with sodium tungstate catalyst gave the Nitrone PVC as a result. The direct oxidation could be also performed using oxidants such as hydrogen peroxide in present of Na2WO4·2H2O [17], NaMnO4 [18], KMnO4 [19], peracetic acid [20], dimethyldioxirane [21] and m-chloroperbenzoic acid [22]. Hydrogen peroxide was chosen as the oxidant which gave high yield (85%), low cost process and environmentally safe oxidant since its reduction byproduct was only water [23]. The chemical structure was characterized by Fourier transform infrared spectroscopy (FTIR), Nuclear magnetic resonance (1H NMR) and Gel Permeation chromatography (GPC). Field Emission Scanning Electron Microscope (FESEM), Cyclic Voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS) were used to characterize the membrane. Fabricated nitrate sensors were characterized using semiconductor device analyzer (Agilent B1500 A). This new procedure could demonstrate highly sensitive nitrate sensor in regime of 3 – 20 ppm which would cover significant detection ranges for many applications.
+2. Experimental results
+2.1. Chemicals and reagents.
+Chemicals used in this experiment such as Polyvinylchloride (PVC Selectophore TM, high molecular weight), 2-Nitrophenyloctylether (2-NPOE), 0.01 M Nitrate ion Standard, Multi-ion solution standard were supplied by Sigma-Aldrich. Other chemicals such as Ethylene diamine (EDA), Sodium tungstate (Na2WO4·2H2O), 30% Hydrogen peroxide, Tetrahydrofuran (THF), Dichloromethane (CH2Cl2), Ferricyanide (K3Fe(CN6)), Ferrocyanide (K4Fe(CN6)), Phosphate buffer solution (PBS) were purchased from Merck.
+2.2. Preparation of animated PVC
+The animate PVC (PVC-NH2) was performed by mixing 1 g of PVC, excess EDA aqueous solution of 80% and 1000 µL of pyridine. The solution was mixed at room temperature for 5 hrs. The light yellow colored animated PVC was filtered and washed with 50% methanol. The animated PVC was dried in vacuum at room temperature.
+2.3. Preparation of modified PVC
+The modified PVC (PVC-NO2) was performed by dissolving 0.45 g of PVC-NH2 in CH2Cl2, 50 mg of Na2WO4·2H2O in 40 ml of H2O2 and 10 mol % of Aliquat 336. The mixture was stirred at room temperature for 2 hrs. The PVC-NO2 was filtered to remove any unreacted material and solvent. The preparation of PVC-NO2 was presented in Fig. 1.
+
+Download: Download high-res image (184KB)
+Download: Download full-size image
+Fig. 1. The preparation of modified PVC.
+
+2.4. Preparation of nitrate ISFET sensor
+The ISFET was cleaned in ultrasonicated 1% Hellmanex bath for 15 min and rinsed with deionized water. After that the ISFET was ultrasonicated for 20 min in a mixture of hydrogen peroxide and ammonium hydroxide, then it was rinsed with deionized water and finally dried under argon atmosphere. Mercapto-propyltrimethoxysilne was diluted in methanol with a ratio of 1% (V/V) and was silanized overnight. The ISFET was rinsed with methanol and baked at 100 °C for 30 min.
+The PVC ion-selective membrane solution, consisting of modified PVC and 2-NPOE (2:1), was dissolved in tetrahydrofuran. The nitrate sensing membrane was prepared by adding the modified PVC solution 10 µL on the insulated gate and kept at room temperature overnight. The nitrate sensor was immersed in nitrate-nitrogen solution for three hours in order to use as nitrate measurement.
+2.5. Characterization and methodologies
+FTIR was used to study functional groups of PVC, PVC-NH2 and PVC-NO2 (Thermo Fisher Sci., FTIR 6700, USA) with 64 scans measuring from 4000 to 500 cm−1 at resolution of 2 cm−1. The chemical structure of animate PVC and modified PVC was further confirmed by nuclear magnetic resonance (Bruker Instrument Crop., Ascend 600, Germany) at frequency of 600 MHz.
+A molecular weight analysis was characterized by GPC e2695 from Waters Corp., USA. A column set used was 10 µm PL gel column and detector model 3580 was used with THF solvent.
+A field-emission scanning electron microscope (FE-SEM), Hitachi S-4700 SEM, operated at 5 KeV, was used to investigate morphology of the modified PVC.
+Methodologies such as Cyclic Voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS) were utilized to study electrochemical characteristics of nitrate PVC (CHI660D, CHI Instruments, USA). Gold was selected as a working electrode material. Pt was used as a counter electrode and Silver chloride as reference electrode. An EIS was performed using 100 mM PBS solution containing 5.0 mM K3Fe(CN6) and 5 mM K4Fe(CN6) at 190 mV bias potential at frequencies range of 0.1 Hz to 10 KHz with 5 mV AC amplitude.
+The nitrate sensors were utilized for nitrate measurement experiments with VDS = 300 mV bias and IDS = 45 µA in nitrate-nitrogen solutions.
+3. Results and discussion
+3.1. Structure and morphology characterization
+The structures of modified PVC were confirmed by FTIR, NMR and GPC. The FTIR spectroscopy results of PVC, animate PVC and Oxidation animate PVC are shown in Fig. 2(a)–(c), respectively. The FTIR spectrum of the PVC (Fig. 2(a)) shows CH2 bending at 1430 cm−1, CH bending at 1230–1340 cm−1 and Cl group stretching at 608 cm−1. After animation of PVC with EDA, the FTIR spectrum (Fig. 2(b)) appeared with N-H stretching at 3350 cm−1 and -NH2 bending at 1580 cm−1. Results indicated that chloride group reacted with EDA to produce amino group. Then the animated PVC was carried on with oxidation process. The FTIR spectrum of the oxidized animated PVC is shown in Fig. 2(c). The figure shows N-H stretching at 3350 cm−1, NO2 asymmetric stretching at 1650 cm−1 and N-O deformation vibration at 837 cm−1. Results indicated that the animate PVC was oxidized with hydrogen peroxide having sodium tungstate as a catalyst and create a nitrone group.
+
+Download: Download high-res image (206KB)
+Download: Download full-size image
+Fig. 2. FTIR spectra of PVC (a), Animate PVC (b) and Modified PVC (c).
+
+The FTIR results were confirmed by The 1H NMR spectrum of the modified PVC as shown in Fig. 3. The 1H NMR spectrum of the PVC shows C-H signal group of vinyl chloride at 4.1–4.6 ppm and C-Cl signal group of vinyl chloride at 2.1 ppm (Peak (a)). The 1H NMR spectrum of the animated PVC as the result of the reaction of PVC and EDA shows amino group at 3.5 ppm, indicating that chloride group was converted to amino group (Peak (b)). The 1H NMR spectrum of the oxidation animate PVC shows a nitrone group at 1.8 ppm (Peak (c)). All of these results indicated that the animated PVC was converted to the Nitrone PVC.
+
+Download: Download high-res image (78KB)
+Download: Download full-size image
+Fig. 3. 1H NMR Spectra of PVC, animate PVC and modified PVC.
+
+The molecular weights of PVC-NH2 and PVC-NO2 were determined using GPC. Fig. 4 shows the chromatogram of PVC-NO2 shifting to the right side to the high molecular weight region. The averaged molecular weights of PVC, PVC-NH2 and PVC-NO2 were 30,372 g/mol, 33,488 g/mol, and 34,043 g/mol, respectively. The increased molecular weight was a result of PVC cross-linking with ethylene diamine to form animate PVC and oxidation of animate PVC to form modified PVC.
+
+Download: Download high-res image (156KB)
+Download: Download full-size image
+Fig. 4. GPC spectra of PVC, animate PVC and modified PVC.
+
+The surface morphology of the PVC, the animate PVC and the modified PVC are shown in Fig. 5(a)–(c), respectively. The FE-SEM micrograph of the PVC shows aggregate surfaces with microscope structures (Fig. 5(a)). After animation of the PVC, the sample contained small particles settling on its surface and a uniform structure. This was a result of the reaction between the PVC and EDA (Fig. 5(b)). Fig. 5c shows a smooth surface morphology, which confirms that the oxidation of the animated PVC to the modified PVC was successful.
+
+Download: Download high-res image (941KB)
+Download: Download full-size image
+Fig. 5. FE-SEM images of (a) PVC (b) animate PVC and (c) modified PVC.
+
+3.2. Electrochemical characterization
+Fig. 6(a) presents CV studies of the modified PVC ion-selective membrane at concentrations from 3 ppm to 15 ppm of nitrate-nitrogen. The cyclic voltammograms were measured in 100 mM PBS solution containing 50 mM K4Fe(CN6) in the range of −1.0 mV to 1.0 V at a scan rate of 0.02 V/s. In this condition, the cyclic voltammogram exhibited the cathodic peak current (ip) at −0.50 V. In Fig. 6(b), the CV shows that an increase of the concentration of nitrate-nitrogen resulting in decreased cathodic peak current. This is a characteristic of a reduction of nitrate group on the modified PVC.
+
+Download: Download high-res image (339KB)
+Download: Download full-size image
+Fig. 6. (a) Cyclic voltammograms of the modified PVC at scan rate of 20 mV/s. (b) CV responses of the cathodic peak current of the modified PVC at difference concentration of nitrate-nitrogen.
+
+The modified PVC membrane was further characterized by Electrochemical Impedance Spectroscopy (EIS). A basic equivalent circuit model (Randles equivalent circuit) consisted of 4 components: solution resistance (RS), double-layer capacitance (Cd), charge-transfer resistance (RCT) and Warburg impedance (ZW). A charge transfer resistance value (Rct) could be evaluated from the measurement of a semicircle diameters [24].
+Fig. 7(a) shows EIS results obtained from the modified PVC from detection of 3 ppm to 20 ppm nitrate-nitrogen. The RCT of the modified PVC membrane decreased when the nitrate concentration increased as a result of nitrate ion interaction at the surface of electrode. This mechanism reduced a nitrite ion to produce an electron, which was a process of reducing RCT. Fig. 7(b) shows the Rct of the modified PVC as a function of nitrate ion concentration.
+
+Download: Download high-res image (272KB)
+Download: Download full-size image
+Fig. 7. (a) EIS of the modified PVC with varied nitrate ion concentration. (b) The Rct of the modified PVC as a linear relationship to logarithmic nitrate ion concentration.
+
+A cyclic voltammetry was used to study the electrochemical reaction on the modified PVC surface while EIS was used to investigate specific responses of the modified PVC to the concentration of nitrate ions. The EIS results agreed well with the CV results and the nitrate ion detection performance of the modified PVC.
+3.3. Determination of nitrate sensing using the modified PVC
+Fig. 8 shows measurement characteristics of nitrate sensors. A nitrate-nitrogen concentration range of 3 – 20 ppm measurement could be achieved with LOD of 1.20 ppm with a linear range covering the entire concentration range. A detection sensitivity was 56 ± 2 mV/dec with a response time of 60 s and a linearity of 0.997. The LOD was calculated using the 3 SD/S, where 3SD = Standard deviation of blank and S = Sensitivity [25]. The repeatability was evaluated by measuring 30 replicate measurements. The measurement of nitrate ISFET sensor is reproducible with sensitivity of 56 ± 2 mV/dec in nitrate-nitrogen solution with a SD of 2.12 mv.
+
+Download: Download high-res image (125KB)
+Download: Download full-size image
+Fig. 8. Linear relationship between output voltage of nitrate sensor and logarithmic nitrate concentration in the range of 3–20 ppm.
+
+3.4. Chloride interference study
+Chloride is the main interference for nitrate measurement. Selectivity coefficients KIJ was used as indicators due to their responses to sample species selectively over other ions in a solution. A fixed interference method was use as evaluation of these parameters by which chloride interference ion was kept constant while nitrate ion was varied from 3 ppm to 20 ppm. Linear extrapolations of these responses at high chloride ion interference and low nitrate ion resulted in characteristic curve of Cl interference moving up to cross control nitrate characteristic curve. The interception was defined as the detection limit of chloride interference, which was found to be 250 ppm, as shown in Fig. 9.
+
+Download: Download high-res image (195KB)
+Download: Download full-size image
+Fig. 9. The measurement of chloride Interference.
+
+3.5. Sensor applications
+The nitrate sensor is useful for agricultures and water reserve managements since overdose of nitrate will contaminate underground water. Our experiments were started from cleaning a tensiometer, putting sand in a bucket, and inserting the tensiometer into the bucket. The sand was flooded with tap water to rinse out any residual ions in the sand (Fig. 10). After that, DI water was flown with known combination of chloride and nitrate concentration into the bucket. The experiment shows the measurement procedure for nitrogen-nitrate in water extracted from soil using a tensiometer. The result from the sensor showed measurements of nitrate with Cl interference in the water sample, which was found to be about 240 ppm.
+
+Download: Download high-res image (399KB)
+Download: Download full-size image
+Fig. 10. In-field measurement nitrate (a) flow water in process; (b) flow nitrate solution in process; and (c) measurement process.
+
+4. Conclusions
+This study described the modification of PVC ion-selective membrane through the animation of PVC and the oxidation of animated PVC on the nitrate ISFET sensor which also improved chloride interference significantly. The structure and morphology of the membrane were characterized using FTIR, 1H NMR, GPC and FE-SEM to confirm validity of the results. Fabricated sensors had the detection limit of 1.2 ppm, linear range of 3–20 ppm, sensitivity of 56 ± 2 mV/dec, the response time of 60 s and the linearity of characteristic curve at 0.997. The proposed modified PVC could significantly eliminate chloride interference and detect nitrate among the present of 240 ppm chloride in the test environment. This highly sensitive and selective nitrate sensor is promising to be applied in most common situation where mixing of other chemical can interfere with measurement results. The sensor can be conveniently utilized in many applications such as agriculture, water supply monitoring systems and medical diagnostic devices.
+5. Credit author statement
+W. Chaisriratanakul, W. Bunjongpru, W. Jeamsaksiri and D. Phromyothin designed this experiment, and W. Chaisriratanakul prepared the manuscript. W. Chaisriratanakul, P. Pengpad, E. Chaowicharat, A. Pankiew, N. Thornyanadacha, A. Srisuwan, M. Horprathum, and D. Phromyothin have analyzed the results and discussed the manuscript during preparation. All authors discussed the results and implications and commented on the manuscript at all stages.
+Acknowledgements
+This work is funded by National Science and Technology Development Agency (NSTDA). The sensors were fabricated at Thai Microelectronics Centers (TMEC) cleanroom facility. The authors would like to thank all TMEC process engineers for fabricating the sensors and Prof. S. Seraphin for fruitful discussion about the manuscript.

@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_bs.mie.2018.06.001",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "urea",
+      "lower_detection_limit": "1 μM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "urease",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "6",
+      "test_medium": "10 mM KCl + 0.1 mM HEPES buffer (adjusted to pH 6)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "Cu2+",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "1000 nM",
+      "probe_material": "urease",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "6",
+      "test_medium": "10 mM KCl + 0.1 mM HEPES buffer (adjusted to pH 6) with 0.2 mM urea"
+    }
+  ]
+}

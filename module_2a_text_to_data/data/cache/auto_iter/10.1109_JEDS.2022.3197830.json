@@ -1,0 +1,15 @@
+{
+  "stem": "10.1109_JEDS.2022.3197830",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ascorbic acid",
+      "lower_detection_limit": "7.8e-6 M",
+      "upper_detection_limit": "2e-3 M",
+      "probe_material": "ascorbate oxidase/RuO2",
+      "test_operating_temperature (celcius)": "37.5 °C",
+      "pH_value": "7",
+      "test_medium": "phosphate buffered saline/water"
+    }
+  ]
+}

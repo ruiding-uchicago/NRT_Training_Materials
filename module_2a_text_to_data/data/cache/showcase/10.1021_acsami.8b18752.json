@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsami.8b18752",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "2,2′-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS•)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

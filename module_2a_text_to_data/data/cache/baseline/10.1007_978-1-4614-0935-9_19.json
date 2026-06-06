@@ -1,0 +1,16 @@
+{
+  "stem": "10.1007_978-1-4614-0935-9_19",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "humidity (water vapor)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "polyhexylthiophene (P3HT) dispersed in porous titanium dioxide (TiO2)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "air",
+      "notes": "The paper focuses on the humidity response and air stability of OFETs based on polyhexylthiophene in porous TiO2. Quantitative detection limits are not provided."
+    }
+  ]
+}

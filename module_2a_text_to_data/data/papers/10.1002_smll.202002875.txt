@@ -1,0 +1,380 @@
+Effects of Water and Different Solutes on Carbon-Nanotube Low-Voltage Field-Effect Transistors
+Amir M. Foudeh, Raphael Pfattner, Shiheng Lu, Nicola S. Kubzdela, Theodore Z. Gao, Ting Lei, Zhenan Bao
+First published: 21 July 2020 https://doi.org/10.1002/smll.202002875Citations: 5
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+Semiconducting single-walled carbon nanotubes (swCNTs) are a promising class of materials for emerging applications. In particular, they are demonstrated to possess excellent biosensing capabilities, and are poised to address existing challenges in sensor reliability, sensitivity, and selectivity. This work focuses on swCNT field-effect transistors (FETs) employing rubbery double-layer capacitive dielectric poly(vinylidene fluoride-co-hexafluoropropylene). These devices exhibit small device-to-device variation as well as high current output at low voltages (<0.5 V), making them compatible with most physiological liquids. Using this platform, the swCNT devices are directly exposed to aqueous solutions containing different solutes to characterize their effects on FET current–voltage (FET I–V) characteristics. Clear deviation from ideal characteristics is observed when swCNTs are directly contacted by water. Such changes are attributed to strong interactions between water molecules and sp2-hybridized carbon structures. Selective response to Hg2+ is discussed along with reversible pH effect using two distinct device geometries. Additionally, the influence of aqueous ammonium/ammonia in direct contact with the swCNTs is investigated. Understanding the FET I–V characteristics of low-voltage swCNT FETs may provide insights for future development of stable, reliable, and selective biosensor systems.
+
+1 Introduction
+Carbon nanotubes (CNTs) possess robust mechanical properties, thermal conductivity, and extraordinary electrical performance due to their unique structure and bonding.[1, 2] In particular, their sp2-hybridization allows for considerable electronic delocalization, resulting in excellent charge transport.[3] In recent years, semiconducting carbon nanotubes have found applications in novel high performance electronics[4, 5] as well as in the emerging field of biosensors.[6-9] However, as highlighted in a recent review on carbon nanotube chemical sensors, selectivity in such sensors remains poorly understood, and thus presents an important challenge.[10]
+
+Functionalized and pristine individual CNTs have shown high sensitivity and selectivity down to the single molecule level.[11-14] However, single CNT devices are challenging to make and characterize compared to CNT networks which add further complexity due to inter-CNT contacts. Such systems may not be as sensitive or selective compared to single CNT devices, but may be a cost-effective alternative for particular environments.[15, 16] One roadblock to the development of reliable biosensors is the complex behavior of water confined to small volumes or surfaces. The high dielectric permittivity of water molecules (εr ≈ 80) is typically measured in bulk, i.e., water molecules are able to rotate freely in 3D. Once water is confined to a small volume or on surface, the rotational degree of freedom is reduced, resulting in a dramatic decrease of its permittivity to a value of about εr ≈ 2.[17, 18] Milli-Q (MQ) water, ultrapure water purified employing well established protocols (ISO: 3696), exhibits a resistivity of about ρ = 18.2 MΩ cm under strictly controlled conditions (i.e., without exposure to ambient atmosphere).[19, 20] On the other hand, once exposed to ambient conditions, which typically has a CO2 concentration of about 414 ppm,[21] the room temperature conductivity and pH of MQ water eventually stabilize at σ = 1 ± 0.5 µS cm−1 and 5.5, respectively.[22, 23] In addition to its complex behavior, water also possesses a low electrochemical window (i.e., as narrow as 1.23 V).[24] Practical aqueous-based biosensors must therefore operate in low-voltage conditions. This further demonstrates that water and its solutes constitutes a complex medium and its impact on device characteristics must be understood in greater detail due to the fact that most physiological fluids contain a high degree of water indispensable for many vital processes.
+
+Here, we report on the characteristics of single-walled carbon nanotube (swCNT) networks exposed directly to aqueous solutions containing different solutes. This is made possible by employing a solid-state dielectric poly(vinylidene fluoride-co-hexafluoropropylene) (ePVDF-HFP), which has been demonstrated to be compatible with swCNTs and also enables low-voltage field-effect transistor (FET) operation.[25, 26] We show that upon exposure to pure water or water containing different electrolytes, a change in on-current, threshold voltage, and apparent device mobility can be observed. Clear deviations from ideality are observed when swCNTs are directly contacted by water. Selective response to Hg2+ is discussed along with reversible pH response using two distinct device geometries. Additionally, the influence of aqueous ammonium/ammonia in direct contact with the swCNTs is investigated. These results demonstrate that carefully analyzing the FET current–voltage (I–V) characteristics can offer insight into the sensing mechanisms of CNT-based biosensors[10, 27] crucial for the development of stable, reliable, and selective biosensor systems.
+
+2 Results and Discussion
+The device structure used for this study is shown schematically in Figure 1a. These devices are bottom-gate, top-contact and utilize ePVDF-HFP as the dielectric as mentioned above.[25, 26] Device preparation is discussed in detail in the Experimental Section. To confirm that swCNTs can be deposited on the hydrophobic ePVDF-HFP layer, we utilized atomic force microscopy (AFM). A network composed of interconnected swCNTs with uniform thickness is clearly visible on top of the ePVDF-HFP layer in both the topography and phase images, with a surface roughness of about RRMS = 0.72 nm, and the maximum peak values in topography of RPV = 6.5 nm (Figure 1b,c). An average tube thickness of about 1.2 ± 0.6 nm was extracted, which is consistent with the diameter of arc-discharged swCNTs (see Section S1 in the Supporting Information).
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Electrical characteristics of low-voltage, single-walled carbon nanotube (swCNT) network field-effect transistors. a) FET device structure consisting of bottom-gate, top-contact geometry comprising a d = 1.4 µm thick dielectric layer; thermally evaporated 5/50 nm thick chromium/gold source and drain electrodes. Channel widths of W = 4 mm and varying channel lengths L = 50, 100, and 200 µm were used in this work. Chemical structure of the double-layer dielectric ePVDF-HFP is shown below. b,c) AFM images of solution-processed swCNT networks on top of ePVDF-HFP, topography and phase, respectively. d) Threshold voltage histogram for 95 devices. The average threshold voltages calculated in the linear (VD = −0.1 V) and saturation regime (VD = −1.0 V) are VTH,lin = 49 ± 200 mV and VTH,sat = 93 ± 180 mV, respectively. e) Field-effect mobility histograms for the same 95 devices; the corresponding average values in the linear and saturation regimes are: µlin = 22 ± 5 cm2 V−1 s−1 and µsat = 27 ± 7 cm2 V−1 s−1, respectively.
+The dielectric properties of ePVDF-HFP were studied in detail in previous works.[25, 26] Stability of the dielectric layer was addressed by comparing the as-prepared capacitors, with vacuum annealed (four days), immersed in MQ water (24 h) and in artificial perspiration (24 h) exhibiting high stability and negligible changes with a constant capacitance value of about Ci = 300 ± 50 nF cm−2 in agreement with previous data (see also Figure S2 in the Supporting Information).
+
+To benchmark our swCNT-FET devices in the absence of aqueous media, electrical characterization was carried out under ambient conditions (T = 25 °C and relative humidity (RH) = 38–43%). Figure 1d,e shows the threshold voltages and mobility extracted for a total of 95 devices. FET mobility and threshold voltages were extracted in both the linear and saturation regimes by employing different drain–source voltages (VD = −0.1 V for linear and VD = −1 V for saturation). All devices exhibited clear p-channel behavior, which is expected for CNT-based FETs in ambient conditions due to oxygen p-doping (see also Figures S6 and S7 in the Supporting Information).[10]
+
+Threshold voltage (VTH) was extracted by taking the x-axis intercept of the linear regression in linearized drain currents. As clearly seen in Figure 1d, operation in both linear and saturation regimes lead to a Gaussian distribution of VTH values centered close to zero. In the linear regime, we found that VTH,lin = 49 ± 200 mV, while in the saturation regime, VTH,sat = 93 ± 180 mV.
+
+Mobility values were extracted by taking the slope of the linear regression of linearized drain currents, and therefore represents an average value over a range of gate voltages. Values as high as µlin = 22 ± 5 cm2 V−1 s−1 and µsat = 27 ± 7 cm2 V−1 s−1 were extracted for the linear and saturation regimes, respectively (Figure 1e). We note that a slightly higher value for saturation mobility, along with a higher standard deviation compared to values extracted in the linear regime are in agreement with previous publications;[26] this is often attributed to the lower contact resistance at higher drain bias. Although charge carrier transport in individual swCNTs is described best with the ballistic transport, swCNT networks are usually composed by multiple swCNT junctions in the transport pathways. Such junctions often limit the mean free path of charge carriers, thus resulting in much lower charge carrier mobility, i.e., diffusive mobility. In this context, it is interesting to note, that even for high performance CNT thin-film FETs and very short channels (L = 200 nm) operating in gigahertz integrated circuits, a strong gate-voltage-dependent transconductance was still reported.[28] To characterize the ideality of our devices, we use the recently introduced reliability factor (r), defined as the ratio of the maximum channel conductivity experimentally achieved in a FET at the maximum gate voltage to the maximum channel conductivity expected in a correctly functioning ideal FET.[29] For an ideal device, this factor is close to r = 1 and reflects a gate-voltage-independent mobility with the same value in both linear and saturation regimes (see also Section S3 in the Supporting Information). Although high values of r (i.e., typically r > 96%) were extracted for our devices, some deviations from ideal metal–oxide–semiconductor field-effect transistor (MOSFET) theory were noted in the linear regime (vide infra). Despite these deviations, however, both mobility values as well as the drain currents are high even at voltages below 0.5 V, the voltage threshold for full compatibility with most physiological media. Additionally, high reproducibility and low device-to-device variation for samples prepared from the same batch of swCNTs ink were observed. Thus, the combination of swCNTs and ePVDF-HFP represents an ideal platform to study the effect of aqueous media on the electrical characteristics of swCNT FETs in low-voltage conditions.
+
+2.1 Bias Stress and Stability under Different Environments
+It is known that swCNT FETs measured under inert conditions exhibit ambipolar device (i.e., both electron and hole transport) characteristics. On the other hand, when measured under ambient conditions, swCNTs are typically p-doped due to physisorption of oxygen on surface.[10] In this context, possible effects leading to a change in the swCNT network conductance upon interaction with an analyte in the channel region are as follows:
+Increase (decrease) in swCNTs conductance (σ) caused by p-doping (n-doping) is typically reflected by a shift of threshold voltage toward more positive (negative) values;
+
+Decrease in charge carrier mobility (µ) can be caused by introduction of electrical defects due to reorganization of swCNT network or charge carrier traps in both p- and n-channel operations;
+
+Increase in swCNT network conductance (σ) caused by introduction of nonpercolating high-conducting sites in both p- and n-channel operations.
+
+The phenomena listed above can occur both along a single swCNT and/or between CNT tube-to-tube connections. Device characteristics may also change due to contact effects between electrode metal and swCNTs, such as Schottky barrier modulation. Top-contact architectures may reduce such variations since the swCNT network is fully covered by the electrode material. With the aim of gaining information on bias stability, we operated the FETs under continuous bias and carried out electrical measurements under ambient conditions. Figure 2a shows the typical output characteristics of swCNT-based low-voltage FET measured as-prepared, compared to the same device after about 45 min of applied bias, shown in Figure 2b. More information regarding bias stress measurements and the employed protocol is reported in the Experimental Section as well as in Section S3 (Supporting Information). Very low hysteresis effects were found in the output characteristics both in curves before and after bias stress. Importantly, the on-current remained almost unchanged, exhibiting only a slight decrease at low gate voltages. Once the same device was measured directly exposed to phosphate-buffered saline (PBS), diluted to 20 times (PBS 0.05×), it again exhibits low hysteresis effects and good bias stability. PBS is often used to emulate physiological liquids and constitutes an easily accessible medium to study the influence of different solutes on device characteristics (see also Figure S19 in the Supporting Information). This demonstrates that the swCNT-based network has high electrical stability and robustness to bias stress. However, a clear decrease in on-current at high gate voltage was observed in PBS 0.05× (Figure 2e,f).
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Low-voltage CNT-based field-effect transistors. a,b) swCNT FET output characteristics measured under ambient conditions (T = 25 ± 3 °C, RH = 38–43%) before and after bias stress experiments of about 45 min. e,f) Output characteristics of the same device before and after bias stress in PBS 0.05×. c,d) Evolution of gate-voltage-dependent apparent mobility under ambient conditions, and g,h) under PBS 0.05×.
+The mobility in ideal MOSFETs measured in the linear regime (at low |VD|) is inversely proportional to the drain voltage, while it gets independent from drain voltage in the saturation regime (at high |VD|). Thus, three different drain voltages for both regimes were used to monitor device ideality. The mobility profile, on the other hand, contrary to conventional MOSFET theory, exhibits strong gate voltage dependence in both the linear and saturation regimes, shown in Figure 2c,d. Average mobility values extracted by the linear-fit method represented in Figure 1e are probably closer to the real swCNT network mobility, while the strongly gate-voltage-dependent values in Figure 2c,d represent apparent field-effect mobility. Mobility extraction by MOSFET theory assumes constant charge carrier mobility and voltage-independent gate capacitance. This, however, might not be the case for CNT networks under humid environments, and multiple polarization mechanisms (vide infra) might be involved, leading to an apparent charge carrier mobility.
+
+For polymer-based FETs, similar effects have been attributed to the presence of water.[30, 31] Recently, for polymer and small-molecule-based diodes, the presence of water pockets inside the electrically active material was shown to exhibit localized trap states measured at about Etrap = 0.3–0.4 eV above (below) the highest occupied molecular orbital (lowest unoccupied molecular orbital) of the active material.[32] Water clusters were proposed to be the source of hole trapping limiting hole transport when the ionization energy of a material surpasses 6 eV.[33] Similarly, we believe that the presence of water or humidity at the surface of swCNTs has a strong influence on the local electric field, and thus on the charge transport in the FET.[34, 35]
+
+Next, we investigated the influence of stabilized Milli-Q water (stabilized under ambient conditions: i.e., σ = 1 ± 0.5 µS cm−1 and pH of about 5.5 ± 0.5 for 24 h) in direct contact with the CNT network. Immediately after injection of stabilized MQ water into the polydimethylsiloxane (PDMS) reservoir, output characteristics were measured (Section S3, Supporting Information). We observed that the drain current started to decrease at high gate values, but interestingly the output characteristics exhibited a strong “p-doped” like behavior indicated by a change in threshold voltage to more positive values as well as less-effective bottom-gating (i.e., devices cannot be switched off even at elevated positive VG). This can be observed in the relatively high and positive threshold voltage VTH = 1.5 ± 0.1 V, for both linear and saturation regimes extracted from transfer characteristics compared to values for the same device of VTH = 0.3 ± 0.2 V in ambient conditions. Threshold voltages in all media (air, MQ water, and PBS 0.05×, vide infra) were extracted in the following voltage ranges: linear regime with VD = −0.1 V: −1 < VG < −0.5; saturation regime with VD = −0.5 V: −0.55 < VG < −0.3. Hysteresis effects in transfer characteristics are a powerful tool to study polarization mechanisms, however, as reported in previous works,[25, 26] due to the double layer formation in ePVDF-HFP at low frequency, fast changes are masked. Transfer characteristics, with a constant sweep speed of vspeed = 17.3 ± 0.2 mV s−1, both in linear and saturation regimes shown in Figure 3, appeared to exhibit two regions of gate-voltage-dependent drain current as evidenced by the change in slope, when measured in MQ water. This suggests that there may be other additional polarization mechanisms such as orientated water molecules in a thin water layer on the CNT surface.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Low-voltage CNT-based field-effect transistors. swCNT FET transfer characteristics measured in a) linear and b) saturation regimes. Drain current (ID) measured under ambient conditions (T = 25 ± 3 °C, RH = 38–43%) shown in square symbols, MQ water shown in circular symbols, and PBS 0.05× shown in triangular symbols, respectively.
+After 45 min of bias stress, the bottom-gate effect was partially recovered, exhibiting a threshold voltage closer to zero with a value of about VTH = 0.5 ± 0.1 V. The maximum drain current in the output characteristics at high gate voltage, however, decreased from a value of ID = 72 µA measured under ambient conditions to a value of about ID = 32 µA measured in stabilized MQ water.
+
+Judging from the abrupt increase of VTH and almost unchanged on-current at high gate values, as well as reversibility upon water removal, we attribute the drastic change to a variation of the effective gate-field, rather than desorption of CNTs from the surface. Reversibility upon water removal is a very important aspect specially for targeting durable biosensors. In this context, the importance of water molecules and their electrostatic interaction in proximity to sp2-hybridized carbon atoms was recently reported.[36-41]
+
+FET mobility, on the other hand, shows a significant decrease to about 40 ± 5% of the initial value measured under ambient conditions. This was found to be the case for both gate-voltage-dependent apparent mobility as well as for mobility values extracted employing the linear fit method in both linear and saturation regimes. This further supports our hypothesis that the changes in the electrical behavior of the swCNT network is due to the presence of water changing the effective electric gate-field close to the CNT network.
+
+Figure 2e shows exposure of the same device to PBS 0.05× with the corresponding electrical bias stress in Figure 2f. The electrical properties of PBS 0.05× have been measured by four-probe-AC techniques and exhibit a much higher conductivity than pure water of about σ = 0.94 ± 0.05 mS cm−1 at T = 25 ± 3 °C. Similar to our earlier result, negligible changes were observed under 45 min of electrical bias even when the swCNT network is exposed to PBS 0.05×. This highlights high bias stability, but importantly, also high sensitivity of swCNTs networks in aqueous environments and its potential for biosensors operating in biological liquids.
+
+2.2 Selective Response of Carbon Nanotube FETs to Mercury Ions
+To study the influence of different solutes on the performance and device characteristics of low-voltage swCNT FETs, we investigated exposure of our CNT FET to several previously reported analytes in aqueous conditions. We started with Hg2+ ions in water. Previously, it has been shown that by dissolving HgCl2 in water, Hg2+ can be selectively detected by CNTs.[42] Solutions containing Hg2+ in different concentrations ranging from 1 × 10−9 to 100 × 10−6 m were prepared and allowed to stabilize at room temperature T = 25 ± 3 °C. Two sets of samples were studied and compared: a first batch with CNTs as-prepared and a second batch with CNTs activated by oxygen plasma treatment (5 s, 150 W).
+
+Figure 4a shows drain current (ID) and gate leakage current (IG) measured in low-voltage CNT FETs applying constant VD = −0.1 V and VG = −0.3 V at increasing concentrations of HgCl2 in MQ water. These voltage parameters, i.e., linear regime, were chosen in agreement with very stable on-current and negligible leakage current. Our measurement setup allows us to investigate the dependence of ID on different solute concentrations while applying low voltages compatible with most electrolytes in water. Figure 4b shows the results from a similar experiment done with plasma-treated CNTs. Drain currents measured in stabilized MQ water were extracted to be I0,ap = 115 ± 5 nA and I0,plasma = 24 ± 5 nA, for the as-prepared and plasma-treated samples, respectively. This is in agreement with literature values, wherein plasma treatment resulted in drain current decreases for swCNT FETs driven in p-channel operation due to the introduction of electrical defects (CO, CO, OCO).[43, 44]
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Selective response to mercury (Hg2+). a) Drain current (ID) and gate leakage current (IG) measured in low-voltage CNT FETs applying constant VD = −0.1 V and VG = −0.3 V at different concentrations of HgCl2 in MQ water. c) Response (ΔI/I0) to different concentrations of Hg2+ ions with log–log plot in the inset. b) ID and IG measured at constant VD = −0.1 V and VG = −0.3 V of plasma-activated low-voltage CNT FETs with d) the corresponding response and log–log plot in the inset. e) Semilogarithmic ID-transfer characteristics at VD = −95 mV measured in water with different ions for selective detection of HgCl2. f) The corresponding transconductance (∂ID/∂VG) at different ion concentrations.
+A clear increase of drain current at higher levels of HgCl2 in water was observed in both cases, reaching a comparable maximum drain current of ID,ap = 2.1 ± 0.1 µA and ID,plasma = 3.0 ± 0.1 µA, for the as-prepared (ap) and plasma-treated samples (plasma) (cHgCl2 = 100 × 10−6 m), respectively. Although very different initial drain currents in stabilized MQ water were measured for both the as-prepared and plasma-treated samples (I0,ap = 115 ± 5 nA and I0,plasma = 24 ± 5 nA), the maximum current at 100 × 10−6 m of HgCl2 was surprisingly similar. To quantitatively understand the relationship between HgCl2 concentration and drain current, we plotted ΔI/I0 (response) as a function of Hg2+ concentration, shown in Figure 4c,d. Both device types exhibit a clear increase in drain current at higher Hg2+ concentration. Interestingly, similar for both the as-prepared and plasma-activated CNTs, the response started to increase at concentrations Hg2+ higher than 1 × 10−6 m. At 1 × 10−6 m HgCl2, the electrical conductivity was found to be very close to that of stabilized MQ water (σ = 1 ± 0.5 µS cm−1). In both cases, response increases fairly linearly with concentrations of HgCl2. Performing a linear regression of the response reveals that the plasma-treated swCNTs show higher sensitivity to Hg2+ with Sap = 359% dec−1 and Spa = 8013% dec−1, for the as-prepared and plasma-activated CNTs, respectively. Interestingly, the insets shown in Figure 4c,d exhibit a typical behavior one would expect for a material in transition from nonpercolating charge transport toward percolation.[45] According to classical percolation theory, an insulator–conductor transition takes place when the volume fraction of the conductive phase approaches the percolation threshold. This is consistent with our observation of a solute-concentration-dependent drain current, and suggests that 1 × 10−6 m HgCl2 is the threshold for the insulator–conductor transition.
+
+The selectivity of mercury detection was further tested in the as-prepared devices by exposing them to a set of solutions, including both mono- and bivalent ionic solutions: ZnCl2, CuCl2, MgCl2, NaCl, CaCl2, MQ water, HgCl2. High selectivity of the swCNT network toward HgCl2 was observed and is clearly visible, reflecting in a shift of the transfer curve toward higher values of ID (Figure 4e). Detection results in terms of sensitivity and selectivity are comparable to literature data.[42] This may be due to two separate reasons: 1) the creation of an alternative conduction path through elements connected electrically in parallel to the semiconducting swCNT network or 2) p-type doping by HgCl2. To confirm that the solutes themselves did not contribute to the measured conductivity of the device, the conductivity of all solutions was measured and found to be at least 2 orders lower compared to the estimated swCNT conductivity in the on state at VD = −0.1 V and VG = −0.3 V.
+
+Previously, swCNT conductance increase upon exposure to Hg2+ was attributed to the favorable and irreversible reduction of Hg2+ to Hg0 by swCNTs at less negative reaction potentials than needed for other ions. The same study noted the formation of Hg0 clusters adjacent to swCNTs, which may also be present in our samples.[42]
+
+Moreover, for all tested metal ions, including recent literature reports,[42, 46, 47] mercury is the only metal existing in liquid form at ambient conditions (i.e., p = 1013 mbar, T = 25 °C). Due to its high surface tension, mercury does not wet, and tends to form liquid droplets. Liquid metals such as mercury possess no periodic structure and tend to have conductivities slightly lower than solid metals, on the order of σ = 1 × 104 S cm−1.[48]
+
+Therefore, we believe that probably the origin for Hg2+ sensitivity in swCNTs may be twofold. i) Strong redox reaction between Hg2+ and swCNTs resulting in swCNTs2+. This would cause p-type doping of the swCNTs, resulting in a positive threshold voltage shift and ID current increase in p-channel FETs, both of which we observed. ii) Formation of Hg0 clusters, adjacent to the swCNTs (electrical healing of defects) and/or at tube-to-tube junctions (reducing intertube contact resistances) which act as resistive element with good conductivity, electrically connected in parallel to pristine semiconducting swCNTs network. Such a resistive element would not be affected by the gate voltage. In fact, the same transconductance (∂ID/∂VG, which is proportional to mobility) was found for all tested species of ions including HgCl2 (Figure 4f). Similarly, gate leakage current was also found to be the same for all measured conditions (see also Figure S12 in the Supporting Information). This hypothesis would also explain the irreversibility of Hg2+ detection, normally seen in such sensors with electrical readout. It is, however, difficult to unambiguously decouple the extent to which either mechanism dominates.
+
+Reversible electrical Hg2+ detection on the other hand has been recently shown in swCNT FETs employing functionalization, using a 33-base thiolated-DNA probe, which demonstrated selective binding due to a conformational change, while mercury remains in the oxidation state Hg2+.[47, 49, 50] This approach was found to work even in very complex aqueous media, such as the marine environment. This further highlights the high sensitivity and selectivity of electrically driven networks of swCNTs in aqueous solutions, but shows on the other hand also that in such systems, multiple working mechanisms are often superimposed.
+
+2.3 Reversible pH Response and Ammonium/Ammonia Detection of swCNT FETs
+It is known that pH has an important influence on the electrical I–V characteristics of devices with active layer materials based on conjugated carbon (i.e., swCNTs, graphene). In graphene-based devices, for instance, the Dirac voltage (VDirac = gate voltage with balanced electron and hole transport) is highly sensitive to pH variations. VDirac has been observed to shift toward more positive values with increasing pH, which was attributed to accumulation of holes and an increase in the hydroxide ion concentration (OH−) near the graphene layer (p-type doping).[51]
+
+In order to investigate the pH response of our swCNT FET, a set of solutions employing PBS 0.05× with adjusted pH were prepared. The measurement setup was modified to include a PDMS flow cell on top of the swCNT FET that contained a Pt electrode connected to source (GND) to electrically stabilize the electrolyte solution. Figure 5a shows changes of ID as well as IG with pH for the swCNT FETs. Contrary to what expected for a p-channel material and electrostatic or capacitive coupling, ID current clearly decreases at higher pH levels.
+
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Low-voltage swCNT FET response to pH and NH4OH. a) Drain current (ID) and gate-leakage current (IG) measured at VD = −0.1 V and VG = −0.3 V with the swCNT network exposed to PBS 0.05× at different pH. b) Reversible pH response of the swCNT FET with 3rd order polynomial fit. c) pH response of the swCNT FET with different concentrations of NH4OH (shown in different colors) in host solutions of different ionic strengths (shown in different symbols: MQ water (○), PBS 0.05× (□), and PBS 0.5× (∆)). d) swCNT FET response to NH4OH concentration in host solutions with different ionic strengths.
+Recently, plasma-activated aligned swCNTs have been used as a pH sensing element in extended gate architectures, coupled to a commercial n-MOSFET.[43, 52] Highly aligned swCNTs were connected in series between a n-MOSFET-gate, electrolyte solution, and reference electrode, and exhibited a clear current decrease at higher pH levels. This is in agreement with the decreasing current observed in our swCNT FETs at high pH levels. A similar response has also been observed in graphene-based pH sensors with the active layer directly exposed to the electrolyte solution and buffer concentrations of 0.05 m. Importantly, by changing the buffer composition, both positive and negative shifts of VDirac were observed, thus leading to a buffer-dependent or apparent pH sensitivity.[51]
+
+Figure 5b shows the reversible pH response (ΔI/I0) extracted from Figure 5a, which clearly follows a 3rd order polynomial behavior. This further implies that the sensitivity (S = ∂[ΔI/I0]/∂pH) would be described best by a quadratic expression. Common pH sensors typically show a linear response to pH, as reflected in a constant sensitivity. This means that multiple sensing mechanisms toward pH may be superimposed in our swCNT FETs, thus leading to this higher order dependence. Once the CNT network is exposed to aqueous environments, a thin water layer on top of CNT surface may enable doping/dedoping along with other electrostatic interactions, which can become even more complex by adding electrolytes.
+
+To investigate if better-defined electrical response can be observed, we deposit an insulating layer on the CNT surface that can potentially allow electrostatic modulation of CNT I–V characteristics. Previously, we have shown that by evaporating 50 nm of SiOx as a topmost encapsulation and pH sensitive layer in FET structures allows for reversible pH sensing with constant sensitivity.[53] Therefore, as a proof of concept, we deposited on top of the swCNT network 50 nm of thermally evaporated SiOx covering both the FET channel and source–drain electrodes. By employing a Pt electrode connected to source (GND) to electrically stabilize the electrolyte solution, we studied the response of our device to different solutions of PBS 0.1× at different pH. Figure S13 (Supporting Information) shows a typical pH response of such a transistor driven at VD = −50 mV and VG = −300 mV. The current clearly increased at higher pH values, showing good reversibility and exhibited a sensitivity of about SpH = 8 ± 1% pH−1. At a lower gate voltage (VG = −150 mV), a higher sensitivity of SpH = 11 ± 1% pH−1 was extracted for the same device (Figure S15, Supporting Information). This is consistent with electrostatic sensing theory, the site binding model,[54] and capacitive coupling of the pH sensitive SiOx topmost layer.
+
+As anticipated earlier, devices fabricated using swCNTs grown by chemical vapor deposition on silicon substrates on top of silicon dioxide exhibited clear p-channel behavior when measured in air, while n-channel characteristics could only be measured in vacuum. It was further reported that ammonia (NH3) treatment in air resulted in a clear decrease of p-channel drain current, while a similar treatment in vacuum resulted in an increase of n-channel drain current, which was ascribed to charge transfer from ammonia physisorbed on nanotubes.[55] The influence of ammonia and nitrogen dioxide (NO2) on the electrical performance of CNTs was studied previously, exhibiting a clear decrease of drain current for NH3 while exposure to NO2 exhibited a clear increase.[56] Similar experiments have also been carried out for CNTs exposed to the same chemicals in aqueous environments.[57] From an applications point of view, the detection of ammonium concentrations in urine is highly interesting and allows for monitoring of the progression of chronic kidney diseases.[58]
+
+In order to study the response of our swCNT network to ammonium, we exposed our devices to different concentrations of NH4OH in water (Figures S16–S18, Supporting Information). Figure 5c shows the fitted 3rd order pH response of the swCNT network (data set from Figure 5b offset by 32%) compared to the measured device response to different NH4OH concentrations. Interestingly, all NH4OH solutions exhibited very similar linear responses but at greater magnitudes compared to the pH response extracted in Figure 5b. Figure 5d on the other hand shows the same data set plotted as function of NH4OH concentration. With increasing ionic strength of the solution, the drain current decrease appears to be shifted toward higher concentrations of NH4OH. This can be attributed to a decrease of the Debye length with increasing salt concentration.[59] Literature consistently points to the fact that aqueous solutions of NH3/NH4OH contain neutral ammonia (and water) molecules at a much higher concentration compared to ammonium and hydroxide ions.[60-62] These findings suggest that at the measured solution pH, NH3 appears to have a strong effect on the electrical conductivity of swCNTs and that our sensor response cannot be attributed to changes in pH only.
+
+To summarize, the pH response of our swCNT network has been tested employing different architectures, exhibiting distinct current changes attributed to different operation mechanisms. For swCNTs directly exposed to aqueous solutions, a current decrease at higher pH was observed, leading to a 3rd order pH response. This might indicate the superposition of multiple sensing mechanisms. Employing SiOx as the topmost layer for pH response, on the other hand, leads to an increased drain current at higher pH. This is consistent with previous observations of capacitive coupling of SiOx and swCNT channel, exhibiting a linear, gate-voltage-dependent pH response. With NH4OH, our devices exhibited a clear decrease of drain current with increasing concentration, an opposite trend compared to our observations with HgCl2 plotted in Figure 4. This is in agreement with previous literature.[57]
+
+3 Conclusion
+Semiconducting swCNTs are promising for emerging biomedical applications. In particular, they have demonstrated excellent biosensing capabilities, and are poised to address existing challenges in sensor reliability, sensitivity, and selectivity. In this work, we focused on swCNT FETs employing rubbery double-layer dielectric poly(vinylidene fluoride-co-hexafluoropropylene). These devices exhibit high reproducibility and small device-to-device variation as well as high current output at low voltages (<0.5 V), making them compatible with most physiological liquids. Using these devices, we monitored the FET I–V characteristics as a way of understanding the active layer's response to different aqueous environments. We showed that direct contact with aqueous environments including different solutes induced considerable changes in the electrical response of swCNT network and suggesting the coexistence of multiple sensing mechanisms. When operated in water, our device characteristics change significantly and do not exhibit ideal MOSFET behavior, possibly due to multiple superimposed polarization effects (i.e., polarization of water and different solutes in aqueous environments). This reflects the high sensitivity of such networks, but the responsiveness toward more than one stimulus complicates the design of selective sensors in complex environments. Different strategies toward the achievement of fully selective sensors, decoupling, and enhancing sensing mechanisms have been pointed out. The present work will contribute to understanding and unraveling the electrical response of swCNT networks for the development of more reliable and fully selective biosensors in complex aqueous environments.
+
+4 Experimental Section
+Material and Device Preparation
+Highly doped n-type Si (100, ρ < 0.004 Ω cm) substrates were used to fabricate common-gate rigid devices. ePVDF-HFP was purchased from 3M Co (3M Dyneon Fluoroelastomer FE) and dissolved in 2-butanone in a concentration of c = 120 mg mL−1. The obtained solutions were filtered through a 0.2 µm polytetrafluoroethylene filter and spin-coated at 1000 rpm for 1 min. After 10 min of baking at T = 80 °C in ambient conditions, all samples were vacuum annealed at T = 150 °C for 2 h in a vacuum of p = 50 mbar. Dielectric thickness was measured to be about d = 1.40 ± 0.01 µm on the Si-wafer pieces using FILMETRICS F20-EXR Thin-Film Analyzer. Cr, Au source and drain electrodes with a thickness of about d = 5/50 nm, respectively, were thermally evaporated using a shadow mask. On top, 50 nm SiOx was thermally evaporated for the second pH sensor architecture. PBS 1× was prepared by using deionized water, Milli-Q quality with ρ = 18.2 MΩ cm, and phosphate-buffered saline tablets purchased from Sigma-Aldrich. pH levels of the electrolyte solutions were changed by adding hydrochloric acid (HCl) 37% or solid sodium hydroxide (NaOH), both purchased from Sigma-Aldrich and used as obtained. PBS 0.1× and PBS 0.05× were obtained by dilution of PBS 1×. Solutions of mercury and other ions were made by dissolving chloride salts in MQ or diluted PBS solutions as follows: ZnCl2, CuCl2, MgCl2, NaCl, CaCl2, HgCl2. In case of ammonium solutions, NH4OH was used. The polymer sorted swCNTs[63] were deposited by drop casting on the ePVDF-HFP layer for 5 min. This was followed by soaking the sample in toluene for 1, 2, and 2 min to remove the wrapping polymers. Between each soaking steps, the samples were dried with nitrogen. After swCNT deposition, the substrate was annealed at 150 °C for 25 min. In order to etch the swCNTs in case of mercury response, 5 s plasma with power of 150 W was used.
+
+The electrical conductivity of all solutions was measured by using a handheld Ohaus ST10C conductivity Meter (AC), range 0.00–19.99 mS cm−1. The pH level of all solutions was measured by using a handheld Ohaus ST20 waterproofed pH meter, range 0.00–14 pH, T = 0.0–99.0 °C, and measurement resolution 0.01 pH (see also Figure S19 in the Supporting Information).
+
+Electrical Characterization and Data Analysis
+Electrical device characteristics were recorded using a setup including Keithley Source Meter, Model 2635 and Model 2400. Field-effect mobilities were calculated using the standard MOSFET model with a gate capacitance for ePVDF-HFP of Ci = 300 nF cm−2 (see also the Supporting Information).[25] Measurements under ambient conditions (T = 25 ± 3 °C and RH = 38–43%) as well as exposed to different environments were measured in a homemade flow cell system, allowing for continuous solution supply at a constant flow rate of about 0.5 mL min−1.
+
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2020.
+Supporting Information
+for Small, DOI: 10.1002/smll.202002875
+Effects of Water and Different Solutes on Carbon-Nanotube
+Low-Voltage Field-Effect Transistors
+Amir M. Foudeh, Raphael Pfattner,* Shiheng Lu, Nicola S.
+Kubzdela, Theodore Z. Gao, Ting Lei, and Zhenan Bao*
+1
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2018.
+Supporting Information
+Effects of water and different solutes on carbon-nanotube low voltage field-effect
+transistors
+Amir M. Foudeh, Raphael Pfattner,* Shiheng Lu, Nicola S. Kubzdela, Theodore Z. Gao, Ting
+Lei and Zhenan Bao*
+Table of contents
+S1) AFM measurements 2
+S2) Stability of ePVDF-HFP dielectric 3
+S3) Electrical characteristics of low voltage CNTs-FETs 5
+S3.1) Electrical characteristics of as prepared low voltage CNTs-FETs 5
+S3.2) Electrical measurement setup and bias stress under different
+environments 8
+Output characteristics: ID 9
+Output characteristics: IG 10
+Evolution of transfer characteristics linear regime: 11
+Evolution of transfer characteristics saturation regime: 12
+Evolution of time characteristics at constant bias voltage: 13
+S4) Selective response towards mercury ions 16
+S5) Reversible pH response of swCNT network 18
+S6) Ammonium response of low voltage swCNT FETs 20
+S7) Electrical conductivity of electrolyte solutions employed in experiments 22
+
+2
+S1) AFM measurements
+Figure S1 shows the AFM images for a typical swCNT network on top of ePVDFHFP with (a) topography and (b) phase. Figure S1c shows the height distribution of the
+topography image exhibiting clearly two superimposed Gaussian peaks. Peak one could be
+attributed to the height of single swCNTs, while the second peak could be attributed to
+regions where multiple tubes overlap. Values with h1 = 1.22 ± 0.64 nm and h2 = 1.65 ± 0.78
+nm, for single and overlapping tubes, have been extracted, respectively.
+Figure S1: Atomic Force Microscope (AFM) images of swCNTs – network on top of
+ePVDF-HFP. (a, b) Topography and Phase, respectively. (c) Extraction of height profile and
+deconvolution employing two Gaussian peaks.
+
+3
+S2) Stability of ePVDF-HFP dielectric
+The capacitance of ePVDF-HFP has been extracted using RC charging. This technique was
+found to be reliable for the extraction of capacitances specially for rubbery double layer
+dielectrics and is reported in more detail in a previous publication.[25] Figure S2 shows the
+calculated gate-capacitance for charging devices based on e-PVDF-HFP with a thickness of
+about 1.4 µm. Error was estimated using linear error propagation including errors of
+geometrical dimensions and error of charging resistance. Standard deviation was extracted
+from measurements with at least 9 devices. Capacitance stability was evaluated by comparing
+devices as prepared (a), after storage for four days in vacuum (p = 50 mbar) (b), after
+immersion in MQ-water for 24 h (c) and after immersion into artificial perspiration, stabilized
+eccrine, with pH 4.5, purchased from Pickering Laboratories and used without any
+modification, for 24 h (d). ePVDF-HFP exhibited high stability under all tested conditions
+with an average capacitance value of Ci = 300 ± 50 nF/cm2
+. This value was also used for all
+mobility calculations in the present work and stays well in agreement with previous
+publications.[25]
+
+4
+Figure S2: Stability of e-PVDF-HFP capacitance with a thickness of about 1.4 µm. (a)
+devices as prepared, (b) devices after four days under vacuum, (c) after immersion into MQwater for 24h and (d) after immersion into artificial perspiration, stabilized eccrine, with pH
+4.5. Standard deviation was extracted from at least 9 devices.
+
+5
+S3) Electrical characteristics of low voltage swCNTs-FETs
+S3.1) Electrical characteristics of as prepared low voltage CNTs-FETs
+Figure S3 shows transfer characteristics of a typical low voltage swCNT FET and both
+threshold voltage and field-effect mobility extraction in both the linear and the saturation
+regime. Average values obtained employing three different drain voltages were found to be
+µlin = 21.9 ± 0.8 cm2
+/Vs and µsat =25.1 ± 0.2 cm2
+/Vs, linear and saturation regime,
+respectively. The corresponding average threshold voltages exhibited Vth,lin = 0.16 ± 0.05 V
+and Vth,sat = 0.17 ± 0.01 V, linear and saturation respectively. Measurements were carried out
+under ambient conditions at T = 25 ± 3 °C and RH = 38 – 43 %. It is interesting to observe
+that the characteristics in the saturation regime exhibit higher “linearity” compared to
+extraction in the linear regime.
+Figure S3: Transfer characteristics and mobility extraction for a typical low voltage
+swCNTs FET. a) linear regime and b) saturation regime with three different drain voltages
+VD. Device channel width and length were defined with a shadow mask to W = 4 mm and L =
+200 µm, respectively. A capacitance of Ci = 300 ± 50 nF/cm2
+ was used for the ePVDF-HFP
+dielectric.[25]
+
+6
+ To account for device ideality and how close the electrical characteristics of any FET
+device follow the theoretical model predicted by Shockley equations, recently the reliability
+factor (r) was introduced.[29] For an ideal device and material, this factor reflects a gatevoltage independent mobility with the same values both in linear and saturation regime. We
+used this metric to calculate such values for a typical swCNT FET with ePVDF-HFP as
+dielectric. It can be extracted for both linear and saturation regime and calculates to:
+ (1)
+ (2)
+With ID
+max drain current measured at maximum gate voltage VG
+max, ID
+0
+ drain current at
+VG = 0 V, W and L channel width an length, respectively and Ci 300 ± 50 nF/cm2
+ gate
+capacitance per unit area.[26]
+ Using this approach, the effective mobility (µeff) can be extracted as product of
+reliability factor (r) and fitted mobility value (µfit).
+ (3)
+Table S1 show a summary of the extracted parameters with relatively high reliability
+factors (of about r = 97%) for both linear and saturation regime. It is not surprising that the
+mobility in the saturation regime exhibited a higher value compared to linear regime. This has
+often been attributed to charge trapping in defects within the electrically active layer of FETs
+and is less pronounced at higher drain voltages. Also the higher uniformity of the values
+extracted in the saturation regime can be attributed to similar effects (i.e. see last column,
+relative variation of µeff at different drain voltages.)
+Interesting in table T1 is that the relative variation of µeff in the linear regime shows a
+rather high value of about 5% which is comparable to the variation of applied drain voltages.
+Contrary to what expected, the mobility decreases with increasing drain voltage. This may be
+an indication that more complex polarization mechanisms in swCNTs network FETs are
+present and that the devices might deviate from ideal MOSFET theory.
+7
+Table T1: Measure for device ideality: µeff … effective device mobility, r … reliability
+factor, µfit … mobility extracted in linear regression, VD … drain voltage. The last column of
+the table shows drain voltage dependence and relative variation of µeff.
+8
+S3.2) Electrical measurement setup and bias stress under different enviroments
+PDMS based flow cells with a total volume of V = 170 ± 5 mm3
+ were prepared from
+Sylgard 184 silicon elastomer kit from Dow Corning Co., (ratio of base to cross linker of 10:1
+by mass). PBS 1x was prepared by using DI water, Milli-Q (MQ) quality with ρ = 18.2 MΩ
+cm, and phosphate-buffered saline tablets purchased from Sigma Aldrich. PBS 0.05x was
+obtained by 20x dilution of PBS 1x. pH levels of the electrolyte solutions were changed by
+adding hydrochloric acid (HCl) 37% or solid sodium hydroxide (NaOH), both purchased from
+Sigma Aldrich and used as obtained. ZnCl2, CuCl2, MgCl2, NaCl, CaCl2, and HgCl2 were
+purchased from Sigma Aldrich and used without further purification.
+ Electrical bias stability of low voltage swCNTs FETs under ambient conditions (T =
+25 ± 3 °C and relative humidity (RH) = 38–43%) as well as exposed to different environments
+were measured in a homemade flow cell system allowing for continuous solution supply at a
+constant flow rate of about 0.5 mL/min. The following electrical measurement protocol was
+applied:
+Output characteristics, Transfer-characteristics in linear (VD = -0.095 V, -0.1 V, -
+0.105V) and Transfer-characteristics in saturation regime (VD = -0.45 V, -0.5 V, -0.55V) were
+measured shortly after mounting the PDMS flow cell on top of the device. To obtain
+information about bias stress and device stability exposed to different electrolytes, an
+electrical bias with constant VD = -0.1 V and VG = −0.5 V, lasting for t = 1s, 3s, 10s, 30s, 100s
+was applied, after which, another set of transfer characteristics was measured. On full loop
+lasts for about 45 minutes and consists of two output characteristics, five linear and saturation
+transfer characteristics each and five time or bias measurements. This allows monitoring both
+the evolution of output and transfer characteristics and extraction of device parameters such as
+threshold voltage and field-effect mobility before and after each bias point. All remote
+measurements were carried out using homemade measurement routines and data analysis was
+done with MATLAB. All measurements were carried out at room temperature T = 25 ± 3 °C,
+after thermally stabilizing the solutions overnight to prevent temperature drift during the
+experiments. The setup was mounted within an Al measurement box, enabling electrostatic
+shielding.
+
+9
+Output characteristics: ID
+Figure S4: Evolution of ID Output characteristics measured before and after bias stress
+step for low voltage swCNTs FETs. Measurements in (a, b) air, (c, d) in stabilized MQwater and (e, f) in PBS 0.05x. (b, d, and f) characteristics measured after 45 minutes of bias
+stress.
+
+10
+Output characteristics: IG
+Figure S5: Evolution of IG Output characteristics measured before and after bias stress
+step for low voltage swCNTs FETs. Measurements in (a, b) air, (c, d) in stabilized MQwater and (e, f) in PBS 0.05x. (b, d, and f) characteristics measured after 45 minutes of bias
+stress.
+
+11
+Evolution of transfer characteristics linear regime:
+All measured devices exhibited clear p-channel behavior. The slight current increase
+in semi-logarithmic transfer curves measured in air at positive gate voltage is related to the
+polarization of the double layer dielectric, but not to n-channel transport.
+Figure S6: Evolution of transfer characteristics in the linear regime during bias stress
+test for low voltage swCNTs FETs. Measurements in air (left), stabilized MQ-water (center),
+and in PBS 0.05x (right). ID is shown in symbols while corresponding IG is shown in thin lines.
+Linear current axis (top) and logarithmic current axis (bottom).
+
+12
+Evolution of transfer characteristics saturation regime:
+All measured devices exhibited clear p-channel behavior. The slight current increase
+in semi-logarithmic transfer curves measured in air at positive gate voltage is related to the
+polarization of the double layer dielectric, but not to n-channel transport.
+Figure S7: Evolution of transfer characteristics in the saturation regime during bias
+stress test for low voltage swCNTs FETs. Measurements in air (left), stabilized MQ-water
+(center), and in PBS 0.05x (right). ID is shown in symbols while corresponding IG is shown in
+thin lines. Linear current axis (top) and logarithmic current axis (bottom).
+
+13
+Evolution of time characteristics at constant bias voltage:
+Bias stress experiments carried out under ambient conditions (T = 25 ± 3 °C and
+relative humidity (RH) = 38–43%), stabilized MQ-water and PBS 0.05x exhibited stable oncurrent of ID, air = 22.02 ± 0.02 µA, ID, MQ-water =13.84 ± 0.01 µA and ID, PBS 0.05x =10.54 ± 0.01
+µA, respectively after 1.5 minutes of bias. Interestingly, the leakage current in all tested cases
+decreased bellow IG = 10 pA after full polarization of ePVDF-HFP, exhibiting high stability
+and performance of the ePVDF-HFP dielectric at low voltage operation.
+Figure S8: Bias stress air. Ambient conditions (T = 25 ± 3 °C and relative humidity (RH) =
+38–43%). Drain (ID) and gate leakage (IG) current during five bias stress steps at VD=-0.1 V
+and VG = -0.5V.
+
+14
+Figure S9: Bias stress MQ-water. Drain (ID) and gate leakage (IG) current during five bias
+stress steps at VD=-0.1 V and VG = -0.5V.
+
+15
+Figure S10: Bias stress PBS 0.05x. Drain (ID) and gate leakage (IG) current during five bias
+stress steps at VD=-0.1 V and VG = -0.5V.
+
+16
+S4) Selective response towards mercury ions
+Figure S11: Selectivity of low voltage swCNTs FETs exposed to different electrolyte
+solutions. (a) Semi-logarithmic transfer-characteristics (ID) measured applying VD=-95 mV in
+air and stabilized MQ-water. (b) Semi-logarithmic transfer-characteristics measured applying
+VD=-95 mV in different electrolyte solutions. (c, d) Corresponding leakage currents (IG).
+
+17
+Figure S12: Selectivity of low voltage swCNTs FETs exposed to different electrolyte
+solutions. (a) Linear - Transfer-characteristics (ID) measured applying VD=-95 mV in
+different electrolyte solutions. (b) Corresponding leakage currents (IG).
+
+18
+S5) reversible pH response of swCNT network
+Figure S13: Reversible pH response of low voltage swCNTs FETs covered with 50 nm
+SiOx. (a) Drain current (ID) and leakage current (IG) measured applying at VD=-50 mV and VG
+= -300 mV. (b) pH response extracted by linear regression: S = 8 ± 1 %/pH. Measurements
+were carried out in pH modified PBS 0.1x with pH levels of 5.5 and 7.4.
+Figure S14: Reversible pH response of low voltage swCNTs FETs covered with 50 nm
+SiOx. (a) Drain current (ID) and leakage current (IG) measured applying at VD=-50 mV and VG
+= -300 mV. (b) pH response extracted by linear regression: S = 8 ± 1 %/pH. Measurements
+were carried out in pH modified PBS 0.1x with pH levels of 4.0 and 7.4.
+19
+Figure S15 Reversible pH response of low voltage swCNTs FETs covered with 50 nm
+SiOx. (a) Drain current (ID) and leakage current (IG) measured applying at VD=-50 mV and VG
+= -150 mV. (b) pH response extracted by linear regression: S = 11 ± 1 %/pH. Measurements
+were carried out in pH modified PBS 0.1x with pH levels of 4.0 and 7.4.
+20
+S6) Ammonium response of low voltage swCNT FETs
+Figure S16: NH4OH response for low voltage swCNTs FETs. (a) Drain current (ID) and
+leakage current (IG) measured applying at VD=-50 mV and VG = -150 mV. (b) Response
+extracted by linear regression: S = -11 ± 1 %/pH. Measurements were carried out in stabilized
+MQ-water.
+Figure S17: NH4OH response for low voltage swCNTs FETs. (a) Drain current (ID) and
+leakage current (IG) measured applying at VD=-50 mV and VG = -150 mV. (b) Response
+extracted by linear regression: S = -14 ± 1 %/pH. Measurements were carried out in modified
+PBS 0.05x.
+21
+Figure S18: NH4OH response for low voltage swCNTs FETs. (a) Drain current (ID) and
+leakage current (IG) measured applying at VD=-50 mV and VG = -150 mV. Measurements
+were carried out in modified PBS 0.5x.
+
+22
+S7) Electrical conductivity of electrolyte solutions employed in experiments
+Phosphate-buffered saline (PBS) is often used to emulate physiological liquids and
+constitutes an easy accessible medium to study the influence of different solutes on device
+characteristics. Its electrical conductivity at different pH levels is compared to MQ-water and
+stabilized MQ-water in Figure S19.
+Figure S19: Electrical conductivity of electrolyte solutions. The electrical conductivity of
+solutions was measured by using a handheld Ohaus ST10C conductivity Meter (AC), range
+0.00–19.99 mS·cm−1. The pH level of all solutions was measured by using a handheld Ohaus
+ST20 waterproofed pH meter, range 0.00–14 pH; T = 0.0–99.0 °C and measurement
+resolution 0.01 pH. All used “host” solutions exhibited much higher conductivity values
+compared to modified solutions by adding additives. This is important to rule out any sensor
+response related to changes in ionic strength.

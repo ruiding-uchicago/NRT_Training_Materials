@@ -1,0 +1,104 @@
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See ourprivacy policyfor more information on the use of your personal data.
+
+Manage preferencesfor further information and to change your choices.
+
+Advertisement
+
+Part of the book series:Lecture Notes in Electrical Engineering((LNEE,volume 109))
+
+1215Accesses
+
+Titanium dioxide films deposited by spraying colloidal dispersions of TiO2nanocrystals prepared by laser ablation are characterized by means of Scanning Electron Microscopy (SEM). The metal oxide films are sprayed on the top of gold drain-source contacts thermally evaporated onto SiO2coated p-doped silicon wafers. Organic Field Effect Transistors (OFET) are developed by infiltrating polyhexylthiophene solutions into the TiO2film. It is found that the presence of the TiO2layer improves the air stability of polyheylthiophene OFETs, even in the presence of moisture. In addition, the porous titania layer has remarkable effects on the way the polyhexylthiophene OFETs respond to humidity.
+
+This is a preview of subscription content,log in via an institutionto check access.
+
+Tax calculation will be finalised at checkout
+
+Purchases are for personal use only
+
+Institutional subscriptions
+
+Bouvet M (2006) Phthalocyanine-based field-effect transistors as gas sensors. Anal Bioanal Chem 384:366–373
+
+Google Scholar
+
+Torsi L, Marinelli F, Angione MD, Dell’Aquila A, Cioffi N, De Giglio E, Sabbatini L (2009) Contact effects in organic thin-film transistor sensors. Org Electron 10:233–239
+
+ArticleGoogle Scholar
+
+Someya T, Dodabalapur A, Huang J, See KC, Katz HE (2010) Chemical and physical sensing by organic field-effect transistors and related devices. Adv Mater 22:3799–3811
+
+Fukuda H, Yamagishi Y, Ise M, Takano N (2005) Gas sensing properties of poly-3-hexylthiophene thin film transistors. Sensor Actuator B 108:414–417
+
+Download references
+
+Dipartimento di Fisica della Materia e Ingegneria Elettronica, Università di Messina, Messina, Italy
+
+G. Scandurra, A. Arena, C. Ciofi & G. Saitta
+
+Advanced and Nano Materials Research s.r.l., Messina, Italy
+
+S. Spadaro, F. Barreca & G. Currò
+
+Dipartimento di Chimica Industriale e Ingegneria dei Materiali, Università di Messina, Messina, Italy
+
+G. Neri
+
+You can also search for this author inPubMedGoogle Scholar
+
+Correspondence toG. Neri.
+
+University of Rome Tor Vergata, Rome, Italy
+
+Arnaldo D’Amico
+
+Corrado Di Natale
+
+Technologies, Energy and the Environment, ENEA, Italian National Agency for New, Rome, Italy
+
+Lucia Mosiello
+
+Giovanna Zappa
+
+Reprints and permissions
+
+© 2012 Springer Science+Business Media, LLC
+
+Scandurra, G.et al.(2012).  Response Towards Humidity of Air Stable FETS Based on Polyhexylthiophene Dispersed in Porous Titania.
+
+                     In: D’Amico, A., Di Natale, C., Mosiello, L., Zappa, G. (eds) Sensors and Microsystems. Lecture Notes in Electrical Engineering, vol 109. Springer, Boston, MA. https://doi.org/10.1007/978-1-4614-0935-9_19
+
+DOI:https://doi.org/10.1007/978-1-4614-0935-9_19
+
+Published:30 November 2011
+
+Publisher Name:Springer, Boston, MA
+
+Print ISBN:978-1-4614-0934-2
+
+Online ISBN:978-1-4614-0935-9
+
+eBook Packages:EngineeringEngineering (R0)
+
+Anyone you share the following link with will be able to read this content:
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Policies and ethics
+
+146.137.70.67
+
+Argonne Research Library (8200955775)  - Department of Energy DOE Labs (3000179256)  - Colorado Alliance of Research Libraries (8200982549)
+
+© 2025 Springer Nature
+
+AbstractTitanium dioxide films deposited by spraying colloidal dispersions of TiO2nanocrystals prepared by laser ablation are characterized by means of Scanning Electron Microscopy (SEM). The metal oxide films are sprayed on the top of gold drain-source contacts thermally evaporated onto SiO2coated p-doped silicon wafers. Organic Field Effect Transistors (OFET) are developed by infiltrating polyhexylthiophene solutions into the TiO2film. It is found that the presence of the TiO2layer improves the air stability of polyheylthiophene OFETs, even in the presence of moisture. In addition, the porous titania layer has remarkable effects on the way the polyhexylthiophene OFETs respond to humidity.This is a preview of subscription content,log in via an institutionto check access.Access this chapterLog in via an institutionSubscribe and saveSpringer+ Basic$34.99 /MonthGet 10 units per monthDownload Article/Chapter or eBook1 Unit = 1 Article or 1 ChapterCancel anytimeSubscribe nowBuy NowChapterUSD 29.95Price excludes VAT (USA)Available as PDFRead on any deviceInstant downloadOwn it foreverBuy ChaptereBookUSD 169.00Price excludes VAT (USA)Available as EPUB and PDFRead on any deviceInstant downloadOwn it foreverBuy eBookSoftcover BookUSD 219.99Price excludes VAT (USA)Compact, lightweight editionDispatched in 3 to 5 business daysFree shipping worldwide -see infoBuy Softcover BookHardcover BookUSD 219.99Price excludes VAT (USA)Durable hardcover editionDispatched in 3 to 5 business daysFree shipping worldwide -see infoBuy Hardcover BookTax calculation will be finalised at checkoutPurchases are for personal use onlyInstitutional subscriptionsSimilar content being viewed by othersEffect of Sprayed Solution Volume on Physical Properties 
+of Titanium Dioxide Thin FilmsArticle13 June 2015Operational stability of solution-processed indium-oxide thin-film transistors: Environmental condition and electrical stressArticle07 January 2018Effect of the Oxidation of Al Substrates on Properties of TiO2Films Deposited by Spin CoatingArticle05 December 2023ReferencesBouvet M (2006) Phthalocyanine-based field-effect transistors as gas sensors. Anal Bioanal Chem 384:366–373Google ScholarTorsi L, Marinelli F, Angione MD, Dell’Aquila A, Cioffi N, De Giglio E, Sabbatini L (2009) Contact effects in organic thin-film transistor sensors. Org Electron 10:233–239ArticleGoogle ScholarSomeya T, Dodabalapur A, Huang J, See KC, Katz HE (2010) Chemical and physical sensing by organic field-effect transistors and related devices. Adv Mater 22:3799–3811ArticleGoogle ScholarFukuda H, Yamagishi Y, Ise M, Takano N (2005) Gas sensing properties of poly-3-hexylthiophene thin film transistors. Sensor Actuator B 108:414–417Google ScholarDownload referencesAuthor informationAuthors and AffiliationsDipartimento di Fisica della Materia e Ingegneria Elettronica, Università di Messina, Messina, ItalyG. Scandurra, A. Arena, C. Ciofi & G. SaittaAdvanced and Nano Materials Research s.r.l., Messina, ItalyS. Spadaro, F. Barreca & G. CurròDipartimento di Chimica Industriale e Ingegneria dei Materiali, Università di Messina, Messina, ItalyG. NeriAuthorsG. ScandurraView author publicationsYou can also search for this author inPubMedGoogle ScholarA. ArenaView author publicationsYou can also search for this author inPubMedGoogle ScholarC. CiofiView author publicationsYou can also search for this author inPubMedGoogle ScholarG. SaittaView author publicationsYou can also search for this author inPubMedGoogle ScholarS. SpadaroView author publicationsYou can also search for this author inPubMedGoogle ScholarF. BarrecaView author publicationsYou can also search for this author inPubMedGoogle ScholarG. CurròView author publicationsYou can also search for this author inPubMedGoogle ScholarG. NeriView author publicationsYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toG. Neri.Editor informationEditors and AffiliationsUniversity of Rome Tor Vergata, Rome, ItalyArnaldo D’AmicoUniversity of Rome Tor Vergata, Rome, ItalyCorrado Di NataleTechnologies, Energy and the Environment, ENEA, Italian National Agency for New, Rome, ItalyLucia MosielloTechnologies, Energy and the Environment, ENEA, Italian National Agency for New, Rome, ItalyGiovanna ZappaRights and permissionsReprints and permissionsCopyright information© 2012 Springer Science+Business Media, LLCAbout this paperCite this paperScandurra, G.et al.(2012).  Response Towards Humidity of Air Stable FETS Based on Polyhexylthiophene Dispersed in Porous Titania.
+
+                     In: D’Amico, A., Di Natale, C., Mosiello, L., Zappa, G. (eds) Sensors and Microsystems. Lecture Notes in Electrical Engineering, vol 109. Springer, Boston, MA. https://doi.org/10.1007/978-1-4614-0935-9_19Download citation.RIS.ENW.BIBDOI:https://doi.org/10.1007/978-1-4614-0935-9_19Published:30 November 2011Publisher Name:Springer, Boston, MAPrint ISBN:978-1-4614-0934-2Online ISBN:978-1-4614-0935-9eBook Packages:EngineeringEngineering (R0)Share this paperAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboardProvided by the Springer Nature SharedIt content-sharing initiativePublish with usPolicies and ethics

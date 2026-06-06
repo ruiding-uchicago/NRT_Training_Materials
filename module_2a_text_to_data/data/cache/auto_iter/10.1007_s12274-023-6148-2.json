@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s12274-023-6148-2",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-17 M",
+      "upper_detection_limit": "1e-14 M",
+      "probe_material": "strontium cobalt oxide (SrCoOx)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "14.0−17.0",
+      "test_medium": "sodium chloride/water"
+    }
+  ]
+}

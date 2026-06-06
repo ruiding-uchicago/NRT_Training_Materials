@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00289-022-04105-5",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Chlorpyrifos (Cpy)",
+      "lower_detection_limit": "0.841 µM",
+      "upper_detection_limit": "4 µM",
+      "probe_material": "PEDOT:PSS(Ti2CTX)/GO/BSA",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.202310527",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen sulfite functionalized carbon particles",
+      "lower_detection_limit": "0.25 mg/mL",
+      "upper_detection_limit": "5 mg/mL",
+      "probe_material": "PDPP4T(Poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl)-alt-(2,2';5',2'';5'',2'''-quaterthiophen-5,5'''-diyl)])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

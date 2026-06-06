@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.apsusc.2020.145664",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "nitrate",
+      "lower_detection_limit": "1.20 ppm",
+      "upper_detection_limit": "20 ppm",
+      "probe_material": "nitrone-modified polyvinyl chloride",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

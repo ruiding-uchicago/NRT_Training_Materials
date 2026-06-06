@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_978-1-4614-0935-9_19",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "not reported",
+      "upper_detection_limit": "not reported",
+      "probe_material": "polyhexylthiophene/titanium dioxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

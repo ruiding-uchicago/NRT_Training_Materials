@@ -1,0 +1,35 @@
+{
+  "stem": "10.1007_s00339-011-6655-y",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "5 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "indium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "100 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "indium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "acetone",
+      "lower_detection_limit": "50 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "indium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

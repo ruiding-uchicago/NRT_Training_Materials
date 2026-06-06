@@ -1,0 +1,119 @@
+{
+ "records": [
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "quenching efficiency",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "quenching efficiency",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "quenching efficiency",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "quenching efficiency",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "quenching efficiency",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 13540,
+  "completion_tokens": 2642,
+  "total_tokens": 16182,
+  "cost": 0.00588172,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00588172,
+   "upstream_inference_prompt_cost": 0.0017602,
+   "upstream_inference_completions_cost": 0.00412152
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1931,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 5
+}

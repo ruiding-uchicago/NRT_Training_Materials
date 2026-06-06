@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_advs.201901001",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (proton concentration)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Azobenzene chromophores with substituents (CF3, CH3, CH3O, (CH3)2N, H) and amine molecules (monoamine, diamine, triamine)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "1-6",
+      "test_medium": "1×10^-3 M KCl electrolyte (also 0.1 M and 1 M for ionic strength tests; KBr and KI for anion size tests)"
+    }
+  ]
+}

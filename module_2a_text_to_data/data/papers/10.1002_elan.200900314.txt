@@ -1,0 +1,387 @@
+Full Paper
+Electrical and Sensing Properties of Single-Walled Carbon
+Nanotubes Network: Effect of Alignment and Selective Breakdown
+Jae-Hong Lim, a Nopparat Phiboolsirichit,a Syed Mubeen,a Youngwoo Rheem,a Marc A. Deshusses,b Ashok Mulchandani,a
+Nosang V Myunga*
+a Department of Chemical and Environmental Engineering and Center for Nanoscale Science and Engineering, University of
+California-Riverside, Riverside, CA 92521, USA
+*e-mail: myung@engr.ucr.edu
+b Department of Civil and Environmental Engineering, Box 90287, Duke University, Durham, NC 27708, USA
+Received: June 18, 2009
+Accepted: August 16, 2009
+Abstract
+The electrical transport and NH 3 sensing properties of randomly oriented and aligned SWNT networks were
+presented and discussed. The results indicate that aligned SWNT-FETs have better FET characteristics due to the
+reduced number of interconnected nodes. This was particularly true as the resistance of the devices increased. Gated
+electrical breakdown was implemented to selectively remove metallic (m-) SWNTs, thereby reducing scattering
+centers. This technique provided significant improvements in FET characteristics resulting in greater on/off ratio (e.g.
+104 ). AC dielectrophoretic alignment followed by selective electrical breakdown of m-SWNTs can significantly
+enhance the semiconducting properties of SWNT networks which resulted in highly sensitive sensors.
+Keywords: SWNT, Field effect transistor, Alignment, Ammonia, Sensors, Nanotubes
+DOI: 10.1002/elan.200900314
+1. Introduction
+Carbon nanotubes have many potential applications in a
+wide array of fields such as nanoelectronics, field emitters,
+sensors, displays, hydrogen storage, batteries, polymer
+matrix composites, and nanoscale reactors [1 – 4]. Among
+these applications, the single-walled carbon nanotube based
+field effect transistor (SWNT-FET) is one of the most
+promising candidates for next generation electronics and
+sensors because of its unique electrical properties [1].
+Typically, two different configurations (i.e. single SWNT
+and SWNT network based device) have been utilized in
+SWNT-FET where SWNTs act as carrier channels between
+the source and drain. Although excellent electronic trans-
+port properties have been demonstrated in SWNT, repro-
+ducible manufacturing and cost effective integration remain
+important challenges for advancing the field.
+Direct manipulation of SWNTs, for instance with atomic
+force microscope (AFM) tips, is the most well-controlled
+method to create single SWNT-based devices. However, it is
+time-consuming and not suitable for mass production.
+Direct growth offers nearly the same degree of positioning
+but requires specialized materials and pattering techniques
+[5 – 7]. Drop casting of SWNT solutions or suspensions
+combined with alternating current (AC) or direct current
+(DC) dielectrophoresis has attracted interest due to the
+relative simplicity by which individual as well as networks of
+SWNT can be assembled on prefabricated microelectrodes
+[8]. A relatively good control of the number of SWNTs
+bridging the electrodes can be obtained by adjusting the
+shape and dimension of electrodes and the concentration of
+SWNT in solution. DC electric field assisted alignment
+typically results in deposition of nanotubes or nanoparticles
+on the positive electrode with a limited number of nano-
+tubes aligned across the electrodes as a consequence of
+mechanical flow by electroosmotic [9] and electrohydrody-
+namic interactions [10]. However, AC electric fields have
+proven to be effective for aligning CNTs nearly perpendic-
+ular to electrodes, mitigating nanotube deposition and even
+detangling nanotubes depending on the AC frequency [11].
+Compared to single SWNT-based devices, SWNT network-
+based devices have the advantage of a more homogeneous
+behavior. However, SWNT networks suffer from the fact
+that they will usually be made of both metallic (m-) and
+semiconducting (s-) SWNTs due to the different chiralities
+obtained during SWNT synthesis. s-SWNTs with a high on/
+off current ratio are necessary for transistors, whereas m-
+SWNTs are required for interconnects. Preferential break-
+down of m-SWNTs in a SWNT network can be accom-
+plished by applying a high voltage across the electrodes,
+while majority carriers for the s-SWNTs are depleted by
+applying a high gate voltage [12].
+In this study, we utilized two different techniques (i.e.
+drop-casting and AC dielectrophoresis alignment) to fab-
+ricate randomly oriented and aligned SWNT networks
+based FETs and sensors. The effect of alignment techniques
+on electrical transfer characteristics and gas sensing perfor-
+mance were systematically investigated. The morphologies
+Full Paper
+Electroanalysis 2010, 22, No. 1, 99 – 105  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim 99
+of assembled networks were determined using scanning
+electron and atomic force microscope. In addition, the
+electrical breakdown technique was employed to selectively
+eliminate m-SWNTs and its effect on electrical and sensing
+properties was also investigated.
+2. Experimental
+2.1. Materials and Substrates
+The caboxylated SWNTs (SWNT-COOH 80 – 90% purity,
+bundle length: ~ 1 mm, bundle diameter: 4 – 5 nm) were
+purchased from Carbon Solution, Inc. (Riverside, CA). The
+nanotubes (1 mg/mL) were ultrasonically dispersed in N,N-
+dimethylformamide (DMF) and the suspension was centri-
+fuged at 31,000  g for 90 min to remove the insoluble
+fraction and aggregates. Detailed SWNT solution prepara-
+tion procedure is described in our previous work [13].
+Substrates were prepared by atomic layer deposition
+(Savannah 100, Cambridge Nanotech) of HfO 2 (Lox ¼
+250 nm) on highly doped p-type Si substrates. Ti/Au (20/
+180 nm) microelectrodes were fabricated on HfO2/Si sub-
+strates using standard lift-off techniques where the width
+(W) and gap (LSD) of the electrodes was 200 mm and 3 mm,
+respectively.
+2.2. Preparation of SWNT FETs
+Two different SWNT network samples were prepared:
+randomly oriented and aligned. Randomly oriented SWNT-
+FET samples were fabricated by dropping 0.2 mL of the
+nanotube suspension onto the prefabricated microelectro-
+des in the absence of an electric field. For aligned samples, a
+0.2 mL drop of the nanotube suspension was deposited onto
+the prefabricated microelectrodes followed by applying AC
+dielectrophoretic field of Vrms ¼ 0.36 V at f ¼ 4 MHz. The
+alignment time was varied from 2 to 10 s to obtain desired
+electrical resistance. After assembly, the devices were rinsed
+with deionized water, dried by gently blowing nitrogen gas
+and annealed at 300 8C for 1 h under reducing environments
+(5% hydrogen in nitrogen) to improve the contact between
+the SWNT network and the electrodes and to remove
+residue from solution. The electrical resistance of SWNT-
+FETs was adjusted by controlling alignment time.
+To further improve the electrical transport characteristics,
+the selective removal of metallic nanotubes in aligned
+SWNT-FETs by electrical breakdown was investigated [12].
+The principle of this technique was to burn/oxidize metallic
+SWNTs preferentially by producing high current in them to
+generate heat while eliminating or minimizing the current
+flow in p-type semiconducting SWNTs. This was achieved by
+applying a 20 V gate voltage while increasing source-drain
+potential (VDS) during consecutive sweeps with increasing
+voltage ranges.
+2.3. Characterizations
+The temperature dependent current – voltage (I – V) char-
+acteristics for the fabricated devices were measured using a
+Keithley source-measure unit (Model 236). Operating
+temperature was varied from 30 to 273 K using cold-finger
+cryogenic system (Janis CCS-350SH). Activation energies
+(EA ) were calculated from electrical resistance Arrhenius
+plots in the temperature region above 70 K. The SWNT
+field-effect transistors were formed by using the highly
+doped silicon substrate as a back gate. The electronic
+measurements were performed using two Keithley source-
+measure units in ambient environments. The surface
+morphology of SWNT-FETs was examined using a field
+emission scanning electron microscope (SEM, Philips XL30
+FEG) and an atomic force microscope (Innova, Veeco
+Instruments Inc.) in order to determine distribution of
+SWNTs. In addition, line scans were conducted by standard
+tapping mode AFM for the height of SWNT bundles
+histogram analysis.
+3. Results and Discussion
+3.1. Morphology Characterization of SWNT-FETs
+Figure 1 shows the SEM images of randomly oriented and
+aligned SWNT-FETs. The drop cast SWNTs networks had
+no preferential orientation with many SWNTs interconnec-
+tions existing within the electrode gap. On the other hand,
+samples subjected to AC dielectrophoresis consisted of
+SWNTs aligned perpendicularly to the electrodes.
+Figure 2 reports the height distributions of randomly
+oriented and aligned SWNT-FETs of low (< 10 kW) and
+high (> 1 MW) resistance ranges, respectively. As the
+resistance of the networks increased, i.e., the density of
+SWNTs decreased, a distinct shift in the height distribution
+towards smaller diameter is observed, indicating that small
+bundles are preferentially deposited in a short time. The
+prolonged alignment time can attract large bundles, result-
+ing in the decrease in the resistance and height distribution
+shift toward larger diameter.
+3.2. Activation Energy Characterization of SWNT-FETs
+Activation energies (EA ) of randomly oriented and aligned
+SWNTs networks of different resistances are compared in
+Figure 3a. In the case of randomly oriented SWNTs, EA
+increased by only 3.3 fold as the resistance increased from
+2.2 kW to 1.7 MW. On the other hand, EA of aligned samples
+showed a much greater dependency with resistance and
+increased by 17.3 fold. The reported EA of a single m-SWNT
+and a s-SWNTare 5 and 29 meV, respectively [14]. Here, the
+EA of randomly oriented and aligned samples of less than
+10 kW (i.e., dense networks) resistances were 6.6 and
+5.1 meV, respectively. It might be inferred that low resist-
+ance samples might have large bundles containing large
+Full Paper J. Lim et al.
+100 www.electroanalysis.wiley-vch.de  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim Electroanalysis 2010, 22, No. 1, 99 – 105
+portion of m-SWNTs, resulting in that the current in both
+samples flows mostly through m-SWNTs. This is in sharp
+contrast with EA values of 22.0 and 88.3 meV, respectively, of
+randomly oriented and aligned samples above 1 MW (i.e.,
+sparse networks). In the latter case, the Schottky barrier
+height might also contribute to EA , possibly accounting for
+the drastic increase of EA as the total resistance is the sum of
+contact and sample resistances. Figure 3b shows a histogram
+of the height distribution of three aligned SWNT-FETs
+ranging from 9.6 kW to 3.0 MW, indicating that the fraction
+of small diameter SWNT bundles in the devices is a direct
+function of the resistance. Based on these results, high EA of
+highly resistive aligned SWNT-FETs can be attributed to
+more deposition of s-SWNTs containing small bundles.
+3.3. FET Characterization of SWNT-FETs
+The transfer characteristics of randomly oriented and
+aligned samples of low (i.e. 6.3 and 5.9 kW) and high
+resistance (i.e. 154 and 294 kW) are plotted in Figure 4. The
+higher resistance aligned FET clearly exhibited an off-state
+and a stronger dependency on the gate bias. These results
+infer more semiconducting properties as the resistance for
+aligned samples increases. This is also supported by the
+comparison of EA shown in Figure 3a, which shows s-
+SWNTs are more predominant as the resistance increases.
+Figure 5 shows the dependency of carrier concentration
+and field effect mobility on the resistance of aligned and
+randomly oriented SWNTs. The carrier concentration and
+Fig. 1. SEM images of (a) randomly oriented and (b) aligned SWNT-FETs prepared by applying alternating current of 0.36 Vrms at a
+frequency of 4 MHz. The position of SWNTs is indicated by arrows.
+Properties of Single-Walled Carbon Nanotubes Network
+Electroanalysis 2010, 22, No. 1, 99 – 105  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.electroanalysis.wiley-vch.de 101
+field effect mobility were calculated using following equa-
+tions:
+p ¼ CGVG,T/eLSD (1)
+m ¼ L2
+SD (dI/dV)/CGVD (2)
+CG ¼ eWLSD/Lox (3)
+where p is the hole carrier concentration, CG the approx-
+imate capacitance, VG,T the threshold voltage to deplete the
+SWNTs, m the field effect carrier mobility, VD the drain
+voltage, and e the dielectric constant of HfO 2 [15]. The
+transconductance of dI/dV was determined from each
+transfer characteristics in the linear regime to calculate m.
+The value of CG slightly overestimates the gate capacitance
+and therefore underestimates the carrier mobility and
+overestimate the carrier concentration due to the lower fill
+factor [16]. However, the comparison of carrier mobilites
+and carrier concentrations can be done. The carrier con-
+centrations of aligned samples were in the range of 1010 to
+1011 cm1 without apparent trend with the resistance. This
+contrasts with the linear trend obtained for randomly
+oriented SWNTs, which may be the result of the increased
+number of interconnected nodes in the low resistance
+samples, which easily trap charge carriers. Figure 5b shows
+that carrier mobility in aligned samples was higher than that
+in randomly oriented samples of the same resistance over
+the entire resistance range. Randomly oriented samples
+were expected to have higher carrier mobilities than aligned
+Fig. 2. Comparison of histogram from randomly oriented and
+aligned SWNT-FETs at (a) low resistance (8.8 and 9.6 kW,
+respectively) and (b) high resistance (1.8 and 3.0 MW, respective-
+ly).
+Fig. 3. (a) Thermal activation energy and (b) histogram for
+randomly oriented and aligned SWNT-FETs of different electrical
+resistances.
+Full Paper J. Lim et al.
+102 www.electroanalysis.wiley-vch.de  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim Electroanalysis 2010, 22, No. 1, 99 – 105
+samples because actual electrically conducting channel
+lengths exceed the electrode gap length (Fig. 1). This
+behavior is due to a relatively small fraction of the applied
+source-drain voltage drop over the parasitic contact resist-
+ance in long channel FETs, as compared to short channel
+FETs [17]. However here, randomly oriented samples had
+lower carrier mobility than aligned samples, most probably
+because the interconnected nodes acted as interface defects,
+either trapping or scattering carriers. These nodes, which are
+in lower density in aligned samples, could be a dominant
+factor in determining the carrier mobility.
+3.4. Breakdown Process of m-SWNTs
+Figure 6a shows IDS – VDS characteristics for the successive
+breakdown events which resulted in a partial conductance
+drop with each breakdown event. The most important drop
+occurred near 12 V in the 14 V breakdown curve where the
+current appears to saturate near 30 mA and saturate again at
+55 mA at higher voltage after abruptly increasing. This
+increase in current-carrying capacity indicates that the
+number of conducting channels within the bundle increased.
+This is only possible if additional channels of metallic
+SWNTs within the bundle are made, which were not
+originally contacted by source and drain electrodes. The
+inset of Figure 6a provides additional support, illustrating
+the steady on-off ratio increase with increasing VDS up to
+13 V (with 20 V of VG ), indicating that additional current
+paths were created during the breakdown process. How-
+ever, the data indicate that there are mostly semiconducting
+SWNTs left after applying 15 V between the drain and the
+source as the on-off ratio increased by five orders of
+magnitude. Figure 6b shows the IDS dependency with VG for
+the FETs with 2 V of VDS after each breakdown cycle, which
+indicates that IDS modulation is amplified as the breakdown
+voltage increases with more than a 104 on-off ratio. Figure 7
+shows the comparison of carrier concentration and field
+Fig. 4. Transfer characteristics of FETs made of networks of
+randomly oriented and aligned SWNTs: (a) low resistance (6.3
+and 5.9 kW, respectively) and (b) high resistance (154 and 294 kW,
+respectively).
+Fig. 5. Carrier concentration (a) and field effect mobility (b) of
+randomly oriented and aligned SWNT-FETs as a function of the
+electrical resistance.
+Properties of Single-Walled Carbon Nanotubes Network
+Electroanalysis 2010, 22, No. 1, 99 – 105  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.electroanalysis.wiley-vch.de 103
+effect carrier mobility of aligned SWNT-FETs before and
+after breakdown of the metallic SWNTs. The carrier
+concentration after breakdown decreases due to the elim-
+ination of metallic SWNTs and carrier mobility increases
+due to the lack of the scattering centers resulting from the
+carriers.
+3.5. Sensing Properties of SWNT-FETs
+Figure 8 shows the electrical transfer characteristics of
+aligned SWNT before (a) and after (b) the electrical
+breakdown process in the presence of different NH 3
+concentrations. Since the sensing mechanism for NH3 on
+SWNTs is based on a charge transfer between the electron-
+donating NH3 molecules and the s-SWNTs, the carrier
+concentration of SWNT network decreased upon absorp-
+tion of NH3 [18]. Compared to aligned SWNT networks
+before the electrical breakdown of m-SWNTs, aligned
+SWNT network after the electrical breakdown show a
+dramatic change in the electrical transfer characteristics
+upon exposure to NH3 including shifts of the threshold
+voltage (VG,T) to the lower voltage with the increase in the
+concentration of NH3. These dramatic changes in the
+electrical transfer characteristics allow to tune the sensitiv-
+ity toward NH 3 by adjusting the gate voltage (Fig. 8C).
+4. Conclusions
+Randomly oriented and aligned SWNT networks based
+field effect transistors (FETs) were fabricated by means of
+drop-casting and AC dielectrophoresis alignment tech-
+niques, respectively, and their morphology and electron
+transport and sensing properties were systematically inves-
+Fig. 6. (a) IDS vs. VDS during metallic SWNTs breakdown at VG of
+20 V. Inset shows on-off ratio after each breakdown voltage. (b)
+IDS vs. VG after each breakdown cycle showing selective metallic
+SWNT breakdown after VDS reached 15 V.
+Fig. 7. Carrier concentration (a) and field effect mobility (b) of
+aligned SWNT-FETs before and after metallic SWNTs break-
+down depending on resistance.
+Full Paper J. Lim et al.
+104 www.electroanalysis.wiley-vch.de  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim Electroanalysis 2010, 22, No. 1, 99 – 105
+tigated. The activation energy (EA ) of dense networks
+(resistance < 10 kW) of randomly oriented and aligned
+SWNTs was 6.6 and 5.1 meV, respectively. Conversely, EA
+of sparse networks (resistance > 1 MW) of randomly
+oriented and aligned SWNTs was 22.0 and 88.3 meV,
+respectively. This might be attributed to preferential assem-
+bled of semiconducting SWNTs and the increase of Schottky
+barrier height. The aligned SWNT-FETs showed higher
+field effect carrier mobilities than randomly oriented
+SWNT-FETs because of the reduced number of intercon-
+nected nodes. Furthermore, the electric breakdown process
+eliminates metallic-SWNTs thereby enhancing transfer
+characteristics and sensing performance toward ammonia.
+5. Acknowledgements
+This material is based on research sponsored by The
+National Institute of Environmental Health Sciences under
+agreement number (Grant # U01ES016026).
+6. References
+[1] R. H. Baughman, A. A. Zakhidov, W. A. de Heer, Science
+2002, 297, 787.
+[2] H. Dai, Surf. Sci. 2002, 500, 218.
+[3] T. Zhang, S. Mubeen, N. V. Myung, M. A. Deshusses, Nano-
+technology 2008, 332001.
+[4] T. Zhang, M. B. Nix, B.-Y. Yoo, M. A. Deshusses, N. V.
+Myung, Electroanalysis 2006, 18, 1153.
+[5] S. Fan, M. G. Chapline, N. R. Franklin, T. W. Tombler, A. M.
+Cassell, H. Dai, Science 1999, 283, 512.
+[6] Y. Huang, X. Duan, Q. Wei, C. M. Lieber, Science 2001, 291,
+630.
+[7] M. Mauger, V. T. Binh, A. Levesque, D. Guillot, Appl. Phys.
+Lett. 2004, 85, 305.
+[8] M. R. Diehl, S. N. Yaliraki, R. A. Beckman, M. Barahona,
+J. R. Heath, Angew. Chem. Int. Ed. 2002, 41, 353.
+[9] Y. Solomentsev, M. Bohmer, J. L. Anderson, Langmuir 1997,
+13, 6058.
+[10] M. Trau, D. A. Saville, I. A. Aksay, Langmuir 1997, 13, 6375.
+[11] M. Senthil Kumar, T. H. Kim, S. H. Lee, S. M. Song, J. W.
+Yang, K. S. Nahm, E. K. Suh, Chem. Phys. Lett. 2004, 383,
+235.
+[12] P. G. Collins, M. S. Arnold, P. Avouris, Science 2001, 292, 706.
+[13] S. Mubeen, T. Zhang, B. Yoo, M. A. Deshusses, N. V. Myung,
+J. Phys. Chem. C 2007, 111, 6321.
+[14] V. Skakalova, A. B. Kaiser, Y. S. Woo, S. Roth, Phys. Rev. B
+2006, 74, 085403.
+[15] R. Martel, T. Schmidt, H. R. Shea, T. Hertel, P. Avouris,
+Appl. Phys. Lett. 1998, 73, 2447.
+[16] E. S. Snow, P. M. Campbell, M. G. Ancona, J. P. Novak, Appl.
+Phys. Lett. 2005, 86, 033105.
+[17] S. Luan, G. W. Neudeck, J. Appl. Phys. 1992, 72, 766.
+[18] J. Kong, N. R. Franklin, C. Zhou, M. G. Chapline, S. Peng, K.
+Cho, H. Dai, Science 2000, 287, 622.
+Fig. 8. Transfer characteristics change of SWNT-FETs (a) before
+and (b) after the breakdown process. (c) The comparison of
+sensitivity from SWNT-FETs before (& &) and after (~ ~) the
+breakdown process under different VG.
+Properties of Single-Walled Carbon Nanotubes Network
+Electroanalysis 2010, 22, No. 1, 99 – 105  2010 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim www.electroanalysis.wiley-vch.de 105

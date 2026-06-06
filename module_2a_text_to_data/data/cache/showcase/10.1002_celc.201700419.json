@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_celc.201700419",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "glucose",
+      "lower_detection_limit": "2.1 µM",
+      "upper_detection_limit": "2 mM",
+      "probe_material": "4-mercaptophenylboronic acid (PBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.0",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

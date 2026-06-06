@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adma.200903305",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethyl acetate",
+      "lower_detection_limit": "200 ppm",
+      "upper_detection_limit": "3000 ppm",
+      "probe_material": "C[8]A (calix[8]arene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ]
+}

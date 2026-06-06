@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acs.langmuir.9b00085",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "uric acid",
+      "lower_detection_limit": "5e-6 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "4-nitrobenzenediazonium tetrafluoroborate (NBD)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

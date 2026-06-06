@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bbagen.2013.01.023",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "carbon nanotubes",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3.4-7.8",
+      "test_medium": "citric acid/sodium phosphate/water"
+    }
+  ]
+}

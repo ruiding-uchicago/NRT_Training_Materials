@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.aeue.2024.155337",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen",
+      "lower_detection_limit": "10^-15 Torr",
+      "upper_detection_limit": "10^-10 Torr",
+      "probe_material": "Pd (palladium)",
+      "test_operating_temperature (celcius)": "47 °C (for T=320K, but also tested at 200°C/473K for calibration)",
+      "pH_value": "-1",
+      "test_medium": "air (inferred, gas phase)"
+    }
+  ]
+}

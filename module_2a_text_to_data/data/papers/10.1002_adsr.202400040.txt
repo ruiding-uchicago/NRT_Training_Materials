@@ -1,0 +1,139 @@
+Corresponding Author
+
+Marieke Stapf
+
+Institute of Nanoscale and Biobased Materials, Technische Universität Bergakademie Freiberg, Gustav-Zeuner-Str. 3, 09599 Freiberg, Germany
+
+E-mail:marieke.stapf@esm.tu-freiberg.de;Yvonne.Joseph@esm.tu-freiberg.de
+
+Vladislav Komenko
+
+Infineon Technologies Dresden GmbH & Co. KG, Königsbrücker Str. 180, 01099 Dresden, Germany
+
+Johanna Phuong Nong
+
+Institute for Plant and Wood Chemistry, Technische Universität Dresden, Pienner Straße 19, 01737 Tharandt, Germany
+
+Jörg Adam
+
+Franz Selbmann
+
+Andrey Kravchenko
+
+Martina Bremer
+
+Steffen Fischer
+
+Klaus Knobloch
+
+Yvonne Joseph
+
+Give access
+
+Share full-text access
+
+Use the link below to share a full-text version of this article with your friends and colleagues.Learn more.
+
+Share a link
+
+Gas sensors based on micro-electromechanical systems (MEMS) offer advantages such as a broad spectrum of potentially sensitive materials and analytes, easy miniaturization and integration, high sensitivity, and low costs. This paper introduces a novel MEMS sensor platform utilizing a suspended gate field effect transistor (SGFET) transducer. In this approach, the flexible gate membrane of the SGFET is coated with a sensitive material exhibiting responsive swelling behavior. For the proof of concept, kraft lignin hydrogel is chosen as a biorenewable material for humidity sensing. A precision dispensing technique is used to deposit kraft lignin hydrogel on the SGFETs. The sensor measurements yield reversible shifts in the sensor's output current of up to 9% in response to 5000 ppm water vapor. The results successfully demonstrate the feasibility of this new sensing platform.
+
+Gas sensors enable real-time monitoring of the atmospheric composition by converting gas concentrations into electrical signals. Applications include environmental studies, air quality supervision, detection of hazardous gases and medical applications.[1-4]Existing gas sensors are based on a variety of sensing mechanisms. Depending on their advantages and drawbacks as well as the sensitive materials and corresponding analytes, suitable sensing mechanisms can be chosen for each application. Therefore, the development of new sensing concepts can achieve improved performances for existing sensing applications as well as enabling completely new fields of usage.
+
+Chemical and biological sensors based on micro-electromechanical systems (MEMS) usually consist of micromachined 3D silicon structures with movable or flexible components such as membranes,[5]bridges or cantilevers.[6]They are coated with sensitive materials, which can adsorb or absorb the target molecules. When operated in dynamic mode, the interaction with the analyte results in a shift of resonance frequency of the flexible element.[7]In static mode, the deflection of the cantilever or membrane is measured instead. Piezoresistive, piezoelectric, and optical measurements are commonly used for the readout.[8]Alternatively, a capacitive readout is possible, where the deflection changes the distance between two electrodes, which induces a shift in capacitance.[9,10]
+
+Here, we introduce a new MEMS sensor platform, which is based on a suspended gate field effect transistor (SGFET). The SGFET derives from the classical metal oxide field effect transistor (MOSFET) with the difference, that the gate electrode is lifted off the channel insulation so that a cavity is formed underneath.[11]Up to now, SGFET structures have already been used in work function-based gas sensing applications.[12]In these existing devices, the cavity is formed via flip-chip bonding and is accessible through channels. The gate electrode is coated with a sensitive layer on the inside of the cavity. When the target gas enters the cavity and interacts with the sensitive layer, the work function of the gate is shifted. Therefore, a different electrical output is measured from the SGFET. Examples include the detection of hydrogen with platinum,[13]the detection of ammonia with an iridium oxide thin film,[14]the detection of ozone with gold and platinum,[15]and the detection of nitrogen dioxide with copper phthalocyanine.[16]
+
+In contrast to the cited literature examples, the newly introduced sensor concept is based on a SGFET with a sealed cavity and a thin gate electrode, which is flexible and serves as a membrane. This design is known as a pressure-sensitive SGFET.[17-19]The pressure inside the sealed cavity is constant. Thus, the flexible membrane is deflected in dependence on the pressure difference to the outside. This results in a change of the gate capacitance, which can be measured as a change in the electrical output.
+
+The novelty of the new MEMS sensor presented here lies in the combination of a pressure-sensitive SGFET as a transducer with a chemically sensitive material which is deposited on the flexible gate electrode. The concept is depicted schematically inFigure1. Upon analyte absorption, the sensitive material exhibits a swelling or shrinking behavior. To relieve the mechanical stress building in the sensitive material, a deflection of the gate membrane occurs. As the height of the cavity and thereby the gate capacitance changes, the electrical output characteristics of the transistor are shifted.
+
+This new sensor concept offers the advantages of traditional MEMS sensors, including a high sensitivity, easy miniaturization and assembly of arrays and low production costs. The electrical readout using a transistor provides an easier approach than the capacitance or frequency readout typically employed in many MEMS sensors. As the proposed sensing mechanism is independent of the electrical conductivity of the sensitive material, a broad range of materials such as hydrogels, polymers, metal-organic-frameworks and biomolecules can be employed, enabling the sensing of a broad range of analytes. By applying an appropriate functionalization of the sensitive material, target molecules can be detected selectively even in complex environments.[20]
+
+For demonstration and proof-of-concept of our new chemical sensor, we use a lignin hydrogel as an example for the sensitive material. Lignin is an organic polymer. It is an important component in the cell walls of wooden plants.[21]In the pulp and paper production lignin is extracted as a side product.[22]As a hydrogel, the material offers a sensitive swelling behavior in the presence of water vapor.[23]Furthermore, lignin hydrogels have been employed for ion sensing.[24]Depending on the method of extraction, different types of lignin are distinguished. Here, we use kraft lignin, which is extracted in the kraft process.[25,26]In this study, we use a precision dispensing device to apply the hydrogel onto the SGFET membranes. The film properties and coating quality are investigated. Gas sensing measurements with water vapor are performed to demonstrate the proof-of-concept for this new chemical sensing mechanism and to investigate the sensing characteristics.
+
+The SGFET-substrates were designed and produced by Infineon AG.Figure2represents a simplified scheme of the integration flow. In step 1, the SGFET channel, source-drain regions, and STI (shallow trench isolation) were integrated. Afterward, a layer stack of silicon nitride and amorphous carbon were deposited, wherein the carbon layer would be later used as a sacrificial material for creating a cavity between the gate electrode and the channel region. This amorphous carbon layer was structured in step 2 by means of a selective anisotropic plasma etch process, such that the underlying silicon nitride isolation layer remains unaffected. The silicon nitride layer further acts as a gate dielectric. In step 3, a polycrystalline silicon layer was deposited over the sacrificial layer, which was then structured to form the gate of the SGFET.
+
+The sacrificial layer was removed through the side channels of the membrane (which were not shown in the above schematic representation) by means of an oxygen plasma etch process. Afterward, a sealing process was taking place, where the cavity would be closed by chemical vapor deposition of silicon oxide. This process defines the pressure in the cavity. The schematic representation of the cross section was shown in Figure2step 4. In steps 5 and 6, the metallization process including a passivation of the metal pads was carried out. In order to release the membrane, all passivation layers were etched in step 7 without disturbing the polycrystalline silicon layer. Immediately after the etching process, a thin silicon nitride layer was deposited for passivation of the membrane/gate electrode. This helps to protect the cavity from moisture penetration and diffusion of other gases present in the atmosphere. In step 8, the oxide over the metal pads was etched in order to enable the electrical contact. After this step, the integration of the SGFET device was completed. More details about the fabrication process could be found in the patent EP3633734 (A1).[27]Subsequently, to the fabrication of the SGFET, the sensitive layer was deposited in step 9, which includes a sequence of sample pre-treatment and subsequent deposition techniques.
+
+The described technological concept allows the integration of sensor structures in different designs. Three designs were shown inTable1, exemplarily. Design 1 consists of one SGFET with a varying channel width per structure. Designs 2 and 3 consist of several parallel connected SGFETs. In design 2, each transistor has its own gate membrane whereas a long-shared gate membrane runs over the transistors of design 3. Top views of these designs were shown inFigure3.
+
+All SGFETs were cleaned with acetone and isopropanol followed by oxygen plasma etching for 300 seconds (ZEPTO-W6, Diener electronic). The substrates were functionalized with epoxide groups by treating them with a solution of 215 µL 5,6-epoxyhexyltriethoxysilane (EHTES) in 15 mL toluene at 100 °C for 1 h.
+
+The Lignoboost kraft lignin was extracted by the Zellstoff- und Papierfabrik Rosenthal GmbH and was further fractionated by the Institute for Plant and Wood Chemistry at the TU Dresden. The solvable part in a 20:80 mixture of acetone:water was removed before separating the solvable part in a 30:70 mixture of acetone:water as the fraction which was used for all experiments.
+
+For the synthesis of the sensitive hydrogel, 0.05 g kraft lignin were dissolved in 1 mL of 1.5 mol L−1sodium hydroxide under magnetic stirring. As a crosslinker 50 µL poly(ethylene glycol) diglycidyl ether (PEGDGE) were added. The reaction scheme of the hydrogel formation during crosslinking was depicted inFigure4.
+
+For deposition of the prepared hydrogel, the sciFLEXARRAYER S3 nano spotter from Scienion was used. The device uses capillaries with piezo actuators to dispense drops with a volume of ≈300 pL. These drops could be deposited with micrometer precision at defined spots on the substrate. Prior to coating of the SGFETs, the voltage and pulse length for drop generation at the piezo actor were optimized. With the substrate camera, the spots for hydrogel deposition were defined on the substrate. Five drops of hydrogel were deposited at each spot in a typical spotting run, in order to achieve a good coverage of the gate membranes. On long membranes, several spots were defined in a line. After spotting, the hydrogel was allowed to crosslink overnight in ambient atmosphere.
+
+In order to survey the coverage of the gate membranes, the films were examined using the Axio Lab.A1 optical microscope from Zeiss. A laser microscope was used to measure film thickness and to obtain a 3D map. The surface structure of the sensitive films was further studied with a TopoMetrix TMX-2010 atomic force microscope (AFM) in contact-mode using a MikroMasch CSC12/Si3N4 tip.
+
+The gas sensor substrates were placed in a ceramic chip carrier and contacted with wire bonds. The carrier was placed in a homemade gas tight measurement cell, which was connected to the gas supply. A 2612B SYSTEM Source Meter (Keithley) was used to apply a constant drain voltage of U_DS = 5 V and to measure the channel current over time. The gate voltage of U_G = −10 V was applied by the BT-305 power supply from BASETech. The gas supply, previously reported in,[28]has two lines that enable instantaneous switching between the nitrogen reference gas and the measurement gas with the selected concentration of water vapor. A continuous gas flow of 400 mL min−1was applied throughout all measurements with nitrogen as carrier gas. The open layout of the gas supply ensures that no pressure builds up in the sensor test cell during the measurements. A more detailed description of the gas sensor test setup could be found in the (FigureS1, Supporting Information).
+
+Reference measurements were carried out in pure nitrogen. For the gas measurements, defined concentrations of 100, 200, 400, 800, 1600, 3200, and 5000 ppm water vapor were generated by the setup. Before each measurement, stable measurement conditions were obtained by an adjustment time of 120 s. Subsequently, the SGFET current was measured during two gas cycles consisting of 120 s baseline in nitrogen, 120 s analyte flow, and 120 s purging with nitrogen again.
+
+The substrates were examined using optical microscopy (Figure5). As can be seen, each sensor device consists of four individual SGFET structures. The hydrogel was deposited on the bottommost SGFET of each sensor. The microscopic image confirms the successful deposition of the dark hydrogel on the SGFETs with a good coverage of the gate membranes.
+
+For the analysis of the 3D surface of the deposited hydrogel, the substrates were studied with a confocal microscope. Prior to the measurement, a thin gold film was deposited on the substrate in order to improve the reflectivity of the hydrogel spots. Due to the influence of the gold film on the gas sensing performance, confocal microscopy was performed on a different chip than another chip as the gas measurements. The 3D data was leveled so that the blank substrate had a height of 0. The hydrogel spot can be seen clearly as an elevation on the substrate inFigure6. Height profiles running in different angles through the hydrogel spot were extracted. They show a film thickness of ≈5–6 µm in the center of the spot, whereas the edges have a thickness of 8–10 µm. This shape arises due to the coffee ring effect: the edges are thicker because of the capillary flow towards the outside of the drop during solvent evaporation. The results show that the hydrogel coating is very thick in comparison to the thin gate membrane and the small cavity of 70 nm height underneath.
+
+To confirm the film thickness measurements and to further study the surface structure of the hydrogel, AFM measurements were conducted at the edge of a hydrogel spot on another substrate. Due to the limited scanning area, the AFM measurement does not cover the entire spot. The AFM image inFigure7shows a very rough and porous hydrogel surface. From the color scale the maximum film thickness in the measured area can be estimated to reach up to 6 µm. This result is in good accordance with the confocal microscopy measurement.
+
+Prior to the gas measurements, the electrical output characteristics were recorded in ambient atmosphere for gate voltages in the range of −15–0 V. The results are depicted inFigure8a. The transistor channel is conductive at a gate voltage of 0 V (normally-on) and is turned off for negative voltages. The output curves show a linear behavior for small drain-source-voltages, which levels off into the saturation region at higher voltages. The output characteristics were used to determine the operating point for the gas measurements. As the transistors are most sensitive in the saturation region, the channel current was measured at UG= −10 V and UDS= 5 V for all investigations. Figure8bshows the results for the gas measurement of a hydrogel-coated SGFET towards 5000 ppm water.
+
+The reference measurement with pure nitrogen shows an almost constant channel current with minimal drift. During this measurement, pure nitrogen is filled into both lines (nitrogen as reference and as measurement gas) and the switching between the lines occurs at the same times as for a humidity measurement. This reference can therefore be used to disentangle the sensor's response to potential changes in pressure from the humidity-sensing signal. As the reference curve is a flat line, it can be concluded, that the pressure in the test cell remains constant throughout the measurements even during switching events. The sensor response is unperturbed by environmental changes.
+
+During the water measurement, the current decreases steeply at the inflow of water vapor into the cell. The response is reversible so that the current increases when the cell is flushed with nitrogen. These results demonstrate the successful proof-of-concept for the new gas sensor based on a pressure-sensitive SGFET.
+
+Figure10shows the sensing characteristics as the maximum response values measured during the first cycle toward the respective concentrations. In total, six different SGFET sensor structures on three different substrates were investigated. They all show an approximately linear behavior in the measured range. No saturation occurs, which confirms that despite the thick hydrogel coating, the gate membranes are not deflected far enough to touch the bottom of the cavities. Therefore, the sensors are potentially suited to measure even higher concentrations.
+
+The tested sensor devices differ strongly in their sensitivities as can be seen from the different slopes of the sensing curves in Figure10. There are two main influences on the sensitivity, which could be identified: First, the devices have different layouts consisting of single (design 1) or multiple transistors with individual (design 2) or shared (design 3) gate membranes. The design and stiffness of the membrane is a crucial parameter as it determines how easily the membrane is deflected by the swelling hydrogel. For example, the design 1 device, consisting of only a single transistor, shows the second highest sensitivity. In this layout, the gate has a width of 50 µm, whereas the gates in the multi-transistor layouts have a width of only 5 µm. Therefore, the membrane is expected to be more easily deflectable as it is also confirmed by the arising pull-in effect at a relatively low voltage. The second influence is the coating of the devices. Even though the same materials and methods were used, small inhomogeneities can arise with a large impact on the sensing performance. The binding of the hydrogel on the gate membrane is especially important and can be easily disturbed by impurities or particles on the substrates. Furthermore, the coating parameters were adapted in order to achieve a good coverage of the gate membranes of different sizes. A higher volume of hydrogel was applied on the larger devices, which possibly increased the film thickness next to the spot size. For example, the largest of the tested devices consisting of 64 transistors shows the highest sensitivity, which could indicate a thicker coating. The film thickness values of the gas sensing devices are not available as the gold layer necessary for confocal microscopy would disturb the gas sensing mechanism.
+
+A large number of humidity sensors are known from the literature, among which capacitive and resistive sensors are the most prominent.[29]These sensors are typically tested for measuring relative humidity in the range of 20%–95%. The SGFET-based humidity sensor presented in this study was tested in the range of 100–5000 ppm of water vapor, which corresponds to 0.4% to 18% relative humidity at 23 °C. At this low-humidity range, the application of many conventional polymer-based resistive or capacitive sensors is limited.[30]The resistivity or impedance of the sensitive material increases strongly, making accurate measurements challenging. Conversely, the presented SGFET-based humidity sensor is independent on the electrical conductivity of the material and successfully detected concentrations as low as 100 ppm. While the sensor could potentially detect concentrations higher than 5000 ppm water vapor, the testing was constrained by the available gas measurement setup. However, low-humidity sensing is also important, with applications such as atmospheric research, dry gas supplies, food packaging, low-humidity storage of delicate products, and semiconductor manufacturing. The SGFET-based sensor presented here operates within a similar humidity range as many low-humidity sensors reported in the literature, demonstrating its potential for practical and industrial applications.[30]
+
+For selectivity testing, the response toward 5000 ppm toluene was measured on the design 3 structure with 16 transistors (Figure11). A small decrease in the channel current was detected during the toluene cycles, which corresponds to a response of ≈0.3%. This indicates that the hydrogel shows a slight swelling behavior even in toluene. However, the device shows a seven times stronger response in water vapor so that a good selectivity is achieved.
+
+The selectivity of the novel SGFET-based chemical sensor is directly dependent on the selective swelling or shrinking response of the sensitive material. For hydrogels, such as the kraft lignin hydrogel used in this study, a good selectivity toward water vapor compared to other solvent vapors is observed. By applying a suitable functionalization, hydrogels can also respond selectively to other analytes, such as ions or pH in liquid phase measurements.[20]Beyond hydrogels, other sensitive materials such as polymers and composite materials are known from the literature to exhibit a responsive swelling behavior in response to volatile organic compound vapors.[31]The range of sensing applications can be further extended by incorporating bioreceptors (e.g., antibodies, enzymes or nucleic acids) in the sensitive layer and performing liquid phase measurements.[5]
+
+The presented SGFET-based transducer can be applied for chemical sensing of other analytes beyond humidity, including volatile organic compounds, gases, ions, contaminants, drugs, and biomolecules. The fabrication is based on established semiconductor technology processes, enabling cost-effective large-scale production and full integration with further components such as a microcontroller, power supply, and wireless communication. Due to the miniaturized sensor layout, highly-integrated sensing arrays comprising of multiple reference and analyte sensors can be built up on a small area. Uncoated references SGFET sensors can be used to disentangle the influence from changes in the environmental parameters, such as temperature and pressure, from the sensor response to the analyte. Different sensitive coatings can be applied on the individual SGFET sensors in the array to tune the sensor performance for various analytes and particularly high sensitivities in combination with low cross-sensitivities. Moreover, different coating techniques, such as additive (dispensing or printing) and subtractive (full coating and subsequent patterning via photolithography) techniques, can be implemented to complete the multiple potential technology options.
+
+Due to the variety of potential analytes, and hence, the broad range of applications for such a sensor system, the presented SGFET-based chemical sensor can be considered as an advanced and versatile miniaturized sensing platform as well as a technology platform.
+
+The proof of concept for a new chemical sensor based on a pressure-sensitive suspended gate field effect transistor (SGFET) transducer was successfully demonstrated. Kraft lignin hydrogel was used as a first sensitive material to detect water vapor. A precision dispensing device was used for the deposition on the gate membranes. In the gas measurements, the sensor devices showed a decrease in channel current of up to 9% in response to 5000 ppm water vapor. Various SGFET transducer designs were tested, all proving suitable for gas sensing.
+
+This advanced and demonstrated sensor platform is distinguished by its high versatility and can be tailored to specific analyte molecules by employing various sensitive materials such as hydrogels, polymers, metal-organic-frameworks and biomolecules. Particularly, the sensing material can be chosen independently of the MEMS transducer and does not need to fulfill additional requirements such as electrical conductivity. Furthermore, the new sensor platform is not limited to gas-sensing applications. Liquid phase measurements are expected to expand the range of possible analytes and applications. Due to the huge number of material combinations considering the sensitive layer, deeper investigations for each target molecule are to be done.
+
+Additionally, the miniaturized layout allows the integration of sensor arrays. Uncoated reference SGFETs can serve to decouple the sensing response from changes in the environmental parameters such as temperature and pressure, whereas an array of sensing devices coated with different sensitive materials can measure multiple analytes simultaneously. The particular strength of this advanced sensor platform is the use of the same transducer principle integrated on one substrate, such that only the sensitive material needs to be varied for creating a sensor array.
+
+The novel sensor platform will pave the way for new low-cost and highly selective chemical and biological sensors.
+
+This work resulted in the European Patent Application No. 23172888.2. Filed May 11, 2023
+
+The authors thank all involved colleagues from the Institute for Plant and Wood Chemistry at TU Dresden, Infineon Technologies Dresden, Institute of Nanoscale and Biobased Materials at TU Bergakademie Freiberg, Fraunhofer ENAS as well as the Center for Microtechnologies at TU Chemnitz for their support and fruitful discussions.
+
+The authors declare no conflicts of interest.
+
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+Volume3,Issue10
+
+October 2024
+
+2400040
+
+Copyright © 1999-2025John Wiley & Sons, Incor related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Your password has been changed
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username

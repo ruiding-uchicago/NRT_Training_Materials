@@ -1,0 +1,35 @@
+{
+  "stem": "10.1016_j.sna.2023.114695",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH value",
+      "lower_detection_limit": "pH 1",
+      "upper_detection_limit": "pH 11",
+      "probe_material": "Ga2O3 nanorods on ITO/glass",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "1-11",
+      "test_medium": "pH buffer solution (pH 1 to 11) and cell culture medium (DMEM)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "0 mg/ml",
+      "upper_detection_limit": "4.5 mg/ml (tested up to 4.5 mg/ml in DMEM)",
+      "probe_material": "Ga2O3 nanorods on ITO/glass",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "physiological saline solution (0, 1, 4 mg/ml) and cell culture medium (DMEM, 4.5 mg/ml)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose (mixed with lactose and fructose)",
+      "lower_detection_limit": "4 mg/ml (mixed solution concentration)",
+      "upper_detection_limit": "4 mg/ml (mixed solution concentration)",
+      "probe_material": "Ga2O3 nanorods on ITO/glass",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "mixture solution containing 4 mg/ml glucose, 4 mg/ml lactose, and 4 mg/ml fructose"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00604-024-06487-x",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phenytoin",
+      "lower_detection_limit": "12.9 ng/mL",
+      "upper_detection_limit": "200 ng/mL",
+      "probe_material": "poly(catechol-co-3,4-dihydroxybenzaldehyde)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.0",
+      "test_medium": "artificial plasma fluid/sodium phosphate buffer/water"
+    }
+  ]
+}

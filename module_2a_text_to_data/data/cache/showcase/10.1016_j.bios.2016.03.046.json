@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2016.03.046",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "methylene blue",
+      "lower_detection_limit": "4.7 nM",
+      "upper_detection_limit": "0.3 M",
+      "probe_material": "graphene oxide nanoribbon (GONR)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

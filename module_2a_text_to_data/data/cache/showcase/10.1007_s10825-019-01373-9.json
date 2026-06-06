@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10825-019-01373-9",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "trinitrotoluene",
+      "lower_detection_limit": "0.1 µM",
+      "upper_detection_limit": "20 µM",
+      "probe_material": "3-aminopropyltriethoxysilane",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

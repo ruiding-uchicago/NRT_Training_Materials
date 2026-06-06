@@ -1,0 +1,702 @@
+[
+  {
+    "stem": "10.1002_adfm.200901830",
+    "wrong": [
+      [
+        "detect_target",
+        "pH",
+        "H+"
+      ],
+      [
+        "lower_detection_limit",
+        "",
+        "1e-10 M"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "1e-2 M"
+      ],
+      [
+        "probe_material",
+        "polyisobutylmethacrylate (PIBMA) and Teflon derivative AF-1600",
+        "Polyisobutylmethacrylate"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.201001560",
+    "wrong": [
+      [
+        "test_medium",
+        "nitrogen (N2) with NO2",
+        "nitrogen"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.201202473",
+    "wrong": [
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.201501587",
+    "wrong": [
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.201700999",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "",
+        "100 ppm"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.201806244",
+    "wrong": [
+      [
+        "probe_material",
+        "F4TCNQ-MoS2",
+        "2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adfm.202215215",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "",
+        "100 ppm"
+      ],
+      [
+        "probe_material",
+        "diF-TES ADT/PTAA blend",
+        "poly(triarylamine)"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "test_medium",
+        "N2",
+        "air"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adma.201004203",
+    "wrong": [
+      [
+        "probe_material",
+        "Pd nanoparticles on SnO2 nanowire",
+        "palladium"
+      ],
+      [
+        "test_medium",
+        "dry air",
+        "air"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adma.201301138",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "",
+        "100 ppm"
+      ],
+      [
+        "probe_material",
+        "DTBDT-C6 (dialkyl tetrathiapentacene)",
+        "Dialkyl tetrathiapentacene"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adma.201404707",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "",
+        "100 vol%"
+      ],
+      [
+        "probe_material",
+        "cross-linked P3HT-azide co-polymer / calix[8]arene (C8A)",
+        "calix[8]arene"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "pH_value",
+        -1,
+        "7"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adma.201670145",
+    "wrong": [
+      [
+        "detect_target",
+        "o-xylene",
+        "xylene"
+      ],
+      [
+        "test_medium",
+        "air",
+        "nitrogen"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_adma.202101518",
+    "wrong": [
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_admi.201901696",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "",
+        "30 ppm"
+      ],
+      [
+        "test_medium",
+        "air",
+        "nitrogen"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_admi.202100314",
+    "wrong": [
+      [
+        "sensor_type",
+        "bio",
+        "liquid"
+      ],
+      [
+        "lower_detection_limit",
+        "3 pH",
+        "1e-10 M"
+      ],
+      [
+        "upper_detection_limit",
+        "10 pH",
+        "1e-3 M"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_admi.202301088",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "7% RH",
+        "8 RH%"
+      ],
+      [
+        "upper_detection_limit",
+        "35% RH",
+        "35 RH%"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_admt.202100481",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "",
+        "1e-12 M"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "1e-3 M"
+      ],
+      [
+        "probe_material",
+        "pyrene-modified peptides (pyK, pyE, pyEK)",
+        "pyrene/graphene/peptide EKEKEKE"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "test_medium",
+        "aqueous buffer solutions (commercial standard buffer solutions, custom citric acid and NaOH solutions)",
+        "water"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_advs.201901001",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "pH 1",
+        "1e-5 M"
+      ],
+      [
+        "upper_detection_limit",
+        "pH 6",
+        "1e-3 M"
+      ],
+      [
+        "probe_material",
+        "azobenzene (azo)-carrying silane self-assembled monolayers (SAMs) with various substituents (CF3, CH3, CH3O, (CH3)2N) and amine-carrying molecules (monoamine, diamine, triamine) on SiO2 gate surface",
+        "Azobenzene chromophore"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "pH_value",
+        "1-6",
+        "3-5"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_aelm.201700120",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "",
+        "1 ppm"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "test_medium",
+        "air (15-38% humidity)",
+        "air"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_aelm.201901127",
+    "wrong": [
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_aelm.202000812",
+    "wrong": [
+      [
+        "probe_material",
+        "Cu(F16Pc)/pNiDPP heterojunction",
+        "Nickel porphyrin"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_aelm.202101353",
+    "wrong": [
+      [
+        "probe_material",
+        "PDVT-CS composite (PDVT polymer and cyanostar receptor)",
+        "cyanostar"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_open.202400098",
+    "wrong": [
+      [
+        "sensor_type",
+        "bio",
+        "liquid"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "50 μM"
+      ],
+      [
+        "probe_material",
+        "2-carboxymethylthio-5-mercapto-1,3,4-thiadiazole (TMT) with Cu2+",
+        "2-carboxymethylthio-5-mercapto-1,3,4-thiadiazole"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_pssa.202000278",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "pH 2",
+        "1e-12 M"
+      ],
+      [
+        "upper_detection_limit",
+        "pH 12",
+        "1e-2 M"
+      ],
+      [
+        "probe_material",
+        "fluorocarbon thin film (via fluorine termination on boron-doped diamond)",
+        "boron/graphene"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "test_medium",
+        "Carmody buffer solutions",
+        "water/Boric acid/Citric acid monohydrate/Trisodium phosphate dodecahydrate"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_smll.202002875",
+    "wrong": [
+      [
+        "detect_target",
+        "water (Milli-Q water, stabilized)",
+        "hg2+"
+      ],
+      [
+        "lower_detection_limit",
+        "",
+        "1 nM"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "100 µM"
+      ],
+      [
+        "pH_value",
+        "5.5",
+        "7.4"
+      ],
+      [
+        "test_medium",
+        "water",
+        "Phosphate-buffered saline"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1002_smll.202308857",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "2 nM",
+        "0.2 nM"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1007_s00289-022-04105-5",
+    "wrong": [
+      [
+        "sensor_type",
+        "bio",
+        "liquid"
+      ],
+      [
+        "probe_material",
+        "Ti2CTx MXene-PEDOT:PSS-GO-BSA composite",
+        "bovine serum albumin"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1007_s10544-010-9497-z",
+    "wrong": [
+      [
+        "detect_target",
+        "pH",
+        "H+"
+      ],
+      [
+        "lower_detection_limit",
+        "",
+        "5.01e-9 M"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "2.51e-3 M"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1007_s10853-010-4603-4",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "pH 2",
+        "1e-12 M"
+      ],
+      [
+        "upper_detection_limit",
+        "pH 12",
+        "1e-2 M"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "test_medium",
+        "buffer solutions",
+        "water"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1007_s10854-013-1301-4",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "pH 2",
+        "1e-12 M"
+      ],
+      [
+        "upper_detection_limit",
+        "pH 12",
+        "1e-2 M"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.bios.2011.05.025",
+    "wrong": [
+      [
+        "probe_material",
+        "PEDOT:PSS (active channel) with Pt gate electrode",
+        "carbon nanotube/chitosan"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.bios.2018.07.014",
+    "wrong": [
+      [
+        "probe_material",
+        "DA-MIP (vinylphenylboronic acid based molecularly imprinted polymer)",
+        "4-vinylphenylboronic acid/N-[3-(dimethylamino)propyl]methacrylamide/ethylene glycol dimethacrylate"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.microc.2023.108755",
+    "wrong": [
+      [
+        "test_medium",
+        "artificial urine, energy drink",
+        "phosphate buffered saline"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.sna.2023.114695",
+    "wrong": [
+      [
+        "upper_detection_limit",
+        "4 mg/ml",
+        "4.5 mg/mL"
+      ],
+      [
+        "pH_value",
+        -1,
+        "7"
+      ],
+      [
+        "test_medium",
+        "saline solution",
+        "Dulbecco’s Modified Eagle Medium"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.snb.2014.07.055",
+    "wrong": [
+      [
+        "lower_detection_limit",
+        "10^-6 M (i.e., 1 µM)",
+        "1 µM"
+      ],
+      [
+        "upper_detection_limit",
+        "10^-1 M (i.e., 0.1 M)",
+        "0.1 M"
+      ],
+      [
+        "probe_material",
+        "Zn3Ta2O5 (sensing membrane) with calmodulin (CaM) immobilization",
+        "calmodulin"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.snb.2018.08.087",
+    "wrong": [
+      [
+        "sensor_type",
+        "liquid",
+        "bio"
+      ],
+      [
+        "detect_target",
+        "pH",
+        "H+"
+      ],
+      [
+        "lower_detection_limit",
+        "",
+        "1e-10 M"
+      ],
+      [
+        "upper_detection_limit",
+        "",
+        "1e-4 M"
+      ],
+      [
+        "test_medium",
+        "buffer solution",
+        "water"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.snb.2020.127850",
+    "wrong": [
+      [
+        "sensor_type",
+        "liquid",
+        "bio"
+      ],
+      [
+        "detect_target",
+        "pH",
+        "dopamine"
+      ],
+      [
+        "lower_detection_limit",
+        "2",
+        "0.523 fM"
+      ],
+      [
+        "upper_detection_limit",
+        "12",
+        "1 nM"
+      ],
+      [
+        "probe_material",
+        "InZnxOy",
+        "3-aminopropyltriethoxysilane/1-ethyl-3-(3-dimethylaminopropyl)carbodiimide/N-hydroxysuccinimide/4-carboxylphenylboronic acid"
+      ],
+      [
+        "pH_value",
+        "2-12",
+        "7.4"
+      ],
+      [
+        "test_medium",
+        "aqueous buffer solutions (pH 2-12)",
+        "phosphate buffered saline"
+      ]
+    ]
+  },
+  {
+    "stem": "10.1016_j.snb.2024.135402",
+    "wrong": [
+      [
+        "probe_material",
+        "cobalt phthalocyanine graphene nanocomposites (CoGPCs)",
+        "cobalt phthalocyanine"
+      ],
+      [
+        "test_operating_temperature (celcius)",
+        "",
+        "25 °C"
+      ],
+      [
+        "pH_value",
+        "",
+        "7.4"
+      ]
+    ]
+  }
+]

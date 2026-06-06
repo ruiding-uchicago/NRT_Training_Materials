@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.snb.2020.127850",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "pH 2",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "InZnxOy thin film on PET",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "2-12",
+      "test_medium": "buffer solutions pH 2-12"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1 fM",
+      "upper_detection_limit": "1 nM",
+      "probe_material": "InZnxOy thin film functionalized with 4-carboxyphenylboronic acid (4-CPBA) via APTES, EDC/NHS",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "7.4",
+      "test_medium": "10 mM phosphate buffer saline (PBS) pH 7.4, also real samples (rat serum, rat brain)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2021.113903",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "γ-aminobutyric acid",
+      "lower_detection_limit": "1e-18 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "GABAA receptor",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Dulbecco's phosphate buffered saline"
+    }
+  ]
+}

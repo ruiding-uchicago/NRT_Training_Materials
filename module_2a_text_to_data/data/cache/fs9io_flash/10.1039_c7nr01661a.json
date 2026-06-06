@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_c7nr01661a",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "arsenic(III)",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-8 M",
+      "probe_material": "Ars-3 aptamer",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

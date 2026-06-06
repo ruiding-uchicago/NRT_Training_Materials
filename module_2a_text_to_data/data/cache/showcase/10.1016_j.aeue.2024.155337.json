@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.aeue.2024.155337",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen",
+      "lower_detection_limit": "1e-15 Torr",
+      "upper_detection_limit": "1e-10 Torr",
+      "probe_material": "palladium",
+      "test_operating_temperature (celcius)": "46.85 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11664-021-09210-1",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "target_chemical": "hydronium/hydroxide (pH)",
+      "lower_detection_limit": "pH 2",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "undoped N-type gallium nitride (GaN) on Al2O3 substrate",
+      "test_operating_temperature_celcius": "room temperature (25 °C)",
+      "ph_value": "2-12",
+      "test_medium": "pH buffer solutions (Titrisol®)"
+    }
+  ]
+}

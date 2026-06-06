@@ -1,0 +1,15 @@
+{
+  "stem": "10.1088_2043-6262_7_3_035007",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "atrazine",
+      "lower_detection_limit": "0.05 ppt",
+      "upper_detection_limit": "20 ppb",
+      "probe_material": "urease",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "phosphate-buffered saline/water"
+    }
+  ]
+}

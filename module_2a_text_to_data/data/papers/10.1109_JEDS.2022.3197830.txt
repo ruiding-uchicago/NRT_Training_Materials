@@ -1,0 +1,759 @@
+10.1021/acsbiomaterials.Received 20 June 2022; revised 23 July 2022; accepted 6 August 2022. Date of publication 10 August 2022; date of current version 19 August 2022.
+The review of this article was arranged by Editor Z. Zhang.
+Digital Object Identifier 10.1109/JEDS.2022.3197830
+Temperature Effect Analysis of the Enzymatic
+RuO2 Biomedical Sensor for Ascorbic
+Acid Detection
+PO-YU KUO (Member, IEEE), WEI-HAO LAI , CHUN-HUNG CHANG , AND TAI-HUI WANG
+Graduate School of Electronic Engineering, National Yunlin University of Science and Technology, Douliou 64002, Taiwan
+CORRESPONDING AUTHOR: P.-Y. KUO (e-mail: kuopy@yuntech.edu.tw)
+This work was supported by the Ministry of Science and Technology, Taiwan, under Grant MOST 111-2221-E-224-050 and Grant MOST 110-2221-E-224-051.
+ABSTRACT The temperature effect has been discussed in the past on pH sensors. In this study, the temperature effect is analyzed for the ascorbic acid (AA) biosensor based on enzymatic ascorbate oxidase (AO).
+To reduce this effect, a novel temperature compensation circuit was implemented by Taiwan Semiconductor
+Manufacturing Co., Ltd. (TSMC) 180 nm complementary metal-oxide-semiconductor (CMOS) process.
+By applying the proposed circuit, the temperature coefficients (TCs) with five concentrations of AA were
+suppressed below 201 µV/◦C. The TC of the normal level of AA concentration (0.0312 mM) in the human
+body was 188 µV/◦C, at the temperature range from 25◦C to 55◦C. The polyethylene terephthalate (PET)
+substrate was utilized. To confirm the stability of the fabricated AO/RuO2/PET AA biosensor, interference
+and hysteresis experiments were carried out. At present, the experiments were still in the stage of in
+vitro measurement. The results showed that the AO/RuO2/PET AA biosensor had good selectivity that
+effective against other interference that may exist in blood at either 25 ◦C or 37.5 ◦C. Moreover, at the
+temperature of 37.5 ◦C, the hysteresis voltage of the biosensor after applying the compensation circuit
+was reduced from 18.27 mV to 1.39 mV.
+INDEX TERMS Temperature effect, temperature compensation circuit, ascorbic acid (AA), ruthenium
+dioxide (RuO2), enzymatic biosensor, CMOS process.
+I. INTRODUCTION
+Temperature influence is one of the important issues for
+biomedical sensors. Most temperature compensation mechanisms were based on ion-sensitive field-effect transistor (ISFET) sensors [1], [2], [3], [4], [5]. ISFET was
+first proposed by Bergveld [6]. When the ion concentration (for example, H+, K+, Na+) changes, the current
+flowing through the transistor also changes accordingly.
+Furthermore, the metal gate is replaced by an ion-sensitive
+membrane, electrolyte solution, and reference electrode.
+Gaddour et al. [1] used two ISFETs with the same electrical
+and chemical characteristics for temperature compensation,
+called ISFET and reference field effect transistor (ReFET).
+ReFET sensor can significantly reduce drift and noise of
+measurement. The feedback of the transconductance amplifier controlled the calibration of the reference electrode
+to overcome the DC offset and make it easier to achieve
+differential measurement for the ReFET/ISFET. Chan and
+Chen [2] proposed a nonlinear temperature compensation
+method that was based on deriving a unified form for bodyeffect-based ISFET temperature-dependent threshold voltage.
+Then repeatedly adjust and correct the bias current of the
+temperature compensation circuit to make the ISFET work
+nearby zero temperature coefficient (Z.T.C.). Chin et al. [3]
+proposed a temperature compensation circuit that used a pn diode of temperature sensor, a constant current constant
+voltage (CCCV) readout circuits, and an instrumentation
+amplifier (INA) to perform temperature compensation for
+a single ISFET. Naimi et al. [4] designed the low power
+consumption ISFET operating in weak and moderate inversion regions based Enz– Krummenacher– Vittoz (EKV)
+model [7] that describes the ISFET’s behavior of temperature. Therefore, they utilized a third-stage read out circuit
+for this behavior to make the output voltage insensitive to
+This work is licensed under a Creative Commons Attribution 4.0 License. For more information, see https://creativecommons.org/licenses/by/4.0/
+670 VOLUME 10, 2022
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+temperature. Bhardwaj et al. [5] introduced electrochemical parameters into the MOSFET model to simulate ISFET
+behavior. They utilized CCCV readout circuit to read out
+the voltage signal of ISFET. Smart machine learning based
+regression models to compensate for the temperature behavior and the output signal of the trained model showed the
+characteristics independent of temperature. But ISFET has
+several shortcomings, such as low sensitivity, light influence,
+poor stability, and the entire device must be remanufactured
+when the sensing membrane is damaged. To overcome these
+shortcomings, Spiegel et al. [8] proposed the extended gate
+field effect transistor (EGFET). Fig. 1 illustrated the sensing
+architecture of EGFET and ISFET. The MOSFET biosensor can operate not only in the saturation region but also
+in the linear region. The IDS-VGS scanned curves which are
+obtained from the linear region can convert out the voltage sensitivity and the IDS-VDS scanned curves which are
+obtained from the saturation region can convert out the current sensitivity. In the configuration of EGFET, the gate of
+MOSFET is connected to the sensor, and the charge on the
+sensing film changes due to electrochemical reaction, which
+affects the conductive condition of the MOSFET. When the
+sensor is damaged by analytes, we only need to replace the
+sensing area instead of remanufacturing the entire component. When MOSFET is not operating properly, we can just
+replace the MOSFET. This feature enables EGFET to successfully overcome the shortcomings of ISFET. Therefore,
+many researchers have fabricated different metal oxides such
+as ZnO, CuO, TiO2, NiOx, IGZO, and RuOx [9], [10], [11],
+[12], [13], [14], as sensors of EGFET for pH detection and
+glucose detection. However, there is almost no application
+for ascorbic acid (AA) detection. Batista and Mulato [9]
+fabricated ZnO thin film by sol-gel method and applied it to
+EGFET pH detection. Mishra et al. [10] grew CuO nanowires
+on copper foil to detect pH value and glucose. They proved
+that the threshold voltage changed due to the pH concentration. Li et al. [11] utilized an electron beam evaporator to
+successfully fabricate TiO2 nanowire and apply it to pH measurement. Pan et al. [12] investigated the effect of annealing
+NiOx films at different temperatures on silicon substrates
+for pH sensing. Kim et al. [13] developed an IGZO sensing
+film for EGFET sensor which can detect glucose in tears.
+Singh et al. [14] used the sol-gel method to derive RuOx
+thin film as a pH EGFET sensor and found that the RuOx
+thin film had a super Nernst sensitivity.
+The common name of AA is vitamin C which is one of
+the vitamins for human body and it cannot be synthesized by
+the body. AA controls wound healing, collagen synthesizing,
+skeletal, and tendon [15]. When the concentration of AA in
+the blood is lower than 0.0078 mM, the lack of AA may
+cause scurvy. The concentrations of AA over 0.125 mM may
+cause diarrhea. The most appropriate concentration of AA in
+the blood should be 0.031 mM [16]. Various methods for
+AA detection have been developed, such as titration [17],
+fluorimetric method [18], electrochemistry [19], and enzymatic analysis [20]. Among them, the enzymatic method has
+FIGURE 1. Schematic diagram of (a) EGFET and (b) ISFET.
+a better reaction rate, sensitivity, selectivity, and accuracy.
+Hence, we immobilized ascorbate oxidase (AO) on RuO2
+membrane to react with AA.
+Ruthenium dioxide (RuO2) is an oxide that has a rutile
+structure [21]. It has good metal conductivity, chemical
+stability, high sensitivity, corrosion resistance, and electrochemical reversibility [14]. It can also be used as a material
+for supercapacitors [22]. These characteristics enable RuO2
+to act as a working electrode in acidic solutions such as
+AA. Moreover, the characteristics of supercapacitors make
+more charge to be stored on the RuO2 working electrode,
+resulting in good sensitivity. Many processes for RuO2 thin
+films have been developed like sol-gel, magnetron sputtering,
+atom laser deposition, etc. [14], [23], [24].
+Most studies rarely mention the ambient TC of EGFET,
+and there are almost exclusively based on ISFET studies. In this study, to reduce the temperature effect, we
+proposed a temperature compensation method for the
+AO/RuO2/polyethylene terephthalate (PET) AA biosensor.
+The previously mentioned temperature compensation circuits
+were based on pH sensors and the temperature compensation circuit that was proposed in this study is the first
+applied to biosensors. We utilized two enzymatic RuO2
+AA biosensors with the same electrical properties and manufacturing process to achieve differential measurement which
+can effectively suppress the temperature impact on the
+sensor [1], [25], [26]. On the other side, the temperature
+compensation circuit can intuitively read out the response
+voltage of the sensor and display its voltage signal through
+Labview software on the computer. This compensation circuit has the advantages of simple design, easy to use, and
+effective reduction of the TC for the biosensor.
+II. EXPERIMENTAL
+The experimental section can be divided into four parts
+including the use of materials, fabrication process of
+the AO/RuO2/PET AA biosensor, reaction mechanism
+between the enzymatic AO/RuO2/PET AA biosensor, and
+VOLUME 10, 2022 671
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+AA solution, and chip design of the temperature compensation circuit.
+A. MATERIALS AND EQUIPMENT
+The flexible PET as the biosensor substrate was purchased
+from Zencatec Corporation Co., Ltd. (Taoyuan City, Taiwan),
+the silver paste as conductive wires were purchased from
+Advanced Electronic Materials INC. (Tainan City, Taiwan),
+the RuO2 target with 99.95% purity was purchased from
+Ultimate Materials Technology Co., Ltd. (Hsinchu County,
+Taiwan), the epoxy resin as encapsulation layer was purchased from Sil-More Industrial Co., Ltd. (New Taipei City,
+Taiwan), the AA powder, AO, 3-Aminopropyltriethoxysilane
+(γ -APTS), and glutaraldehyde was purchased from SigmaAldrich Corp. (St. Louis, MO, USA), the buffer solutions (PBS) of pH 7.0 was purchased from AppliChem
+GmbH Corp. (Darmstadt, Germany). Many studies are based
+on PBS to prepare solutions for different analytes [27], [28].
+The customized screen-printed machine was purchased from
+Houn Jien Co., Ltd, (New Taipei City, Taiwan), and the RF
+sputtering system assembled from various components was
+purchased from ShiHsin Technology Co., Ltd (Tainan City,
+Taiwan).
+B. FABRICATION OF AO/RUO2/PET AA BIOSENSOR
+To fabricate an enzymatic AO/RuO2/PET AA biosensor
+with good quality and stability, we followed the fabrication
+method of Chou’s study [29]. The fabrication process of the
+AO/RuO2/PET AA biosensor was illustrated in Fig. 2 [29].
+The 3 cm×4 cm of PET substrate was cleaned with acetone,
+99% of alcohol, and deionized (DI) water by ultrasonicator
+for 15 minutes, sequentially. The DI water had a resistivity of 18.4 M.cm. Next, the silver paste was printed on
+the PET substrate as conductive wires, counter electrode,
+and reference electrode by screen printing technology. The
+model of the printing board was a counter electrode, reference electrode, and six arrayed silver conductive wires as
+working electrodes that were shown in step 1 of Fig. 2.
+Then the RF sputtering system was used to deposit RuO2
+thin film on the silver layer with RF power of 50 W, process
+pressure of 10 mTorr, argon to oxygen ratio (Ar : O2) of
+10:1 sccm, and sputtering time of 30 minutes. The sputtering
+parameters of RuO2 thin film was shown in Table 1. After
+depositing the RuO2 thin film, the epoxy resin was used
+to encapsulate the exposed silver wires by screen printing
+technology and baked in an oven at 120 ◦C for 120 minutes.
+Then dropped 2 µL of γ -APTS with the concentration of
+1 wt% on the RuO2 film as an adhesive to immobilize AO.
+γ -APTS had functionalized surfaces. It allowed crosslinking
+with AO to modify RuO2 sensing film. The AO of 250 UN
+was mixed with 200 µL of PBS. When the γ -APTS was dry,
+dropped 2 µL of AO on the γ -APTS layer as an enzymatic
+layer. Finally, dropped 2 µL of glutaraldehyde (GA) with
+the concentration of 1 wt% on the enzymatic AO layer to
+enhance the adsorption capacity of AO on the RuO2 sensing
+film [30].
+FIGURE 2. The fabrication process of AO/RuO2/PET AA biosensor [29].
+TABLE 1. Sputtering parameters of RUO2 thin film.
+C. REACTION MECHANISM BETWEEN THE ENZYMATIC
+AO/RUO2/PET AA BIOSENSOR AND AA SOLUTION
+The reaction mechanism between the enzymatic
+AO/RuO2/PET AA biosensor and AA solution is as
+follows [31]:
+L − AA AO
+−→ Dehydro − L − AA+2H+ + 2e− (1)
+When the AO/RuO2/PET AA biosensor was immersed
+in AA solution, AO decompose AA producing dehydrogenated AA, two hydrogen ions, and two electrons.
+Reversible redox equilibrium exists between two different
+solid phases/oxidation states of RuO2 metal oxides [32]. Two
+hydrogen ions and two electrons which decompose by AO
+generate potential with the RuO2 thin film, and the reaction
+formula is as follows [14]:
+RuO2 + nH2O + H+ + e− ←→ Ru(OH)3 + (n − 1)H2O
+(2)
+The adsorbed protons attract electrons through the conducting oxide, leading to the reduction of Ru ions. This results
+in a potential change and causes the measurable change of
+the potential [33]. The potential of RuO2 thin film can be
+as follows [14]:
+E = E0 − RT
+F
+ln [Ru(OH)3]
+[RuO2][H+]
+=
+
+E0 − RT
+F
+ln [Ru(OH)3]
+[RuO2]
+
++
+RT
+F ln [H+] (3)
+672 VOLUME 10, 2022
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+FIGURE 3. The schematic diagram of the proposed temperature
+compensation circuit.
+where E0 is standard electrode potential, R is the universal
+gas constant, T is absolute temperature, F is Faraday constant, and [H+], [RuO2], [Ru(OH)3] represent the activity
+of H+, RuO2, and Ru(OH)3, respectively. The RuO2 thin
+film relies on AO to decompose AA into hydrogen ions.
+When AO encounters AA, it decomposes hydrogen ions.
+The concentration of AA is higher, more hydrogen ions were
+decomposed by AO. According to equation (3), the number
+of hydrogen ions does change the response voltage of the
+RuO2 sensing membrane. Therefore, the hydrogen ions that
+were generated by AO are used to explain the temperaturedependent behavior of the temperature compensation circuit
+in the following aspects.
+D. VOLTAGE-TIME MEASUREMENT SYSTEM
+In this study, the potentiometric biomedical sensing signals
+were displayed on the computer by the voltage-time (V-T)
+measurement system as shown in Fig. 3. VZTC was the
+temperature-independent output signal of the AO/RuO2/PET
+AA biosensor that connected to the data acquisition device
+(USB-6210, National Instruments, USA). Then, the analog signals of the temperature compensation circuit were
+converted to digital signals by the data acquisition device.
+Finally, the data acquisition device transmitted it to the computer. The signals of the AO/RuO2/PET AA biosensor were
+displayed on the LabVIEW interface (LabVIEW, National
+Instruments, USA) of computer.
+E. CHIP DESIGN OF TEMPERATURE COMPENSATION
+CIRCUIT
+The proposed temperature compensation circuit was composed of four INAs. To explain the chip design of the
+temperature compensation circuit, we have first clarified the
+working principle of the INA and three-electrode system.
+The circuit diagram of the INA was shown in Fig. 4 and
+the circuit diagram of the proposed temperature compensation circuit was shown in Fig. 3 which was composed
+from the INA shown in Fig. 4. All INAs and operational
+amplifiers (OPAs) were designed by our laboratory and
+FIGURE 4. The circuit schematic of INA.
+FIGURE 5. The die photo of the temperature compensation circuit.
+TABLE 2. Performance of the self-designed INA.
+simulated by the electronic design automation (EDA) tool
+which was provided by Taiwan Semiconductor Research
+Institute (TSRI). To read out the original biomedical signals, the gain of the INA is set to 1 and the resistance
+values of R were all designed to be the same as 30 k.
+During the measurement, Rgain was removed to force the
+gain of the INA was 1. The chip of the temperature compensation circuit was fabricated by Taiwan Semiconductor
+Manufacturing Co., Ltd. (TSMC) 180 nm complementary
+metal-oxide-semiconductor (CMOS) process. The die photo
+of the temperature compensation circuit was shown in
+Fig. 5. Performances of the self-designed INA were shown
+in Table 2. This INA had a high common-mode rejection
+ratio (CMRR) of 120.87 dB. Therefore, the differential input
+could effectively reduce the influence of noise including
+VOLUME 10, 2022 673
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+TABLE 3. Comparisons with the commercial INA LT1167.
+temperature. This INA utilized a supply voltage of ±1.8 V
+and the power consumption was 1.83 mW. The commercial LT1167 is commonly used as a readout circuit for
+biomedical sensors [34]. Thus, the LT1167 was compared
+to our proposed INA as shown in Table 3. The proposed
+INA achieved higher CMRR and lower power consumption, which means better anti-noise capability and power
+saving. Due to the high input impedance, the low output
+impedance, and the very low voltage of the biomedical
+sensor of the proposed INA, the voltage of the biomedical sensor can be completely fed into the next circuit
+interface.
+The INA was constructed from three operational amplifiers. OPA1 and OPA2 were the voltage followers which had
+high input impedance. OPA3 was the differential amplifier,
+which was used for differential amplification of two input
+terminals. The relationship of input signal, resistance, and
+output signal can be written as follows [35]:
+Gain = Vout
+V2+ − V1−
+=
+
+1 +
+2R21
+Rgain
+×
+R23
+R22
+(4)
+The INA performed the subtraction of two voltages from
+V1+ and V2−. The AO/RuO2/PET AA biosensor utilized
+a three-electrode system, which were a working electrode,
+a reference electrode and a counter electrode. V1+ was
+connected to working electrode and V2− was connected to
+counter electrode and reference electrode was connected to
+ground. The working principle of three-electrode system can
+be follows:
+Vref = Vsolution = 0 (5)
+V1+ = Vw − Vref = Vw (6)
+V2− = Vc − Vref = Vc (7)
+Vout = V1+ − V2− = Vw − −Vc (8)
+where Vref is voltage of reference electrode, Vw is voltage of
+working electrode, Vc is voltage of counter electrode, V1+
+is positive input of the INA, V2− is negative input of the
+INA, and Vout is output of the INA.
+When working electrode, counter electrode, and reference
+electrode were immersed in solutions, Vref was connected to
+ground. V1+ equal to the potential difference between Vw
+and ground. V2− equal to the potential difference between
+Vc and ground. Vw and Vc were passively coupled to the
+input of INA. Working electrode to reference electrode and
+counter electrode to reference electrode are two differential
+pairs. Noise immunity can be improved due to the same
+material of differential pairs [36]. The reference electrode
+and counter electrode were made of silver. Silver is an inert
+metal with strong corrosion resistance and provides stable
+voltage, which can be effectively used as reference electrode
+and counter electrode by our previous research [30], [37].
+Vout equal to the voltage of the working electrode minus the
+voltage of the counter electrode.
+Next, the chip design of the temperature compensation circuit is stated. First, we utilized two AO/RuO2/PET
+AA biosensors with the same sputtering process which
+could effectively eliminate the temperature coefficients (TC)
+of the biosensor [1], [38]. One of the two AO/RuO2/PET
+AA biosensors was used as a reference biosensor to give
+a reference voltage for the compensation circuit and it
+was kept at room temperature. The other AO/RuO2/PET
+AA biosensor was heated in the thermostatic water bath
+(8402L, FIRSTEK, Taiwan) at 35◦C, 45◦C, and 55◦C. Then,
+the accurate temperatures were monitored with a commercial thermometer. Five different concentrations of AA,
+0.0078 mM, 0.0312 mM, 0.125 mM, 0.5 mM, and 2 mM
+which were based on PBS solution of pH 7 were measured
+at each temperature. This range covers the concentrations
+that cause scurvy (0.0078 mM), the average human body
+concentration (0.125 mM), and the concentration that is oversaturated (2 mM). The inference of the compensation circuit
+as shown in Fig. 3 can be follows:
+VR =
+
+1 +
+2R11
+∞
+
+×
+R13
+R12
+× 
+VW(25◦C) − VC
+ (9)
+VH =
+
+1 +
+2R11
+∞
+
+×
+R13
+R12
+× 
+VW(T) − VC
+ (10)
+where VR is the reference response voltage of the
+AO/RuO2/PET AA biosensor at room temperature, VH is the
+response voltage of the AO/RuO2/PET AA biosensor with
+different temperatures, VW is the response voltage on the
+AO/RuO2/PET AA biosensor, ∞is open circuit impedance.
+The TC of resistance inside INA can be expressed as follows:
+R = R0 × [1+λ(T − T0)] (11)
+where R is resistance value at temperature T, R0 is resistance
+value at 25◦C, λis TC of resistance for different materials, T is the temperature in degrees Celcius, and T0 is
+25◦C. Substituting the TC of resistance into formulas (9)
+and (10). Verror can be obtained as follows:
+Verror =
+
+1 +
+2R11[1 + λ(T − T0)]
+∞
+
+×
+R13[1 + λ(T − T0)]
+R12[1 + λ(T − T0)]
+
+× 
+VW(T) − VC
+
+−
+
+1 +
+2R11[1 + λ(T − T0)]
+∞
+
+×
+R13[1 + λ(T − T0)]
+R12[1 + λ(T − T0)]
+
+× 
+VW(25OC) − VC
+
+(12)
+where Verror is error voltage of working electrode caused
+by the temperature change of the AA solution. The surface potential of Vw between the AA solution and RuO2
+674 VOLUME 10, 2022
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+TABLE 4. TCS of the AO/RuO2/PET AA biosensor without and with
+applying compensation circuit.
+working electrode can be written according to the Nernst
+equation [14]:
+Vw = E0 − RT
+F
+ln [Ru(OH)3]
+[RuO2][H+] (13)
+From the formula (13), the potential of RuO2 thin film
+was related to temperature T. The ions were distributed only
+between the AA solutions and the surface of the working
+electrode, with neither electron nor ion exchange at the twophase boundary [39]. Then subtract Verror of formula (12)
+from VH of formula (10) to get VZTC which is the output
+voltage independent of temperature. VZTC can be written as
+follows:
+VZTC =
+
+1 +
+2R11[1 + λ(T − T0)]
+∞
+
+×
+R13[1 + λ(T − T0)]
+R12[1 + λ(T − T0)]
+
+×
+E0 − RT
+F
+ln [Ru(OH)3]
+[RuO2][H+]
+
+− VC
+
+− (Verror)
+(14)
+III. RESULTS AND DISCUSSION
+A. TEMPERATURE COEFFICIENT OF THE AO/RUO2/PET
+AA BIOSENSOR WITHOUT AND WITH THE
+COMPENSATION
+In the five concentrations of AA from 0.0078 mM to 2 mM,
+the AO/RuO2/PET AA biosensor had different TCs according to the equation (13). In this study, the temperature range
+was set as 25◦C, 35◦C, 45◦C, and 55◦C. The actual TC measurement results of the AO/RuO2/PET AA biosensor without
+and with applying the compensation circuit were shown in
+Fig. 6 and Fig. 7. Those data of TCs before and after applying
+the compensation circuit were presented in Table 4. At the
+0.0078 mM AA, there is the lowest TC of 89 µV/◦C. With
+compensation, this TC of 0.0078 mM AA is reduced by
+about 89%. The five TCs can be effectively reduced by
+more than 49% (At 0.125 mM AA) with temperature compensation. The compensation results are valid because no
+matter what the AA concentration is, at least 49% of the
+TC is inhibited. According to Fig. 6, the response voltage
+of the AO/RuO2/PET AA biosensor significantly increased
+with the increase in temperature. At 55◦C, the response
+voltage of the AO/RuO2/PET AA biosensor had apparent
+voltage changes. With the temperature compensation circuit,
+FIGURE 6. The response voltage at different temperatures without
+compensation circuit.
+FIGURE 7. The response voltage at different temperatures with applying
+compensation circuit.
+the response voltage which was shown in Fig. 7 was flat
+in the case of temperature rise. Different concentrations of
+AA corresponding to response voltage at different temperatures were described in Fig. 8. The response voltage of
+the AO/RuO2/PET AA biosensor was obviously close to
+the response voltage at 25 ◦C whether the AO/RuO2/PET
+AA biosensor was operated at 35◦C, 45◦C, or 55◦C. The
+dependence of the AO/RuO2/PET AA biosensor on temperature was effectively reduced through the proposed circuit. It
+can be seen that no matter how the temperature changed, the
+response voltage with different concentrations of AA were
+superimposed on 25◦C. Thus, the response voltages of 35◦C,
+45◦C, and 55◦C, were corrected to the voltage at 25◦C.
+B. INTERFERENCE EXPERIMENT OF THE AO/RUO2/PET
+AA BIOSENSOR BASED ON BODY TEMPERATURE
+To make sure the AO/RuO2/PET AA biosensor suitable
+for measurement of human blood, the PBS solution of pH
+7, AA of 0.125 mM, lactic acid (LA) of 0.8 mM, glucose (GLC) of 5 mM, urea (UR) of 5 mM, uric acid (UA)
+of 0.3 mM, dopamine (DA) of 0.06 mM, and AA of 2 mM
+were heated to 37.5◦C by a thermostatic water bath. The
+VOLUME 10, 2022 675
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+TABLE 5. Comparative study of temperature compensation methods and TCS.
+FIGURE 8. The response voltage at different temperatures with the
+temperature compensation circuit.
+interference experiments of the AO/RuO2/PET AA biosensor were carried out at 25◦C and 37.5◦C, respectively. The
+concentrations of these interfering substances were within the
+range of human blood [41]. First, soak the AO/RuO2/PET
+AA biosensor in a blank PBS solution until the response
+voltage of the AO/RuO2/PET AA biosensor was stable.
+Then, added 200 µL of AA solutions and interfering substances in the blank PBS solution in order as shown in
+Fig. 9. The interference experiment of the AO/RuO2/PET
+AA biosensor at 25◦C and 37.5◦C were shown in Fig. 9.
+The histograms were illustrated by calculating the amount
+of response voltage changed after adding those substances.
+This experiment was performed without a temperature compensation circuit. The temperature of 37.5◦C enhanced the
+activity of AO. Thus, by adding 0.125 mM AA and 2 mM
+AA to the blank PBS solution, the response voltage of the
+AO/RuO2/PET AA biosensor changed about double due to
+the temperature. By adding 0.125 mM AA to the blank PBS
+solution, the change of response voltage was 4.21 mV at
+25◦C. By adding 2.0 mM AA to the blank PBS solution,
+the change of response voltage was 12.98 mV at 25◦C. When
+other interferents were added, the change of response voltage
+was almost unaffected (less than 0.5 mV). This can explain
+that the AO/RuO2/PET AA biosensor can generate a corresponding response voltage after encountering AA, and other
+interfering substances do not affect the response voltage.
+Thus, the AO/RuO2/PET AA biosensor has good specificity
+for AA. This can be attributed to the good selectivity of the
+AO/RuO2/PET AA biosensor after the modification of AO
+FIGURE 9. Interference experiment of the AO/RuO2/PET AA biosensor at
+25◦C and 37.5◦C.
+which was possible to realize the ideal ReFET, and other
+interfering substances had little effect to the response voltage
+of the AO/RuO2/PET AA biosensor.
+Table 5 showed the comparative study of temperature compensations. Gaddour et al. [1] utilized two ISFETs with the
+same process for temperature compensation through differential measurement and designed operational transconductance
+amplifiers (OTAs) as an instrumentation amplifier to immune
+temperature interference. Naimi et al. [4] analyzed ISFET
+sensor operating in a weakly and moderately inversion states,
+and a simplified version of the EKV model of the sitebinding model describes the behavior of ISFET in response
+to changes in temperature. According to this model, they
+designed a readout circuit with high thermal stability to suppress temperature effect. Chung et al. [40] used differential
+measurement to reduce drift, body effect, and temperature
+effect. Since the compensation circuit was integrated with the
+ISFET, the on-chip sensing film was damaged by solutions,
+and the entire ISFET and compensation circuit components
+need to be re-manufactured. Yusof et al. [42] investigated
+the temperature effect of TiO2 thin film applied to EGFET
+sensor. The experimental results showed that the temperature dependence of ISFET is much larger than that of
+EGFET. Our proposed compensation circuit and biosensor
+were two separate components. When the biosensor was
+exhausted, the biosensor can be replaced immediately based
+on the separate biosensor, and also the part of the temperature
+compensation circuit can be retained.
+676 VOLUME 10, 2022
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+C. HYSTERESIS EFFECT UNDER TEMPERATURE EFFECT OF
+THE AO/RUO2/PET AA BIOSENSOR
+Hysteresis effect is a non-ideal effect and it cannot be
+avoided [43]. The hysteresis voltage was generated because
+the rate of diffusion of H+ ions to the buried sites of the
+sensing membrane varies with different concentrations of
+AA [44]. Hysteresis is often present in conducting metal
+oxides, depending on various factors, such as different oxidation states, internal defects, and diffusing ions. It is related
+to the chemical interaction between ions in the electrolyte
+and the slow-reacting surface sites below the membrane surface and the surface defects of the membrane [14], [45].
+The experiment of hysteresis effect at 37.5◦C confirms
+whether the AO/RuO2/PET AA biosensor was corrected
+to the hysteresis voltage as room temperature through the
+temperature compensation circuit when the AO/RuO2/PET
+AA biosensor was immersed in a AA concentration cycle of
+0.03125 mM→0.0078 mM→0.03125 mM→0.125 mM→
+0.03125 mM. Hysteresis effect of the AO/RuO2/PET
+AA biosensor at 37.5◦C was shown in Fig. 10. The recording time of hysteresis effect lasted 300 seconds. The
+AO/RuO2/PET AA biosensor was soaked in each concentration of AA for 60 seconds, and the response voltages
+for each second were recorded in Fig. 10. Hysteresis effect
+with temperature which was higher than room temperature
+was shown as the black line. The initial concentration of
+0.03125 mM AA can be attributed to AO reacting more
+violently at a higher temperature, so the response voltage
+changed significantly. The enzyme activity gradually stabilized after soaking the sensor for some time. Therefore,
+the response voltage becomes more stable. The response
+voltages were measured with and without a compensation
+circuit for the same period. With the compensation circuit,
+the response voltage generated by the site binding model of
+the heated sensor (VH) can be corrected to the site binding
+situation at 25◦C which means VZTC. The hysteresis voltage without the compensation circuit was 18.27 mV and
+the hysteresis voltage with the compensation circuit was
+1.39 mV. The hysteresis voltages were obtained by taking the average response voltage of the first concentration
+(0.03125mM) minus the average response voltage of the last
+concentration (0.03125mM). In this study, the proposed circuit was first applied to the temperature compensation for
+AA detection which was based on the enzymatic biomedical
+sensor. The above researches were applied to temperature
+compensation of the non-enzymatic pH sensor. Since the
+activity of the enzyme decreased due to time or temperature, the TCs of enzymatic biosensors were larger than
+pH sensors. However, through the proposed temperature
+compensation circuit, the TCs could be controlled below
+200 µV/◦C within five concentrations of AA. In the future,
+it is hoped that Ringer’s solution or the simulated body fluid
+can be used to replace the PBS solution. Moreover, the temperature compensation circuit can also be widely applied to
+other biosensors of different analytes, such as urea, uric acid,
+glucose, and dopamine.
+FIGURE 10. Hysteresis effect of the AO/RuO2/PET AA biosensor at 37.5◦C
+with temperature compensation.
+IV. CONCLUSION
+This study proposed a novel temperature compensation circuit using 180 nm CMOS process that was applied to the
+AO/RuO2/PET AA biosensor. In the temperature range from
+25◦C to 55◦C, the TC for AA of 0.0312 mM was suppressed from 734 µV/◦C to 188 µV/◦C. The TCs with
+five concentrations of AA were suppressed at least twice
+as compared before and after applying the compensation
+circuit by the compensation circuit. The hysteresis voltage can also be effectively reduced by the temperature
+compensation circuit. The hysteresis voltage at 37.5◦C was
+18.27 mV without the compensation circuit. After applying the compensation circuit, the hysteresis voltage was
+reduced to 1.39 mV. Moreover, the fabricated AO/RuO2/PET
+AA biosensor had the good capability of anti-interference.
+The response voltage was barely affected by the interference
+substances that may exist in human blood. It can be expected
+that the proposed temperature compensation circuit will be
+applied to a wide range of other biosensors in the future.
+ACKNOWLEDGMENT
+The authors would like to extend their appreciation to the
+Taiwan Semiconductor Research Institute (TSRI) for the
+technical support they most generously extended.
+REFERENCES
+[1] A. Gaddour, W. Dghais, B. Hamdi, and M. B. Ali, “Temperature
+compensation circuit for ISFET sensor,” J. Low Power Electron. Appl.,
+vol. 10, no. 1, p. 2, Jan. 2020.
+[2] P. K. Chan and D. Y. Chen, “A CMOS ISFET interface circuit with
+dynamic current temperature compensation technique,” IEEE Trans.
+Circuits Syst. I, Reg. Papers, vol. 54, no. 1, pp. 119–129, Jan. 2007.
+[3] Y.-L. Chin, J.-C. Chou, T.-P. Sun, W.-Y. Chung, and S.-K. Hsiung,
+“A novel pH sensitive ISFET with on chip temperature sensing using
+CMOS standard process,” Sens. Actuat. B, Chem., vol. 76, nos. 1–3,
+pp. 582–593, Apr. 2001.
+[4] S. E. Naimi, B. Hajji, I. Humenyuk, J. Launay, and P. Temple-Boyer,
+“Temperature influence on pH-ISFET sensor operating in weak and
+moderate inversion regime: Model and circuitry,” Sens. Actuat. B,
+Chem., vol. 202, pp. 1019–1027, Oct. 2014.
+VOLUME 10, 2022 677
+KUO et al.: TEMPERATURE EFFECT ANALYSIS OF THE ENZYMATIC RuO2 BIOMEDICAL SENSOR
+[5] R. Bhardwaj, S. Sinha, N. Sahu, S. Majumder, P. Narang, and
+R. Mukhiya, “Modeling and simulation of temperature drift for ISFETbased pH sensor and its compensation through machine learning
+techniques,” Int. J. Circuit Theory Appl., vol. 47, no. 6, pp. 954–970,
+Mar. 2019.
+[6] P. Bergveld, “Development of an ion-sensitive solid-state device
+for neurophysiological measurements,” IEEE Trans. Biomed. Eng.,
+vol. BME-17, no. 1, pp. 70–71, Jan. 1970.
+[7] C. C. Enz, F. Krummenacher, and E. A. Vittoz, “An analytical MOS
+transistor model valid in all regions of operation and dedicated to lowvoltage and low-current applications,” Analog Integr. Circuits Signal
+Process., vol. 8, no. 1, pp. 83–114, Oct. 1995.
+[8] J. Van Der Spiegel, I. Lauks, P. Chan, and D. Babic, “The extended
+gate chemically sensitive field effect transistor as multi-species
+microprobe,” Sens. Actuat., vol. 4, pp. 291–298, Jan. 1983.
+[9] P. Batista and M. Mulato, “ZnO extended-gate field-effect transistors as pH sensors,” Appl. Phys. Lett., vol. 87, no. 14, Sep. 2005,
+Art. no. 143508.
+[10] A. K. Mishra, D. K. Jarwal, B. Mukherjee, A. Kumar, S. Ratan,
+and S. Jit, “CuO nanowire-based extended-gate field-effect-transistor
+(FET) for pH sensing and enzyme-free/receptor-free glucose sensing applications,” IEEE Sensors J., vol. 20, no. 9, pp. 5039–5047,
+May 2020.
+[11] J. Y. Li, S. P. Chang, S. J. Chang, and T. Y. Tsai, “Sensitivity of EGFET
+pH sensors with TiO2 nanowires,” ECS Solid-State Lett., vol. 3, no. 10,
+pp. 123–126, Aug. 2014.
+[12] T.-M. Pan, C.-H. Lin, and S.-T. Pang, “Structural and sensing
+characteristics of NiOx sensing films for extended-gate field-effect
+transistor pH sensors,” IEEE Sensors J., vol. 21, no. 3, pp. 2597–2603,
+Feb. 2021.
+[13] H. Kim, Y. S. Rim, and J.-Y. Kwon, “Evaluation of metal oxide thinfilm electrolyte-gated field effect transistors for glucose monitoring
+in small volume of body analytes,” IEEE Sensors J., vol. 20, no. 16,
+pp. 9004–9010, Aug. 2020.
+[14] K. Singh, B. S. Lou, J. L. Her, S. T. Pang, and T. M. Pan,
+“Super nernstian pH response and enzyme-free detection of glucose using sol-gel derived RuOx on PET flexible-based extended-gate
+field-effect transistor,” Sens. Actuat. B, Chem., vol. 298, Nov. 2019,
+Art. no. 126837.
+[15] G.-H. Wu, Y.-F. Wu, X.-W. Liu, M.-C. Rong, X.-M. Chen, and
+X. Chen, “An electrochemical ascorbic acid sensor based on palladium nanoparticles supported on graphene oxide,” Analytica Chimica
+Acta, vol. 745, pp. 33–37, Oct. 2012.
+[16] M. Noroozifar, M. Khorasani-Motlagh, R. Akbari, and M. B. Parizi,
+“Simultaneous voltammetric measurement of ascorbic acid,
+epinephrine, uric acid and tyrosine at a glassy carbon electrode modified with nanozeolite-multiwall carbon nanotube,” Anal.
+Bioanal. Chem. Res., vol. 1, pp. 62–72, Jun. 2014.
+[17] L. Suntomsuk, W. Gritsanapun, S. Nilkamhank, and A. Paochom,
+“Quantitation of vitamin C content in herbal juice using direct
+titration,” J. Pharm. Biomed. Anal., vol. 28, pp. 849–855, Jun. 2002.
+[18] X. Wu, Y. Diao, C. Sun, J. Yang, Y. Wang, and S. Sun, “Fluorimetric
+determination of ascorbic acid with o-phenylenediamine,” Talanta,
+vol. 53, pp. 95–99, Jan. 2003.
+[19] J.-M. Zen, D.-M. Tsai, A. S. Kumar, and V. Dharuman, “Amperometric
+determination of ascorbic acid at a ferricyanide-doped tosflex-modified
+electrode,” Electrochem. Commun., vol. 2, pp. 782–785, Nov. 2000.
+[20] N. B. Saari, A. Osman, J. Selamat, and S. Fujita, “Ascorbate oxidase
+from starfruit (averrhoa carambola): Preparation and its application
+in the determination of ascorbic acid from fruit juices,” Food Chem.,
+vol. 66, no. 1, pp. 57–61, Jul. 1999.
+[21] J. H. Huang and J. S. Chen, “Material characteristics and electrical
+property of reactively sputtered RuO2 thin films,” Thin Solid Films,
+vol. 382, nos. 1–2, pp. 139–145, Feb. 2001.
+[22] K.-H. Chang, C.-C. Hu, and C.-Y. Chou, “Textural and pseudocapacitive characteristics of Sol–Gel derived RuO2· xH2O: Hydrothermal
+annealing vs. annealing in air,” Electrochimica Acta, vol. 54, no. 3,
+pp. 978–983, Jan. 2009.
+[23] B. Xu and W.-D. Zhang, “Modification of vertically aligned carbon
+nanotubes with RuO2 for a solid-state pH sensor,” Electrochimica
+Acta, vol. 55, no. 8, pp. 2859–2864, Mar. 2010.
+[24] J. H. Kim, J. H. Ahn, S. W. Kang, J. S. Roh, S. H. Kwon, and
+J. Y. Kim, “Thermal stability of RuO2 thin films prepared by modified
+atomic layer deposition,” Current Appl. Phys., vol. 12, pp. S160–S163,
+Sep. 2012.
+[25] J.-F. Cheng, J.-C. Chou, T.-P. Sun, S.-K. Hsiung, and H.-L. Kao,
+“New calibration methods to eliminate the non-ideal effect of drift
+and hysteresis in all-solid-state potassium electrode,” IEEE Sensors
+J., vol. 11, no. 5, pp. 1263–1273, May 2011.
+[26] H. J. N. P. D. Mello, and M. Mulato, “Well-established materials in
+microelectronic devices systems for differential-mode extended-gate
+field effect transistor chemical sensors,” Microelectron. Eng., vol. 160,
+pp. 73–80, Jul. 2016.
+[27] J.-C. Chen, J.-C. Chou, T.-P. Sun, and S.-K. Hsiung, “Portable urea
+biosensor based on the extended-gate field effect transistor,” Sens.
+Actuat. B, Chem., vol. 91, nos. 1–3, pp. 180–186, Jun. 2003.
+[28] L. Zhang et al., “Highly selective and sensitive sensor based on an
+organic electrochemical transistor for the detection of ascorbic acid,”
+Biosens. Bioelectron., vol. 100, pp. 235–241, Feb. 2018.
+[29] J.-C. Chou et al., “Flexible arrayed enzymatic L-ascorbic acid biosensor based on IGZO/Al membrane modified by graphene oxide,” IEEE
+Trans. Nanotechnol., vol. 17, no. 3, pp. 452–459, May 2018.
+[30] Y.-H. Nien et al., “Investigation of flexible arrayed urea biosensor
+based on graphene oxide/nickel oxide films modified by Au nanoparticles,” IEEE Trans. Instrum. Meas., vol. 70, pp. 1–9, Aug. 2021.
+[31] H. Wang and S. Mu, “Bioelectrochemical response of the polyaniline
+ascorbate oxidase electrode,” J. Electroanal. Chem., vol. 436, nos. 1–2,
+pp. 43–48, Oct. 1997.
+[32] E. Tanumihardja, W. Olthuis, and A. Van den Berg, “Ruthenium oxide
+nanorods as potentiometric pH sensor for organs-on-chip purposes,”
+Sensors, vol. 18, no. 9, p. 2901, Sep. 2018.
+[33] P. Kurzweil, “Metal oxides and ion-exchanging surfaces as pH sensors in liquids: State-of-the-art and outlook,” Sensors, vol. 9, no. 6,
+pp. 4955–4985, Jun. 2009.
+[34] S. A. Pullano et al., “EGFET-based sensors for bioanalytical applications: A review,” Sensors, vol. 18, no. 11, pp. 4042–4065, 2018.
+[35] S. J. Azhari and H. Fazlalipoor, “CMRR in voltage-op-ampbased current-mode instrumentation amplifiers (CMIA),” IEEE Trans.
+Instrum. Meas., vol. 58, no. 3, pp. 563–569, Mar. 2009.
+[36] P.-Y. Kuo and Y.-Y. Chen, “A novel low unity-gain frequency and low
+power consumption instrumentation amplifier design for RuO2 uric
+acid biosensor measurement,” IEEE Trans. Instrum. Meas., vol. 70,
+pp. 1–9, Feb. 2021.
+[37] J.-C. Chou et al., “Improving the properties of L-ascorbic acid
+biosensor based on GO/IGZO/Al using magnetic beads,” IEEE Trans.
+Electron Devices, vol. 66, no. 4, pp. 1924–1929, Apr. 2019.
+[38] N. Mokhtarifar, F. Goldschmidtboeing, and P. Woias, “Low-cost
+EGFET-based pH-sensor using encapsulated ITO/PET-electrodes,” in
+Proc. IEEE Int. Instrum. Meas. Technol. Conf. (I2MTC), Jul. 2018,
+pp. 1–5.
+[39] C. D. Fung, P. W. Cheung, and W. H. Ko, “A generalized theory
+of an electrolyte-insulator-semiconductor field-effect transistor,” IEEE
+Trans. Electron Devices, vol. 33, no. 1, pp. 8–18, Jan. 1986.
+[40] W.-Y. Chung, C.-H. Yang, D. G. Pijanowska, P. B. Grabiec,
+and W. Torbicz, “ISFET performance enhancement by using the
+improved circuit techniques,” Sens. Actuat. B, Chem., vol. 113, no. 1,
+pp. 555–562, Jan. 2006.
+[41] J.-C. Chou, R.-T. Chen, Y.-H. Liao, J.-S. Chen, M.-S. Huang, and
+H.-T. Chou, “Dynamic and wireless sensing measurements of potentiometric glucose biosensor based on graphene and magnetic beads,”
+IEEE Sensors J., vol. 15, no. 10, pp. 5718–5725, Oct. 2015.
+[42] K. A. Yusof, R. A. Rahman, M. A. Zulkefle, S. H. Herman, and
+W. F. H. Abdullah, “EGFET pH sensor performance dependence on
+sputtered TiO2 sensing membrane deposition temperature,” J. Sens.,
+vol. 2016, pp. 1–10, Aug. 2016. [Online]. Available: https://www.
+hindawi.com/journals/js/2016/7594531/
+[43] A. Das et al., “Highly sensitive palladium oxide thin film extended gate
+FETs as pH sensor,” Sens. Actuat. B, Chem., vol. 205, pp. 199–205,
+Dec. 2014.
+[44] P.-C. Yao, J.-L. Chiang, and M.-C. Lee, “Application of sol–gel TiO2
+film for an extended-gate H+ ion-sensitive field-effect transistor,”
+Solid-State Sci., vol. 28, pp. 47–54, Feb. 2014.
+[45] S. Palit, K. Singh, B.-S. Lou, J.-L. Her, S.-T. Pang, and T.-M. Pan,
+“Ultrasensitive dopamine detection of indium-zinc oxide on PET flexible based extended-gate field-effect transistor,” Sens. Actuat. B, Chem.,
+vol. 310, pp. 127850–127858, May 2020.
+678 VOLUME 10, 202200810.1021/acsbiomaterials.3c0086969

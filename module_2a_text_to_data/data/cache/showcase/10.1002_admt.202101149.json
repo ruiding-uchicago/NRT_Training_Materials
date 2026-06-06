@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admt.202101149",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hydrogen peroxide",
+      "lower_detection_limit": "0.03 wt%",
+      "upper_detection_limit": "30 wt%",
+      "probe_material": "poly(3-hexylthiophene-2,5-diyl) (P3HT)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

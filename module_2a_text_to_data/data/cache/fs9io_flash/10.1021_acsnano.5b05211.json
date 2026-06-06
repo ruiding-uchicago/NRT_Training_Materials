@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.5b05211",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "3.16e-8 M",
+      "upper_detection_limit": "3.98e-3 M",
+      "probe_material": "polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

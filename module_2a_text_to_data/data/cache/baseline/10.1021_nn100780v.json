@@ -1,0 +1,35 @@
+{
+  "stem": "10.1021_nn100780v",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "8 mM",
+      "probe_material": "reduced graphene oxide",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "7.2",
+      "test_medium": "HEPES-buffered saline solution (10 mM HEPES, 140 mM NaCl, 1 mM MgCl2, 5.5 mM KCl, 2 mM CaCl2)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "reduced graphene oxide",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "7.2",
+      "test_medium": "HEPES-buffered saline solution (10 mM HEPES, 140 mM NaCl, 1 mM MgCl2, 5.5 mM KCl, 2 mM CaCl2)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "catecholamines (mixture from PC12 cells)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "reduced graphene oxide",
+      "test_operating_temperature (celcius)": "37 (cell culture)",
+      "pH_value": "7.2",
+      "test_medium": "physiological bath solution (10 mM HEPES, 140 mM NaCl, 1 mM MgCl2, 5.5 mM KCl, 2 mM CaCl2) for measurement"
+    }
+  ]
+}

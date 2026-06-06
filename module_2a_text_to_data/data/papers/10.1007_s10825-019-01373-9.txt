@@ -1,0 +1,493 @@
+Vol.:(0123456789) 1 3
+Journal of Computational Electronics (2019) 18:1469–1477
+https://doi.org/10.1007/s10825-019-01373-9
+TCAD calibration and performance investigation of an ISFET‑based
+TNT (explosive) sensor
+Ayan Saikia1
+ · Ashish Raj1
+ · Rupam Goswami1
+Published online: 3 July 2019
+© Springer Science+Business Media, LLC, part of Springer Nature 2019
+Abstract
+This article proposes a calibrated methodology as well as computational analyses for designing an explosive sensor for
+trinitrotoluene (TNT) detection using ion-sensitive feld-efect transistor (ISFET) through technology computer-aided design
+(TCAD) tools. Although industrial device simulators are quite efcient in computing the various electrical parameters of a
+semiconductor device such as MOSFET, the absence of electrochemical models has posed a challenge to the investigation
+of ISFETs through TCAD simulations. A nanowire MOSFET has been calibrated using thirteen diferent concentrations of
+TNT from a fabricated sensor, and diferent sensitivities based on on current, threshold voltage and conductance have been
+proposed. The efect of gate oxide on the diferent sensitivities is also reported.
+Keywords ISFET · TNT · Sensitivity · Sensor · TCAD · Simulation
+1 Introduction
+The advances in microelectronics have pushed the frontiers of applications of MOSFETs into diverse domains.
+Applications of MOSFETs as chemical and label-free sensors have acquired much interest from the research community as well as the industry due to the ability to shrink
+their dimensions and express sensitivities through diferent
+electrical parameters. Over the decades, explosive detection has become a potential problem in order to counter
+terrorist attacks and landscape contamination. Security has
+now become one of the most sensitive elements in global
+scenario, especially when technological advancements
+have reached the thresholds of terrorism. Apart from this,
+the use of landscape which has previously been exposed
+to explosive tests and military usage needs proper identifcation and cleansing. In such situations, it is important to
+work on novel sensors which can sense explosives in real
+time. The traditional methods used for explosive detection
+consume additional time and need transfer of analytes from
+the site to the laboratory involving bulky and expensive
+equipments [1, 2].
+Diferent methods have been proposed so far in order
+to detect explosives. Of those, optical sensing techniques
+[3, 4] and electrochemical sensing techniques [5, 6] are
+the most signifcant ones. The most common explosives
+which have been used till date are trinitrotoluene (TNT) or
+trinitrotriazine (RDX) due to easy manufacturing and low
+vapour pressure [7, 8]. Ion-sensitive feld-efect transistors
+(ISFETs) are generally identifed as modifed architectures
+of metal–oxide–semiconductor feld-efect transistor (MOSFETs), which are employed for sensing specifc materials
+through chemical interactions, particularly on the gate structure [9, 10]. The change in architecture involves the use of
+charge modifed gate [11], pH sensing events [12, 13] and
+gate modifers [14].
+Till date, many ISFETs have been proposed for TNT
+sensing [15–20]. However, to the best of knowledge of the
+authors, ISFET model for calibrated TNT sensing using
+industrial device simulator has not yet been reported. Since
+the problem of TNT sensing is a concern of international
+security, it is utmost necessary that there is a simulation
+model for a device so that the sensitivities and performance of the ISFETs may be analyzed before fabricating
+the device. The greatest challenge in developing an ISFET
+on an industrial device simulator is the absence of electrochemical models. Hence, the event of charge transfer
+* Rupam Goswami
+rupam.goswami@pilani.bits-pilani.ac.in
+1 Department of Electrical and Electronics Engineering,
+Birla Institute of Technology and Science Pilani, Pilani,
+Rajasthan 333031, India
+1470 Journal of Computational Electronics (2019) 18:1469–1477
+1 3
+between the target molecules and the binder must be carefully represented on the simulation tool through external
+defnitions. This article presents a methodology to simulate
+an ISFET for TNT sensing on technology computer-aided
+design (TCAD) tool and explores the various possibilities
+of understanding and verifying the sensing events through
+calibrations with two fabricated and reported ISFETs for
+TNT sensing.
+Section 2 of this article presents the calibration and simulation methodology in steps and in a detailed manner. The
+architecture proposed in this article is presented in Sect. 3.
+Section 4 reports the results and the diferent sensitivity
+parameters proposed to extensively investigate the TNT
+sensor. Section 5 concludes the article.
+2 Calibration and simulation methodology
+The gate of an ISFET must be modifed to immobilize the
+target molecules [21]. The detection of the target molecules
+is caused by the formation of charge-transfer donor–acceptor
+complexes on the gate of the ISFET. In the article reported
+by Sharon et al. (ISFET-1), the gate was customized by
+using a modifed APTES layer which was deposited atop
+the oxide layer and acted as a binder for the TNT molecules.
+On immobilizing the TNT molecules, there occurs development of charges on the sensing surface between the TNT and
+APTES, which infuences the electrical parameters of the
+device (current, conductance, threshold voltage, etc.) [19].
+In order to represent the ISFET on simulation, proper
+calibration with fabricated devices is utmost necessary. This
+section describes the calibration of the ISFET on TCAD
+tool. The calibration methodology is shown in the fowchart
+in Fig. 1, where two fabricated ISFETs particularly for TNT
+sensing have been analyzed. The frst is an ISFET for explosive detection proposed by Sharon et al. [19], and the second is the silicon nanowire p-FET reported by Engel et al.
+[20]. The former is referred to as ISFET-1, and the latter as
+ISFET-2 in the entire text of this article.
+The steps of calibration are explained here.
+a. The TCAD tool does not employ electrochemical models which determine the interaction of molecules and
+the charge transfers [22]. So this event must be modeled
+and calibrated in the simulator through user-defned
+method. Therefore, we propose a calibrated simulation
+Fig. 1 Flowchart for calibration methodology: a extracted plot from
+[19]; b calculation of charge on the oxide–semiconductor interface
+from a versus gate potential; c representation of charge on the oxide–
+semiconductor interface versus normalized TNT concentration in
+linear scale; d representation of charge on the oxide–semiconductor
+interface versus normalized TNT concentration in logarithmic scale;
+e calibration of output conductance and verifcation with [20]
+Journal of Computational Electronics (2019) 18:1469–1477 1471
+1 3
+methodology by using fabrication results from existing
+TNT sensors so that the simulations are in accordance
+with experimental results. The presence of TNT molecules in the gate can be represented by the charges
+developed through their interactions with the binding
+layer (APTES layer in this work.) In order to calibrate
+the device on TCAD, it is necessary to use appropriate values of charges. These values can be extracted
+from fabricated devices which have been reported in
+the literature. The explosive sensing ISFET reported in
+Sharon et al.’s article (ISFET-1) is referred for extraction of charges from the ΔVGS–TNT concentration plot
+(Fig. 1a].
+ In order to extract charges for diferent TNT concentrations for ISFET-1, the diferent capacitances between
+gate and source (as shown in Fig. 2) are calculated. The
+capacitances per unit area are given by the relation 휀x휀o
+dx
+where 휀X represents the dielectric constant for diferent
+materials of ISFET-1 and dx represents the thickness of
+the corresponding materials [23]. Capacitance of TNT
+(CTNT), APTES (CAPTES) and alumina (COX) are represented by equivalent capacitance C1. CFIT represents the
+capacitance between dielectric–semiconductor interface
+and source, which takes into account parasitic capacitances present in the aforesaid region. The overall capacitance which is the equivalence of C1 and CFIT is represented by Ceq.
+ The charges for diferent gate voltages is shown in
+Fig. 1b. The charges are then mapped to normalized
+C1 = CTNTCAPTESCOX
+(CTNTCAPTES)+(COXCAPTES)+(CTNTCOX)
+Ceq = C1CFIT
+C1 + CFIT
+TNT concentration as shown in Fig. 1c because each
+gate voltage corresponds to a unique TNT concentration. Figure 1d shows the same plot as Fig. 1c but with
+a logarithmic normalized TNT concentration exhibiting
+a linear relationship between the charges and concentration. The charges against diferent TNT concentration
+are listed in Table 1.
+b. To verify that the charges extracted in step (a) are correct, the charges were then applied to the architecture
+for ISFET-2 [20] for the determination of sensitivities
+in terms of conductance for three TNT concentrations:
+100 nM, 500 nM and 5 μM. The ISFET-2 was simulated
+on TCAD tool and the results are observed. There is
+excellent agreement between the experimental values
+from Engel et al. [20] and our calibrated sensor as evident from Fig. 1e. The values of the parameters used for
+calibration are listed in Table 2.
+All calibrated simulations have been carried out on
+industrial device simulator, Sentaurus TCAD [22]. Doping-dependent mobility models have been employed in
+order to take into account the diferent doping concentrations in the regions of the ISFET [22]. Bandgap narrowing
+model has been enabled to consider the bandgap shrinkage
+on account of doping greater than 1018 cm−3 [22]. SRH
+recombination model has been used [22].
+Fig. 2 Capacitances used to calculate QTNT
+Table 1 Extracted values of charges from [19] for ISFET-1
+S. no. TNT concentration (μM) Charge, QTNT
+(×1010 q cm−2)
+1 0.1 0.14088
+2 0.5 0.61985
+3 2 0.92978
+4 3.5 1.08474
+5 4 1.14272
+6 5 1.19744
+7 8 1.32423
+8 12 1.42932
+9 12.5 1.45947
+10 14 1.47919
+11 16 1.51559
+12 17 1.52427
+13 20 1.57780
+1472 Journal of Computational Electronics (2019) 18:1469–1477
+1 3
+Fig. 3 Architecture of the proposed ISFET (not to scale)
+Table 2 Parameters for
+calibration of TCAD simulation
+tool
+Calibration step Parameter Value
+ISFET-1 (silicon n-MOSFET)
+ Extraction of charge [ISFET-1] [19] EG (silicon) 1.1 eV
+Dielectric constant (silicon) 11.7
+Dielectric constant (APTES) [24] 3.57
+Dielectric constant (TNT) [25] 2.85
+Dielectric constant (alumina) 9
+EG (alumina) 6.77 eV
+ISFET-2 (silicon nanowire p-MOSFET)
+ Calibration of conductance [ISFET-2] [20] EG (silicon nanowire) [26] 1.5 eV
+Dielectric constant (silicon nanowire) 11.7
+Dielectric constant (APTES) 3.57
+Dielectric constant (TNT) 2.85
+Dielectric constant (alumina) 9
+EG (alumina) 6.77 eV
+3 Architecture of the proposed TNT sensor
+The 2-D schematic for the TNT sensor taken up for the
+work is shown in Fig. 3. The doping concentration for the
+source and drain is uniformly kept at 1019 cm−3 and the
+bulk is kept at 1016 cm−3. The gate workfunction is kept at
+4.5 eV corresponding to silver. The APTES layer is taken
+as 1 nm as mentioned from experimental results in [20].
+4 Results and discussion
+This section presents the results of the TNT sensor through
+three subsections. The frst subsection reports the drain
+current characteristics of the sensor for diferent TNT
+concentrations. The TNT concentrations are taken from
+Sharon et al.’s article [19] as listed in Table 1. The second subsection reports the diferent sensitivities of the
+TNT sensor and discusses the range which each sensitivity parameter can reach for the minimum and maximum
+concentrations. Also, some sensitivities exhibit a linear
+ft for the logarithmic representation of the normalized
+TNT concentration. Considering the voltages at which the
+sensitivities have been reported, such linear fts can help
+one to predict the sensitivity of the reported sensor for
+any TNT concentration. The third subsection extends the
+previous subsection into analyzing the sensitivities for the
+TNT sensor with HfO2 as gate dielectric instead of Al2O3.
+4.1 Drain current characteristics
+The drain current versus drain voltage characteristics for
+diferent TNT concentrations are shown in Fig. 4a. With
+increasing TNT concentration, the drain current increases.
+This is due to the increase in charge at the semiconductor
+surface arising out of the APTES–TNT interaction. The
+charges have been extracted from ISFET-1 and verifed for
+ISFET-2 from the calibration as explained in Sect. 2.
+The transfer characteristics of the proposed TNT sensor
+for diferent TNT concentrations are shown in Fig. 4b. Similar to Fig. 4a, the drain current increases with the increase
+in concentration.
+Figure 5a, b shows the surface potential and the absolute
+electric feld at VGS=0.7 V and VDS=0.3 V, respectively,
+in support of the transfer characteristics in Fig. 4b. With
+the immobilization of the TNT sample on the APTES, the
+charge transfer causes efective positive charges to develop
+on the interface, thus infuencing inversion at lower gate
+voltages. Therefore, with the increase in TNT concentration,
+Journal of Computational Electronics (2019) 18:1469–1477 1473
+1 3
+the electric feld and surface potential increase. This can be
+mathematically represented by the voltage balance equation
+mentioned in Eq. (1) [23].
+where QTNT is the charge developed at the oxide–semiconductor interface per unit area for varying TNT concentration
+and C1 is the efective capacitance per unit area expressed
+in Sect. 2. This elucidates the phenomenon of increase in
+surface potential with the increase in TNT concentration at
+fxed gate and drain biases.
+(1)
+VGS +
+QTNT
+C1
+= 훹s + 훷MS
+⇒ ΔVGS +
+ΔQTNT
+C1
+= Δ훹s
+Figure 6a shows the conduction band energy for the
+minimum and maximum TNT concentrations taken up in
+this article. The energy band lowers for the maximum TNT
+concentration, thus causing higher drain current as evident from the transfer characteristics in Fig. 4b. Figure 6b
+depicts the subthreshold swing (SS) and drain-induced
+barrier lowering (DIBL) for diferent TNT concentrations.
+Both the parameters depict extremely minimal decrease in
+values with the increase in TNT concentration.
+4.2 Sensitivities of the TNT sensor
+This subsection reports the diferent sensitivities for 13 different TNT concentrations as listed in Table 1. Apart from
+output conductance as a measure of sensitivity of the TNT
+Fig. 4 a ID −VDS characteristics
+of the proposed TNT sensor; b
+ID −VGS characteristics of the
+proposed TNT sensor
+Fig. 5 a Surface potential and
+b absolute electric feld of the
+proposed TNT sensor along
+the channel at VGS=0.7 V and
+VDS=0.3 V
+1474 Journal of Computational Electronics (2019) 18:1469–1477
+1 3
+sensor as calibrated in Sect. 2, we propose diferent parameters of sensitivity to measure the response of the TNT sensor with respect to deionized water as a reference material
+in place of TNT. The on current and threshold voltages are
+the most important electrical parameters which depend on
+the device architecture and doping specifcations. These
+parameters are, therefore, utilized to represent the response
+of the sensor through proposal of diferent sensitivities.
+The output conductance of an ISFET is unique to that specifc device, and using it to compare with other ISFETs
+has weak justifcation. Selection of a reference material
+establishes the convenience in making the measurement
+generic with respect to diferent types of ISFET sensors.
+The on current sensitivity is given by Eq. (2) which is the
+ratio of the on current of the TNT exposed sensor to that
+of the deionized water-exposed sensor. Equation (3) gives
+the measure of sensitivity in terms of threshold voltage. By
+using Eqs. (2) and (3), a third sensitivity is proposed, where
+both on current and threshold voltage are mathematically
+arranged to increase the range of sensitivities between the
+minimum and maximum TNT concentrations.
+SI - ON = (2)
+ION,TNT
+ION,DI Water
+Figure  7 depicts the sensitivity SI - ON given by Eq. (2)
+where there is a linear ft between the simulated values and
+(3) SVT = VT,DI Water − VT,TNT
+S (4)   = SI - ON
+VT
+(5) SG = GTNT
+GDI Water
+Fig. 6 a Conduction band versus channel position for 0.1 μM
+and 20 μM TNT; b subthreshold
+swing and DIBL for normalized
+TNT concentration
+Fig. 7 Sensitivity (SI - ON) of the proposed TNT sensor versus normalized TNT concentration showing the linear ft
+Fig. 8 Threshold voltage sensitivity (SVT
+) of the proposed TNT sensor versus normalized TNT concentration showing the linear ft
+Fig. 9 SI - ON∕VT of the proposed TNT sensor versus normalized TNT
+concentration showing the linear ft
+Journal of Computational Electronics (2019) 18:1469–1477 1475
+1 3
+logarithmic value of normalized TNT concentration. This
+linear ft can be related to Fig. 1c, d. The diference in sensitivities between the minimum and maximum TNT concentration is 0.01719. The threshold voltage sensitivity given by
+Eq. (3) is shown in Fig. 8. The diference between the sensitivities for maximum and minimum TNT concentrations is
+0.0111 V. In order to improve the range of sensitivities, the
+SI - ON∕VT as presented in Eq. (4) is plotted in Fig. 9, which
+results in a range of 0.03778 V−1. Figure 10 depicts the conductance sensitivity given by Eq. (5). In Engel et al.’s article,
+conductance was used as a measure of sensitivity; however,
+in this article, the conductance sensitivity is proposed with
+reference to deionized water. The conductance sensitivity
+has a higher range of 0.280047.
+Apart from the sensitivities proposed in the section and
+presented in Figs. 7, 8, 9 and 10, another internal parameter can be used to refect the device characteristics. We have
+defned it as the diference between the source–channel barrier height of the TNT immobilized ISFET and that of the
+deionized water immobilized ISFET given by Eq. (6). With
+the increase in TNT concentration, the source–channel barrier
+height decreases. Since deionized water has a dielectric constant much higher than TNT (Table 2), the barrier height for
+DI water is lesser than any of the TNT concentrations. Hence,
+the absolute value of the parameter decreases with the increase
+in TNT concentration (Fig. 11).
+4.3 Efect of dielectric constant of gate oxide
+on Sensitivities
+This section presents the sensitivities of the TNT sensor in
+Fig. 1 where the gate dielectric is replaced with a material
+of higher dielectric constant (k=22) corresponding to HfO2.
+S훷 (6) B,S - C = |
+|
+|
+훷B,S - CDI − 훷B,S - CTNT
+|
+|
+|
+Fig. 10 Conductance sensitivity (SG) of the proposed TNT sensor
+versus normalized TNT concentration showing the linear ft
+Fig. 11 Barrier height sensitivity (SΦB,S - C) of the proposed TNT sensor versus normalized TNT concentration
+Fig. 12 a SI-ON; b SVT
+; c
+SI-ON/VT and d SG versus
+normalized TNT concentration
+for HfO2 and Al2O3 as gate
+dielectric
+1476 Journal of Computational Electronics (2019) 18:1469–1477
+1 3
+The results of the sensitivities represented by expressions
+(1), (2), (3) and (4) are shown in Fig. 12. It is evident from
+the physics of MOS devices that with the increase in dielectric constant, the on current increases and the threshold
+voltage reduces. In the simulation, for the sensor with HfO2
+as gate dielectric too, the reference was taken as DI water.
+Although the on current is higher for HfO2 as dielectric, its
+sensitivity SI-ON is lower than that of Al2O3 as it is a ratioed
+quantity given by expression (2). This is also evident from
+the transfer characteristics in Fig. 13. However, for SVT
+, it is
+the opposite to that of SI-ON due to the presence of subtraction in the expression (3). The dominance of SI-ON in the
+third parameter, SI-ON/VT, makes its trend similar to SI-ON.
+For conductance sensitivity shown in Fig. 12d, the values
+are extracted from the ID −VDS characteristics, where the
+conductance ratio of the HfO2-based sensor is found to be
+higher than that of Al2O3-based sensor due to the former’s
+higher dielectric constant.
+5 Conclusion
+In this article, we have reported a methodology to calibrate
+a TNT sensor using ISFET on simulation tool by taking into
+account the results from two fabricated ISFET devices. We
+have applied the calibration models to a nanowire ISFET
+sensor for TNT sensing and proposed diferent sensitivity
+parameters using deionized water as a reference material.
+With the increase in TNT concentrations, the drain current
+increases due to the increase in positive charge at the interface. The various calibration methods are verifed for the
+diferent electrical parameters. Of all the sensitivities, the
+conductance sensitivity provided the highest range of values
+between minimum and maximum concentrations. The use of
+high-k dielectric as gate oxide was also analyzed using HfO2,
+and it was observed that on current sensitivity was lesser
+than that of Al2O3 due to higher on current in the former and
+the sensitivity being a ratioed parameter. However, in case
+of threshold voltage sensitivity and conductance sensitivity, HfO2-based sensor showed higher values than its low-k
+counterpart. The methods and results direct in the way of
+simulating and calibrating any generalized ISFET device for
+industrial applications.
+Acknowledgements The authors acknowledge the Oysters Laboratory,
+Department of Electrical and Electronics Engineering, Birla Institute
+of Technology and Science, Pilani, Pilani Campus, Rajasthan 333031,
+India, for the technical support.
+References
+1. O’Mahony, A.M., Wang, J.: Nanomaterial-based electrochemical
+detection of explosives, a review of recent developments. Anal.
+Methods 10, 4296–4309 (2013). https://doi.org/10.1039/c3ay4
+0636a
+2. Grieshaber, D., MacKenzie, R., Vörös, J., Reimhult, E.: Electrochemical biosensors—sensor principles and architectures. Sensors
+(Basel) 8(3), 1400–1458 (2008). https://doi.org/10.3390/s8031
+4000
+3. Zhang, W., Tang, Y., Shi, A., et al.: Recent developments in spectroscopic techniques for the detection of explosives. Materials
+(Basel) 11(8), 1364 (2018). https://doi.org/10.3390/ma11081364
+4. Senesac, L., Thundat, T.G.: Nanosensors for trace explosive detection. Mater. Today 11(3), 28–36 (2008). https://doi.org/10.1016/
+S1369-7021(08)70017-8
+5. Mikoliunaite, L., Geceviciute, M., Voronovic, J., Paklonskaitė, I.,
+Ramanaviciene, J.B.A., Ramanavicius, A.: Carbon nanostructures
+for electrochemical sensors. In: IEEE 7th International Conference Nanomaterials: Application & Properties (NAP), Odessa,
+pp. 04NB28-1–04NB28-4 (2017). https://doi.org/10.1109/
+nap.2017.8190340
+6. Luo, T., Wang, H., Song, H., Christen, J.B.: CMOS-based on-chip
+electrochemical sensor. In: IEEE Biomedical Circuits and Systems Conference (BioCAS) Proceedings, Lausanne, pp. 336–339
+(2014). https://doi.org/10.1109/biocas.2014.6981731
+7. Shankaran, D.R., et al.: A novel surface plasmon resonance
+immunosensor for 2,4,6-trinitrotoluene (TNT) based on indirect
+competitive immunoreactions, a promising approach for on-site
+landmine detection. IEEE Sensors J. 5(4), 616–621 (2005). https
+://doi.org/10.1109/JSEN.2005.848150
+8. Xiong, H., Li, J., Barrall, G.A.: Joint TNT and RDX detection via
+quadrupole resonance. IEEE Trans. Aerosp. Electron. Syst. 43(4),
+1282–1293 (2007). https://doi.org/10.1109/TAES.2007.4441739
+9. Weng, C.S., Hashim, U., Liu, W.: Fabrication of silicon nitride
+ion sensitive feld-efect transistor (ISFET) In: RSM 2013 IEEE
+Regional Symposium on Micro and Nanoelectronics, Langkawi,
+pp. 204–207 (2013). https://doi.org/10.1109/rsm.2013.6706509
+10. Hazarika, C., Dutta, A., Sharma, S.: Modelling of reference electrode for a SÌ3N4 gate pH ISFET. In: International Conference on
+Innovations in Electronics, Signal Processing and Communication
+(IESC), Shillong, pp. 149–154 (2017). https://doi.org/10.1109/
+iespc.2017.8071882
+11. Freeman, R., Gill, R., Willner, I.: Following a protein kinase
+activity using a feld-efect transistor device. Chem. Commun.
+33, 3450–3452 (2007). https://doi.org/10.1039/B707677K
+12. Rodrigues, F., Boudinov, H.I.: Fabrication and characterization of a pH sensor. In: 32nd Symposium on Microelectronics
+Fig. 13 Transfer characteristics for HfO2 and Al2O3 as gate dielectric
+for DI water and 0.1 μM
+Journal of Computational Electronics (2019) 18:1469–1477 1477
+1 3
+Technology and Devices (SBMicro), Fortaleza, pp. 1–4 (2017).
+https://doi.org/10.1109/sbmicro.2017.8112979
+13. Dang, W., Manjakkal, L., Lorenzelli, L., Vinciguerra, V., Dahiya,
+R.: Stretchable pH sensing patch in a hybrid package. In: IEEE
+Sensors, Glasgow, pp. 1–3 (2017). https://doi.org/10.1109/icsen
+s.2017.8234297
+14. Lee, J.H., et al.: Efect of polysilicon gate on the fatband voltage shift and mobility degradation for ALD-Al/sub 2/O/sub 3/
+gate dielectric. In: International Electron Devices Meeting 2000.
+Technical Digest. IEDM (Cat. No.00CH37138), San Francisco, CA, USA, pp. 645–648 (2000). https://doi.org/10.1109/
+iedm.2000.904402
+15. Kim, T.H., Lee, B.Y., Jaworski, J., Yokoyama, K., Chung, W.-J.,
+Wang, E., Hong, S., Majumdar, A., Lee, S.-W.: Selective and
+sensitive TNT sensors using biomimetic polydiacetylene-coated
+CNT-FETs. ACS Nano 5(4), 2824–2830 (2011). https://doi.
+org/10.1021/nn103324p
+16. Zang, F., Gerasopoulos, K., Fan, X.Z., Brown, A.D., Culver,
+J.N., Ghodssi, R.: An electrochemical sensor for selective TNT
+sensing based on Tobacco mosaic virus-like particle binding
+agents. Chem. Commun. 50(85), 12977–12980 (2014). https://
+doi.org/10.1039/C4CC06735E
+17. Masoumi, S., Hajghassem, H., Erfanian, A., Rad, A.M.: Design
+and manufacture of TNT explosives detector sensors based
+on CNTFET. Sens. Rev. 36(4), 414–420 (2016). https://doi.
+org/10.1108/SR-01-2016-0014
+18. Wang, H., Chen, S., Gao, A., Wang, Y., Li, T.: Detection of
+TNT in sulfuric acid solution by SiNWs-FET based sensor. In:
+2018 Symposium on Design, Test, Integration & Packaging of
+MEMS and MOEMS (DTIP), Roma, pp. 1–4 (2018). https://doi.
+org/10.1109/dtip.2018.8394241
+19. Sharon, E., Freeman, R., Willner, I.: Detection of explosives using
+feld-efect transistors. Electroanalysis 21, 2185–2189 (2009).
+https://doi.org/10.1002/elan.200900271
+20. Engel, Y., Elnathan, R., Pevzner, A., Davidi, G., Flaxer, E., Patolsky, F.: Supersensitive detection of explosives by silicon nanowire
+arrays. Angew. Chem. Int. Ed. 49, 6830–6835 (2010). https://doi.
+org/10.1002/anie.201000847
+21. Lee, C.S., Kim, S.K., Kim, M.: Ion-sensitive feld-efect transistor
+for biological sensing. Sensors (Basel) 9(9), 7111–7131 (2009).
+https://doi.org/10.3390/s90907111
+22. Sentaurus Device User, Synopsys p. 2009 (2009)
+23. Tsividis, Y.: Operation and Modelling of the MOS Transistor, 2nd
+edn, pp. 50–88. Oxford University Press, New York (1999)
+24. Ajay, N.R., Saxena, M., Gupta, M.: Investigation of dielectric
+modulated (DM) double gate (DG) junctionless MOSFETs for
+application as a biosensors. Superlattices Microstruct. 85, 557–
+572 (2015). https://doi.org/10.1016/j.spmi.2015.04.040
+25. VanderGaast, B.W., McFee, J.E., Russell, K.L., Faust, A.A.:
+Design and validation of inert homemade explosive simulants
+for ground penetrating radar. Proc. SPIE (2015). https://doi.
+org/10.1117/12.2175586
+26. Hasan, M., Huq, MdF, Mahmood, Z.H.: A review on electronic
+and optical properties of silicon nanowire and its different
+growth techniques. SpringerPlus 2(1), 151 (2013). https://doi.
+org/10.1186/2193-1801-2-151
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afliations.

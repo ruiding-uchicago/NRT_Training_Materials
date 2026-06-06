@@ -1,0 +1,453 @@
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+Wang, Bin, Huynh, Tan-Phat, Wu, Weiwei, Hayek, Naseem, Do, Thu Trang,
+Cancilla, John, Torrecilla, Jose, Nahid, Masrur Morshed, Colwell, John,
+Gazit, Oz, Puniredd, Sreenivasa Reddy, McNeill, Christopher, Sonar,
+Prashant, & Haick, Hossam
+(2016)
+A highly sensitive diketopyrrolopyrrole-based ambipolar transistor for selective detection and discrimination of xylene isomers.
+Advanced Materials, 28(21), pp. 4012-4018.
+This file was downloaded from: https://eprints.qut.edu.au/221871/
+© Consult author(s) regarding copyright matters
+This work is covered by copyright. Unless the document is being made available under a
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+that permission from the copyright owner must be obtained for all other uses. If the document is available under a Creative Commons License (or other specified license) then refer
+to the Licence for details of permitted re-use. It is a condition of access that users recognise and abide by the legal requirements associated with these rights. If you believe that
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can
+be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+https://doi.org/10.1002/adma.201505641
+
+ 1
+DOI: 10.1002/adma.(please add manuscript number)
+Highly Sensitive Ambipolar Field Effect Transistor-Based Diketopyrrolopyrrole
+Copolymer for Selective Detection and Discrimination of Xylene Isomers
+Bin Wang, Tan-Phat Huynh, Weiwei Wu, Naseem Hayek, Thu Trang Do, John C. Cancilla,
+Jose S. Torrecilla, Masrur Morshed Nahid, John M. Colwell, Oz M. Gazit, Sreenivasa Reddy
+Puniredd, Christopher R. McNeill, Prashant Sonar,* and Hossam Haick*
+Dr. Bin Wang, Dr. Tan-Phat Huynh, Dr. Weiwei Wu, Naseem Hayek, Prof. Oz M. Gazit,
+Prof. Hossam Haick
+Department of Chemical Engineering and Russell Berrie Nanotechnology Institute,
+Technion-Israel Institute of Technology, Haifa 3200003, Israel.
+E-mail: hhossam@technion.ac.il
+John C. Cancilla, Prof. Jose S. Torrecilla
+Department of Chemical Engineering,
+Complutense University of Madrid,
+Madrid 28040, Spain
+Masrur Morshed Nahid, Prof. Christopher R. McNeill
+Department of Materials Science and Engineering,
+Monash University, Clayton, Victoria 3800, Australia
+Dr. Sreenivasa Reddy Puniredd
+Institute of Materials Research and Engineering (IMRE), Agency for Science, Technology
+and Research (A*STAR), 2 Fusionopolis Way, Innovis, Singapore 138634.
+Thu Trang Do, Dr. John M. Colwell, Prof. Prashant Sonar
+School of Chemistry, Physics and Mechanical Engineering,
+Queensland University of Technology (QUT),
+4001 Brisbane, Australia
+E-mail: sonar.prashant@qut.edu.au
+Keywords: Ambipolar, field effect transistor, sensor, isomer, diketopyrrolopyrrole.
+
+ 2
+Xylenes, which include 3 isomers, i.e. p-xylene, o-xylene, and m-xylene, are important
+petrochemicals.[1] Individual and mixed xylene isomers are widely used as chemical
+intermediates to make polyesters and as solvents in printing, rubber, and leather industries
+as well as in household products (aerosol paints and lacquers).[1] Volatilization of xylenes in
+air can impair the human respiratory system, the central nervous system, liver, kidneys, eyes
+and skin.[2] The U.S. National Institute for Occupational Safety and Health (NIOSH)
+recommended long- and short-term exposure limits for xylenes of 100 and 150 ppm,
+respectively.[2a] Though xylene isomers have similar structural and physical properties, they
+have different industrial applications.[1] The 3 xylene isomers are metabolized by different
+pathways in the body.[3] Hence, the detection and discrimination of xylene isomers is
+essential in environmental monitoring and healthcare.[2-3]
+In principle, high-resolution gas chromatography (HRGC) can be used to detect and
+discriminate xylene isomers.[4] However, it requires expensive equipment and well-trained
+operators, making HRGC-MS unsuitable for environmental monitoring. A number of methods,
+including mass sensor arrays,[5] chemiresistor sensor arrays,[6] metal oxide semiconductor
+based sensors[7] and cataluminescence sensor arrays,[8] have been developed for costeffective detection of xylene isomers. Although selective detection has been achieved with
+arrays of sensors, their detection limits are always very high (e.g. 104 ppm, 103
+ ppm, and 400
+ppm as reported in references.7c, 5 and 6, respectively). Five ppm p-xylene has been
+detected using cobalt-doped zinc oxide nanowire-based sensors.[7b] However, such metal
+oxide semiconductor-based sensors only work at a relatively high temperature (>400ºC) and
+no selectivity regarding the other isomers of xylenes has been reported for these sensors.
+Therefore, detection of xylene isomers with high selectivity and sensitivity below the health
+threshold level of 100 ppm remains a significant challenge. A reliable selective sensor for the
+detection of mixed xylene isomers, widely used as solvents in the chemical industry, is
+lacking.
+We here report an ambipolar diketopyrrolopyrrole (DPP) copolymer field effect
+transistor (FET)-based sensor to selectively and sensitively detect xylene isomers at 40 ppm,
+which is below the NIOSH long-term exposure limit for xylene isomers. The rationale behind
+this approach is that an ambipolar FET that can operate alternatively in n-channel and pchannel modes has been adopted for the generation of double-sensing parameters in hole
+and electron changes rather than using a unipolar FETs.[9] Therefore, it is reasonable that an
+ambipolar FET sensor would provide more degrees of freedom to enhance the selective
+detection of structurally highly similar chemicals, e.g. between isomers. Indeed, by combining
+multiple sensing parameters derived from hole and electron effects obtained from the one
+ambipolar FET with a pattern recognition algorithm, chemical fingerprints for each of the
+xylene isomers can be taken that allow clear discrimination between structurally similar
+
+ 3
+isomers. The ambipolar FET sensor can also selectively detect solvents of binary and ternary
+o-, p-, and m- xylene mixtures at different ratios via vapor sensing.
+An alternating copolymer, poly(diketopyrrolopyrrole-terthiophene) referred to as
+PDPPHD-T3 (Figure 1a), was synthesized by Stille coupling, using hexyldecyl substituted
+thiophene flanked DPP with thiophene as previously reported.[10] Polymer characterization
+data can be found in Supporting Information Figure S1-5. A long alkyl, hexyldecyl, chain was
+attached to the DPP block to help the processing of a solution of the polymer. The
+conjugated main chains of PDPPHD-T3 probably have a high affinity for aromatic xylene
+isomers. Figure 1b shows a Scanning Electron Microscope (SEM) image of the spin-coated
+PDPPHD-T3 film between source and drain electrodes. It is apparent that the PDPPHD-T3
+chains have self-assembled into nano-fibrillar structure of average diameter 34 nm. This
+structure has a large surface-to-volume ratio, creating a large area suitable for adsorption of
+molecules. The film structure has also been examined by grazing-incidence wide-angle X-ray
+scattering (GIWAXS). The peak at q ~1.7 Å-1 (most prominent in the out-of-plane trace)
+corresponds to the - stacking of polymer backbones with a 0.37 nm d-spacing (Figure 1c).
+The peak located at q ~0.34 Å-1 (most prominent in the in-plane trace) corresponds to the
+alkyl stacking of polymer chains with a 1.85 nm d-spacing. The corresponding 2-dimensional
+scattering image is shown in Figure S6 in the Supporting Information. Considering the
+molecular size of the xylene isomers (Table 1), we consider that the xylene isomers diffuse
+into the PDPPHD-T3 crystallites, especially between their side-chains. The representative
+example in Figure 1d shows the source-drain current (Ids) vs gate voltage (Vg) curves of the
+PDPPHD-T3 polymer FET under N2. The polymer FET shows a typical V-sharp ambipolar
+transfer character; notably, the conductive channel can transport both electron and hole
+charge carriers. FET parameters for both electron and hole transport, such as electron
+mobility (µe), hole mobility (µh), electron threshold voltage (Vth-e), hole threshold voltage (Vth-h),
+electron subthreshold swing (SSe) and hole subthreshold swing (SSh), can be calculated from
+the linear and logarithmic Ids-Vg plots and also used as sensing parameters for xylene
+exposure (details of FET parameter calculations can be found in the Supporting Information).
+The calculated hole mobility, hole threshold voltage, electron mobility and threshold voltages
+of PDPPHD-T3 FET under N2 are 0.125 cm2
+/(V.s), -13.9 V, 0.027 cm2
+/(V.s) and 4.48 V,
+respectively.
+
+ 4
+Figure 1. (a) Schema of the synthesis of PDPPHD-T3. (b) SEM image of a spin-coated
+PDPPHD-T3 film on octadecyltrichlorosilane (OTS)-treated SiO2/Si. (c) In-plane and out-ofplane GIWAXS profiles of a PDPPHD-T3 film. (d) Typical linear and logarithmic scale Ids-Vg
+curves of a PDPPHD-T3 FET under N2. Inset: Schematic image of a PDPPHD-T3 FET
+device. The polymer FET was measured in hole accumulation mode.
+Table 1. Physical properties of xylene isomers
+Xylene
+isomers
+Chemical
+structure
+Boiling
+point [°C]
+Vapor
+pressure
+[mmHg]
+Dipole
+moment
+[D]
+Kinetic
+diameter
+[mm]
+o-xylene 144.4 7 0.64 0.65
+m-xylene 139 9 0.37 0.64
+p-xylene 138.35 9 0.07 0.58
+
+ 5
+Based on the measured Ids-Vg curves, multiple sensing parameters, changes in: hole
+voltage threshold, ∆Vth-h, hole mobility, ∆µh/µhb, hole subthreshold swing, ∆SSh, electron
+voltage threshold, ∆Vth-e, electron mobility, ∆µe/µeb, and electron subthreshold swing and
+∆SSe were calculated and plotted as a function of time (Figure 2a-f). The sensing responses
+in N2 flow were set as a baseline, and those towards xylene exposure are reflected in the
+change of Ids. As an example, the change of Ids at Vg = 10 V has been plotted in Figure S7.
+The PDPPHD-T3 FET sensor responded to all 3 isomers of xylene over a wide concentration
+range using all 6 selected sensing features. Note that the PDPPHD-T3 FET sensor could
+detect xylene isomers down to 40 ppm, lower than he NIOSH recommended long-term
+exposure limit of 100 ppm for xylenes. With increasing xylene concentration, the absolute
+values of the sensing responses increased. Most of the sensing parameters reverted to near
+baseline levels after 5 min exposure to a pure N2 flow. The 6 sensing parameters have
+different responses towards xylene exposure; specifically, ∆Vth-e and ∆Vth-h both gave a
+positive response to xylene isomers, whereas ∆µe/µeb, ∆µh/µhb, ∆SSe and ∆SSh gave a
+negative response. For the same concentration of xylene isomers, the sensing features gave
+similar, but variable responses. For example, ∆µe/µeb at 40 ppm gave similar responses for oxylene and m-xylene (µe decreased by 3.7 ± 0.3% and 3.6 ± 0.3%, respectively), but differed
+for p-xylene (µe decreased by 4.3 ± 0.2%). While ∆µh/µhb gave similar responses to o-xylene
+and p-xylene (µh decreased by 0.55 ± 0.05% and 0.56 ± 0.06%, respectively), they differ from
+m-xylene (µh decreased by 0.47 ± 0.1%). The differences in multiple sensing responses can
+discriminate structurally similar xylene isomers from one another.
+
+ 6
+Figure 2. Time-dependent responses as expressed by: (a) ∆Vth-e, (b) ∆µe/µeb, (c) ∆SSe, (d)
+∆Vth-h, (e) ∆µh/µhb, and (f) ∆SSh of a PDPPHD-T3 FET after exposure to different xylene
+isomer vapors at varying concentrations. PCA score plots for the 3 xylene isomers at 40 ppm.
+(g) 6 sensing parameters (∆Vth-h, ∆Vth-e, ∆µh/µhb, ∆µe/µeb, ∆SSh, and ∆SSe) obtained by one
+PDPPHD-T3 sensor were used. (h) Only electron response parameters (∆Vth-e, ∆µe/µeb, and
+∆SSe) were used. (i) Only hole response parameters (∆Vth-h, ∆µh/µhb, and ∆SSh) were used.
+(j) Euclidean distance of ANN outputs using a sole PDPPHD-T3 ambipolar FET sensor to
+identify o-xylene, m-xylene, p-xylene, and their binary and ternary mixture solvents.
+Encouraged by the nature of the human olfactory system, where arrays of crossreactive chemical sensors conjugated with pattern recognition methods can achieve selective
+sensing of analytes,[11] the multiple sensing responses of PDPPHD-T3 FET can be used to
+provide a fingerprint of each xylene isomer. By this approach, the device features extracted
+from the PDPPHD-T3 FET serve as an array of 6 virtual sensors, where each has its own
+cross-reactive behavior towards a specific isomer or mixture of isomers. Figure 2g shows
+the principle component analysis (PCA) plot of PDPPHD-T3 FET with 6 sensing parameters
+in response to different xylene isomers at a concentration of 40 ppm. Figure 2g shows each
+of the structurally similar xylene isomer can be clearly distinguished from the others by
+forming well-separated clusters in the principle component space. Note that the selective
+
+ 7
+detection of structurally similar xylene isomers is achieved with a single PDPPHD-T3 FET
+sensor rather than arrays of sensors.[5, 8, 12] Furthermore, PCA was analyzed using either only
+electron or hole sensing parameters (Figure 2h and Figure 2i, respectively). The use of only
+the electron sensing parameters results in a clear clustering of 3 xylene isomers. However, if
+only hole sensing parameters were used for the PCA analysis, o-xylene can be clearly
+distinguished from p-xylene and m-xylene, but p-xylene and m-xylene are misclassified.
+Linear discriminant analysis (LDA) also used to discriminate between xylene isomers showed
+that they can be successfully classified with 100% sensitivity, specificity and accuracy in
+most cases, even when only 2 sensing features of a sole ambipolar FET sensor had been
+used (Table S1). Statistically differences (p-values) between canonical variables of the
+different xylene isomer classes were estimated by Student’s t-test, all being <0.0001 (p<0.05
+being accepted as significant).
+PDPPHD-T3-coated quartz crystal microbalance (QCM) measurements (see
+Supporting Information) showed increased mass after xylene exposure, suggesting that
+xylene molecules diffused and adsorbed onto the polymer film (Figure S8). The QCM sensor
+recorded a very similar mass increase with the 3 xylene isomers at the same concentration,
+suggesting that PDPPHD-T3 has no appreciable selective adsorption. Therefore, it can be
+inferred that the selective detection of xylene isomers is based mainly on their different
+impacts on the electronic properties of PDPPHD-T3.
+After xylene exposure, the amount of adsorption on the polymer film increased rapidly
+over the first 8 seconds, corresponding to the diffusion and adsorption of molecules into the
+shallow space of polymer film. Then the mass of xylene increased slowly, corresponding to
+their adsorption into the deep space of polymer film. Much more xylene accumulates on the
+shallow space than the deep space. Thus sensing responses are largely due to adsorption in
+the shallow space. It takes 12 seconds in our FET sensor for one measurement, which is
+longer than the time taken for xylene molecules diffusing into the shallow space of polymer
+film. The adsorption equilibrium of xylene on the polymer film controls the sensing response.
+Therefore, the sensing processing is mainly limited by adsorption thermodynamics rather
+than by diffusion.
+The 3 xylene isomers are miscible with each other in any ratio because of their similar
+physical properties, and mixed xylenes are widely used in industry. To selectively detect
+xylene mixtures (cocktails), an artificial neural network (ANN)-based model was used. Six
+sensing parameters of a sole PDPPHD-T3 sensor towards 10 xylene mixtures (the
+components of the mixed xylene are listed in Table S2) were set as the input layer of the
+ANN. The contents of o-, m-, and p-xylenes in mixtures ranging from 0 to 1 were set as the
+output layer. The Euclidean distance between the estimated and real values was used to
+evaluate the discriminatory power of the sensor. Figure 2j shows all calculated Euclidean
+
+ 8
+distances to be below 0.1, showing that the ANN model can correctly distinguish between 10
+xylene mixtures.
+To understand the positive and negative responses achieved by the PDPPHD-T3
+FET sensor, Density Functional Theory (DFT) was used on a DPPHD-T3 dimer, i.e. a
+fragment of PDPPHD-T3, and its complexes with xylene isomers by applying the B3LYP/6-
+311+G* calculation. The optimized geometries of p-xylene, o-xylene and m-xylene adsorbed
+onto DPPHD-T3 dimers are shown in Figure 3. All electron deficient xylene isomers are
+adsorbed on the electron-rich thiophene units due to donor-acceptor and van der Waal’s
+interactions. The different methyl substitution positions in the benzene ring produce different
+molecular symmetries and electron density distribution of the isomers, and thus the
+optimized position of xylene isomers on PDPPHD-T3 differ from each other.
+In general, for an ambipolar FET, the metal electrode Fermi level (EF) is located
+between the highest occupied molecular orbital (HOMO) and lowest unoccupied molecular
+orbital (LUMO). The energy difference between the metal electrode EF and the HOMO and
+LUMO levels leads to the formation of hole and electron injection barriers, respectively,
+which affects their injection rates.[13] DFT-calculated HOMO and LUMO energies of the
+DPPHD-T3 dimer before and after the adsorption of xylene isomers are given in Table 2 and
+the corresponding molecular orbitals have been plotted in Figure S9. After adsorbing xylene
+isomers, the HOMO and LUMO energies of the DPPHD-T3 dimer all increase, resulting in a
+decrease in the hole injection barrier and increase in the electron injection barrier (Figure
+3d). When the PDPPHD-T3 FET is operated in hole accumulation mode (Vg sweeps from a
+positive to a negative voltage), a decrease in the hole injection barrier will make the hole
+conduction channel open at a higher positive gate voltage, while an increase in the electron
+injection barrier will make the electron conduction channel close at a more positive gate
+voltage. As a result, the Vth_e and Vth_h will shift to a higher positive gate voltage after xylene
+exposure. These results are agree with the experimental sensing response of PDPPHD-T3
+to xylene isomers (Figure 2a and Figure 2d). The different xylene isomers have different
+impacts on the HOMO/LUMO energies of PDPPHD-T3. These differences lead to differences
+in the polymer FET multiple transfer properties that result in distinct sensing patterns for the
+selective sensing of structurally similar xylene isomers. Note that the DFT calculations are
+based on the molecule in vacuum and omit the interaction between polymer chains to
+simplify the calculation. In the real polymer film, xylene adsorption-induced changes of
+polymer electric properties are more complex and are also affected by molecular aggregation
+of the polymers. Nevertheless, DFT calculation can be used to explain the trend of xylene
+adsorption-induced changes of polymer electric properties.
+To support the results from DFT calculation, complexes of PDPPHD-T3 polymer and
+xylene isomers can be experimentally seen in peak shifts in IR spectrum of the PDPPHD-T3
+
+ 9
+film. Figure S10a is the IR spectrum of the drop-cast PDPPHD-T3 film measured under
+Argon flow. Stretching vibrations of the aryl ketone C=O and C-N bonds of
+diketopyrrolopyrrole occur at 1673 and 1220 cm-1. Peaks at 2922 and 2853 cm-1 are
+stretching vibrations of CH3 and CH2 of the hexyldecyl ligand of diketopyrrolopyrrole. Peaks
+at 1566 and 1445 cm-1 correspond to asymmetric and symmetric C=C stretching vibrations,
+respectively, whereas those at 1335 cm-1 to C-C stretching vibrations in the thiophene ring. A
+peak at 3064 cm-1 is due to the stretching vibrations of C-H of the aromatic rings.[14] As
+predicted, after exposure to different xylene isomers, more than half of the peaks of
+PDPPHD-T3 (marked in bold and violet color in Figure S10) had shifted (Figure S10a-c).
+For instances, stretching vibrations of aryl ketone C=O (1673 cm-1), asymmetric and
+symmetric C=C (1566, 1445 cm-1), C-N bond (1220 cm-1), and C-C (1335 cm-1) of PDPPHDT3 polymer all shifted to lower wavenumber at 7 to 15 cm-1. This is evidence of interaction
+between xylene isomers and the polymer backbone. However, stretching vibrations of the
+CH2 peak of hexyldecyl ligand shifted from 2922 cm-1 to a higher wavenumber at 9 to 11 cm-1
+due to Van Der Waal’s interaction between hexyldecyl ligand and xylene. Moreover, the
+interaction between xylene and PDPPHD-T3 polymer is reversible because the peak shifts
+back to its original position during the desorption step, i.e. xylene flushed out by argon flow
+(Figure S11).
+The PDPPHD-T3 polymer film is also swollen by the diffusion of xylenes. Specifically,
+xylene-induced polymer film swelling will result in less-tightly packed PDPPHD-T3 nanofibres,
+as also a decrease the order of polymer chain packing, resulting in an increase in film
+resistance. Therefore, both the electron and hole mobility of the PDPPHD-T3 polymer film
+will decrease after xylene exposure, as was seen in the xylene exposure experiments
+(Figure 2c and e).
+
+ 10
+Figure 3. Electron density distribution in the DPPHD-T3 dimer with (a) o-xylene, (b) m-xylene,
+and (c) p-xylene, optimized by the B3LYP density functional theory method using the 6-
+311+G* basis set. (d) Schematic diagram of the change in hole/electron injection barriers
+between a metal electrode and the ambipolar polymer due to xylene adsorption.
+Table 2. HOMO, LUMO, and band gap energies (eV) of the DPPHD-T3 dimer and their
+complexes with different xylene isomers
+ DPPHD-T3
+dimer
+DPPHD-T3
+dimer + pxylene
+DPPHD-T3
+dimer + mxylene
+DPPHD-T3
+dimer + oxylene
+LUMO -3.138 -3.105 -3.097 -3.108
+HOMO -5.007 -4.947 -4.968 -4.961
+In summary, we have developed an FET sensor based on an ambipolar semiconducting polymer to detect xylene isomer vapors at 40 ppm, i.e. below the long-term
+permissible exposure limit of 100 ppm recommended by NIOSH. The ambipolar FET
+generates multiple sensing parameters in electron and hole conduction towards xylene
+isomers. Using a combined pattern recognition method along with multiple sensing
+
+ 11
+parameters from a single ambipolar FET, chemically and structurally similar xylene isomers,
+as well as binary and ternary xylene mixtures, can be precisely identified. The sensing
+mechanism was investigated by DFT calculations showing that both HOMO and LUMO
+energy levels of the polymer increase with the amount of adsorbed xylene isomer. As a result,
+the hole injection barriers of the ambipolar FET decreases, facilitating hole transport,
+whereas the electron injection barriers increase, suppressing electron transport. Complexes
+of PDPPHD-T3 polymer and xylene isomers have been experimentally monitored by FTIR.
+Electrical properties are also affected by the swelling of the polymer film due to xylene
+diffusion. Our investigations could lead to the development of cost-effective and low-power
+sensors for sensitive and selective detection of structurally similar chemicals and their
+mixtures.
+Experimental Section
+FET Sensor Fabrication: PDPPHD-T3 FETs were prepared on (100) silicon wafers capped
+with 300 nm thermal oxide. Ti/Au (10/200 nm) bottom gate electrode was deposited by
+electron beam evaporation. Forty-nine pairs of circular interdigitated source and drain Au
+(200 nm) electrodes were prepared using photolithography and electron-beam evaporation.
+The outer diameter of the circular electrode area was 3000 μm, and the gap between the 2
+adjacent electrodes, the width of each electrode being 25 and 5 μm, respectively. The silicon
+wafers were treated on oxygen plasma for 5 min. The silicon wafers were immersed in
+octyltrichlorosilane (OTS) in toluene (40 mM, 20mL) for 10 h in N2 glove-box. Finally,
+PDPPHD-T3 films were deposited on the OTS-treated substrates by spin-coating using a
+PDPPHD-T3 solution (8 mg/mL) in chloroform. The polymer film thickness was ~320 nm
+measured by a step profiler. The surface morphology of spin-coated PDPPHD-T3 film was
+characterized by scanning electron microscopy (Zeiss Ultra-Plus FEG-SEM).
+FET Sensor Measurements: PDPPHD-T3 FET sensor was loaded into a stainless steel
+chamber with ~170 cm3
+ volume. The vapors of o-, m-, and p-xylenes were produced by a
+computer-controlled bubbler system. N2 was used as a carrier gas as well as a reference gas.
+The flow rate was kept at 3L/min during the experiment. Xylene mixtures were prepared by
+mixing liquids of pure o-, m-, and p-xylenes at selected (volume) ratios (Table S1). Vapor
+concentrations of xylene mixtures were set as Pa/Po = 0.05, where Pa and Po stand for the
+xylene mixture VOC's partial pressure and saturated vapor pressure, respectively. Sourcedrain current (Ids) versus gate voltage (Vg) measurements (swept between 10 and -60 V with
+0.5 V steps and-70 V constant source-drain voltage, Vds) were carried out using a Keithley
+2636A system SourceMeter and 3706 system Switch/Multimeter.
+
+ 12
+Computational Methods: Gaussian 09 soft was used to calculate the molecular structure, the
+highest occupied molecular orbital (HOMO) and lowest unoccupied molecular orbital (LUMO)
+energy of formation of complexes of PDPPHD-T3 with each xylene isomer, using a DFT
+method at the B3LYP/6-311+G* level.
+Pattern Recognition Methods: Principle component analysis (PCA) and linear discriminant
+analysis (LDA) for xylene isomers used JMP 10 software (SAS Institute Inc.). PCA finds
+projection weights for sensor response data that maximize total response variance in
+principal components, where dimension capturing greatest variance is given by PC1, and the
+dimension capturing the second greatest variance (subject to being orthogonal to PC1) is
+given by PC2, etc. LDA finds linear combinations of sensing features that separate 2 or more
+classes of objects. In binary classification, LDA predicts membership in 2 categories based
+on known continuous sensing responses.
+Artificial Neural Networks: A feed-forward 3-layered multilayer perceptron (input, hidden, and
+output) ANN model was used for the classification of xylene mixtures. The 6 sensing
+parameters of each xylene mixture at a vapor concentration of Pa/Po = 0.05 were set as the
+input nodes of the ANN. The 3 xylene isomers were encoded with dependent vectors in a 3-
+dimensional space and were set as the 3 neurons in the output layer. The ranges of the
+vector lengths of the 3 xylene isomers were set from 0 to 1, corresponding to the content of a
+determined isomer in the xylene mixtures. A vector length equal to 0 means that a specific
+isomer in the xylene mixture absent, while a vector length equal to 1 means the detected
+mixture contains only one xylene isomer. The database obtained from a sole PDPPHD-T3
+sensor was randomly split into 2 datasets, the learning dataset and the verification dataset.
+The Euclidean distance between the estimated and the real vector was used to calculate the
+discriminatory power of the PHPPHD–T3 sensor towards the mixed xylenes. Optimized ANN
+parameters and functions are listed in Table S3.
+Supporting Information
+Supporting Information is available from the Wiley Online Library or the author.
+Acknowledgements
+This research received funding from the Horizon 2020 ICT Program under the SNIFFPHONE
+(grant agreement no. 644031). The authors acknowledge the Israel Council for Higher
+Education for a partial support of Bin Wang's postdoctoral fellowship. The authors are
+grateful to Yi Ren for his help in Matlab programing, Dr. Linfeng Chen for his help in SEM
+measurements and Dr. Guankui Long for profound discussions on DFT calculations. C.R.M.
+acknowledges support from the Australian Research Council (DP130102616). Part of this
+
+ 13
+research was undertaken on the SAXS/WAXS beamline at the Australian Synchrotron,
+Victoria, Australia. C.R.M. and M.M.N. thank Dr. Eliot Gann for assistance with GIWAXS
+measurements and data analysis. Thu Trang Do, John Colwell and Prashant Sonar wish to
+thank the CRC for Polymers at Queensland University of Technology (QUT) for equipment
+support. Prashant also acknowledges financial support from the Australian Research Council
+(FT130101337).
+Received: ((will be filled in by the editorial staff))
+Revised: ((will be filled in by the editorial staff))
+Published online: ((will be filled in by the editorial staff))
+References:
+[1] J. Fabri, U. Graeser, T. A. Simo, in Ullmann's Encyclopedia of Industrial Chemistry,
+Wiley-VCH Verlag GmbH & Co. KGaA, 2000, 643.
+[2] a) The National Institute for Occupational Safety and Health, NIOSH Pocket Guide to
+Chemical Hazards, http://www.cdc.gov/niosh/npg/npgd0669.html, accessed: October,
+2015; b) Agency for Toxic Substances & Disease Registry, Toxicological Profile for
+Xylene, http://www.atsdr.cdc.gov/ToxProfiles/tp.asp?id=296&tid=53, accessed:
+October, 2015.
+[3] C. Morton, Handbook of Hazardous Materials, 1st Edition ed., Academic Press, Inc.,
+San Diego, California, USA, 1993.
+[4] a) Z. Y. Gu, X. P. Yan, Angew. Chem. Int. Ed. 2010, 49, 1477; b) Z. Y. Gu, X. P. Yan,
+Angew. Chem. 2010, 122, 1519.
+[5] F. L. Dickert, O. Hayden, M. E. Zenkel, Anal. Chem. 1999, 71, 1338.
+[6] a) F. Wang, Y. Yang, T. M. Swager, Angew. Chem. Int. Ed. 2008, 47, 8394; b) F.
+Wang, Y. Yang, T. M. Swager, Angew. Chem. 2008, 120, 8522.
+[7] a) H. J. Kim, J. W. Yoon, K. I. Choi, H. W. Jang, A. Umar, J. H. Lee, Nanoscale 2013,
+5, 7066; b) H. S. Woo, C. H. Kwak, J. H. Chung, J. H. Lee, ACS Appl. Mater.
+Interfaces 2014, 6, 22553; c) S. C. Hernandez, C. M. Hangarter, A. Mulchandani, N.
+V. Myung, Analyst 2012, 137, 2549.
+[8] S. F. Li, J. Z. Zheng, W. X. Zhang, J. Cao, S. X. Li, Z. M. Rao, Analyst 2013, 138, 916.
+[9] a) Y. N. Li, P. Sonar, L. Murphy, W. Hong, Energy Environ. Sci. 2013, 6, 1684; b) P.
+Sonar, S. P. Singh, Y. N. Li, M. S. Soh, A. Dodabalapur, Adv. Mater. 2010, 22, 5409;
+c) Z. R. Yi, S. Wang, Y. Q. Liu, Adv. Mater. 2015, 27, 3589.
+
+ 14
+[10] a) J. C. Bijleveld, A. P. Zoombelt, S. G. J. Mathijssen, M. M. Wienk, M. Turbiez, D. M.
+de Leeuw, R. A. J. Janssen, J. Am. Chem. Soc. 2009, 131, 16616; b) J. S. Lee, S. K.
+Son, S. Song, H. Kim, D. R. Lee, K. Kim, M. J. Ko, D. H. Choi, B. S. Kim, J. H. Cho,
+Chem. Mater. 2012, 24, 1316.
+[11] a) S. Stewart, M. A. Ivy, E. V. Anslyn, Chem. Soc. Rev. 2014, 43, 70; b) B. Wang, J.
+C. Cancilla, J. S. Torrecilla, H. Haick, Nano Lett. 2014, 14, 933.
+[12] M. C. Janzen, J. B. Ponder, D. P. Bailey, C. K. Ingison, K. S. Suslick, Anal. Chem.
+2006, 78, 3591.
+[13] a) A. Facchetti, M. Mushrush, M. H. Yoon, G. R. Hutchison, M. A. Ratner, T. J. Marks,
+J. Am. Chem. Soc. 2004, 126, 13859; b) H. Usta, C. Risko, Z. Wang, H. Huang, M. K.
+Deliomeroglu, A. Zhukhovitskiy, A. Facchetti, T. J. Marks, J Am. Chem. Soc. 2009,
+131, 5586.
+[14] a) X. Zhang, L. J. Richter, D. M. DeLongchamp, R. J. Kline, a. R. Hammond, I.
+McCulloch, M. Heeney, R. S. Ashraf, J. N. Smith, T. D. Anthopoulos, B. Schroeder, Y.
+H. Geerts, D. A. Fischer, M. F. Toney, J. Am. Chem. Soc. 2011, 133, 15073; b) R. M.
+Silverstein, F. X. Webster, D. J. Kiemle, Spectrometric Identification of Organic
+Compounds, John Wiley & Sons New Jersey, USA 2005.
+
+ 15
+The table of contents entry: An ambipolar poly(diketopyrrolopyrrole-terthiophene)
+(PDPPHD-T3)-based field effect transistor (FET) sensitively detects xylene isomers at low to
+40 ppm levels in multiple sensing features. Combined with pattern recognition algorithms, a
+sole ambipolar FET sensor rather than arrays of sensors can discriminate highly similar
+xylene structural isomers from one another.
+Keywords: semiconducting polymer, ambipolar field effect transistor, sensor, isomer,
+diketopyrrolopyrrole
+Title: A Multi-sensing Parameter Ambipolar Field Effect Transistor for the Detection and
+Discrimination of Xylene Isomers
+Bin Wang, Tan-Phat Huynh, Weiwei Wu, Thu Trang Do, John C. Cancilla, Jose S. Torrecilla,
+Masrur Morshed Nahid, John Colwell, Sreenivasa Reddy Puniredd, Christopher R. McNeill,
+Prashant Sonar,* and Hossam Haick*
+ToC figure (55 mm broad, 50 mm high, or 110 mm broad, 20 mm high)) 

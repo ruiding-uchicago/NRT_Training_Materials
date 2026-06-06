@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11664-022-09526-6",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-6 M",
+      "probe_material": "bismuth oxide (Bi2O3)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "6−12",
+      "test_medium": "water"
+    }
+  ]
+}

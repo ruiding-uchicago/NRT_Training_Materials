@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsami.9b19309",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "100 μM",
+      "probe_material": "gold",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

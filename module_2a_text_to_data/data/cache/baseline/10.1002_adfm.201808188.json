@@ -1,0 +1,75 @@
+{
+  "stem": "10.1002_adfm.201808188",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "p-xylene",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "320 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "m-xylene",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "320 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "o-xylene",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "320 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "hexanal",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "160 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "2-hexanone",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "160 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "heptanal",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "160 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "3-heptanone",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "160 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole (CDT-BTZ) copolymer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "N2"
+    }
+  ]
+}

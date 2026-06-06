@@ -1,0 +1,1802 @@
+{
+  "10.1002_adfm.201001560": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "3 ppm",
+      "probe_material": "zinc oxide",
+      "test_operating_temperature (celcius)": "40 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adfm.201101324": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "4 ppm",
+      "upper_detection_limit": "60 ppm",
+      "probe_material": "6PTTP6(5,5′-Bis(4-hexylphenyl)-2,2′-bithiophene)/8-3-NTCDI(N,N′-Bis(3-(perfluoroctyl)propyl)-1,4,5,8-naphthalenetetracarboxylic diimide)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adfm.201202473": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "diethyl chlorophosphate",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "Benzothiadiazole tetrathiafulvalene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adfm.201700018": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "10 ppm",
+      "probe_material": "Dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adfm.201700999": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "2,9-didecyl-dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adfm.201701117": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "1 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "poly(diketopyrrolopyrrole‐thiophene‐thieno[3,2‐b]thiophene‐thiophene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adfm.201806244": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "100 ppm",
+      "upper_detection_limit": "2000 ppm",
+      "probe_material": "2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adfm.201808188": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "xylene",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "320 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole copolymer",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adfm.202215215": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "0.92 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "poly(triarylamine)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adma.200903305": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethyl acetate",
+      "lower_detection_limit": "200 ppm",
+      "upper_detection_limit": "3000 ppm",
+      "probe_material": "calix[8]arene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adma.201004203": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "2500 ppm",
+      "probe_material": "palladium",
+      "test_operating_temperature (celcius)": "100 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adma.201204509": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "sulfur dioxide",
+      "lower_detection_limit": "0.5 ppm",
+      "upper_detection_limit": "5 ppm",
+      "probe_material": "copper phthalocyanine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adma.201301138": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "Dialkyl tetrathiapentacene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adma.201505641": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "xylene",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "poly(diketopyrrolopyrrole-terthiophene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adma.201670145": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "xylene",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "poly(diketopyrrolopyrrole-terthiophene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_adma.201701706": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "415 ppb",
+      "upper_detection_limit": "30 ppm",
+      "probe_material": "Copper phthalocyanine/polystyrene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_admi.201901696": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "30 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "5,11-bis(triethylsilylethynyl)anthradithiophene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_admi.202100493": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "2 ppm",
+      "upper_detection_limit": "10 ppm",
+      "probe_material": "bithiophene/bis(2-oxoindolin-3-ylidene)-benzodifuran-dione",
+      "test_operating_temperature (celcius)": "26 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_admi.202301088": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "8 RH%",
+      "upper_detection_limit": "35 RH%",
+      "probe_material": "2,8-difluoro-5,11-bis(triethylsilylethynyl)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adsr.202400040": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "100 ppm",
+      "upper_detection_limit": "5000 ppm",
+      "probe_material": "kraft lignin hydrogel",
+      "test_operating_temperature (celcius)": "23 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_aelm.201700120": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "1 ppb",
+      "upper_detection_limit": "1 ppm",
+      "probe_material": "PDPP3T1 (Diketopyrrolopyrrole-terthiophene conjugated polymer)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_aelm.201800362": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "methylparaben",
+      "lower_detection_limit": "0.3 ppb",
+      "upper_detection_limit": "20 ppb",
+      "probe_material": "4-tert-butylcalix[6]arene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_aelm.201901127": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "500 ppb",
+      "upper_detection_limit": "50 ppm",
+      "probe_material": "DPPT-TT (Poly(diketopyrrolopyrrole-thieno[3,2-b]thiophene))",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_aelm.202000579": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "dimethoate",
+      "lower_detection_limit": "0.60 ppb",
+      "upper_detection_limit": "10 ppb",
+      "probe_material": "NDI3HU-DTYM2",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_aelm.202000812": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "228 ppb",
+      "upper_detection_limit": "50 ppm",
+      "probe_material": "Nickel porphyrin",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_anie.201000122": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "diphenylchlorophosphate",
+      "lower_detection_limit": "500 ppb",
+      "upper_detection_limit": "0.8 ppm",
+      "probe_material": "3-(4-ethynylbenzyl)-1,5,7-trimethyl-3-azabicyclo[3.3.1]nonane-7-methanol",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "–1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_anie.201000847": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "2,4,6-trinitrotoluene",
+      "lower_detection_limit": "50 attomolar",
+      "upper_detection_limit": "5 µM",
+      "probe_material": "3-aminopropyltriethoxysilane",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "Air"
+    }
+  ],
+  "10.1002_anie.201916397": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "0.1 ppb",
+      "upper_detection_limit": "10000 ppm",
+      "probe_material": "N,N'-Bis(n-octyl)-1H,1H,2H,2H-perfluorobutyl diimide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_chem.201504196": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen sulfide",
+      "lower_detection_limit": "1 ppb",
+      "upper_detection_limit": "25 ppm",
+      "probe_material": "spirobifluorene-based polymer P1 (poly(9,9'-spirobifluorene-alt-4,4'-biphenylene))",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_elan.200900314": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "1 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "carbon nanotube",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "–1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_elan.201100299": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen sulfide",
+      "lower_detection_limit": "2 ppb",
+      "upper_detection_limit": "100 ppb",
+      "probe_material": "gold",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_elan.201300015": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "37 ppb",
+      "upper_detection_limit": "1 ppm",
+      "probe_material": "Polyaniline",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_masy.201400131": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "9 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "polypyrrole/poly(4-styrene sulfonic acid)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_smll.201101016": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitric oxide",
+      "lower_detection_limit": "0.8 ppm",
+      "upper_detection_limit": "2 ppm",
+      "probe_material": "molybdenum disulfide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1002_smll.201400434": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "0.5 ppm",
+      "upper_detection_limit": "40 ppm",
+      "probe_material": "graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_smll.202310527": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "carbon",
+      "lower_detection_limit": "0.25 mg/mL",
+      "upper_detection_limit": "5 mg/mL",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo[3,4-c]pyrrole-1,4(2H,5H)-dione-3,6-diyl-alt-(2,2';5',2'';5'',2'''-quaterthiophen-5,5'''-diyl)]/Poly(3-hexylthiophene-2,5-diyl)/Poly(3,3'''-didodecylquaterthiophene)/Poly(thiophene-3-acetic acid)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_smll.202404633": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "10 RH%",
+      "upper_detection_limit": "75 RH%",
+      "probe_material": "benzothiazole spiropyran/merocyanine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_978-1-4614-0935-9_19": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "4465 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "polyhexylthiophene/titania",
+      "test_operating_temperature (celcius)": "19 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s00339-011-6655-y": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "5 ppm",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "indium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s00339-020-03627-x": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "putrescine",
+      "lower_detection_limit": "3 ppb",
+      "upper_detection_limit": "75 ppm",
+      "probe_material": "PDQT",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s00542-012-1434-z": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen monoxide",
+      "lower_detection_limit": "50 ppm",
+      "upper_detection_limit": "200 ppm",
+      "probe_material": "Platinum/Iridium",
+      "test_operating_temperature (celcius)": "380 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1007_s10825-019-01349-9": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "1e-12 Torr",
+      "upper_detection_limit": "1e-9 Torr",
+      "probe_material": "polyaniline",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s10854-019-02429-z": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "0.3 ppm",
+      "upper_detection_limit": "10 ppm",
+      "probe_material": "poly(vinyl alcohol)/alpha-sexithiophene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s11172-022-3533-z": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "poly(ethyleneimine)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s11431-014-5539-8": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "0.2 ppm",
+      "upper_detection_limit": "1 ppm",
+      "probe_material": "α-sexithiophene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1007_s12274-016-1291-7": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "1 ppm",
+      "upper_detection_limit": "300 ppm",
+      "probe_material": "molybdenum diselenide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1007_s12274-020-3063-7": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "1 ppm",
+      "probe_material": "molybdenum disulfide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ],
+  "10.1007_s40242-021-1167-6": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "1 ppm",
+      "upper_detection_limit": "5 ppm",
+      "probe_material": "6,13-bis(triisopropylsilylethynyl)pentacene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1016_j.aeue.2024.155337": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen",
+      "lower_detection_limit": "10e-15 Torr",
+      "upper_detection_limit": "10e-10 Torr",
+      "probe_material": "palladium",
+      "test_operating_temperature (celcius)": "320 °C",
+      "pH_value": "-1",
+      "test_medium": "hydrogen"
+    }
+  ],
+  "10.1016_j.apsusc.2011.05.101": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "1 ppm",
+      "upper_detection_limit": "10000 ppm",
+      "probe_material": "graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1002_adfm.200901830": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "Polyisobutylmethacrylate",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-10",
+      "test_medium": "Water"
+    }
+  ],
+  "10.1002_adma.201303281": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Sodium Cation",
+      "lower_detection_limit": "1e-6 M",
+      "upper_detection_limit": "1e-1 M",
+      "probe_material": "polyvinyl chloride/2-nitrophenyl octyl ether/potassium tetrakis(4-chlorophenyl)borate/sodium ionophore X",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water/sodium chloride"
+    }
+  ],
+  "10.1002_adma.201404707": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "methanol",
+      "lower_detection_limit": "1 vol%",
+      "upper_detection_limit": "100 vol%",
+      "probe_material": "calix[8]arene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "toluene"
+    }
+  ],
+  "10.1002_adma.201405378": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "melamine",
+      "lower_detection_limit": "0.01 ppm",
+      "upper_detection_limit": "1000 ppm",
+      "probe_material": "pentathiophene (2R5T2R)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_admi.202100314": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "aluminum oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-10",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1002_admi.202200647": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "ammonium",
+      "lower_detection_limit": "2 µM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "tungsten trioxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "blood plasma"
+    }
+  ],
+  "10.1002_admt.202100481": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "pyrene/graphene/peptide EKEKEKE",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_admt.202101149": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hydrogen peroxide",
+      "lower_detection_limit": "9.8e-3 M",
+      "upper_detection_limit": "9.8 M",
+      "probe_material": "Poly(4-vinylphenol)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_advs.201901001": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-5 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "Azobenzene chromophore",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-5",
+      "test_medium": "Potassium chloride/water"
+    }
+  ],
+  "10.1002_aelm.201901073": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "poly[3-(3-carboxypropyl)thiophene-2,5-diyl]",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-10",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_aelm.202101353": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phosphate",
+      "lower_detection_limit": "178 pM",
+      "upper_detection_limit": "",
+      "probe_material": "cyanostar",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/water"
+    }
+  ],
+  "10.1002_celc.201700419": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "glucose",
+      "lower_detection_limit": "2.1 µM",
+      "upper_detection_limit": "2.0 mM",
+      "probe_material": "4-mercaptophenylboronic acid/gold",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1002_open.202400098": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "spermidine",
+      "lower_detection_limit": "2.3 μM",
+      "upper_detection_limit": "50 μM",
+      "probe_material": "2-carboxymethylthio-5-mercapto-1,3,4-thiadiazole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "8.5",
+      "test_medium": "N-Cyclohexyl-2-aminoethanesulfonic acid/sodium chloride/water"
+    }
+  ],
+  "10.1002_pssa.200983310": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-11 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "barium strontium titanate/Magnesium",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-11",
+      "test_medium": "tris tromethamine/hydrochloric acid/water"
+    }
+  ],
+  "10.1002_pssa.202000278": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "boron/graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water/Boric acid/Citric acid monohydrate/Trisodium phosphate dodecahydrate"
+    }
+  ],
+  "10.1002_smll.200900876": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-7 M",
+      "upper_detection_limit": "1e-1 M",
+      "probe_material": "3-aminopropyltriethoxysilane",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "1-7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_smll.202002875": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hg2+",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "carbon nanotube",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1007_s00216-022-04306-x": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "1,2-diphenylethylenediamine",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "",
+      "probe_material": "cellulose/trimethylolpropane tris((3-isocyanato-4-methylphenyl)carbamate)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1007_s00289-022-04105-5": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "chlorpyrifos",
+      "lower_detection_limit": "0.95 µM",
+      "upper_detection_limit": "7 µM",
+      "probe_material": "bovine serum albumin",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s00604-024-06487-x": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phenytoin",
+      "lower_detection_limit": "12.9 ng/mL",
+      "upper_detection_limit": "200 ng/mL",
+      "probe_material": "Poly(catechol-co-3,4-dihydroxybenzaldehyde)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1007_s10544-010-9497-z": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "5.01e-9 M",
+      "upper_detection_limit": "2.51e-3 M",
+      "probe_material": "aluminum oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2.6-8.3",
+      "test_medium": "Robinson buffer"
+    }
+  ],
+  "10.1007_s10825-019-01373-9": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "trinitrotoluene",
+      "lower_detection_limit": "0.1 µM",
+      "upper_detection_limit": "20 µM",
+      "probe_material": "3-aminopropyltriethoxysilane",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s10853-010-4603-4": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "fluorine-doped tin oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s10853-022-08005-x": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "Vanadium pentoxide/silicon/Nafion",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s10854-013-1301-4": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "carbon nanotube/indium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "phosphate buffer solution"
+    }
+  ],
+  "10.1007_s10904-020-01541-6": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "glucose",
+      "lower_detection_limit": "0.1 µM",
+      "upper_detection_limit": "0.25 µM",
+      "probe_material": "silver",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1007_s11664-021-09210-1": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "gallium nitride",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s11664-022-09468-z": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-13 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "silanol/silicon carbide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-13",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s11664-022-09526-6": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-6 M",
+      "probe_material": "Bismuth oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "6-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s11696-022-02554-w": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "na+",
+      "lower_detection_limit": "1e-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "zirconium dioxide/silicon",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s12274-014-0658-x": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Mercuric cation",
+      "lower_detection_limit": "30 pM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "molybdenum disulfide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "potassium perchlorate/water"
+    }
+  ],
+  "10.1007_s12274-023-6148-2": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-17 M",
+      "upper_detection_limit": "1e-14 M",
+      "probe_material": "strontium cobalt oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "14-17",
+      "test_medium": "sodium hydroxide/water"
+    }
+  ],
+  "10.1007_s13206-020-4410-1": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-9 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "Indium tin oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-9",
+      "test_medium": "water"
+    }
+  ],
+  "10.1007_s13738-013-0367-5": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12.2 M",
+      "upper_detection_limit": "1e-2.75 M",
+      "probe_material": "hydroquinone monosulfonate/polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2.75-12.2",
+      "test_medium": "boric acid/phosphoric acid/acetic acid/salicylic acid/water"
+    }
+  ],
+  "10.1007_s40843-021-1903-5": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "diethyl carbonate",
+      "lower_detection_limit": "1.4 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "biurea",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ],
+  "10.1016_j.aca.2017.07.066": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "calcium ion",
+      "lower_detection_limit": "1e-8 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "poly(vinyl chloride)/2-nitrophenyl octyl ether/calcium ionophore IV/potassium tetrakis(4-chlorophenyl)borate",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.aca.2020.12.040": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "cu2+",
+      "lower_detection_limit": "33 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "poly(4-vinylpyridine)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.aca.2022.340719": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "glucose",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "25 mM",
+      "probe_material": "Gold nanoparticles/reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Glycerol/Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.apsusc.2017.04.248": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-11 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "chitosan",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-11",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.apsusc.2020.145664": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "nitrate",
+      "lower_detection_limit": "1.20 ppm",
+      "upper_detection_limit": "20 ppm",
+      "probe_material": "nitrone/polyvinyl chloride",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffer saline"
+    }
+  ],
+  "10.1016_j.apsusc.2024.160061": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "lead",
+      "lower_detection_limit": "2 nM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "rhenium disulfide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.bbagen.2013.01.023": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-7.8 M",
+      "upper_detection_limit": "1e-3.4 M",
+      "probe_material": "poly(3-hexylthiophene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3.4–7.8",
+      "test_medium": "citric acid/sodium phosphate/potassium chloride/water"
+    }
+  ],
+  "10.1016_j.bios.2012.10.050": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "mercuric ion",
+      "lower_detection_limit": "0.40 µM",
+      "upper_detection_limit": "350 µM",
+      "probe_material": "thymine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.bios.2021.113683": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-9 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "aluminum oxide",
+      "test_operating_temperature (celcius)": "37 °C",
+      "pH_value": "4-9",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.cej.2023.144443": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "aniline",
+      "lower_detection_limit": "0.3 nM",
+      "upper_detection_limit": "",
+      "probe_material": "pyrene/graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "chloroform"
+    }
+  ],
+  "10.1016_j.ceramint.2018.04.047": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "cerium titanate",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.chemosphere.2021.131695": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "cr3+",
+      "lower_detection_limit": "10 μM",
+      "upper_detection_limit": "100 μM",
+      "probe_material": "Zinc oxide/Graphene oxide/Reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.chempr.2017.08.015": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Amphetamine",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "allyloxyCB[7]/phenylbutoxyCB[7]",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline/urine"
+    }
+  ],
+  "10.1016_j.diamond.2018.11.005": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "boric acid/citric acid/trisodium phosphate/water"
+    }
+  ],
+  "10.1016_j.ijhydene.2022.10.036": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "zinc oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "J.T. Baker buffer/Friendemann Schmidt Chemical buffer"
+    }
+  ],
+  "10.1002_adfm.201501587": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "acetylcholine",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "0.1 M",
+      "probe_material": "perallyloxycucurbit[6]uril",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "water"
+    }
+  ],
+  "10.1002_adma.201504657": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "100 nM",
+      "upper_detection_limit": "2 mM",
+      "probe_material": "Titanium carbide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/sodium chloride/magnesium chloride/potassium chloride/calcium chloride/water"
+    }
+  ],
+  "10.1002_adma.202101518": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "3.04 µM",
+      "upper_detection_limit": "500 µM",
+      "probe_material": "copper phthalocyanine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "6.5",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1002_celc.201902013": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "20 mM",
+      "probe_material": "4-mercaptophenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1002_smll.201403263": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "0.1 pM",
+      "upper_detection_limit": "1 nM",
+      "probe_material": "platinum/3-carboxylated polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1002_smll.202001469": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "cinnamaldehyde",
+      "lower_detection_limit": "1.0e-14 M",
+      "upper_detection_limit": "1.0e-9 M",
+      "probe_material": "nanovesicles/hTRPA1",
+      "test_operating_temperature (celcius)": "20 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline/water"
+    }
+  ],
+  "10.1002_smll.202308857": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "thrombin",
+      "lower_detection_limit": "0.2 nM",
+      "upper_detection_limit": "200 nM",
+      "probe_material": "fluorenylmethyl/5'-GGTTGGTGTGGTTGG-3'",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_bs.mie.2018.06.001": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "urea",
+      "lower_detection_limit": "1 μM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "urease",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "6",
+      "test_medium": "potassium chloride/4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/water"
+    }
+  ],
+  "10.1016_j.bios.2011.05.025": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "5 nM",
+      "upper_detection_limit": "3 µM",
+      "probe_material": "carbon nanotube/chitosan",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.bios.2016.03.046": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "methylene blue",
+      "lower_detection_limit": "4.7 nM",
+      "upper_detection_limit": "3 mM",
+      "probe_material": "hydroxyl/carbonyl-functionalized graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.bios.2018.07.014": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "40 nM",
+      "upper_detection_limit": "20 µM",
+      "probe_material": "4-vinylphenylboronic acid/N-[3-(dimethylamino)propyl]methacrylamide/ethylene glycol dimethacrylate",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.bios.2021.113903": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "gamma-aminobutyric acid",
+      "lower_detection_limit": "1 aM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "nanovesicles containing gamma-aminobutyric acid type A receptors",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.microc.2023.108755": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "3 µM",
+      "upper_detection_limit": "5 mM",
+      "probe_material": "silver/reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.orgel.2023.106844": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "biomolecule",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "antibody",
+      "test_operating_temperature (celcius)": "23 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.sna.2023.114695": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 mg/mL",
+      "upper_detection_limit": "4.5 mg/mL",
+      "probe_material": "gallium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "Dulbecco’s Modified Eagle Medium"
+    }
+  ],
+  "10.1016_j.snb.2009.01.061": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "creatinine",
+      "lower_detection_limit": "0.2 mg/mL",
+      "upper_detection_limit": "1.3 mg/mL",
+      "probe_material": "poly(ethylene-co-vinyl alcohol)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline/water"
+    }
+  ],
+  "10.1016_j.snb.2014.07.055": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ca2+",
+      "lower_detection_limit": "1 µM",
+      "upper_detection_limit": "0.1 M",
+      "probe_material": "calmodulin",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2",
+      "test_medium": "calcium chloride/water"
+    }
+  ],
+  "10.1016_j.snb.2018.02.139": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "glucose oxidase/nafion",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "13",
+      "test_medium": "phosphate-buffered saline/sodium hydroxide"
+    }
+  ],
+  "10.1016_j.snb.2018.08.087": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "tin dioxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-10",
+      "test_medium": "water"
+    }
+  ],
+  "10.1016_j.snb.2019.126837": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "8 mM",
+      "probe_material": "4-carboxyphenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.snb.2020.127850": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "0.523 fM",
+      "upper_detection_limit": "1 nM",
+      "probe_material": "3-aminopropyltriethoxysilane/1-ethyl-3-(3-dimethylaminopropyl)carbodiimide/N-hydroxysuccinimide/4-carboxylphenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.snb.2020.128540": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "0.29 nM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "aluminum/β-bismuth trioxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1016_j.snb.2024.135402": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydrogen sulfide",
+      "lower_detection_limit": "10 pM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "cobalt phthalocyanine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1016_j.talanta.2024.126178": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine",
+      "lower_detection_limit": "1e-7 µM",
+      "upper_detection_limit": "0.1 µM",
+      "probe_material": "4-formylphenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline/human serum"
+    }
+  ],
+  "10.1021_ac403770x": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydrogen peroxide",
+      "lower_detection_limit": "100 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "reduced graphene oxide/polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acs.analchem.6b03208": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "nitric oxide",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "iron(III) meso-tetra(4-carboxyphenyl)porphyrin",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acs.langmuir.9b00085": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "uric acid",
+      "lower_detection_limit": "5 µM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "4-nitrobenzene-aryl",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acsami.7b15093": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-16 M",
+      "upper_detection_limit": "",
+      "probe_material": "Platinum/reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate‐buffered saline"
+    }
+  ],
+  "10.1021_acsami.8b13317": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "3 μM",
+      "upper_detection_limit": "20 mM",
+      "probe_material": "poly[2-hydroxyethyl methacrylate-ran-N-(3-dimethylaminopropyl) methacrylamide-ran-4-vinylphenylboronic acid-ran-acrylic acid]",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "9",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acsami.8b18752": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "Nafion/ABTS radical",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1021_acsami.9b19309": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "Serotonin",
+      "lower_detection_limit": "0.6 μM",
+      "upper_detection_limit": "2 μM",
+      "probe_material": "nitrophenyl multilayer/phenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acsanm.2c03705": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glutathione",
+      "lower_detection_limit": "0.1 nM",
+      "upper_detection_limit": "500 µM",
+      "probe_material": "N-(1-pyrenyl)maleimide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1021_acsbiomaterials.3c00869": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "0.1 fM",
+      "upper_detection_limit": "10 pM",
+      "probe_material": "Serotonin/ Ethylene glycol dimethacrylate/methacrylic acid/acrylamide molecularly imprinted polymer",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate‑buffered saline"
+    }
+  ],
+  "10.1021_acsnano.3c07045": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "0.01 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "Drosophila odor-binding protein LUSH",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "5.6",
+      "test_medium": "water"
+    }
+  ],
+  "10.1021_acsnano.5b05211": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "adenosine triphosphate",
+      "lower_detection_limit": "10 nM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "hexokinase",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "sodium chloride/potassium chloride/magnesium chloride/glucose/water"
+    }
+  ],
+  "10.1021_acsnano.7b02986": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-13 M",
+      "upper_detection_limit": "1e-1 M",
+      "probe_material": "hafnium oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "1-13",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1021_acsnano.9b10090": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "Glucose",
+      "lower_detection_limit": "0.1 mM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "glucose oxidase",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.45",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1021_nn100780v": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "reduced graphene oxide/poly-l-lysine",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/sodium chloride/magnesium chloride/potassium chloride/calcium chloride/water"
+    }
+  ],
+  "10.1021_nn200262u": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "calcium cation",
+      "lower_detection_limit": "100 pM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "Fluo-4-AM",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1021_nn401998r": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-18 mol/L",
+      "upper_detection_limit": "1e5 mol/L",
+      "probe_material": "carbon nanotube",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ],
+  "10.1038_s41467-019-09573-4": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydroxyl radical",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "cysteamine/protoporphyrin IX",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate‐buffered saline"
+    }
+  ],
+  "10.1039_c7nr01661a": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "arsenic (iii)",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "10 nM",
+      "probe_material": "DNA 5'-GGTAATACGACTCACTATAGGGAGATACCAGCTTATTCAATTTTACAGAACAACCAACGTCGCTCCGGGTACTTCTTCATCGAGATAGTAAGTGCAATCT-3'",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate‐buffered saline"
+    }
+  ],
+  "10.1039_d0ra02793f": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "10 µM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "poly (2-Hydroxyethylmethacrylate/N-[3-(Dimethylamino)propyl]methacrylamide/Vinyl-Phenylboronic Acid/Acrylic Acid)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1039_d1qm01274f": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine",
+      "lower_detection_limit": "0.34 nM",
+      "upper_detection_limit": "50 μM",
+      "probe_material": "bismuth(iii) vanadate",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffer saline"
+    }
+  ],
+  "10.1063_1.4804438": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "300 nM",
+      "upper_detection_limit": "100 mM",
+      "probe_material": "pyrene-1-boronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ],
+  "10.1080_14686996.2016.1257344": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "5 µM",
+      "upper_detection_limit": "40 mM",
+      "probe_material": "2-hydroxyethylmethacrylate / N-3-(dimethylamino)propylmethacrylamide / 4-vinylphenylboronic acid / acrylic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "Phosphate-buffered saline"
+    }
+  ],
+  "10.1088_2043-6262_7_3_035007": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "atrazine",
+      "lower_detection_limit": "0.05 ppt",
+      "upper_detection_limit": "20 ppb",
+      "probe_material": "urease enzyme",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1109_BMEI.2010.5639245": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "urea",
+      "lower_detection_limit": "0.1 µM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "polypyrrole/urease",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "phosphate buffer saline"
+    }
+  ],
+  "10.1109_JEDS.2022.3197830": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ascorbic acid",
+      "lower_detection_limit": "0.0078 mM",
+      "upper_detection_limit": "2 mM",
+      "probe_material": "ascorbate oxidase",
+      "test_operating_temperature (celcius)": "37.5 °C",
+      "pH_value": "7",
+      "test_medium": "phosphate buffered saline"
+    }
+  ],
+  "10.1109_SENSORS47087.2021.9639461": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "cortisol",
+      "lower_detection_limit": "2.76 pM",
+      "upper_detection_limit": "27.6 µM",
+      "probe_material": "cortisol aptamer",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4",
+      "test_medium": "ascorbic acid/water"
+    }
+  ]
+}

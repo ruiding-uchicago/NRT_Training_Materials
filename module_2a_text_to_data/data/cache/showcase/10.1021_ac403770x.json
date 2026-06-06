@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_ac403770x",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H2O2",
+      "lower_detection_limit": "100 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "reduced graphene oxide (rGO)/polypyrrole nanotubes (PPy NTs)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

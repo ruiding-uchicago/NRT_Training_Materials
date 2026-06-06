@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11696-022-02554-w",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Na+",
+      "lower_detection_limit": "1e-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "ZrO2 nanoparticles",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "5.2",
+      "test_medium": "water/sodium chloride"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00216-022-04306-x",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "threonine",
+      "lower_detection_limit": "10-10 M",
+      "upper_detection_limit": "",
+      "probe_material": "cellulose-tris(4-methylphenylcarbamate) (CMPC)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

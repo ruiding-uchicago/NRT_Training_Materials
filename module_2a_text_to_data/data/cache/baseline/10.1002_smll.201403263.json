@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.201403263",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "100 fM (100 × 10⁻¹⁵ M)",
+      "upper_detection_limit": "1 nM (1 × 10⁻⁹ M) (linear range)",
+      "probe_material": "platinum nanoparticle decorated carboxylated polypyrrole nanoparticles (Pt_CPPy)",
+      "test_operating_temperature (celcius)": "25 °C (room temperature)",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline (PBS) solution"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admt.202100481",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "pH",
+      "lower_detection_limit": "pH 3",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "pyrene-modified peptides (pyK, pyE, pyEK)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "3-12",
+      "test_medium": "aqueous buffer solutions"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "stem": "10.1002_aelm.201901073",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "indium tin oxide (ITO)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "3-10",
+      "test_medium": "water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "poly(3-hexylthiophene-2,5-diyl) (P3HT)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "3-10",
+      "test_medium": "water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "poly[3-(3-carboxypropyl)thiophene-2,5-diyl] (PT-COOH)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "3-10",
+      "test_medium": "water"
+    }
+  ]
+}

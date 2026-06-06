@@ -1,0 +1,15 @@
+{
+  "stem": "10.1109_JEDS.2022.3197830",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ascorbic acid (AA)",
+      "lower_detection_limit": "0.0078 mM",
+      "upper_detection_limit": "2 mM",
+      "probe_material": "RuO2 with ascorbate oxidase (AO)",
+      "test_operating_temperature (celcius)": "25-55 °C",
+      "pH_value": 7,
+      "test_medium": "PBS solution"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+Nanoporous MoS2 Field-Effect Transistor Based Artificial Olfaction: Achieving Enhanced Volatile Organic Compound Detection Inspired by the Drosophila Olfactory SystemClick to copy article link
+Junoh ShimAnamika SenKeehyun ParkHeekyeong ParkArindam BalaHyungjun ChoiMincheol ParkJae Young Kwon*Sunkook Kim*
+Open PDF
+Supporting Information (1)
+OpenURL UNIV OF CHICAGO
+Abstract
+
+Olfaction, a primal and effective sense, profoundly impacts our emotions and instincts. This sensory system plays a crucial role in detecting volatile organic compounds (VOCs) and realizing the chemical environment. Animals possess superior olfactory systems compared to humans. Thus, taking inspiration from nature, artificial olfaction aims to achieve a similar level of excellence in VOC detection. In this study, we present the development of an artificial olfaction sensor utilizing a nanostructured bio-field-effect transistor (bio-FET) based on transition metal dichalcogenides and the Drosophila odor-binding protein LUSH. To create an effective sensing platform, we prepared a hexagonal nanoporous structure of molybdenum disulfide (MoS2) using block copolymer lithography and selective etching techniques. This structure provides plenty of active sites for the integration of the LUSH protein, enabling enhanced binding with ethanol (EtOH) for detection purposes. The coupling of the biomolecule with EtOH influences the bio-FETs potential, which generates indicative electrical signals. By mimicking the sniffing techniques observed in Drosophila, these bio-FETs exhibit an impressive limit of detection of 10–6% for EtOH, with high selectivity, sensitivity, and detection ability even in realistic environments. This bioelectric sensor demonstrates substantial potential in the field of artificial olfaction, offering advancements in VOC detection.
+
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+
+Copyright © 2023 American Chemical Society
+Subjects
+what are subjects
+Ethanol
+Nanopores
+Porosity
+Sensors
+Volatile organic compounds
+Keywords
+what are keywords
+artificial olfaction
+OBP
+field-effect transistor-based biosensor
+block copolymer lithography
+hexagonal nanoporous MoS2
+Introduction
+Olfaction is one of the most primitive senses, which allows us to collect vital information regarding the chemical world that surrounds us and stimulates our nervous system. (1) Detection and differentiation between volatile organic compounds (VOCs) are fundamental aspects of the biological realm. Many animals possess much more sophisticated odor-detecting systems than humans. (2−4) Over the years, research has been conducted to mimic natural olfactory systems and utilize their selectivity and sensitivity. The olfactory system is composed of olfactory receptors (ORs) and odorant-binding proteins (OBPs). The OBPs are soluble proteins in the nasal mucosa of mammalian animals and the sensillum lymph of insects. They bind to odorants and transfer the signal to the ORs to activate olfactory receptor neurons (ORNs), which then transmit the signal to the central nervous system. (5) Naturally available OBPs have demonstrated resilience to harsh environments without compromising their binding characteristics. (6−8) By combining these OBPs with bioelectrical and biophotonic sensors, excellent detectability of VOCs and odorant molecules can be achieved. (9−11) The detection of VOCs plays a crucial role in various areas, such as early diagnoses of disease in the medical field, ensuring food safety, application in the agricultural field, advanced automobile technologies, and the development of robust security systems. (12−17)
+Artificial olfaction, or the electronic nose (e-nose), offers a rapid, simple, portable, and cost-effective technology for detecting VOCs compared to complex chemical-detection technologies such as gas chromatography–mass spectroscopy (GC-MS) or selected ion flow tube–mass spectrometry (SIFT-MS). (18) Inspired by the olfactory system, e-noses are designed to identify and discriminate VOCs in gas mixtures by recognizing characteristic odors without the need for individual chemical species identification. They consist of electronic chemical sensor arrays and suitable pattern recognition algorithms for odor classification. (19) By incorporating micro- and nanoelectronic devices with OBPs, sensory technologies can achieve rapid and sensitive detection of VOCs. Resonators based on surface acoustic waves and bulk acoustic waves, integrated with OBPs, have been investigated for odorant detection in e-noses. (20−22) Additionally, e-nose sensors designed with human olfactory receptors with graphene and carbon nanotube (CNT) field-effect transistors (FETs) can emulate the natural olfactory mechanisms. (23−25) Other approaches, such as combining Drosophila OBPs with CNTs or silicon nanowires, have been explored. (26,27) However, the practical utilization of these materials faces challenges in terms of sensitivity, circuit integration, and mass production in large areas. Transition metal dichalcogenides (TMDs) possess several advantageous features over these materials, including large-area production and tunable electrical properties with high sensitivity and specific detection ability. (28−32)
+Here, we have introduced an approach to make an electronic sensor for artificial olfaction by mimicking the Drosophila olfactory system and utilizing the FET platform. To improve electrical sensory functionality, we have demonstrated the use of a TMD-based FET used as an olfactory receptor with an OBP to bind with the VOCs. The Drosophila OBP LUSH, which exhibits a distinctive binding affinity toward VOCs, was synthesized in vitro. (33,34) A hexagonal nanoporous structure of molybdenum disulfide (MoS2) was developed as the active material of the FETs. This structure enables an enhanced surface-to-volume ratio with abundant edges in the bio-FET configuration, offering large active sites to graft with the LUSH protein and binding EtOH. LUSH specifically binds with the EtOH solution and modifies the electric signal of the hexagonal nanoporous MoS2 FETs. By use of the nanoporous MoS2 sensor, EtOH was selectively detected with a limit of detection of 10–6%. The specific absorption of EtOH on the OBP-conjugated nanoporous MoS2 surface was verified by observing the variation of surface potential. The bio-FETs exhibited consistent sensitivity for EtOH even in glucose environments. Furthermore, we confirmed excellent stability and selectivity of the bio-FETs for EtOH detection, which demonstrated the potential for mimicking the Drosophila olfactory system on the FET platform for high-performance VOC-sensing applications.
+Results and Discussion
+Electrical VOC Sensor Based on Nanoporous MoS2 FET Mimicking Drosophila Olfactory System
+The fruit fly (Drosophila) has less complex olfactory circuits than those in vertebrates and recognizes VOCs in fruits with high sensitivity and selectivity. Incorporation of their OBPs-LUSH with hexagonal nanoporous MoS2 based FETs to realize VOC detection is illustrated in Figure 1. The schematic representation of Drosophila with olfactory organs consisting of antenna and the maxillary palp is presented in Figure 1a (left and left inset). These olfactory organs have porous sensory hairs called sensilla that enclose the dendrites of olfactory receptor neurons. Under the bottom of each sensillum, there are two or four ORNs and supporting cells. (35,36) As EtOH enters the pore through the aqueous sensillum lymph, LUSH attaches to it and transfers it to the ORs, the odor-gated ion channels. (37,38) Once an ORN has been activated, axons then carry the signal to the central nervous system, as shown in Figure 1a (middle). The functionality of the sensilla is mimicked by the combination of LUSH and hexagonal nanoporous MoS2 FETs (Figure 1a, right).
+Figure 1
+
+Figure 1. Hexagonal nanoporous MoS2 FET-based EtOH sensor mimicking the Drosophila olfactory system. (a) Schematic of Drosophila (left), close-up view of the head with antennae and maxillary palp (left inset), schematic of antenna containing olfactory organs (middle), hexagonal nanoporous MoS2 bio-FET for detection of VOCs using LUSH (right). (b) 3D representation of hexagonal nanoporous MoS2 with selective edge functionalization. (c) STEM micrograph of hexagonal nanoporous array (scale bar 20 nm); EDX elemental mapping of (d) Mo L and (e) S K peaks in hexagonal nanoporous MoS2 (scale bar 20 nm). (f) Cross-sectional STEM micrograph of throughout perforation of hexagonal nanoporous MoS2 (scale bar 20 nm). (g) Schematic images of energy barrier height corresponding to bare hexagonal nanopore (left), immobilized LUSH (middle), and EtOH coupled with LUSH (right) at the edges of the hexagonal nanopore.
+
+MoS2 is an extensively studied TMD and lacks dangling bonds in the basal plane, which makes it incompatible for some sensory applications. (39−41) In this study, this limitation is addressed by creating abundant active edges with nanopore structure using a simple and cost-effective block copolymer (BCP) lithography and selective etching process. These deliberately generated edge areas of the hexagonal nanopores on the MoS2 channel enable abundant functionalization sites and immobilization of LUSH, leading to enhanced sensitivity. Artificially synthesized OBP-LUSH used for detection of EtOH is immobilized at the hexagonal nanoporous MoS2 edges using (3-aminopropyl)triethoxysilane (APTES)-glutaraldehyde chemical functionalization. The schematic illustration in Figure 1b depicts the functionalization of the LUSH protein and coupling with EtOH at the MoS2 nanopores. The edges of the nanopores undergo oxidation via the O2 plasma treatment to generate hydroxyl groups for APTES functionalization. The structure of the nanoporous MoS2 was examined by using annular dark field (ADF)-scanning transmission electron microscopy (STEM), as shown in Figure 1c–f. A well-defined hexagonal shape of the nanopores is distinctly observed, exhibiting a precise arrangement in a hexagonal array (Figure 1c). In Figure 1d,e, STEM–energy dispersive X-ray spectroscopy (EDX) elemental mapping verifies a fully perforated nanoporous structure on the MoS2 by presenting detected Mo L and S K peaks on the structure. Cross-sectional STEM micrograph in Figure 1f shows a vertical orientation of the hexagonal nanopore structure across the multilayer MoS2, where anisotropic etching along the depth of the multilayer MoS2 is confirmed. Figure 1g shows a schematic illustration of the energy barrier height that corresponds to bare hexagonal nanopore (left), LUSH immobilized (middle), and EtOH coupled with LUSH (right) at the edges of a hexagonal nanopore. (42) The nanopores inside MoS2 exhibit energy barriers due to the conductivity difference between the MoS2 edges and basal plane (Figure 1g, left). The immobilization of LUSH to the nanopore edges positively affects the potential and reduces the energy barrier, facilitating electron movement (Figure 1g, middle). However, when EtOH combines with LUSH, it leads to an increase in the energy barrier height and restricts electron movement due to its negative potential influence (Figure 1g, right).
+Fabrication of Hexagonal Nanoporous MoS2 Structure for Reliability of Biosensor
+The continuous, periodic hexagonal nanoporous structure in exfoliated MoS2 nanosheets is achieved using a simple cost-effective BCP lithography technique. A BCP is composed of two covalently linked polymers such as polystyrene (PS) and poly(methyl methacrylate) (PMMA), which undergoes self-assemblage with the provided thermal energy. This self-assemblage of BCP forms a patterning mask underneath MoS2. Further, this BCP mask allows etching MoS2 selectively using boron trichloride (BCl3) plasma. After the nanopores were precisely immersed in diluted potassium ferricyanide, the shape of the nanopores was transformed from circular to hexagonal. The anisotropic wet etching only affects the exposed area beneath the nanomask, thus preventing the formation of additional defects on the covered surface of the multilayered MoS2 during wet etching. (43−45) Finally, the removal of the BCP mask leaves behind hexagonal nanopores in MoS2. The fabrication process of hexagonal nanopores is depicted schematically in Figure 2a, and the conversion of circular to hexagonal nanopores by precise control of dipping time is shown using scanning electron microscopy (SEM) micrographs in Figure S1.
+Figure 2
+
+Figure 2. Fabrication and characterization of hexagonal nanoporous MoS2. (a) Sequential schematic illustration of hexagonal nanopore fabrication in a MoS2 nanosheet; ADF-STEM micrographs. (b) Low-magnification image of a continuous hexagonal nanoporous array; statistical distribution of hexagonal nanoporous radius in MoS2 (inset); (c) high-magnification image; (d) one hexagonal nanoporous structure. (e, f) Images recorded from the I and II region in (d). (g) SAED pattern and close-up of one diffraction spot (inset). (h) Raman spectra for both pristine and hexagonal nanoporous MoS2. Deconvolution of core-level (i) Mo 3d and (j) S 2p signatures.
+
+The hexagonal nanopores and their uniform, equidistance, systematic arrangements throughout the multilayered MoS2 nanosheets are visualized by a low-magnification STEM micrograph, presented in Figure 2b. The average hexagonal nanopore radius of approximately 600 nanopores is estimated to be 19.64 nm with a standard deviation of 2.62 nm (Figure 2b inset). Figure 2c depicts hexagonal packed ordering of hexagonal nanopores in MoS2 induced by the BCP mask. An intensity profile along the green dotted line in a highly magnified STEM micrograph shows intensity variation in the porous and nonporous regions, as shown in Figure S2a,b. Figure 2d shows a high-resolution STEM micrograph focusing on one nanopore, presenting the formation of a hexagonal structure with sharp and well-defined edges. Moreover, ADF-STEM micrographs focused on marked areas in Figure 2c shown in Figures 2e,f. The hexagonal lattice structure with alternating Mo and S atoms depicts the 2H-phase of MoS2. (46) The edges and apexes of the hexagonal nanopore with a zigzag configuration of Mo and S atoms and some localized disordered regions of atomic columns are also observed. Selected area diffraction pattern (SAED) shows diffraction spots with hexagonal symmetry in Figure 2g, reflecting AA′ stacking in MoS2, and the single-crystal nature is maintained even after the nanopores’ perforation. (47) This hexagonal porous structure is most energetically favorable and stable in AA′ stacked multilayered MoS2, which also enables more active unsaturated edges than circular configuration. (48) Interatomic spacing d for (100) and (110) planes is calculated to be ∼0.27 and ∼0.16 nm, respectively. The presence of structural imperfections such as vacancies, interstitials, dislocations, and grain boundaries can modify the SAED pattern. (49,50) Thus, the star-shaped diffraction spots in the SAED pattern (Figure 2g inset) observed might be due to the periodic hexagonally packed hexagonal nanopore array. A comparative analysis of Raman spectroscopy between pristine and hexagonal nanoporous MoS2 is shown in Figure 2h. Two signature modes of Raman spectra, in-plane E12g and out-of-plane A1g, are observed at 377.36 and 401.82 cm–1, respectively, in pristine MoS2, whereas no significant peak shift in E12g and a blue shift of 1.22 cm–1 in A1g are observed in hexagonal nanoporous MoS2. The blue shift of the A1g peak is due to the unsaturated bonds at the edges of hexagons in hexagonal nanoporous MoS2. (51,52) The spacing between these two Raman modes (Δ) estimated to be ∼24.50 cm–1 exhibits the multilayer nature of the MoS2 nanosheets. The relative intensity (E12g/A1g) of Raman peaks comparatively decreased in hexagonal nanopores (0.53) than pristine (0.69), demonstrating the formation of edge exposure. (47,51) The intensity ratio of the E12g to A1g peaks in nine other hexagonal nanoporous nanosheets was calculated and observed to be decreased (Figure 2h inset).
+The elemental and chemical compositions of hexagonal nanoporous and pristine MoS2 are further analyzed using X-ray photoelectron microscopy (XPS) spectra. The charge correction was performed by deconvoluting C 1s spectra related to adventitious carbon, which is usually generated in samples due to the exposure to air (Figure S3, Table S1). (53) High-resolution core level XPS spectra consist of spin–orbit splitting of Mo 3d along with S 2s for both pristine and hexagonal nanoporous MoS2 presented in Figure 2i. The doublet of the Mo 3d signature positioned at 229.28 ± 0.07 eV (Mo4+ 3d5/2) and 232.43 ± 0.07 eV (Mo4+ 3d3/2) corresponds to stoichiometric MoS2, observed in both pristine and hexagonal nanoporous MoS2. Relatively smaller synthetic peaks positioned at 228.69 ± 0.17 eV (Mo4+ 3d5/2) and 231.84 ± 0.17 eV (Mo4+ 3d3/2) attributed to the nonstoichiometric MoS2 (i.e., MoxSy) are present in both cases. (31,54) However, the atomic percentage and the peak intensity of nonstoichiometric MoS2 significantly increased in the hexagonal nanoporous structure owing to the exposed edges and unsaturated bonds of hexagonal nanopores. The relative atomic fraction of nonstoichiometric MoS2 is observed to be 4.38% in pristine MoS2, which is enhanced up to 44.07% in hexagonal nanoporous MoS2. The tabulation of respective peaks with peak fit parameters is presented in Supplementary Table 2. The high binding energy suggests the existence of MoOx (Mo–O bonds), centered at 232.66 ± 0.2 eV (Mo6+ 3d5/2) and 235.76 ± 0.2 eV (Mo6+ 3d3/2). In the case of MoOx the relative atomic fraction hardly changes from 6.53% to 4.49% for pristine and hexagonal nanoporous MoS2, suggesting that exposed edges are not oxidized. The spin–orbit split of S 2p core level spectra positioned at 162.12 ± 0.08 eV (S2– 2p3/2) and 163.20 ± 0.08 eV (S2– 2p1/2) is attributed to the stoichiometric feature of MoS2 (Figure 2j). Nonstoichiometric features are also observed in the S 2p signature in the case of hexagonal nanoporous MoS2 centered 161.72 (S2– 2p3/2) eV and 162.88 eV (S2– 2p1/2). The atomic fraction of MoxSy in S 2p is approximately 52.51%, revealing an increase in nonstoichiometry in hexagonal nanoporous MoS2 due to the mass loss and exposed edges at the hexagonal nanopores. (55,56) The atomic ratio calculated from high-resolution spectra of S2– 2p over Mo4+ 3d is found to be 1.93, indicating S deficiency in the hexagonal nanoporous structure.
+Edge Functionalization for High Sensitivity of Hexagonal Nanoporous MoS2 Biosensor
+Nanoporous MoS2 with abundant edges at the hexagonal nanopores was then functionalized by using APTES and glutaraldehyde solutions to immobilize the LUSH on the surfaces and edges of hexagonal nanopores, schematically presented in Figure 3a. Prior to APTES treatment, hexagonal nanoporous MoS2 was treated with O2 plasma to generate hydroxyl groups. These hydroxyl groups were silanized using APTES solution. To validate the surface modification by APTES solution, an experiment was conducted by tethering 5-nm-gold nanoparticles (AuNPs) on a hexagonal nanoporous MoS2 surface (Figure S4) since the amine group of APTES has high affinity with gold. The AuNPs preferentially tethered at the edges of nanopores than the exposed basal plane in between nanopores. This demonstrates the effective edge selective functionalization by APTES modifications. Further glutaraldehyde treatment converted the silane layer into a reactive aldehyde group, which effectively immobilizes the LUSH proteins on the surface and edges of nanoporous MoS2. Furthermore, the effectiveness of these surface modifications was verified by using FTIR spectroscopy, as illustrated in Figure S5. Hexagonal nanoporous MoS2 exhibited no significant absorption bands, indicative of the absence of functional groups. APTES-treated hexagonal nanoporous MoS2 surfaces display absorption bands at 2970 and 2880 cm–1, corresponding to the asymmetric and symmetric stretching of the C−H bonds. Additionally, the N−H stretching vibration appears at 3332 cm–1, while in-plane Si−O stretching is observed at 1047 cm–1. (57) After treatment with the target biomolecule (LUSH), a narrower peak emerges at 3339 cm–1, which is attributed to N−H stretching. The C═O stretch for amides observed at 1636 cm–1 and the absorption band around 690 cm–1 are referred to NH2 out-of-plane bending. An intense band at 3378 cm–1 is associated with −OH stretching observed after treatment with a 10−1% EtOH solution. A less intense C−O stretch is observed at 1043 cm–1, reflecting the lower concentration of EtOH. Additionally, a peak at 688 cm–1 indicates the −OH bending. (58) An intense band at 3378 cm–1 was associated with −OH stretching observed after treatment with a 10–1% EtOH solution. A less intense C–O stretch was observed at 1043 cm–1, reflecting the lower concentration of EtOH. (59) Additionally, a peak at 688 cm–1 indicated the −OH bending. These results confirm the effective surface functionalization of the nanoporous MoS2 FETs.
+Figure 3
+
+Figure 3. Edge functionalization and KPFM analysis of nanoporous MoS2. (a) Schematic illustration of edge functionalization on nanoporous MoS2. (b) Structure of the LUSH–alcohol binding site. KPFM micrograph of LUSH combined with pristine MoS2 (c) before and (d) after treating with 1% EtOH and (e) average of surface potential. KPFM micrographs of (f) hexagonal nanoporous MoS2, LUSH combined with hexagonal nanoporous MoS2 (g) before and (h) after treating with 1% EtOH, and (i) average of surface potential.
+
+LUSH is known as a nonenzymatic protein with a defined in vivo alcohol-binding function, shown in Figure 3b. LUSH possesses a well-defined structure with a series of molecular interactions that provide specific alcohol-binding sites. Thr57, Ser52, and Thr48 belong to the group of amino acids that form a hydrogen bond network between proteins and alcohols. (33) The binding of LUSH along with EtOH affects the surface potentials of the active materials, which is elucidated by Kelvin probe force microscopy (KPFM). (60) The spatial map of surface potentials using KPFM was recorded for both pristine and hexagonal nanoporous MoS2 with +2 V bias at the tip and 0 V at the samples. Figure 3c,d show KPFM micrographs of LUSH and 1% EtOH combined with LUSH on the surface of pristine MoS2, respectively. The surface potential recorded on the LUSH immobilized surface is −0.0311 ± 0.026 V, which is observed to be decreased to −0.067 ± 0.026 V when LUSH combines with EtOH (Figure 3e). Figure 3f–h depict the KPFM micrographs of bare, LUSH treated, and LUSH combined with 1% EtOH surface of hexagonal nanoporous MoS2, respectively. The surface potential is observed to be increased in the LUSH immobilized surface compared to the bare one from 0.437 ± 0.015 V to 0.785 ± 0.014 V. However, the surface potential decreases by 0.601 ± 0.014 V as EtOH combines with the LUSH. Therefore, the immobilization of the LUSH protein positively affects the surface potential, whereas the EtOH combination shifts the potential negatively, shown in Figure 3i. Moreover, the specific binding of EtOH with LUSH is confirmed by recording the surface potential in the absence of LUSH protein, as shown in Figure S6. The average surface potential of hexagonal nanoporous MoS2 before and after EtOH treatment barely changes from 0.158 V to 0.155 V. The binding of EtOH with LUSH protein influences the surface potential negatively in both the cases of pristine and hexagonal nanoporous MoS2. However, the potential change is more pronounced in hexagonal nanoporous MoS2 owing to its abundant edges. These edges act as active sites for implanting LUSH proteins, which further interact with EtOH.
+Sensing Performance and Mechanism of the Hexagonal Nanoporous MoS2 Biosensor
+Moreover, the hexagonal nanoporous MoS2 is assessed with a FET configuration. Electrical performance parameters such as mobility and ratio between on and off current of 20 hexagonal nanoporous MoS2 FETs are tabulated in Supplementary Table 3 with respective length and width of each nanosheets. Hexagonal nanoporous MoS2 FETs are then employed to detect EtOH, a volatile colorless organic compound with its characteristic odor utilizing LUSH protein. The functionalized bio-FETs were grafted with LUSH protein, and EtOH was treated with varying concentration from 10–6% to 1%. After each treatment bio-FETs were left for 15 min in ambient atmosphere. Following washing with deionized (DI) water, transfer curves were measured (detail in the Experimental Methods section). Figure 4a shows transfer characteristics of hexagonal nanoporous MoS2 bio-FETs with a gradual increase in EtOH concentration from 10–6% to 1%. The transfer curves with increasing EtOH concentrations shift toward higher positive gate voltage (Vgs) with a gradual decrease in off state and on state current (Figure 4a, inset). The same experiment was conducted to compare the EtOH sensing property of pristine MoS2 bio-FETs (Figure S7). The shift in threshold voltage (ΔVth) as a function of EtOH concentration for both pristine and hexagonal nanoporous MoS2 is shown in Figure 4b. The hexagonal nanoporous MoS2 bio-FETs exhibit a linear increase, whereas pristine MoS2 bio-FET shows almost no change in ΔVth with increasing EtOH concentration. The variation of sensitivity with EtOH concentration is compared for pristine and hexagonal nanoporous MoS2 bio-FETs, as shown in Figure 4c. The sensitivity was evaluated using the formula (|Ibare – IEtOH|)/Ibare × 100, where Ibare represents the base current and IEtOH represents the current measured in the presence of EtOH. To compare reliability in sensing mechanism 3, bio-FETs of pristine and hexagonal nanoporous MoS2 are considered. The sensitivity of hexagonal nanoporous MoS2 demonstrates a parabolic increase with rising EtOH concentration, while the sensitivity of pristine MoS2 bio-FETs reaches saturation at higher concentrations.
+Figure 4
+
+Figure 4. Sensing performance and mechanism of detecting EtOH by hexagonal nanoporous MoS2 bio-FETs. (a) Transfer characteristics of hexagonal nanoporous MoS2 bio-FETs with increasing EtOH concentration. Comparison of (b) Vth shift and (c) sensitivity with increasing EtOH concentrations in pristine and hexagonal nanoporous MoS2 bio-FETs. Schematic images of energy band diagram between source and hexagonal nanoporous MoS2 (d) after combined with LUSH and (e) treating with EtOH. (f) Mobility and on/off ratio of the nanoporous MoS2 bio-FETs according to EtOH concentrations.
+
+LUSH possesses a positive potential due to its isoelectric point (pI ∼8.6) under the measurement condition (pH ∼5.6). Binding of LUSH on hexagonal nanoporous edges influences the FETs with positive potential and shifts the transfer curve toward the left with an increase in the on state current (Figure S8). The positive potential accumulates more electrons, contributing to conductivity of the semiconductor, and lowers the Schottky barrier height. Hence, more electrons can tunnel through the Schottky barrier, which results in a Vth shift and an increase in the on state current, shown in Figure 4d. In contrast, the coupling of EtOH with LUSH influences bio-FETs with negative potential and results in the accumulation of negative charge at the hexagonal nanoporous edges. These negative charges attract the minority charge carriers, which reduce the off state current and act as scattering sites for the electrons. This phenomenon elevated the energy barrier at the edges for electrons and hindered the electron movement through the channel, consequently increasing the Schottky barrier height and restricting the tunneling of electrons, schematically presented in Figure 4e. Therefore, a rightward shift in transfer curves with decreasing on and off state current is observed with the continuous increase in EtOH concentration (Figure 4a). For a specific concentration, the shift in transfer curves is notably greater in hexagonal nanoporous MoS2 compared to that in the pristine bio-FETs. This significant difference can be attributed to the selective immobilization of biomolecules at the edges of the nanoporous structure. The electrical properties of both hexagonal nanoporous MoS2 and pristine MoS2 bio-FETs are in good agreement with the results of KPFM analysis. The stability of the bio-FETs is evaluated in terms of mobility and on/off ratio, as shown in Figure 4f. Initial data represent the mobility and Ion/Ioff of bio-FETs after LUSH immobilization, and the minimal change in stability factors are observed with varying EtOH concentration from 10–6 to 1%. The bio-FETs exhibited stability throughout the measurements.
+Stability and Selectivity of the Hexagonal Nanoporous MoS2 Biosensor
+Moreover, the reliability of the hexagonal nanoporous MoS2 bio-FETs is confirmed by its specific detection capability, selectivity, and minute detection of EtOH in complex environments. The specific binding of EtOH with LUSH is examined by performing electrical measurements. The first set of measurements were done by gradually increasing EtOH concentration in the absence of LUSH, in the second case LUSH was injected without EtOH, and in the third situation EtOH was coupled with LUSH protein (Figure S9). Figure 5a shows the Vth shift in each respective case, and a pronounced Vth shift is observed in the case of EtOH coupled with LUSH. No significant Vth shift is observed when EtOH is treated in the absence of LUSH and only injection of LUSH is performed. This indicates the specific binding of EtOH with LUSH in the hexagonal nanoporous MoS2 bio-FETs.
+Figure 5
+
+Figure 5. Specific detection and selectivity of hexagonal nanoporous MoS2 bio-FETs. (a) Comparison of Vth shift of hexagonal nanoporous MoS2 bio-FETs with LUSH–EtOH, without LUSH, and without EtOH. (b) Selectivity of the hexagonal nanoporous MoS2 bio-FETs for EtOH detection with several VOCs. (c) Sensitivity of the nanoporous MoS2 bio-FETs toward EtOH in glucose solution.
+
+To confirm the selective detection of EtOH by nanoporous MoS2 bio-FETs, selectivity experiments were conducted using various VOCs such as alcohols, ketone, and acid, as shown in Figure 5b. The sensitivity of EtOH is higher than acetic acid, acetone, and alcohols such as propanol (PrOH), butanol (BuOH), and methanol (MeOH) at a concentration of 10–6%. EtOH is a byproduct of fermentation and can be naturally present in ripe or decaying fruits. Naturally most fruits contain glucose; fruit flies detect EtOH even when it is dissolved in glucose. Therefore, the detection ability of hexagonal nanoporous MoS2 bio-FETs is assessed by dissolving EtOH in 100 mM glucose, and transfer characteristics are presented in Figure S10. The variation of sensitivity with increasing concentration of EtOH dissolved in glucose is shown in Figure 5c, which is equivalent to the sensitivity when EtOH was dissolved in DI water while maintaining the same LOD.
+A reusability test was also conducted using a 10–6% EtOH solution to ensure that nanoporous MoS2 bio-FETs are recyclable. Between two consecutive measurements we allowed the FETs to rest at room temperature for 15 min to facilitate EtOH evaporation before recording another I–V curve. The reversion of the transfer curve to its initial state is observed, indicating that over time the FETs were gradually becoming free from EtOH binding with LUSH (Figure S11a). To further investigate, the process was repeated by drop-casting the 10–6% concentrated EtOH solution twice more. Remarkably, hexagonal nanoporous MoS2 bio-FETs exhibited impressive stability and remained in good condition even after undergoing the EtOH application process three times. These measurement techniques were applied to three separate FETs, and the average sensitivity was calculated, as depicted in Figure S11b. This demonstrates that hexagonal nanoporous MoS2 bio-FETs can be effectively utilized for a minimum of three cycles. A comparative analysis of biosensing performance of hexagonal nanoporous MoS2 bio-FETs against the various types of EtOH biosensors is conducted, as presented in Table S4.
+Conclusion
+We present a highly selective and sensitive OBP-based biosensor enabled by hexagonal nanoporous MoS2. A periodic continuous arrangement of hexagonal nanopores is achieved using a BCP nanotemplate and a selective etching mechanism. The hexagonal nanoporous structure provides abundant edge sites surrounding the nanopores in MoS2 that degrade the electrical properties of FETs. However, it improves the biosensing mechanism owing to its selective functionalization at the edges and robust grafting of OBP for improved EtOH detection. An ultrasensitive limit of detection (LOD) of 10–6% of EtOH is reported by hexagonal nanoporous MoS2 bio-FETs. Moreover, the OBP immobilized hexagonal nanoporous MoS2 bio-FETs display higher selectivity toward EtOH over acid, ketone, and other alcohols including MeOH, PrOH, and BuOH. The applicability of this biosensor in the practical field is demonstrated by its sensitive detection ability of EtOH in glucose medium. Owing to the exceptional detection ability of hexagonal nanoporous MoS2 bio-FETs, FET-based sensors hold great potential for the future development of nature-mimicking sensors.
+Experimental Methods
+Protein Production and Purification
+The preparation method for LUSH protein has been described previously. (61) AbFrontier, Korea, conducted all processes. In brief, Drosophila LUSH cDNA was cloned into the pET-17b vector and overexpressed in Escherichia coli BL21(DE3) in Lysogeny broth (LB) with an induction cell at an optical density of 0.4–0.6 with 0.4 mM isopropyl β-d-1-thiogalactopyranoside (IPTG). Then, it was harvested by centrifugation. The protein has a 6xHis-thrombin cleavage site in its N-terminal site for purification, and the His-tag is known not to affect the binding affinity of the protein. (62) The Ni-NTA affinity column was used for purification. The purity of the ∼14 kDa LUSH in each fraction was estimated on a 15% SDS-PAGE gel. The final concentration of 1 mg/mL LUSH in a storage buffer [8 M urea, 50 mM NaH2PO4, 300 mM NaCl, 500 mM imidazole (pH 8), and 10% glycerol] was collected from the cleanest fraction and stored at −80 °C.
+Fabrication of Hexagonal Nanoporous MoS2
+Multilayer MoS2 nanosheets were mechanically exfoliated from bulk (Graphene Supermarket, MoS2 crystal) using Scotch tape on the Si/SiO2 substrate. Subsequently, the Si/SiO2/MoS2 stack was kept in acetone overnight to clean the residues that arise during exfoliation. The substrate was then cleaned with isopropyl alcohol and DI water, and a 15-nm-thick SiO2 layer was deposited onto the surface of MoS2 using an electron-beam (e-beam) evaporator. In order to make the surface hydrophilic, the substrate was dipped into a 10% acetic acid solution for 30 min and washed with DI water. This was followed by spin-coating with a 1 wt % toluene solution of poly(styrene-r-methyl methacrylate) (PS-r-PMMA) (Mn = 8,500 Mw/Mn = 1.45, styrene content 66%, α-hydroxyl-ω-TEMPO moiety terminated) random copolymer (RCP) at 3000 rpm and baked under vacuum conditions at 250 °C for 2 h and washed with toluene. Afterward a 1 wt % toluene solution of poly(styrene-b-methyl methacrylate) (PS-b-PMMA) (PS:PMMA = 55,000:22,000, Mw/Mn = 1.09) (BCP) was spin-coated at 3000 rpm and annealed at 230 °C for 2 h in a vacuum chamber. After self-assembling, the PMMA template in BCP was dissolved by 254 nm UV irradiation for 30 min as well as dipping in acetic acid. Oxygen plasma reactive ion etching (RIE) (10 sccm, 50 W, 4 s) was performed to selectively etch the RCP layer. Then sulfur hexafluoride (SF6) plasma RIE (10 sccm, 200 W, 20 s) was conducted for selective etching of SiO2 through the BCP mask. BCl3 plasma RIE (15 sccm, 100 W) was utilized to perforate the multilayer MoS2 nanosheets. The transformation of circular nanopores to hexagonal nanopores was achieved by immersion in diluted potassium ferricyanide for several minutes. After the wet etching, the BCP mask was removed along with SiO2 by dipping in diluted buffered oxide etch (BOE), which left behind the hexagonal nanoporous MoS2.
+Fabrication of MoS2 Nanoporous FETs
+The hexagonal nanoporous MoS2 was spin coated with lift-off resist at 2000 rpm and baked at 180 °C, followed by photoresist at 3000 rpm and annealing at 90 °C. Subsequently it was exposed to UV light and developed with developer to achieve the electrode patterns. A 20/100 nm thick Ti/Au was deposited using an e-beam evaporator as electrodes, and the excess Ti/Au was removed using photoresist remover.
+Surface Modification of Hexagonal Nanoporous MoS2
+The hexagonal nanoporous MoS2 FETs were exposed to O2 plasma (10 sccm, 10 W, 10 s) for surface oxidation. The FETs were then functionalized by immersing in APTES solution, containing 0.4 mL of APTES and a 1:19 (v/v) mixture of DI water and EtOH for 6 h. Subsequently, the mixture was washed with 99% absolute EtOH and baked in an oven at 120 °C for 15 min. Afterward it was dipped in a solution composed of 4.5 mL of glutaraldehyde solution, 1 tablet of PBS, 0.1 g of NaCNBH4, and 200 mL of DI water for 1 h to convert the amine functional group of APTES to an aldehyde group and washed with DI water.
+Biosensing Process for EtOH Detection
+LUSH can act as a bioreceptor for EtOH and was functionalized on the surface of a hexagonal nanoporous MoS2 channel in bio-FETs for the specific detection of EtOH. The concentration of LUSH was varied by dissolving in DI water. The specific binding of LUSH on hexagonal nanoporous MoS2 bio-FET was achieved by immersing the FETs overnight in a 10–6 g/mL LUSH solution at 4 °C. EtOH detection was performed using several concentrations of EtOH ranging from 10–6 % to 1%, obtained by diluting in DI water. To obtain the electrical characteristics, each concentration of EtOH was drop-casted on the hexagonal nanoporous MoS2 bio-FET surface and left for 15 min followed by washing with DI water. To observe reusability, a 10–6% concentrated EtOH solution was applied onto the LUSH immobilized nanoporous MoS2 FETs. After allowing 15 min for the EtOH to interact, the FETs were rinsed with DI water and the transfer curves were measured. Following this step, we allowed the FETs to rest at room temperature for 15 min to facilitate EtOH evaporation before recording another I–V curve. This process was consecutively repeated two more times.
+Characterization
+The morphology and crystal structure of hexagonal nanoporous MoS2 were examined by using a focused ion-beam TEM system (HD-2300A, Hitachi) with an acceleration voltage of 200 kV. Additionally, the surface morphology was observed using field emission SEM (FESEM; JSM-6700F, Hitachi)) with an acceleration voltage of 15 kV and a working distance of 8 nm. Raman spectroscopy was performed with an excitation wavelength of 532 nm at room temperature using a micro-Raman spectrometer system (ALPHA300, WITec, Co.). Characterization of functional groups was performed by FTIR (Thermo Fisher Scientific Nicolet iS5). The elemental and compositional analyses were conducted by XPS (Theta Probe AR-XPS System, ThermoFisher Scientific) with Al Kα X-ray radiation (1486.6 eV). The changes in surface potentials during the functionalization process were recorded using a KPFM system (Park, XE7) in noncontact mode. For KPFM measurements, the hexagonal nanoporous MoS2 nanosheets were transferred on a Si substrate using a hydrogen fluoride solution. All the electrical measurements were carried out using a semiconductor characterization system (4200 SCS, Keithley).
+Supporting Information
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acsnano.3c07045.
+
+SEM micrographs of MoS2 nanopores’ transformation from circular to hexagonal with dipping in Mo etchant, ADF-STEM micrograph of hexagonal nanopores on multilayer MoS2, intensity profile along the green dotted line, deconvolution of high-resolution carbon 1s spectra, peak fit parameters of carbon 1s spectra, peak fit parameters of Mo and S spectra, SEM micrographs of a 5 nm AuNPs tethered surface after APTES functionalization of hexagonal nanoporous MoS2, FTIR spectra of hexagonal nanoporous MoS2 at different functionalization stages, AFM micrograph of hexagonal nanoporous MoS2, KPFM micrograph of hexagonal nanoporous MoS2 before EtOH treatment and after 1% EtOH treatment and average of surface potential, electrical performance of various hexagonal nanoporous MoS2 FETs, transfer characteristics of pristine MoS2 with various EtOH concentrations, transfer characteristics of hexagonal nanoporous MoS2 with the binding of LUSH and 1% EtOH, nonspecific binding of hexagonal nanoporous MoS2 to EtOH without LUSH, Ids–Vgs curves of hexagonal nanoporous MoS2 with DI water in the presence of LUSH, EtOH detection behavior of hexagonal nanoporous MoS2 when dissolved in glucose, transfer curves of hexagonal nanoporous MoS2 with 10–6% EtOH for reusability test, sensitivity as a function of three consecutive EtOH injections, EtOH sensing performances of various biosensors (PDF)
+nn3c07045_si_001.pdf (1.93 MB)
+Nanoporous MoS2 Field-Effect Transistor Based Artificial Olfaction: Achieving Enhanced Volatile Organic Compound Detection Inspired by the Drosophila Olfactory System
+Supporting Information
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acsnano.3c07045.
+
+SEM micrographs of MoS2 nanopores’ transformation from circular to hexagonal with dipping in Mo etchant, ADF-STEM micrograph of hexagonal nanopores on multilayer MoS2, intensity profile along the green dotted line, deconvolution of high-resolution carbon 1s spectra, peak fit parameters of carbon 1s spectra, peak fit parameters of Mo and S spectra, SEM micrographs of a 5 nm AuNPs tethered surface after APTES functionalization of hexagonal nanoporous MoS2, FTIR spectra of hexagonal nanoporous MoS2 at different functionalization stages, AFM micrograph of hexagonal nanoporous MoS2, KPFM micrograph of hexagonal nanoporous MoS2 before EtOH treatment and after 1% EtOH treatment and average of surface potential, electrical performance of various hexagonal nanoporous MoS2 FETs, transfer characteristics of pristine MoS2 with various EtOH concentrations, transfer characteristics of hexagonal nanoporous MoS2 with the binding of LUSH and 1% EtOH, nonspecific binding of hexagonal nanoporous MoS2 to EtOH without LUSH, Ids–Vgs curves of hexagonal nanoporous MoS2 with DI water in the presence of LUSH, EtOH detection behavior of hexagonal nanoporous MoS2 when dissolved in glucose, transfer curves of hexagonal nanoporous MoS2 with 10–6% EtOH for reusability test, sensitivity as a function of three consecutive EtOH injections, EtOH sensing performances of various biosensors (PDF)
+Supporting Information
+Nanoporous MoS2 Field-Effect Transistor based
+Artificial Olfaction: Achieving enhanced Volatile
+Organic Compounds Detection Inspired by
+Drosophila Olfactory System
+Junoh Shim‡,1, Anamika Sen‡,1, Keehyun Park‡,2, Heekyeong Park1
+, Arindam Bala1
+, Hyungjun
+Choi2
+, Mincheol Park1
+, Jae Young Kwon*,2 and Sunkook Kim*,1
+J. Shim, A. Sen, Dr. H. Park, Dr. A. Bala, M. Park and Prof. S. Kim
+1
+ School of Advanced Materials Science and Engineering, Sungkyunkwan University,
+Suwon, Gyeonggi-do 16419, Republic of Korea
+K. Park, H. Choi and Prof. J. Y. Kwon
+2
+ Department of Biological Sciences, Sungkyunkwan University, Suwon, Gyeonggi-do
+16419, Republic of Korea
+Corresponding author e-mail: jykwon@skku.edu (J. Y. Kwon), seonkuk@skku.edu (S. Kim)
+Keywords: artificial olfaction, OBP, field-effect transistor-based biosensor, block copolymer
+lithography, hexagonal nanoporous MoS2
+Figure S1: SEM micrographs of MoS2 nanopores transformation from circular to hexagonal
+with dipping in Mo etchant at (a) 0 s, (b) 60 s and (c) 120 s
+Figure S2: (a) ADF-STEM micrograph of hexagonal nanopores on multilayer MoS2, (b)
+intensity profile along the green dotted line.
+Figure S3: Deconvolution of high-resolution carbon 1s spectra: (a) pristine and (b) hexagonal
+nanoporous MoS2
+Table S1: Peak fit parameters of carbon 1s spectra
+Pristine MoS2
+Peak
+signatures Position FWHM
+(eV) Area Area (%)
+C-C 284.60 1.34 9714.36 85.49
+C-O 286.10 1.34 774.13 6.81
+C=O 287.60 1.34 234.65 2.07
+O=C-O 288.80 1.34 639.73 5.63
+Hexagonal Nanoporous MoS2
+Peak
+signatures Position FWHM
+(eV) Area Area (%)
+C-C 284.61 1.44 10783.06 75.96
+C-O 286.11 1.44 2038.38 14.36
+C=O 287.61 1.44 438.66 3.09
+O=C-O 288.81 1.44 934.79 6.59
+Table S2 | Peak fit parameters of Mo and S spectra
+Pristine MoS2
+line B.E (eV) FWHM At (%)
+MoS2
+Mo4+ 3d5/2 229.21 0.59 89.08
+S
+2- 2p3/2 162.04 0.57 100
+MoxSy Mo4+ 3d5/2 228.52 0.77 4.38
+MoO3 Mo6+ 3d5/2 232.86 1.30 6.53
+Hexagonal Nanoporous MoS2
+MoS2 Mo4+ 3d5/2 229.36 0.69 51.44
+S
+2- 2p3/2 162.21 0.59 47.49
+MoxSy Mo4+ 3d5/2 228.87 0.82 44.07
+S
+2- 2p3/2 161.72 0.70 52.51
+MoO3 Mo6+ 3d5/2 232.46 1.10 4.49
+Figure S4: SEM micrographs of 5nm AuNPs tethered surface after APTES functionalization
+of hexagonal nanoporous MoS2
+Figure S5: FTIR spectra of hexagonal nanoporous MoS2 at different functionalization stages.
+Figure S6: (a) AFM micrograph of hexagonal nanoporous MoS2. KPFM micrograph of
+hexagonal nanoporous MoS2 (b) before EtOH treatment, and (c) after 1% EtOH treatment and
+(d) average of surface potential.
+Table S3: Electrical performance of various hexagonal nanoporous MoS2 FETs
+# of device
+L
+(m)
+W
+(m)
+
+(cm2
+ V-1 s-1)
+Ion/Ioff
+1 6.46 10.61 0.32 4.1 10 × 3
+2 6.38 12.21 1.42 3.3 10 × 4
+3 7.26 21.86 0.69 1.3 10 × 3
+4 7.19 16.05 1.03 1.2 10 × 4
+5 6.94 19.38 0.50 2.9 10 × 3
+6 7.77 6.75 0.87 1.4 10 × 3
+7 7.12 25.71 2.06 1.3 10 × 4
+8 6.93 50.13 2.02 3.2 10 × 4
+9 7.45 8.03 0.56 8.6 10 × 3
+10 6.48 33.42 0.21 1.0 10 × 5
+11 6.55 19.90 0.62 2.4 10 × 3
+12 6.56 44.84 0.62 4.1 10 × 3
+13 7.45 17,48 1.19 2.8 10 × 3
+14 6.43 28.21 0.58 3.9 10 × 3
+15 5.99 58.22 0.89 7.2 10 × 3
+16 6.36 8.26 1.31 5.9 10 × 3
+17 5.91 7.60 0.73 2.4 10 × 3
+18 5.39 24.08 1.33 3.2 10 × 3
+19 5.58 3.98 3.96 9.2 10 × 3
+20 5.91 18.50 0.86 1.7 10 × 3
+Figure S7: Transfer characteristics of pristine MoS2 with various EtOH concentration.
+Figure S8: Transfer characteristics of hexagonal nanoporous MoS2 with the binding of LUSH
+and 1% EtOH.
+Figure S9: (a) Non-specific binding of hexagonal nanoporous MoS2 to EtOH without LUSH,
+(b) Ids –Vgs curves of hexagonal nanoporous MoS2 with DI water in the presence of LUSH.
+Figure S10: EtOH detection behavior of hexagonal nanoporous MoS2 when dissolved in
+glucose
+Figure S11: (a) Transfer curves of hexagonal nanoporous MoS2 FETs with 10-6% EtOH for
+reusability test, (b) sensitivity as a function of three consecutive EtOH injections.
+Table S4: EtOH sensing performances of various biosensors
+Modified materials Method Detection
+range
+ Limit of
+detection Sensitivity Selectivity Reusability Reference
+GN-AuNRs-ADH amperometric 5 uM – 377 uM 1.5 uM -
+MeOH, 1-Prop,
+1-But, UA, AA,
+GL
+-
+1
+SPCE/MWCNT/AuNP/PN
+R/ADH/GA amperometric 320.2 uM –
+1000 uM 96.1 uM 0.973 (uA
+mM-1)
+- 5 times 2
+AOX/PANI visual 0.01% - 0.8% 0.001%
+91 (Δ
+Mean
+RGB)
+MeOH, 1-Prop -
+3
+Fe
+3
+O
+4
+@Au/MnO
+2
+amperometric 0.1M – 2.0M 0.07M
+0.02 (uA
+mM-1 cm2
+)
+- 5 times 4
+MWCNTs/PF-g-PEG/AOx amperometric 0.0085 mM –
+5.95 mM 0.11 mM
+7.99 (uA
+mM-1 cm2
+)
+Glu, urea, AA,
+CA 10 times 5
+SPCE/MWCNT/AuNP/PN
+R/Aox/G/GA amperometric 178.5uM-1mM 53.5uM 0.490 (uA
+mM-1)
+MeOH -
+6
+SPCE/MWCNT/PNR/Au
+NP/ADH/GA amperometric 320.2uM-1mM 96.1uM 97 (mA
+M-1 cm-2)
+- 10 times 7
+RuO
+2
+-GNR/SPCE amperometric 1uM - 1800uM 0.19uM
+4.5 (uA
+mM-1 cm2
+)
+Glu, AA 5 times 8
+ADH-GA-BSA/ERGOPTH/GC amperometric 0.05mM -
+1mM 0.3uM
+2.8 (uA
+mM-1 cm2
+)
+- -
+9
+GCE/Au-AgNPs/P(
+L
+-Cys)-
+ERGO/ADH/Naf
+amperometric 0.017mM -
+1.845mM 5.0uM 0.644 (uA
+mM-1)
+- 5 times 10
+ADH-sol-gel/PAH/SPE amperometric 0.05mM -
+2mM 20uM
+13.45 (uA
+mM-1 cm2
+)
+AA, UA, APAP,
+DA, Glu 10 times 11
+SPEC/RA/ADH/GA amperometric 23.71uM –
+1000uM 7.1uM 1.36 (uA
+mM-1)
+- 10 times 12
+ECFP/hOBP
+lla
+/Venus FRET 500nM – 12uM 500nM -
+MeOH,
+Propanol,
+Butanol,
+Perfume
+-
+13
+SOI/SiO
+2
+/Al/SnO
+2
+/LUSH ISFET 0.001% - 1% 0.001% 3723.12
+(mV pH-1)
+- -
+14
+Nanoporous
+MoS
+2
+/APTES/GA/LUSH Bio-FET 0.000001% -
+1%
+0.000001
+%(0.17u
+M)
+83.22 (%)
+MeOH,
+Acetone, PrOH,
+BuOH, AA
+3 times This work
+References
+(1) Li, L.; Lu, H.; Deng, L. A Sensitive NADH and Ethanol Biosensor Based on
+Graphene–Au Nanorods Nanocomposites. Talanta 2013, 113, 1–6.
+https://doi.org/10.1016/j.talanta.2013.03.074.
+(2) Bilgi, M.; Ayranci, E. Biosensor Application of Screen-Printed Carbon Electrodes
+Modified with Nanomaterials and a Conducting Polymer: Ethanol Biosensors Based
+on Alcohol Dehydrogenase. Sens Actuators B Chem 2016, 237, 849–855.
+https://doi.org/10.1016/j.snb.2016.06.164.
+(3) Kuswandi, B.; Irmawati, T.; Hidayat, M.; Jayus; Ahmad, M. A Simple Visual Ethanol
+Biosensor Based on Alcohol Oxidase Immobilized onto Polyaniline Film for Halal
+Verification of Fermented Beverage Samples. Sensors 2014, 14 (2), 2135–2149.
+https://doi.org/10.3390/s140202135.
+(4) Samphao, A.; Kunpatee, K.; Prayoonpokarach, S.; Wittayakun, J.; Švorc, Ľ.;
+Stankovic, D. M.; Zagar, K.; Ceh, M.; Kalcher, K. An Ethanol Biosensor Based on
+Simple Immobilization of Alcohol Dehydrogenase on Fe 3 O 4 @Au Nanoparticles.
+Electroanalysis 2015, 27 (12), 2829–2837. https://doi.org/10.1002/elan.201500315.
+(5) Bekmezci, S. A.; Soylemez, S.; Yilmaz, G.; Udum, Y. A.; Yagci, Y.; Toppare, L. A
+New Ethanol Biosensor Based on Polyfluorene-g-Poly(Ethylene Glycol) and
+Multiwalled Carbon Nanotubes. Eur Polym J 2020, 122, 109300.
+https://doi.org/10.1016/j.eurpolymj.2019.109300.
+(6) Bilgi, M.; Ayranci, E. Development of Amperometric Biosensors Using ScreenPrinted Carbon Electrodes Modified with Conducting Polymer and Nanomaterials for
+the Analysis of Ethanol, Methanol and Their Mixtures. Journal of Electroanalytical
+Chemistry 2018, 823, 588–592. https://doi.org/10.1016/j.jelechem.2018.07.009.
+(7) MANESH, K.; SANTHOSH, P.; GOPALAN, A.; LEE, K. Electrocatalytic Oxidation
+of NADH at Gold Nanoparticles Loaded Poly(3,4-Ethylenedioxythiophene)–
+Poly(Styrene Sulfonic Acid) Film Modified Electrode and Integration of Alcohol
+Dehydrogenase for Alcohol Sensing. Talanta 2008, 75 (5), 1307–1314.
+https://doi.org/10.1016/j.talanta.2008.01.038.
+(8) Vukojević, V.; Djurdjić, S.; Ognjanović, M.; Antić, B.; Kalcher, K.; Mutić, J.;
+Stanković, D. M. RuO2/Graphene Nanoribbon Composite Supported on Screen
+Printed Electrode with Enhanced Electrocatalytic Performances toward Ethanol and
+NADH Biosensing. Biosens Bioelectron 2018, 117, 392–397.
+https://doi.org/10.1016/j.bios.2018.06.038.
+(9) Li, Z.; Huang, Y.; Chen, L.; Qin, X.; Huang, Z.; Zhou, Y.; Meng, Y.; Li, J.; Huang, S.;
+Liu, Y.; Wang, W.; Xie, Q.; Yao, S. Amperometric Biosensor for NADH and Ethanol
+Based on Electroreduced Graphene Oxide–Polythionine Nanocomposite Film. Sens
+Actuators B Chem 2013, 181, 280–287. https://doi.org/10.1016/j.snb.2013.01.072.
+(10) Aydoğdu Tığ, G. Highly Sensitive Amperometric Biosensor for Determination of
+NADH and Ethanol Based on Au-Ag Nanoparticles/Poly(L-Cysteine)/Reduced
+Graphene Oxide Nanocomposite. Talanta 2017, 175, 382–389.
+https://doi.org/10.1016/j.talanta.2017.07.073.
+(11) Istrate, O. M.; Rotariu, L.; Bala, C. A Novel Amperometric Biosensor Based on
+Poly(Allylamine Hydrochloride) for Determination of Ethanol in Beverages. Sensors
+2021, 21 (19), 6510. https://doi.org/10.3390/s21196510.
+(12) Bilgi, M.; Sahin, E. M.; Ayranci, E. Sensor and Biosensor Application of a New
+Redox Mediator: Rosmarinic Acid Modified Screen-Printed Carbon Electrode for
+Electrochemical Determination of NADH and Ethanol. Journal of Electroanalytical
+Chemistry 2018, 813, 67–74. https://doi.org/10.1016/j.jelechem.2018.02.012.
+(13) Soleja, N.; Manzoor, O.; Nandal, P.; Mohsin, Mohd. FRET-Based Nanosensors for
+Monitoring and Quantification of Alcohols in Living Cells. Org Biomol Chem 2019,
+17 (9), 2413–2422. https://doi.org/10.1039/C8OB03208D.
+(14) Lim, C.-M.; Kwon, J. Y.; Cho, W.-J. Field-Effect Transistor Biosensor Platform Fused
+with Drosophila Odorant-Binding Proteins for Instant Ethanol Detection. ACS Appl
+Mater Interfaces 2017, 9 (16), 14051–14057. https://doi.org/10.1021/acsami.6b15539.

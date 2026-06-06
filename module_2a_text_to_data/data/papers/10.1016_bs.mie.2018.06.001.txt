@@ -1,0 +1,248 @@
+Chapter Two - Enzyme Multilayers on Graphene-Based FETs for Biosensing Applications
+Author links open overlay panel
+Christina Bliem *
+, 
+Esteban Piccinini †
+, 
+Wolfgang Knoll *
+, 
+Omar Azzaroni †
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/bs.mie.2018.06.001
+Get rights and content
+Abstract
+Electrochemical sensors represent a powerful tool for real-time measurement of a variety of analytes of much significance to different areas, ranging from clinical diagnostics to food technology. Point-of-care devices which can be used at patient bedside or for online monitoring of critical parameters are of great importance in clinical daily routine. In this work, portable, low-cost electrochemical sensors for a fast and reliable detection of the clinically relevant analyte urea have been developed. The intrinsic pH sensitivity of reduced graphene oxide (rGO)-based field-effect transistors (FETs) was exploited to monitor the enzymatic hydrolysis of urea. The functionalization of the sensor platform using the layer-by-layer technique is especially advantageous for the immobilization of the biorecognition element provided that this approach preserves the enzyme integrity as well as the rGO surface. The great selectivity of the enzyme (urease) combined with the high sensitivity of rGO-based FETs result in the construction of urea biosensors with a limit of detection (LOD) of 1 μM and a linear range up to 1 mM. Quantification of Cu2 + with a LOD down to 10 nM was performed by taking advantage of the specific inhibition of urease in the presence of heavy metals. These versatile biosensors offer great possibilities for further development of highly sensitive enzyme-based FETs for real-time, label-free detection of a wide variety of clinically relevant analytes.
+Previous chapter in volume
+Next chapter in volume
+Keywords
+BiosensorsField-effect transistorGrapheneUrease
+Abbreviations
+Γ
+mass surface coverage
+ΔIds/ΔVg
+transconductance
+θmin
+SPR angle of minimum reflectivity
+μ
+charge carrier mobility
+APTES
+(3-aminopropyl)triethoxysilane
+CEDL
+electrical double-layer capacitance
+Cg
+top-gate capacitance
+CQ
+quantum capacitance
+dη/dC
+refractive index increment
+FET
+field-effect transistor
+GO
+graphene oxide
+HEPES
+4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
+Isd
+source–drain voltage
+L
+channel length
+LbL
+layer-by-layer
+PEI
+polyethylenimine
+pI
+isoelectric point
+rGO
+reduced graphene oxide
+SPS
+sodium pyrenesulfonate
+Vg
+gate voltage
+W
+channel width
+1. Introduction
+Due to numerous advantages over traditional analytical methods which include ease of operation, low cost, and compact size, electrochemical sensors have become a prominent topic of interest in industry and academia. In particular, biosensors which are highly selective represent a powerful tool for real-time measurement of a variety of analytes of considerable interest in different areas, such as food safety, environmental monitoring, drug screening, and diagnosis (Mello & Kubota, 2002). Biosensors represent a subgroup of chemical sensors comprising biological host molecules as recognition elements coupled to a chemical or physical transducer (Hulanicki, Glab, & Ingman, 1991). Nature offers a variety of recognition strategies using, for example, interactions between antibodies and antigens, cell response, protein interaction, DNA targeting, or enzymatic substrate conversion (Wang, Li, Wang, Li, & Lin, 2011).
+In this context, enzymes constitute excellent recognition elements due to their specificity and selectivity toward the analyte (Ariga et al., 2013). Owing to their availability and biocompatibility, the integration of enzymes on sensor surfaces offers a plausible approach for the detection of specific substrates, whereas the variety of enzymes, or even enzymatic cascade reactions, makes the approach applicable to a wide range of analytes. Depending on the enzymatic reaction product, different transducing strategies can be chosen, ranging from direct electronic communication (Shao et al., 2010; Zhu et al., 2012), to electrodes selective to the particular reaction product (e.g., NH3) (Disawal, Qiu, Elmore, & Lvov, 2003; Koncki, Wałcerz, Ruckruh, & Głab, 1996; Stasyuk, Smutok, Gayda, & Gonchar, 2011; Stasyuk et al., 2012; Valle-Vega, Young, & Swaisgood, 1980), or the detection of pH changes using an interface sensitive to protons (Karacaoğlu, Timur, & Telefoncu, 2003; Komaba, Fujino, Matsuda, Osaka, & Satoh, 1998; Piccinini et al., 2017).
+With regard to the sensor platform, field-effect transistors (FETs) based on nanomaterials, such as semiconducting nanowires (Cui, Wei, Park, & Lieber, 2001), single-walled carbon nanotubes, and graphene (Fu, Jiang, van Geest, Lima, & Schneider, 2017) hold a leading position in signal transduction, offering outstanding capabilities for label-free, highly sensitive, real-time detection (Zhang & Lieber, 2016). Owing to the possibility of being operated in aqueous solutions applying small voltages (which is crucial for biological applications), relative good biocompatibility (Zhu et al., 2012), and inherent amplification properties (Zhang et al., 2015), graphene-based liquid-gated FETs have gained vast interest in clinical diagnosis (Yan, Zhang, & Li, 2014). Graphene, a 2D zero bandgap semiconducting material, exhibits extraordinary electronic, chemical, and mechanical properties (Balasubramanian and Kern, 2014, Choi and Lee, 2012, Nehra and Pal Singh, 2015). Its ambipolar character, together with a high carrier mobility and a great sensitivity toward changes in environmental conditions, makes graphene perfectly suitable as transducing material for the use in biochemical sensors (Pumera, 2011; Pumera, Ambrosi, Bonanni, Chng, & Poh, 2010).
+The most often applied immobilization techniques for integrating enzymes on solid-sensing platforms include entrapment, encapsulation, cross-linking, covalent binding, and adsorption (Amine, Mohammadi, Bourais, & Palleschi, 2006; Mello & Kubota, 2002). As the biosensor performance strongly depends on the characteristics of the interfacial architecture, the functionalization method has to be chosen with great care in order to retain the enzymatic activity as well as the functionality of the transducing element. Covalent attachment of biomolecules may not only induce damage to the sp2 structure of graphene (Niyogi et al., 2010), but it can also disrupt the folding and thus the activity of the enzyme if essential groups are involved in the immobilization (Scouten, Luong, & Stephen Brown, 1995; Sheldon & Van Pelt, 2013).
+In this regard, layer-by-layer (LbL) assembly offers a versatile and simple technique for the noncovalent functionalization of graphene with enzyme layers preserving the bioactive functionality and guaranteeing substrate accessibility. As numerous different types of building blocks can be employed in this process, the electrostatic assembly of oppositely charged layers opens the door to the fabrication of a great variety of functional thin films with high organization at the nanoscale level (Decher & Schlenoff, 2012; Iost & Crespilho, 2012). Using this technique, the layer thickness varies depending on the nature of the adsorbed components and the deposition conditions. In typical polyelectrolyte–enzyme LbL assemblies, the average layer thickness is from a few nanometers up to tens of nanometers (Forzani, Otero, Pérez, Teijelo, & Calvo, 2002; Lvov & Caruso, 2001). It should be noted that in the case of enzyme-based FET biosensors, it is important to locate the enzyme layer close enough to the transducer surface (in our case, graphene). The distance between the enzyme layer and the graphene surface should be closer than hundreds of micrometers to achieve optimized sensing performances (Temple-Boyer et al., 2008). In this regard, the LbL technique fulfills this requirement and allows reaching distances below 10 nm.
+In this chapter, a novel approach for designing and constructing biosensors is presented. The approach is based on the intrinsic pH sensitivity of reduced graphene oxide (rGO) FETs as a strategy to detect the enzymatic conversion of the analyte. We describe the fabrication process, the rGO FET characterization, the LbL assembly of urease onto the sensor platform, and the sensing of urea by detecting pH changes upon enzymatic substrate conversion. Finally, taking advantage of the inhibition of urease activity by heavy metal ions, the detection of Cu2 + in the nM range is described. Fig. 1 gives an overview of the biosensor fabrication process, which spans from the assembly of rGO flakes on interdigitated microelectrodes to the LbL functionalization with enzyme layers, thus resulting in a highly sensitive FET biosensor.
+Fig. 1
+Download: Download high-res image (174KB)
+Download: Download full-size image
+Fig. 1. Overview of the development of an rGO-based enzymatic FET, starting with the assembly of rGO on an interdigitated set of microelectrodes, followed by the functionalization with enzymatic recognition elements using the LbL method.
+
+2. rGO-Based FETs
+In general, a FET consists of a source- and drain electrode connected via a semiconducting channel and a gate electrode. The potential applied between gate and source electrode (Vg) controls the flow of charge carriers between source and drain, which thus determines the flow of current through the channel. The applied gate voltage (Vg) creates an electric field perpendicular to the channel attracting either holes or electrons toward the gate, thus creating a conductive channel between source and drain (Bao & Locklin, 2007; Lee, Kyu Kim, & Kim, 2009; Torsi, Magliulo, Manoli, & Palazzo, 2013).
+Due to its ambipolar character, its high conductivity, and the possibility of functionalization, rGO represents an ideal channel material for the fabrication of FETs. Graphene forms a planar sp2-hybridized honeycomb structure with the delocalized electrons being responsible for the outstanding electronic properties of the material (Wong & Akinwande, 2011). Chemically rGO differs substantially from pristine graphene, owing to its defective structure and remaining functional groups. In spite of the great homogeneity of graphene grown by chemical vapor deposition, chemically derived rGO can be highly advantageous as a sensing material. The defective structure and the remaining functional groups in rGO play a key role not only in surface functionalization (Pumera, 2011) but also in pH-sensing applications (Reiner-Rozman, Larisika, Nowak, & Knoll, 2015; Sohn et al., 2013). The high sensitivity of rGO-based FETs toward small pH changes near the channel surface is caused by the interaction of carboxyl or hydroxyl functional groups at the rGO surface with H+ ions in the electrolyte (Sohn et al., 2013) giving rise to a change in the surface charge density. The alteration of the surface charge density and the electric double layer leads to electrostatic gating effects (Heller et al., 2010). This intrinsic property of rGO can easily be exploited for biosensing purposes.Buffers and reagents
+•
+(3-aminopropyl)triethoxysilane (APTES) solution: 2% APTES in EtOH.
+•
+Graphene oxide (GO) solution: A concentrated GO stock solution prepared by a modified Hummer's method was diluted with deionized water to obtain a 18-μg/mL GO solution, according to protocol described by Larisika, Huang, Tok, Knoll, and Nowak (2012).
+•
+Hydrazine monohydrate. Caution: Hydrazine monohydrate is extremely hazardous in case of skin contact (corrosive, irritant), eye contact (irritant), and inhalation. Therefore, it should be handled with extreme care inside the fume hood using gloves, eyes protection, vapor respirator, and complete protection suite.
+•
+Working buffer: 10 mM KCl, 0.1 mM HEPES in dH2O (adjusted to the desired pH using KOH or HCl solutions).
+Equipment and procedure
+•
+Interdigitated microelectrodes (ED-IDE1-Au Micrux Technologies): The substrate dimensions are 10 × 6 mm
+•
+Semiconductor characterization system (Keithley 4200)
+•
+Electrochemical flow cell (Micrux Technologies)
+•
+Peristaltic pump (Reglo ICC, Ismatec)
+1.
+Incubate the glass substrate for 1 h in the APTES solution.
+2.
+Rinse with EtOH and anneal the APTES layer 1.5 h at 120°C.
+3.
+Drop-cast 30 μL of GO solution onto the interdigitated microelectrodes and incubate for 1 h.
+4.
+Remove surplus GO flakes by rinsing carefully with water.
+5.
+Reduce the attached GO flakes by exposing the electrodes to hydrazine vapor at 80°C overnight (the 80%–90% of the surface should be covered with rGO).
+6.
+Insert the microelectrodes into the flow cell and adjust the buffer flow to 300 μL/min.
+7.
+Record transfer characteristics: Apply a Vds of 0.1 V and sweep the Vg from − 0.6 V to 0.6 V at different pH.
+8.
+Record channel current: Apply a Vds of 0.1 V, set the Vg to − 0.2 V, and titrate the different pH solutions.
+2.1. Fabrication
+Wet-chemically synthesized GO can be easily assembled onto a glass substrate using silane chemistry and subsequent reduction by hydrazine with the only disadvantage of the flakes being rather randomly arranged. To overcome this drawback, a novel strategy of FET fabrication was applied by using an interdigitated array of gold microelectrodes on a glass substrate. Despite the random organization of the rGO flakes the bridging between source and drain electrode is assured by the choice of the very narrow channel (10 μm) as well as the large channel area (0.522 mm2), resulting in a very low ohmic resistance of ~ 100 Ω between source and drain electrode. The special FET architecture leads to an extremely high transconductance (ΔIds/ΔVg) of up to 800 μS and shows a stable response and a very good device reproducibility, which is crucial for routine applications.
+The rGO surface can be subsequently functionalized via π stacking of aromatic molecules onto the graphene plane, which has little impact on the electrical properties of the material (Atta, Galal, & El-Ads, 2015; Loh, Bao, Ang, & Yang, 2010; Singh et al., 2011), see Section 3.
+Fig. 2A shows the liquid-gated FET, an enlarged view of the interdigitated microelectrodes as well as a SEM image of the assembled rGO flakes. An ad hoc flow cell (Fig. 2B) together with a peristaltic pump is used to allow precise positioning of the chip with respect to the gate electrode and assure a constant flow rate.
+Fig. 2
+Download: Download high-res image (118KB)
+Download: Download full-size image
+Fig. 2. (A) Illustration of the liquid-gated FET with source, drain, and gate electrodes, an enlarged view of the interdigitated channel and a SEM image of the rGO-modified channel; scale bar = 10 μm. (B) Image of the flow cell (Micrux Technologies).
+
+2.2. Characterization
+As this type of enzyme sensor relies on the detection of small pH changes during the enzymatic reaction, the transfer characteristics of the transistors in a liquid-gated configuration under different pH values need to be studied.
+Linearly sweeping the potential between gate and source (Vg) shifts the Fermi energy from its equilibrium increasing either hole or electron mobility in the channel material, thus changing the drain–source current (Ids) accordingly. The values of the charge carrier mobility (μ) were calculated as follows (Wang & Burke, 2013):
+(1)
+where L and W are the channel length (10 μm) and the channel width (55.2 mm), respectively. Cg stands for the top-gate capacitance, and ΔIds/ΔVg represents the rate of change of Isd with respect to Vg, called transconductance. The gate capacitance can be thought as the equivalent capacitance of the quantum capacitance (CQ) in series with the electrical double-layer capacitance (CEDL) (Ohno, Maehashi, Yamashiro, & Matsumoto, 2009):
+Thus, the value of Cg is dominated by the smallest capacitor. For electrolyte solutions, it is generally considered an electrical double-layer thickness given by the Debye–Huckel equation and CEDL = ϵϵ0κ, where κ− 1 is the Debye screening length. That gives a CEDL value of 23 μF/cm2 for a 10 mM KCl solution. By using CQ values previously reported (ranging from 20 up to 1000 nF/cm2; Du, Guo, Jin, Jin, & Zhao, 2015; Fang, Konar, Xing, & Jena, 2007; Ohno et al., 2009; Wang & Burke, 2013; Xia, Chen, Li, & Tao, 2009), we estimated Cg and then the charge carrier mobility. The estimated value of the μ for holes and electrons is 1.5–72 cm2 V− 1 s− 1.
+The characteristic ambipolar behavior of rGO FETs at pH ranging from 5 to 10 is shown in Fig. 3A. The slope of the two branches remained nearly constant, which indicates a pH independency of the charge carrier mobility. However, a significant shift of the Dirac point (Vi) can be observed, which exhibits a linear pH dependency with a slope of 23 ± 1.8 mV/pH (Fig. 3B). The high pH sensitivity relies on electrostatic gating effects due to the protonation or deprotonation of remaining functional groups at the rGO surface which cause changes in the surface charge density of the material and charge doping effects of adsorbed H+ or OH– ions (Heller et al., 2010; Sohn et al., 2013, Wang and Burke, 2014). To assess the reproducibility between rGO FETs, the pH sensitivity was evaluated in five rGO FETs devices. The average pH sensitivity was of 25 ± 4 mV/pH.
+Fig. 3
+Download: Download high-res image (407KB)
+Download: Download full-size image
+Fig. 3. (A) Transfer characteristics of SPS-modified rGO FETs recorded at pH 5–10. (B) pH dependence of the Dirac point taken from the recorded transfer characteristics. (C) Real-time current response (Isd) of a SPS-PEI-modified rGO FET titrating from pH 5–10. (D) Comparison of the pH dependence of rGO FETs modified with SPS (blue) and SPS-PEI (red), taken from the real-time current response (Isd). Experimental conditions: in buffer of 10 mM KCl and 0.1 mM HEPES at a fixed Vg of − 0.2 V and Vds of 0.1 V.
+
+Further, the effect of a polyethylenimine (PEI) layer on the pH sensitivity was studied. In order to confer negative charge to the rGO surface, a layer of sodium pyrenesulfonate (SPS) was assembled, followed by the deposition of the positively charged polyelectrolyte PEI (for the preparation see Section 3). The application of a constant Vg gives rise to a change in the Ids upon changing the pH of the solution (Fig. 3C). Fig. 3D shows the pH sensitivity of the rGO FET before (blue dots) and after (red dots) the assembly of PEI with a slope of 20.3 ± 0.6 μA/pH and 25.9 ± 0.6 μA/pH, respectively, revealing a sensitivity enhancement of 28% by modification with the polyelectrolyte. Since PEI is a weak polycation with a pKa of 8–9, the degree of protonation of the polymer decreases with increasing pH resulting in a p-doping effect of the transducer by electrostatic gating effects. Therefore, the weak polycation plays a double role: (a) a building block for the LbL assembly and (b) a transducing element amplifying the pH sensitivity of the FET.
+3. Enzyme Immobilization
+As mentioned earlier, FETs can be used as platforms for biosensing by modifying the channel surface with biological recognition elements. The modification technique needs to preserve the functionality of the biological entity as well as that of the transducing element. Further, accessibility of the analyte to the active site of the recognition element has to be guaranteed. The LbL technique poses an ideal means to accomplish the prerequisites. The method relies on the electrostatic interaction of oppositely charged species, thus avoiding covalent attachment, which may not only disrupt the folding and functionality of the enzyme if essential groups are involved in the immobilization (Scouten et al., 1995; Sheldon & Van Pelt, 2013), direct covalent attachment to graphene surfaces can also induce damage to the sp2 structure and thus impair signal transduction (Niyogi et al., 2010). Another advantage of the LbL technique is the use of mild conditions, like aqueous solutions, which is inevitable to retain protein folding (Rydzek et al., 2015). In spite of the drying steps within the assembling process, entrapped water is still present within the layer, which is of great importance to retain the biomolecule activity. The water content in the film after drying depends on the film components and the relative humidity (RH). For a multilayer film constituted of poly(styrenesulfonate) and poly(diallyldimethylammonium chloride), it was reported a value around 15% water content for 70% RH (De, Cramer, & Schönhoff, 2011). By this means, layered systems with tunable characteristics can be constructed protecting the enzymes within a defined volume (Lisdat, Dronov, Möhwald, Scheller, & Kurth, 2009; Sakr & Borchard, 2013).
+An ideal approach for conferring negative charges to the rGO substrate relies on the self-assembly of aromatic molecules via π stacking, which has little impact on the electronic properties of the material (Atta et al., 2015; Loh et al., 2010; Singh et al., 2011).Buffers and reagents
+•
+Basic piranha solution: H2O2 30%, NH4OH 35% (1:1) in dH2O
+•
+Cysteamine solution: 5 mM in EtOH
+•
+SPS solution: 5 mM SPS in DMF
+•
+Enzyme buffer: 10 mM HEPES, 10 mM KCl in dH2O adjusted to pH 7.4 (above the isoelectric point (pI) of the enzyme)
+•
+PEI solution: 2 mg/mL PEI in dH2O (adjusted to pH 8)
+Equipment and procedure
+•
+SPR gold substrates (SPR102 AU, BioNavis).
+•
+rGO-functionalized microelectrodes.
+•
+Multiparametric surface plasmon resonance (MP-SPR) instrument (SPR Navi 210A BioNavis).
+1.
+Clean the SPR gold substrate using basic piranha solution (H2O2 30% and NH4OH 35% 1:1) at 60°C for 10 min.
+2.
+Modify the substrate with a self-assembled monolayer, by immersing it in the cysteamine solution for 8 h.
+3.
+To functionalize the SPR substrate with rGO, proceed with steps 3–5 of Section 2, as reported before (Piccinini et al., 2018).
+4.
+Confer negative charge to the rGO surface (of the SPR substrate or the rGO FET, respectively) by submerging the substrate into the SPS solution overnight.
+5.
+Rinse carefully with DMF and water.
+6.
+Assemble the polyelectrolyte layer by submerging the substrate into the PEI solution for 10 min and wash with water.
+7.
+Transfer the substrate to the enzyme solution containing 1 mg/mL of the desired enzyme, incubate for 30 min, and wash with water.
+8.
+Repeat the alternating steps polycation and enzyme adsorption as desired.
+9.
+In order to characterize the assembly, insert SPS-modified SPR gold substrates into the flow cell of the MP-SPR instrument.
+10.
+Follow the adsorption of the polycation and enzyme layers using a flow rate of 10 μL/min with the MP-SPR and a 785-nm laser, wash with water after each assembly step.
+3.1. LbL Assembly
+LbL assembly represents a versatile bottom-up strategy to fabricate multilayered films on the nanoscale level. Generally, the technique consists of exploiting the electrostatic interaction of oppositely charged species to form ultrathin multilayer films. This technique facilitates the integration of different constituents into the assembly and allows great freedom in the choice of number and sequence of the layers (Ariga, Hill, & Ji, 2007; Tang, Wang, Podsiadlo, & Kotov, 2006). In this work, we used the weak polycation PEI as a positively charged building block to assemble layers of negatively charged enzymes. In principle, the driving force governing the assembly is the increase in entropy release of counter ions and water of hydration from the dissolved polyelectrolyte chains (Bucur, Sui, & Schlenoff, 2006).
+In order to confer negative charge to the rGO surface, the FET channel was modified using SPS, which consists of a pyrene anchor and a negatively charged sulfonate group. Substrate immersion into a solution containing a positively charged polyelectrolyte leads to charge reversal due to overcompensation by the charge monomers of the polyelectrolyte (Rydzek et al., 2015). Subsequently, the substrate can be functionalized with a layer of the negatively charged enzyme (at pH > pI). Alternately dipping the substrate into solutions of the weakly charged polycation and the negatively charged enzymes leads to multilayer films with desired structure and thickness (Fig. 4). Loosely attached material is removed by rinsing with water between the consecutive adsorption (Tang et al., 2006). A number of parameters, such as type and molecular weight of the interacting polymers, as well as the pH used for the assembly process define the stability of the multilayers. Therefore, it is crucial to control the pH as well as the ionic strength of the solutions in order to achieve successful alternate adsorption (Decher & Schlenoff, 2012).
+Fig. 4
+Download: Download high-res image (175KB)
+Download: Download full-size image
+Fig. 4. (A) Schematic of the LbL assembling process of alternating layers of PEI and urease. (B) Representation of the LbL assembly of PEI (blue) and urease (red) on graphene.
+
+3.2. SPR Characterization
+In the assembling process, the pH of the polyelectrolyte and enzyme solution is critical. Enzymes are negatively charged at a pH above their characteristic pI, which is required for their electrostatic adsorption onto the positively charged PEI. Taking into account that the pI of urease is in the range of 5.0–5.2 (Sumner & Hand, 1929), the adsorption process of PEI and urease onto rGO-modified substrates was followed by SPR at enzyme buffer pH 7.4. Fig. 5A shows the reflectivity curves after the adsorption and rinsing for the first three bilayers.
+Fig. 5
+Download: Download high-res image (230KB)
+Download: Download full-size image
+Fig. 5. (A) SPR reflectivity curves of (PEI/urease)n LbL assemblies prepared on a rGO-modified gold substrate. (B) Enzyme surface coverage as a function of the number of bilayers (n). (C) Time-resolved SPR sensogram of the in situ PEI/urease assembly process.
+
+To estimate the surface coverage of the enzyme, the SPR angle of minimum reflectivity (θmin) was measured in situ during the assembly. The shift in the minimum reflectivity angle (Δθ) resulting from adsorption of the enzyme was converted into the mass surface coverage (Γ, ng/cm2) using the following equation (Stenberg, Persson, Roos, & Urbaniczky, 1991):
+(2)
+The parameter k*d, which depends on the SPR substrate and the laser wavelength, was provided by BioNavis with a value of 1.9 × 10− 7 cm/degrees. The refractive index increment (dη/dC) was considered 1.82 × 10− 10 cm3/ng for urease (Zhao, Brown, & Schuck, 2011).
+SPR measurements confirmed the successful assembly of the enzyme and a linear growth behavior resulting in a highly stable supramolecular interfacial architecture. The estimated values of the enzyme surface coverage (Γ) are presented in the Fig. 5B. We obtained an enzyme surface coverage value (per layer) of 515 ng/cm2. Our result is in excellent agreement with a previously reported value (490 ng/cm2) for urease/polycation LbL assemblies prepared on polystyrene microparticles (Lvov & Caruso, 2001). To obtain the enzyme surface coverage in mol/cm2 units, the molecular weight of a urease subunit was considered (91 kDa). It can be seen in Fig. 5C that during the first seconds of the washing step there is a slight desorption of weakly adsorbed enzymes. After that, the interfacial architecture seems to be very stable.
+4. Enzymatic Biosensors
+Owing to their excellent substrate specificity and selectivity, enzymes were chosen as recognition elements onto the FET platform. Especially, enzymes which trigger pH changes at the sensor surface during the enzymatic reaction are of great interest, as no direct electron communication between the active center of the enzyme and the transducing element of the sensor is required. The enzymatic conversion of the analyte can be simply measured by following the pH change at the sensor interface (Sohn et al., 2013; Soldatkin, Montoriol, Sant, Martelet, & Jaffrezic-Renault, 2002).
+Urease was chosen as a model system to demonstrate the sensing capabilities of this novel approach based on the integration of enzymes on rGO-based FETs. Urease from Jack bean is a robust enzyme with the function of catalyzing the hydrolysis of urea to generate ammonium and bicarbonate (Krajewska, 2009a). The acid–base equilibrium of the formed products results in a pH increase of the solution. This enzyme presents Ni(II) metal centers in their active sites, whose task is the activation of the substrate and water for the reaction. The enzyme typically forms trimers and hexamers with subunits of 90 kDa. Some heavy metals inhibit the urease activity, being Hg2 +, Ag+, and Cu2 + the strongest metal inhibitors. This inhibition is ascribed to the reaction of the metal ions with the thiol groups of the enzyme. As we will show in this work, the inhibition can be exploited for the construction of urease inhibition-based sensing systems (Krajewska, 2009b). The detection of urea, the substrate of urease, is of great importance in diagnosis and control of a number of kidney and liver diseases (Carvounis, Nisar, & Guro-Razuman, 2002; Lakard et al., 2011). In particular, in the case of hemodialysis patients, online monitoring of urea may improve the diagnosis of kidney failure as well as prolong the patient's life expectancy (Sant, Temple-Boyer, Chanie, Launay, & Martinez, 2011). The monitoring of urea is mostly performed by means of classical analytical methods, such as fluorescence, colorimetric, and potentiometric methods (Rajesh, Bisht, Takashima, & Kaneto, 2005; Singh, Verma, Garg, & Redhu, 2008). Such measurements imply the use of expensive equipment or laborious procedures and are not suitable for online monitoring. The developed enzyme-based rGO FETs, in contrast, offer many advantages such as easy handling, real-time response, cost-efficiency, operation in aqueous solutions, and electronic readout applying very low voltages (which is elemental for biological sensing) (Zhang et al., 2015).Buffers and solutions
+•
+Experimental buffer: 10 mM KCl in dH2O (adjusted to pH 6)
+Equipment and procedure
+•
+Semiconductor characterization system (Keithley 4200)
+•
+Electrochemical flow cell (Micrux Technologies)
+•
+Peristaltic pump (Reglo ICC, Ismatec)
+1.
+Place the enzyme-modified rGO FET in the flow cell and adjust the flow rate of the peristaltic pump to 100 μL/min
+2.
+Apply a drain–source bias (Vds) of 0.1 V, a fixed gate voltage (Vg) of − 0.2 V and monitor the drain–source current (Ids) using the semiconductor characterization system
+3.
+Titrate the appropriate concentrations of the analyte waiting for an equilibrium to establish at each concentration step
+4.
+In order to apply the senor for heavy metal detection, titrate solutions containing a fixed concentration of urea (0.2 mM) and increasing amounts of Cu2 +
+4.1. Single-Enzyme Sensor
+For the enzyme sensor, urease was assembled onto the rGO FET platform. Fig. 6 shows the hydrolysis of urea catalyzed by the enzyme. The pH change caused by the enzymatic conversion of the substrate can be measured by exploiting the pH sensitivity of the rGO FET. The response signal can then be correlated to the analyte concentration in solution.
+Fig. 6
+Download: Download high-res image (79KB)
+Download: Download full-size image
+Fig. 6. Enzymatic hydrolysis of urea catalyzed by urease.
+
+First, the response of the transistor to urea was tested for a (PEI/urease)1 assembly sweeping the Vg from − 0.6 to 0.6 V at a constant Vds of 0.1 V. Fig. 7A (top) shows the transfer characteristics in the absence (blue line) and in the presence (red line) of 100 μM urea. A clear shift in the Vi to more positive values was observed in the presence of urea, similar to the shift obtained upon increasing the pH of the solution. This result indicates that the enzyme properly catalyzed the hydrolysis of urea. The hydroxyl ions produced by the enzyme reaction are involved in an acid–base equilibrium, which causes a pH change near the sensor surface as well as an alteration of the protonation of the PEI, resulting in a significant shift in the Vi to a more positive gate voltage.
+Fig. 7
+Download: Download high-res image (582KB)
+Download: Download full-size image
+Fig. 7. (A) Transfer characteristics of a (PEI/urease)1-modified rGO FET in the absence (blue) and the presence (red) of 100 μM urea (top). Real-time current response (Ids) of a (PEI/urease)1-modified rGO FET (bottom). Current response (Ids) rGO FETs modified with (B) (PEI/urease)1 and (C) (PEI/urease)3. Experimental conditions: 10 mM KCl + 0.1 mM HEPES buffer at a fixed Vg of − 0.2 V and Vds of 0.1 V.
+
+Further, the real-time response of the sensor toward urea was studied. The sensor modified with a (PEI/urease)1 assembly was exposed to an analyte solution of 100 μM at constant Vds of 0.1 V and a fixed Vg of − 0.2 V monitoring the change in Ids (Fig. 7A bottom). After a plateau was reached, referred to as flow response, the flow was stopped resulting in another Ids peak (static response). This sensor response may be explained by the following mass transport phenomena: during flow conditions the flux of the analyte solution rapidly washes away the hydroxyl ions obtained by the hydrolysis of urea by forced convection. The sensor response (Ids) reaches a plateau, when the flow of hydroxyl ions into and out of the film reaches an equilibrium. At static conditions, the outflow of the hydroxyl ions from the film is only governed by diffusion, causing a local increase of hydroxyl ions close to the rGO surface until the urea concentration gradient reaches a maximum value, thus resulting in an Ids peak. When the flow was resumed, the sensor response returned to the flow equilibrium level. These observations are in agreement with the predictions obtained by theoretical studies (Temple-Boyer et al., 2008) for urease–ISFET devices.
+Fig. 7B shows the titration of urea increasing the analyte concentration from 1 up to 2500 μM using a (PEI/urease)1 assembly. The Ids increases up to the level of 1 mM urea in both, flow and static condition. At higher analyte concentrations, substrate inhibition of the enzyme may occur and the local alkaline pH may impair the functionality of the enzyme (Krajewska, 2009a, Krajewska, 2009b).
+In another experiment, the effect of increasing numbers of polyelectrolyte–enzyme bilayers on the sensor response was studied. Therefore, assemblies with two and three bilayers, (PEI/urease)2 and (PEI/urease)3, respectively, were constructed and subjected to the same measurement (Fig. 7C). The ΔIds signal as a function of the logarithmic urea concentration was determined from the flow response (Fig. 8A) as well as the static response (Fig. 8B). Fig. 8A shows a linear pH dependence of sensors modified with one (red), two (blue), and three (green) bilayers. The sensitivity increased by 20% for two bilayers and by 68% for three bilayers compared to one PEI/urease bilayer. However, a significant signal enhancement was observed by analyzing the static response of the (PEI/urease)3 assembly (Fig. 8B). This result shows the possibility of increasing the catalytic activity of the film by increasing the number of bilayers, thus augmenting the total enzyme loading in the assembly. Hence, higher changes in the local pH can be obtained upon hydrolysis of the analyte. At a urea concentration of 1 mM, the transistor modified with a (PEI/urease)3 assembly showed a ΔIds of almost 70 μA under flow conditions. Taking into account the sensors pH sensitivity, this result is comparable with a pH change from 6 to 8.7, which is in good agreement with other studies concerning urease entrapped in polymeric matrices (Kazakova, Shabarchina, & Sukhorukov, 2011; Tsai & Doong, 2005).
+Fig. 8
+Download: Download high-res image (201KB)
+Download: Download full-size image
+Fig. 8. (A) Ids flow response as a function of the urea concentration of rGO FETs modified with (PEI/urease)1 (red), (PEI/urease)2 (blue), and (PEI/urease)3 (green). (B) Ids static response as a function of the urea concentration of a (PEI/urease)3 modified rGO FET. Experimental conditions: 10 mM KCl + 0.1 mM HEPES buffer at a fixed Vg of − 0.2 V and Vds of 0.1 V.
+
+The nanoconstruction of enzyme-containing multilayered films turns out to be especially attractive owing to the precise control over the loading of the enzyme. The resulting biosensors exhibit a LOD below 1 μM, a fast response, and a good long-term stability, retaining almost 96% of the original response after 6 days of storage in buffer HEPES solution at 4°C, making them particularly interesting for online monitoring of urea (Sant et al., 2011).
+4.2. Enzymatic Heavy Metal Sensor
+Finally, taking advantage of the inhibition of urease activity by heavy metal ions, the transistor modified with a (PEI/urease)3 assembly was applied for the quantification of Cu2 + ions. Krajewska et al. reported the strong binding of Cu2 + to cysteine and histidine residues crucial for urease activity, thus leading to the inhibition of the enzyme (Krajewska, 2008). Fig. 9 shows the sensor response Ids as a function of the Cu2 + concentration in the presence of 0.2 mM urea. The increasing amount of Cu2 + in solution led to a clear reduction of the enzymatic conversion of urea by heavy metal inhibition of the enzyme, thus reducing the current output. A linear relationship between ΔIds and the logarithmic Cu2 + concentration with a LOD below 10 nM can be observed, whereas no enzymatic activity was found above 1000 nM Cu2 +. The transistors showed a faster response, as well as a lower LOD (more than one order of magnitude), as compared with previously reported heavy metal sensors based on urease (Tsai & Doong, 2005).
+Fig. 9
+Download: Download high-res image (92KB)
+Download: Download full-size image
+Fig. 9. Ids of a (PEI/urease)3 as a function of the Cu2 + concentration in the presence of 0.2 mM urea. Experimental conditions: in buffer of 10 mM KCl and 0.1 mM HEPES at a fixed Vg of − 0.2 V and Vds of 0.1 V.
+
+5. Summary and Conclusions
+This chapter presents a novel approach to construct highly sensitive biosensors based on the rational integration of enzymes—as recognition elements—on rGO-based FETs via LbL assembly. This assembly technique has neither affected the enzyme activity nor altered the electrical properties of rGO. The outstanding sensitivity of rGO-based FETs to small environmental changes at the sensor surface makes them excellent platforms for monitoring subtle pH changes derived from enzymatic substrate conversion close to the rGO surface. Owing to the architecture of microarray electrodes which is responsible for the high transconductance of the device, the pH sensitivity of the FETs was almost one order of magnitude higher than other graphene-based FETs. Thereby, a LOD of 1 μM and a linear range of 1–1000 μM could be reached for the detection of urea upon enzyme-catalyzed hydrolysis. By optimizing the enzyme loading as well as the arrangement of the assembly, highly sensitive, label-free biosensors could be developed for the real-time monitoring of urea. Taking advantage of the specific inhibition of enzymes by heavy metal ions, Cu2 + could be detected down to a concentration of 10 nM. The combination of pH-sensitive rGO-based FETs with highly selective enzymes embedded in a stabilizing polyelectrolyte assembly opens a wide range of possibilities for further expanding the field of biosensing.

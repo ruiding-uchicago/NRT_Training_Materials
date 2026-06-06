@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.chemosphere.2021.131695",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Cr(III)",
+      "lower_detection_limit": "7.05e-6 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "ZnO nanoglobules/graphene oxide (ZnO-NGs@GO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

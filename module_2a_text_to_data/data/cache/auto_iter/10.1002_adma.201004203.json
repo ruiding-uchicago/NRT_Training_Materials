@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adma.201004203",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "2500 ppm",
+      "probe_material": "palladium/tin oxide",
+      "test_operating_temperature (celcius)": "100 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admi.202200647",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "ammonia (NH₄⁺/NH₃)",
+      "lower_detection_limit": "6e-6 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "tungsten trioxide (WO₃)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.45",
+      "test_medium": "human plasma"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2016.03.046",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "Methylene Blue (MB)",
+      "lower_detection_limit": "4.7 nM",
+      "upper_detection_limit": "0.3 M",
+      "probe_material": "Graphene oxide nanoribbon (GONR), reduced graphene oxide nanoribbon (rGONR)",
+      "test_operating_temperature_celcius": "",
+      "pH_value": -1,
+      "test_medium": "deionized (DI) water"
+    }
+  ]
+}

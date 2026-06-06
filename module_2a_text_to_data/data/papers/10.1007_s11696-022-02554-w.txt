@@ -1,0 +1,144 @@
+Multi-ion (Na+/ K+/Ca2+/Mg2+) EGFET sensor based on heterostructure of ZrO2-NPs/MacroPSi
+Original Paper
+Published: 28 October 2022
+Volume 77, pages 1351–1360, (2023)
+Cite this article
+Download PDF
+Access provided by University of Chicago
+
+
+Chemical Papers
+Aims and scope
+Submit manuscript
+Multi-ion (Na+/ K+/Ca2+/Mg2+) EGFET sensor based on heterostructure of ZrO2-NPs/MacroPSi
+Download PDF
+Samira A. Asoka, Lary H. Slewa & Tariq A. Abbas 
+210 Accesses
+
+Explore all metrics 
+
+Abstract
+In this study, a heterostructure of ZrO2-NPs/MacroPSi EGFET was reported to the detection of biologically important human metal ions such as Na+, K+, Ca2+, and Mg2+. Using the solvothermal technique, ZrO2 nanoparticles were synthesized on the surface and wall of MacroPSi. Field-emission scanning electron microscopy (FESEM) and X-ray diffractometer (XRD) are used to determine the morphology and structure of ZrO2 nanoparticles, respectively. Afterward, an extended gate field-effect transistor (EGFET) based on a heterostructure of (ZrO2-NPs/MacroPSi) was demonstrated for the first time as a cation sensor for different solutions. (ZrO2-NPs/MacroPSi) EGFET ions sensor improved voltage sensitivity of 67, 62, 44, and 38.2 mV/dec, for Na+, K+, Ca2+, and Mg2+, respectively. The current sensitivity of EGFET was found to be 1.22, 1.06, 0.605, and 0.49 (µA)1/2/dec, for Na+, K+, Ca2+, and Mg2+, respectively. The results demonstrated that the current/voltage sensitivity values are highly linear. The ZrO2/Psi-based EGFET cation sensor's excellent measured sensitivity makes it a viable candidate for use as a sensor in a variety of ions detection applications.
+
+Similar content being viewed by others
+
+Magnesium-doped ZnO nanorod electrolyte–insulator–semiconductor (EIS) sensor for detecting calcium ions
+Article 10 January 2022
+
+A novel porous silicon multi-ions selective electrode based extended gate field effect transistor for sodium, potassium, calcium, and magnesium sensor
+Article 10 October 2019
+
+Micro/Nano Electrochemical Sensors for Ion Sensing
+Chapter © 2016
+Introduction
+Minerals with significant effects on human health are primarily supplied to the body by cations. Such as Calcium (Ca2+), which is responsible for bone health, Sodium (Na+), Potassium (K+), which is responsible for action potential and fluid homeostasis, and Magnesium (Mg2+), which is a co-factor for a large number of enzymes. The imbalance of any cation in human body fluids can result in a number of biological disorders. Consequently, ion's detections play a crucial role in a variety of fields.
+
+Between 1970 and 1972, P. Bergveld developed the first ion-sensitive electrode, followed by Ion-Sensitive Field Effect Transistor (ISFET) (Bergveld 1970; Bergved 1972). Then, in 1983 Spiegel introduced Extended Gate Filed Effect Transistor (EGFET) (Spiegel et al. 1983), which is derived from (ISEFT) with the difference that in EGFET, the Metal Oxide Filed Effect Transistor (MOSFET) is isolated from the chemical environment (Guerra et al. 2009). That gives attention to the development of biosensors with low cost, fast response time, high selectivity, and ease to use so it becomes highly desirable in many fields, such as medicine (clinical analysis, bio-laboratories), water quality monitoring, industrial and environmental (Yana et al. 2016; Allen 2022; Winkler et al. 2004; Wang et al. 2013).
+
+Macroporous Silicon (MacroPSi) is useful as an alternative substrate material for chemical sensors and biosensors (Mora et al. 2013; Dovzhenko et al. 2018; Schöning et al. 2002; Marion Thust et al. 1996) because of its mechanical, and thermal characteristics and its high surface area to volume ratio, which provides more surface destination and oxygen vacancies, implying larger compelling detecting areas. Recently, a number of nanostructures were produced on the surface and within the pores of MacroPSi to increase their surface area in an effort to improve device sensitivity (Yan et al. 2015).
+
+Many types of sensors were used to detect cations, such as ion-selective electrodes, multi-ion-selective, silicon transducers, and potentiometric sensor arrays (Bedlechowicz-Śliwakowska et al. 2006; Seki et al. 1999; Saurina et al. 2002; Malon and Maj-Zurawska 2005; Chen et al. 2021). However, ZrO2 is an oxide material that exists in three crystalline forms: monoclinic, tetragonal and cubic structures, having a large number of technological applications, including full cells (Sigwadi et al. 2019) gas sensors (Yan et al. 2021; Janusz 2007; Anderson and Graves 1982; Brailsford et al. 1997), alcohol biosensors (Salimi 2012), in agriculture and medicine (Wang et al. 2015; Venu et al. 2018). The material's high dielectric constant makes it suitable for use in gate dielectric applications (Jankovi and Chang 2011; Young Min Park May 2013; Xie et al. 2020). Various methods have been utilized to synthesize ZrO2 as a base for ISFET, including direct current (DC) sputtering (Kow-Ming et al. 2007), vaporization (Sobczynska and Torbicz 1984), hydrothermal (Yan et al. 2021; Ahmad et al. 2017; Wang et al. 2013), solvothermal (Anandan et al. 2017), and the High Surface Area via Co-precipitation method (Alaei et al. 2014).
+
+This study aims to fabricate an ion-sensitive electrode, which has a high sensitivity for multi-ions, hence reducing the size and cost of sensors by allowing a single electrode to pick numerous ions rather than multiple electrodes. EGFET is based on the heterostructure ZrO2-NPs/MacroPSi, where MacroPSi was created via electrochemically etching of p-type monocrystalline silicon wafer. The solvothermal approach is used to generate ZrO2 nanoparticles on the MacroPSi. Then, EGFETs based on ZrO2/MacroPSi were synthesized and assessed for Na+, K+, Ca2+, and Mg2+ ion detector applications.
+
+Methodology
+Fabricating of macroporous silicon (MacroPSi)
+The electrochemical etching of a p-type monocrystalline Si wafer (polishing crop of America, Resistivity: 1–20 Ω, Orient: (100)) is used to produce MacroPSi. Initially, Si wafers were cleaned using the RCA method's standard protocol. Second, cut it into pieces with dimensions of (2 cm × 2 cm) and then etch it in an electrolyte solution with a volume ratio of 1:4 (HF 49%: C2H5OH 99.5%) for 60 min at room temperature with a current density of 10 mA/cm2. The anodization process optimization parameters are given in (Supplementary Material Appendix 1). The cathode consists of an HF-resistant platinum wire conductor, while the anode is a silicon wafer, as depicted in Fig. 1.
+
+Fig. 1
+figure 1
+Schematic representation of the electrochemical etching and solvothermal processes utilized to prepare ZrO2/MacroPSi
+
+Full size image
+ZrO2 Nanoparticles fabrication
+On the surface and within the walls of MacroPSi, ZrO2 nanoparticles were synthesized using the solvothermal technique. Zirconium is obtained by dissolving 0.05 M Zirconium Oxychloride Octahydrate (ZrOCl2.8H2O) in 100 ml ethanol. A few drops of HNO3 were then added to the solution, which was agitated for 20 min at ambient temperature with the aid of a magnetic stirrer. Then, 80 ml of the mixture was placed into a 100 ml stainless steel autoclave coated with Teflon, where the MacroPSi was angled toward the Teflon-lined wall, with the porous layer facing the solution. In order to undertake solvothermal treatment, the autoclave was sealed and placed in an electric oven at 180 °C for 12 h. The sample was then left at room temperature to cool down. After multiple rinses in anhydrous alcohol and deionized water, the film was dried at 70 °C for six hours. In order to boost the crystallinity of the ZrO2 nanostructures and enhance their interaction with the substrate, the produced samples were sintered in a quartz tube furnace at 500 °C for one hour under a flow of 4 ml/min of moist oxygen. The schematic of the solvothermal processes for the creation of ZrO2 nanoparticles on MacroPSi is illustrated in Fig. 1.
+
+Device fabrication
+The sensing characteristics were measured by using the fabricated ion sensor setup, which is depicted in Fig. 2. The EGFET consists of a 1.5 cm2 sensing membrane (extended gate) coupled to the gate of a conventional N-MOSFET (CD4007UB). The (IDS-Vref) and (IDS-VDS) curves were measured using two Keithley source meters series 2400 with a GPIB-USB cable and Lab Tracer software. A source meter was used to apply the drain to source voltage (VDS), while the other one was utilized to apply the reference electrode voltage (Vref) to the expanded gate of the MOSFET by connecting the reference electrode (Ag/AgCl) submerged in electrolytic solutions inside the cavity. By dissolving the salts in deionized water, five different concentrations of NaCl, KCl, CaCl2, and MgCl2 were created with a molar concentration of 10–4 to 1 M and mean pH values of 5.2, 6.5, 6.9, and 6.1 for each of the four solutions, respectively. To guarantee that extra ions do not interfere with the ions' sensitivity, the mean pH values were determined without introducing any substances that might affect the pH values. Nonetheless, the heterostructure of the ZrO2-NPs/MacroPSi-containing electrode was attached to the gate terminal of a commercial MOSFET and submerged in a buffered solution.
+
+Fig. 2
+figure 2
+Schematic diagram of EGFET cations sensor measurement system
+
+Full size image
+Characterization techniques
+To examine the morphology and structure of ZrO2 nanoparticle development on MacroPSi, field-emission scanning electron microscopy (FESEM) (Nova Nano SEM 450) was used to assess the sample morphology. In the 2θ range of 20–80°, the crystal structure and phase purity of the samples were determined using an X-ray diffractometer (Burker D8 advance) with Cu-kα radiation (λ = 1.54178 Ao). Al was deposited on the surface outside of the MacroPSi layer using an auto thermal evaporation method (Edwards-Auto 306) through a mask to provide an Ohmic contact between sensing membrane (ZrO2-NPs/MacroPSi) and the gate of commercial MOSFET.
+
+Results and discussion
+MacroPSi and ZrO2 nanoparticles characterizations
+The morphology of ZrO2 growth on MacroPSi was examined by using FESEM. Figure 3a demonstrates the front view of the bare porous macrostructures, displaying diverse pore sizes and densely dispersed nearly circular holes. The images demonstrate that some pores overlap and are randomly dispersed over the surface. Using the SPIP software to measure the average pore size diameter distribution of FESEM, it was determined that MacroPSi has a porosity of about 36.3%, with a mean pore diameter distribution of 1.388 µm. Figure 3b displays two enlargements of the top view and cross-sectional FESEM images of the development of ZrO2 on the surface and within MacroPSi. Cross-sectional FESEM pictures of the sample reveal an aggregation of ZrO2 nanoparticles inside the pore.
+
+Fig. 3
+figure 3
+FESEM images (a) front view of MacroPSi with pore diameter distribution (b) front and cross-sectional view of ZrO2/MacroPSi
+
+Full size image
+The X-ray diffraction patterns of ZrO2 nanoparticle’s growth on MacroPSi are displayed in Fig. 4. The figure depicts that ZrO2 has a cubic crystalline structure which is characterized by a strong peak at the position 30.344° corresponding to the (111) plane. In addition, there are four other weak peaks at 35.29°, 50.52°, 60.23°, and 63.04° that correspond to the (200), (220), (311), and (222) planes, as shown in Fig. 4. The XRD peaks are well matched with the standard diffraction pattern of ZrO2 (ICSD-: 00-049-1642). The intense and sharp diffraction of the main peak suggests the as-synthesized product is well crystallized. Using the Scherrer Eq. (1), the crystal size was calculated from the (111) peak's full width at half maximum (FWHM) (Fatimah et al. 2022).
+
+(1)
+where D represents the diameter of the crystallites, λ represents the wavelength of the X-ray, B is the FWHM in radians, and θ is the Bragg angle. The crystal size was determined to be equal to 39.2 nm.
+
+Fig. 4
+figure 4
+XRD patterns of ZrO2 nanoparticles growth on MacroPSi, with standard ZrO2 pattern (Ref. Code: 00–049-1642) superimposed on top
+
+Full size image
+Sensitivity and linearity
+According to Nernst equation, the ion activity (
+) in an electrochemical cell is proportional to the potential difference (
+) between the reference and sensing electrodes (Bedlechowicz-Śliwakowska et al. 2006).
+
+where 
+ is the standard reference potential, R is the gas constant, T is the absolute temperature, n is the ion's charge number, and F is Faraday's constant. This potential difference is produced by the decrease in voltage at the electrode surface-electrolyte junction, resulting in the formation of ion–electron double layers on the surface. When equilibrium is reached, the Nernst potential is dependent on the concentration of formed ions, resulting to a change in the surface charge of the sample. At the electrolyte/(ZrO2/MacroPSi) contact by delivering a continuous voltage between the sensing gate and reference electrode, the ion-sensitive membrane will attract the required ions, causing the creation of an Electrical Double Layer (EDL) on its surface. This layer will interact with the internal charge carriers of the substrate, influencing the drain current by maintaining a consistent drain current. The output voltage is used to calculate an analyte's concentration and reflects fluctuations in threshold voltages of EGFET. Variables such as ionic composition, surface charge resulting from fluctuations in analyte concentration, and biological recognition activities contribute to these modifications. In the subsequent phase, the sensitivity and linearity of MacroPSi and ZrO2/MacroPSi to the detection of Na+, K+, Ca2+, and Mg2+ in the linear and saturation areas were computed as follows:
+
+Linear region
+According to the EGFET theory in the linear region IDS, Vref is related together as in the equation (Al-Hardan et al. 2021; Batista et al. 2006; Salvatore Andrea Pullano 2018):
+
+(2)
+where W and L denote the channel's width and length, respectively, µn is the mobility of the carrier in the channel, Cox is the capacitance of a gate per unit area, and VT(EGFET) refers to the threshold voltage of the EGFET sensor, which can be expressed as follows (Das 2014; Kabaa et al. 2019):
+
+(3)
+where ɸM is the work function of the metal gate (reference electrode) comparison to the vacuum, Eref is the potential value of the reference electrode, χsol is the buffer solution's surface dipole potential, and 
+ is the electrolyte's surface potential at the interface between the sensor layer and the electrolyte, which varies based on the pH factor, while the other terms are constant (Das 2014).
+
+The transfer characteristics (IDS-Vref) for Na+, K+, Ca2+, and Mg2+ EGFET measured at different concentrations (varying from 1 to 10–4 M) of NaCl, KCl, CaCl2, and MgCl2 solutions in the linear region (with VDS kept constant at 0.3 V and, Vref scanned from 0 to 3.5 V) for both MacrPSi and ZrO2/MacroPSi sensing membrane are shown in Fig. 5.
+
+Fig. 5
+figure 5
+The IDS-Vref characterization of (a) MacrPSi and (b) ZrO2/MacroPSi EGFET for various ion sensors in linear region
+
+Full size image
+From Fig. 5, it is observed that there is a shift of the threshold voltage to a higher voltage with decreased concentration due to a decrease in the surface potential. As the dissociation of Cl− rises, the voltages of a solution containing a low concentration of NaCl also increase. Vref simultaneously raises the IDS value as the NaCl solution concentration rises.
+
+Using the IDS-Vref curves at an IDS of 0.4 mA, the cation sensitivity and linearity of MacrPSi and the ZrO2 nanoparticles growth on MacrPSi were determined. The linear correlation between Vref and the logarithm of cation concentrations (log[c]) is depicted in Fig. 6. The cation sensitivity of Na+, K+, Ca2+, and Mg2+ for MacroPSi of this study was found to be 59, 50.5, 39.4, 31.2 mV/dec, with linearity of 0.99 0.99, 0.95, 0.97, respectively, whereas sensitivity of ZrO2/MacroPSi for Na+, K+, Ca2+ and Mg2+ was found to be 67, 62, 44, and 38.2 mV/dec, with linearity of 0.99, 0.98, 0.97 and 0.98, respectively. It has been shown that the obtained sensitivity values for ZrO2/MacroPSi are greater and getting closer to the expected theoretically values. This is due to the extremely high surface to volume ratio of ZrO2-NPs as well as the substrate MacroPSi, which provides a broader linked surface area, i.e., a greater number of sites per unit area, these sites are crucial because they function as free acceptors on the sensor's surface, drawing hydrogen ions. Consequently, increasing the number of these sites will concurrently enhance the membrane's surface potential. This increases the ion-exchange process, leading to a higher accumulation of positive charges on the surface of sensing membrane (Das 2014; Kabaa et al. 2019; Chi et al. 2000). These processes increase pH sensitivity. Based on the sensitivity values, it was determined that the heterostructure ZrO2/MacroPSi was more sensitive to the Na+ ion than to the other ions due to its small hydration number, with higher mobility caused by the collection of Na+ inside the ZrO2 membrane, resulting in an increase in the potential value. The results of this investigation are compared to those of prior studies in Table 1.
+
+Fig. 6
+figure 6
+Voltage Sensitivity, and linearity of EGFET based on (a) MacrPSi and (b) ZrO2/MacroPSi as Na+, K+, Ca2+, and Mg2+sensor
+
+Full size image
+Table 1 Voltage sensitivity of Na+, K+, Ca2+, and Mg2+ of this study and some previous studies
+Full size table
+Saturation region
+When a channel is formed, a saturation region develops that permits the flow of current between the drain and source (IDS). According to the site-binding model, cations move to a sensing surface when a potential difference exists between the reference electrode and the sensing gate, which means that when the ion concentration is higher in the solution, that will generate a higher IDS, that leads to an increase in the surface potential, and in turn leads to a reduction in the threshold voltage VT (EGFET). The square root of IDS is a function of Vref, and the IDS-VDS can be represented as (Kabaa et al. 2019; Chi et al. 2000):
+
+(4)
+where λm is the channel length factor modulation. Figure 7 represents the output characteristics (IDS-VDS) of the MacrPSi and ZrO2 NPs/MacroPSi EGFET sensors in the saturation region (Vref remained constant at 3 V, whereas VDS scanned from 0 to 5 V) measured at different concentrations of NaCl, KCl, CaCl2, and MgCl2 solutions varied from 10–4 to 1 M. It is observed that the drain current decreases with increasing the solution molarity value.
+
+Fig. 7
+figure 7
+The I-V characterization of (a) MacrPSi and (b) ZrO2/MacroPSi EGFET for various ion sensors in linear region
+
+Full size image
+In the saturation region, the preceding results were mirrored in the sensitivity of the current. Figure 8 illustrates the linear proportion between the log [c] value and the square root of IDS determined at VDS equal to 3 V. The MacroPSi current sensitivity values for Na+, K+, Ca2+, and Mg2+ have been determined to be 1.09, 0.73, 0.62 and 0.32 √μA∕dec, with linearities of 0.98, 0.97, 0.98, 0.99, respectively. In contrast, the increasing in current sensitivity values for ZrO2/MacroPSi sensing membranes have been also determined for Na+, K+, Ca2+, and Mg2+ which were found to be 1.22, 1.06, 0.605, and 0.49 √μA∕dec, with linearities of 0.99, 0.98, 0.99, and 0.97, respectively. Eventually, it is worth mentioning here the novelty of this work, which is one of the most noteworthy facts to consider regarding the present work.
+
+Fig. 8
+figure 8
+Current Sensitivity, and linearity of EGFET based on (a) MacrPSi and (b) ZrO2/MacroPSi as Na+, K+, Ca2+, and Mg2+sensor
+
+Full size image
+A unique, affordable, and highly sensitive sensor has been created for the detection of physiologically significant human metal ions such as Na+, K+, Ca2+, and Mg2+. In human bodily fluids, an excess or lack of metal ions may result in a variety of medical diseases. Consequently, frequent monitoring of cations is essential for understanding physiological functioning, illness diagnosis, and disease prevention. Our new sensor could be used to recognize pH and metal ions in the body.
+
+Conclusion
+This study presents the synthesis, characterization, and application of an extended gate field-effect transistor (EGFET) based on ZrO2/MacroPSi as a cation sensor. Hence, a highly sensitive ions EGFET sensor was fabricated based on the improved ZrO2/MacroPSi. Multiple biologically significant cations, including Na + , K + , Ca2 + , and Mg2 + , have been evaluated with the constructed sensor. The results of the measurements of the study indicated that the voltage sensitivity of 67, 62, 44, and 38.2 mV/dec was observed for Na+, K+, Ca2+, and Mg2 ions, respectively. Using the current/voltage to determine the sensitivity of ions, these values are quite near to the theoretical Nernstian value. Further, the current sensitivity of the ions sensor was also determined and found to be 1.09, 1.04, 0.54, and 0.52 (µA)1/2/dec, for Na+, K+, Ca2+, and Mg2+ions, respectively. The results demonstrated that the current/voltage sensitivity values are highly linear. It can be determined that the present results indicate that the manufactured EGFET cations sensor for Na + , K + , Ca2 + , and Mg2+ ions has good sensitivity and linearity. Consequently, such an EGFET ions sensor is prospective for future usage as a biosensor for human cations and PH detection.
+

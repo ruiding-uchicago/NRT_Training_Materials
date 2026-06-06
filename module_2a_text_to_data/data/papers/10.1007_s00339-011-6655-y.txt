@@ -1,0 +1,149 @@
+Nano-porous indium oxide transistor sensor for the detection of ethanol vapours at room temperature
+Published: 12 November 2011
+Volume 106, pages 137–143, (2012)
+Cite this article
+Download PDF
+Access provided by Big Ten Academic Alliance (BTAA)
+
+
+Applied Physics A
+Aims and scope
+Submit manuscript
+M. Seetha & D. Mangalaraj 
+554 Accesses
+
+Explore all metrics 
+
+Abstract
+Porous indium oxide thin film prepared by the dip coating technique has been used in the construction of a field effect transistor. The coating solution was prepared from indium chloride precursor. The average particle size of the dip coated thin film was found to be 25 nm. Scanning electron microscopic images show the porous nature of the film, and the root mean square roughness of the film calculated using atomic force microscope was 24 nm. A transistor has been constructed by evaporating metal Aluminium as source and drain electrodes on the indium oxide active layer and employing the silicon substrate itself as a gate. The sensor response of the constructed transistor was tested with ethanol, ammonia and acetone vapours. The sensor showed good response to ethanol vapours even at 5-ppm level, and the time for response and recovery of the gas was nearly 1 min. Response to ammonia and acetone was comparatively poor. When the gate voltage was increased from 0 to 300 mV, a considerable increase in the source-drain current was observed. As the temperature of the sensing element increased, response to ethanol vapours also increased. There was nearly a linear variation in the transistor response for 100 ppm of ethanol vapours when the gate voltage was swept from 0 to 300 mV. The sensor response of the transistor increases with the gas concentration. The constructed transistor was found to be selectively sensitive to ethanol; therefore it can be implemented to work as a breath alcohol checker.
+
+Similar content being viewed by others
+
+High Sensitivity of HCl Gas Sensor Based on Pentacene Organic Field-Effect Transistor
+Article 02 February 2021
+
+Fabrication of Organic Transistors Using Nanomaterials for Sensing Applications
+Article 08 September 2017
+
+Deposition of Nanostructured Indium Oxide Thin Films for Ethanol Sensing Applications
+Article 01 February 2016
+1 Introduction
+Indium oxide (In2O3) is one of the transparent semi-conducting oxides with a wide band gap. High transmittance in visible and infrared regions and good electrical conductivity of the material make it suitable for applications in various solid-state devices such as thin-film transistors, optoelectronic devices, tunnel barriers in spintronic devices, etc [1–4]. This material has been studied extensively as a chemical sensor for sensing a variety of gases such as H2, CO, O3, NO x , H2S, NH3, CH3OH and CH3CH2OH [5–10]. In2O3 in its nanostructure form shows an improved response towards various gases [11–13].
+
+Takada in 1989 reported an In2O3 thin-film-based ozone sensor, and the sensing mechanism was based on the adsorption phenomena of an ozone molecule on the surface of the sensing film, which increases the film resistance [14]. Similarly a reducing gas adsorption will decrease the film resistance due to the n-type conductivity of the material. When In2O3 semiconductor is exposed to air, oxygen would get adsorbed on its surface. At a certain temperature, oxygen in air gets adsorbed on the surface of In2O3 semiconductor and holds the free electrons present in it, i.e. chemisorbed oxygen, such as 
+ or 
+ [8]. As a result, the resistance of the n-type semiconductor increases. When In2O3 is in contact with CH3CH2OH gas, the reducing gas may react with 
+ and put back the electrons to the In2O3 semiconductor, and thereby the resistance of In2O3 decreases. Also, it has been found that the sensing properties for metal oxides depend on several factors, such as surface states and the specific area offered by the sensing element [15–17]. Since sensing property of the material is related to the surface, the enhancement of surface area helps to improve its sensor response.
+
+A highly responsive design for gas sensor application is the Field-effect transistor (FET). However, it is one of the most complicated device designs tested to date. In traditional FETs, small voltages applied to the gate can control large currents that pass through the channel between the source and drain. In the case of sensor applications, the small changes induced in the catalytic metal by the reactant gases can cause large changes in the source-drain current, which makes this device a very sensitive sensor [18].
+
+In the present work, porous In2O3 thin film has been synthesised by solution growth method. As porous thin film offers a larger surface area to the gas molecules when compared to that of thin films, a metal-oxide field-effect transistor (MOSFET) has been constructed using the prepared surface area improved thin film. In general, response of In2O3 sensor to ethanol was lower [10], and in this work, the sensor response of the porous thin film transistor has been tested with gases such as ethanol, ammonia and acetone. The transistor sensor showed good response to ethanol and is more selective to ethanol when compared to ammonia and acetone. Hence it can act as a breath alcohol monitor to measure ethanol vapour in human breath. This in turn determines the amount of alcohol in human blood.
+
+2 Experimental
+2.1 Coating solution
+Initially, 0.1 M of indium chloride (InCl3, Aldrich) solution was precipitated with aqueous ammonia. The precipitates were centrifugally washed several times (15,000 rpm, 20 min) with double distilled water to remove the contained free ions. A clear transparent solution was prepared by adding glacial acetic acid to the washed precipitates. The pH of the transparent solution was close to 2, and the solution was kept without disturbance (i.e. aging) until its pH becomes 4. The aged solution was used for the synthesis of porous In2O3 thin films. A similar synthesis of In2O3 thin film has been carried out by the authors on modified glass substrates for testing ethanol and ammonia [19].
+
+2.2 Thin film transistor construction
+In order to construct a transistor, initially p-type silicon (Si) substrate with 25 Ω cm bulk resistivity was thermally oxidised in a horizontal tube furnace to form an insulating silicon dioxide (SiO2) film of 800-nm thickness over its surface. The oxidised substrates were then dip coated and annealed to 400∘C for 1 h in a muffle furnace. Thus, the n-type In2O3 was coated over the insulating SiO2 formed on the p-type Si substrate, and a 1 cm×1 cm uniform area of the film was used for device construction. The source and drain electrodes were deposited by evaporating aluminium (Al) metal over the synthesised thin film. Thickness of the Al over the film was 250 nm, and the dimensions were 0.4 cm × 0.2 cm. Si substrate was used as the gate, and for making contact, 0.4 cm × 0.4 cm Al was coated with the same thickness. Figure 1 shows the schematic diagram of the transistor sensor.
+
+Fig. 1
+figure 1
+Schematic representation of the constructed FET transistor
+
+Full size image
+2.3 Sensing test
+The constructed transistor was kept inside the sensing chamber, and the gas was allowed through the inlet and purged from the other end of the chamber. As discussed in Sect. 1, atmospheric oxygen molecules chemisorbed over the surface of the active layer (In2O3) hold the free electrons present on the surface of the thin film. When the test gas molecules enter into the chamber, oxidation of the gas molecules takes place (due to the presence of chemisorbed oxygen on the surface of the thin film). In the case of ethanol vapours, the following two reactions may take place [13]:
+
+	(1)
+and
+
+	(2)
+Equation (1) describes the dehydrogenation of ethanol into acetaldehyde, and (2) dehydration of ethylene. The intermediate products, acetaldehyde and ethylene, are subsequently reduced to carbon dioxide and water vapour. As the chemisorbed oxygen leaves the surface of the active layer, the free electrons carried by the oxygen molecules are put back again. Thereby the source-drain current (I ds) increases, which can be further increased by an increase in gas concentration.
+
+2.4 Characterisation
+The structure of the thin film was analysed using a PANalytical X’Pert PRO X-Ray diffractometer with Cu K α radiation (λ=1.5406×10−10 m). The surface and cross-section of the thin film were analysed through a FEI Quanta 200 Scanning electron microscope, and the surface roughness of the prepared thin film was calculated using Veeco Caliber Atomic force microscopy. The electrical parameters were measured using ECOPIA-HMS 3000-room temperature Hall measurement system with a permanent magnet of 0.5 T, voltage of 1 mA and delay time of 0.5 s. Transistor and sensor parameters were monitored using a Keithley 2001 multimeter.
+
+3 Results and discussion
+3.1 Structural analysis
+Figure 2 shows the XRD pattern of the film dip coated on silicon dioxide layer over silicon wafer. The diffraction peaks in the pattern correspond to the (211), (222), (400), (411), (332), (431), (440), (611), (622), (631) and (444) planes, which can be indexed to the body-centred cubic structure of In2O3 (space group Ia3, JCPDS # 06-0416). The average crystallite size (D) has been calculated from the βcosθ value calculated from the Williamson–Hall plot using the Scherrer formula
+
+	(3)
+where λ is the wavelength of the X-ray used, β is the full width at half maximum, and θ is the angle between the incident and the scattered X-ray. The average crystallite size calculated using the Scherrer formula is 25 nm. The lattice parameter is found to be 10.11 Å, which is in close agreement with the standard body centred cubic In2O3 (JCPDS # 06-0416).
+
+Fig. 2
+figure 2
+XRD pattern of the In2O3 thin film coated on silicon dioxide layer over silicon substrate
+
+Full size image
+3.2 Surface analysis
+Figure 3(a) shows the Scanning Electron Microscopic (SEM) image of the dip-coated In2O3 thin film. A porous surface has been observed with pore sizes ranging from Nano to micrometres. Surface porosity is one of the factors which enhance the surface area of the prepared thin film, which offers a number of adhesion sites to the gas molecules. The cross sectional image in Fig. 3(b) shows the curved edge pores present in the film, and the thickness of the porous film is found to be 375 nm. Figure 4 shows the 2-D and 3-D Atomic Force Microscopic (AFM) images of the dip coated In2O3 thin film coated on SiO2 layer over the Si wafer. Spherical grains are observed in the 2-D AFM image as shown in Fig. 4(a). Figure 4(b) shows the 3-D image of the dip-coated In2O3 thin film. Figure 4(a and b) covers 5-μm area of the prepared film; the average roughness is found to be 17 nm, and RMS roughness of the film is calculated as 24 nm.
+
+Fig. 3
+figure 3
+(a) SEM image of the In2O3 thin film coated on silicon dioxide layer over silicon substrate. (b) Cross sectional SEM image of the In2O3 thin film
+
+Full size image
+Fig. 4
+figure 4
+(a) 2D AFM image of In2O3 Coated on SiO2 layer over silicon substrate. (b) 3D view of the AFM image in (a)
+
+Full size image
+3.3 Hall-effect measurements
+The resistivity, mobility and carrier concentration present in the prepared porous thin film have been calculated using Hall-effect measurements. The measurements were performed at room temperature in van der Pauw configuration. For this measurement, the prepared thin film (1 cm×1 cm area) with silver point-contacts at the four edges has been used. The resistivity from the measurement was found to be 1.67×10−5 Ω  cm. The mobility and carrier concentration present in the film at room temperature were measured as 113.89 cm2/V s and 3.29×1021 cm−3, respectively. The prepared film was found to possess better mobility and higher carrier concentration when compared with the reported results [20, 21]. Hence the prepared porous thin film was more efficient to work as a gas sensor.
+
+3.4 FET characteristics
+A field-effect transistor has been constructed using the Nano-porous In2O3 thin film, and the current–voltage characteristics of the transistor were analysed. The carrier concentration in the film is directly related to its conductance, which in turn can be altered by applying the gate voltage or by the adsorbed ethanol vapours due to its electron accepting capability  [22]. The back-gate effect of the In2O3 porous thin film can be confirmed from the source-drain current (I ds)–source-drain voltage (V ds) curves of the transistor shown in Fig. 5. A nearly linear variation has been observed for the positive gate voltages (V g), which shows the formation of a nearly ohmic contact between the film and the electrode. Apart from the carrier concentration, the established ohmic contact between the thin film and the electrode promotes the sensor response. In the present work, the change in I ds with respect to the change in V ds at constant V g has been measured, which is in turn related to the resistance of the material. The current–voltage curves have been plotted by varying V g from −300 mV to +300 mV in steps of 150 mV. The transistor is sensitive to electrostatic gating as is clearly seen in the inset of Fig. 5, where a change ∼380% in conductance was observed when V g was swept from 0 to 300 mV. Therefore, the transistor sensor is supposed to be very sensitive to dilute molecules [22].
+
+Fig. 5
+figure 5
+Current–voltage characteristics (I ds–V ds) curves of the transistor at different gate voltages (V g from −300 mV to +300 mV in steps of 150 mV). Inset shows the corresponding I ds–V g curve at V ds of 10 V
+
+Full size image
+A similar work has been reported by Zheng et al. in the construction of In2O3 nanowire transistor for the detection of H2S at room temperature [22]. They have reported a change of up to 300% in I ds for the change in V g, and Zhang et al. reported a change of up to 40% for the detection of NO2 at ppb levels [23]. In the present work, the observed change for V g in milli-voltage level is considerably more, and therefore the constructed transistor sensor will be sensitive to a dilute concentration of the gas molecules.
+
+3.5 Transistor sensor
+The current–voltage (I ds–V ds) characteristics of the transistor sensor at room temperature were measured when V g was maintained at 0 mV. The sensor has been exposed to different concentrations of ethanol vapours (5 ppm, 10 ppm, 50 ppm and 100 ppm) for ∼6 min, and the Relative Humidity (RH) inside the sensor chamber was 40%. The observed changes have been noted and shown in Fig. 6. A nearly linear variation was observed as in Fig. 5. As the concentration of ethanol increased, the sensor current also increased. When the gate voltage was varied from V g=0 mV to 150 mV and 300 mV, a considerable increase in the response (I ds) to ethanol vapours has been observed. Figure 7 shows the current–voltage curves for 100 ppm of ethanol with the increase in gate voltage. The current I ds, has been increased from 260 μA to 315 μA for the change of V g from 0 mV to 300 mV.
+
+Fig. 6
+figure 6
+Current–voltage curves of the sensor recorded after the exposure of ethanol vapours with increase in concentrations at room temperature when the gate voltage V g was maintained at 0 mV
+
+Full size image
+Fig. 7
+figure 7
+Current–voltage curves of the sensor recorded after the exposure of 100 ppm of ethanol vapours with increase in the gate voltage V g from 0 mV to 300 mV
+
+Full size image
+Apart from ethanol, the response of the sensor towards ammonia and acetone has also been tested. Figure 8 shows the response of the sensor to 100 ppm of ethanol, ammonia and acetone. The response of the sensor to ammonia and acetone is much lower when compared to that for ethanol. Figure 9 shows the time-dependent response to the gases at room temperature for various concentrations from 5 to 100 ppm, at constant V g and V ds (V g=0 mV and V ds=2 V). The response and recovery times for the ethanol gas were found to be nearly equal, i.e. from 50 s to 1 min. For lower concentrations of ammonia and acetone (5 ppm and 10 ppm), no change was observed in I ds. For 50 ppm of acetone, there was a slight response from the sensor, which was also in the negligible range, but the sensor did not show any response to 50 ppm of ammonia. The sensor showed nearly equal but a small response to both ammonia and acetone gas molecules when their concentration was 100 ppm. The response to ammonia and acetone is lower when compared to that for 5 ppm of ethanol. There is only a small difference in the response curve for 5 and 10 ppm of ethanol. This is due to the less difference in gas concentration (only 5 ppm), and thus, the minimum change is observed. The constructed transistor is more sensitive to ethanol than ammonia or acetone. The sensor response has been tested for ethanol at RH 40%, which is the ambient condition inside the sensor chamber. As the In2O3 is a good sensor for humidity, the experiment was again carried out at higher levels of RH, and it is observed that for an increase in RH inside the sensing chamber, there is an increase in response to ethanol vapours. Figure 10 shows the response of the sensing element at RH 60%. The experiment was carried out when V g was maintained at 0 mV and V ds was at 2 V. Thus, the constructed transistor sensor can sense ethanol at normal and humid conditions (up to 60% of RH).
+
+Fig. 8
+figure 8
+Current–voltage curves of the sensor recorded after the exposure of 100 ppm of ethanol, ammonia and acetone vapours at V g=0 mV
+
+Full size image
+Fig. 9
+figure 9
+Response of the In2O3 sensor upon exposure of various concentrations of ethanol, ammonia and acetone vapours at room temperature, where V g=0 mV and V ds=2 V
+
+Full size image
+Fig. 10
+figure 10
+Humidity cross sensitivity of the sensor upon various concentrations of ethanol vapours where V g=0 mV and V ds=2 V
+
+Full size image
+Even though the constructed sensor worked well and selectively for ethanol, it is more important to test the repeatability of the method by which the work was carried out. To check the reproducibility of the constructed transistor sensor, four such sensing elements have been constructed with separately prepared coating solutions. The solutions were prepared with similar conditions as described in Sect. 2.1. The silicon substrates were dip coated with a constant dipping time of 1 min and annealed at 400∘C for 1 h. Transistors were constructed with the synthesised films, and the sensing property of the constructed FETs was checked with 5 ppm and 10 ppm of ethanol vapours at room temperature when V g=150 mV and V ds=1 V. Figure 11 shows the response of the constructed transistor sensors to ethanol vapours. All of the constructed FETs showed identical response to the ethanol vapours, which confirms that the method adopted for the construction of transistor in the present work is reproducible.
+
+Fig. 11
+figure 11
+Sensitivity of the constructed FETs towards 5 and 10 ppm of ethanol gas when V g=150 mV and V ds=1 V
+
+Full size image
+The constructed sensor is reproducible and works well even at higher levels of humidity for ethanol. But the sensing tests have been done only at room temperatures. If the temperature of the sensing element were increased further, would the response be same? To clarify this question, temperature-dependent response of the sensing element was carried out by varying the temperature of the sensing element from room temperature to 50∘C and 100∘C. Figure 12 clearly shows the improvement in sensor response to ethanol at elevated temperatures. Here also the V g and V ds were kept at constant values (V g=0 mV and V ds=2 V). As the temperature increases from room temperature, the saturation point of the output current gets disturbed. The response curve tends to increase within 6 min of the response time (for which stability has been observed at room temperature). Only at higher response time, the response curve attains saturation, and the sensor response is also high. Thus, it is inferred that, if the constructed transistor has to work at elevated temperatures (i.e. above 50∘C), the output signal has to be connected with a suitable compensation circuit to give a stable and notable output within 6 min of response time.
+
+Fig. 12
+figure 12
+Temperature-dependent response of the sensor to ethanol vapours when V g=0 mV and V ds=2 V
+
+Full size image
+4 Conclusion
+Porous In2O3 thin film was synthesised using dip-coating technique. SEM images showed the porous nature of the synthesised thin film. FETs were constructed with Al source and drain electrodes and the Si substrate itself acting as the gate electrode. Gas response kinetics of the constructed metal oxide semiconductor transistor was tested with ethanol, ammonia and acetone vapours. The response for ethanol at room temperature was good when compared with ammonia and acetone. The sensor has shown response to acetone when the concentration of the gas was 50 ppm, whereas it showed response only to 100 ppm of ammonia. But the response to ammonia and acetone was lower when compared with that for 5 ppm of ethanol vapours. The constructed sensor showed good response at elevated temperatures also; however, if the sensor has to work at elevated temperatures, the observed disturbances have to be corrected by suitable compensation circuits. The thin-film transistor was more selective to ethanol when compared to ammonia and acetone vapours. This may be due to the functional group of ethanol and moisture. The reproducibility of the sensing element was also tested and proved. The selective detection of ethanol paves a way to construct a breath alcohol tester, and with this result it is possible to construct a dedicated alcohol tester for human breath checking.

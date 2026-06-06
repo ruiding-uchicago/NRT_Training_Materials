@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.aca.2020.12.040",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Cu2+",
+      "lower_detection_limit": "3.3e-11 M",
+      "upper_detection_limit": "1e-7 M",
+      "probe_material": "P4VP(poly(4-vinylpyridine))/SWCNT(single-walled carbon nanotube)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

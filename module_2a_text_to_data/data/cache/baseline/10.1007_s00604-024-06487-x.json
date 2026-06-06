@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00604-024-06487-x",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "phenytoin (PHT)",
+      "lower_detection_limit": "12.9 ng/mL",
+      "upper_detection_limit": "200 ng/mL",
+      "probe_material": "molecularly imprinted polymer (MIP) on ZnO nanorods (ZNRs) or nanosheets (ZNSs)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "7.0",
+      "test_medium": "artificial plasma fluid diluted tenfold with sodium phosphate buffer"
+    }
+  ]
+}

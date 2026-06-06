@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_d1qm01274f",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine (adrenaline)",
+      "lower_detection_limit": "0.34 nM",
+      "upper_detection_limit": "50 μM",
+      "probe_material": "BiVO4 nanofibers",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": 7.2,
+      "test_medium": "human urine"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.7b02986",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "hafnium dioxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4−lower",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

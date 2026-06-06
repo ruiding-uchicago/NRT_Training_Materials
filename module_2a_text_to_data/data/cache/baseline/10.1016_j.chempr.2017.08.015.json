@@ -1,0 +1,45 @@
+{
+  "stem": "10.1016_j.chempr.2017.08.015",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "amphetamine (1-phenylpropan-2-amine)",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "not available",
+      "probe_material": "cucurbit[7]uril (CB[7]) derivatives (allyloxyCB[7] 3 and phenylbutoxyCB[7] 4)",
+      "test_operating_temperature (celcius)": "not available",
+      "pH_value": -1,
+      "test_medium": "DI water"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "amphetamine (1-phenylpropan-2-amine)",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "not available",
+      "probe_material": "cucurbit[7]uril (CB[7]) derivatives (allyloxyCB[7] 3 and phenylbutoxyCB[7] 4)",
+      "test_operating_temperature (celcius)": "not available",
+      "pH_value": 7.4,
+      "test_medium": "PBS buffer (0.01 M, pH 7.4, containing 137 mM NaCl and 2.7 mM KCl)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "amphetamine (1-phenylpropan-2-amine)",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "not available",
+      "probe_material": "cucurbit[7]uril (CB[7]) derivatives (allyloxyCB[7] 3 and phenylbutoxyCB[7] 4)",
+      "test_operating_temperature (celcius)": "not available",
+      "pH_value": -1,
+      "test_medium": "real urine"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "methamphetamine (N-methyl-1-phenylpropan-2-amine)",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "not available",
+      "probe_material": "cucurbit[7]uril (CB[7]) derivatives (allyloxyCB[7] 3 and phenylbutoxyCB[7] 4)",
+      "test_operating_temperature (celcius)": "not available",
+      "pH_value": -1,
+      "test_medium": "DI water"
+    }
+  ]
+}

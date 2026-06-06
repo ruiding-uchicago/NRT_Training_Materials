@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.201101016",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "NO",
+      "lower_detection_limit": "0.8 ppm",
+      "upper_detection_limit": "2 ppm",
+      "probe_material": "MoS2",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": -1,
+      "test_medium": "N2"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See ourprivacy policyfor more information on the use of your personal data.
+
+Manage preferencesfor further information and to change your choices.
+
+基于受体修饰的双层有机场效应晶体管化学传感器 用于高灵敏检测锂离子电池电解液泄漏
+
+854Accesses
+
+Explore all metrics
+
+The leakage of flammable and explosive lithium-ion battery (LIB) electrolytes can be one of the early symptoms of battery malfunction and can even lead to spontaneous battery combustion or electric car explosion. Therefore, it is necessary to find a rapid and simple method to monitor any leakage of LIB electrolytes. However, LIB electrolytes are generally composed of volatile and redox neutral carbonate solvents. Trace amounts of electrolyte leakage are difficult to detect effectively and rapidly by existing compact sensors. Here, for the first time, we propose a strategy that cooperatively combines the sensitivity of organic field-effect transistors (OFETs) and the selectivity of biurea receptors to detect LIB electrolyte leakage. The fabricated sensors show much higher sensitivity than the pristine sensor without receptors, and the detection limit of the sensor toward diethyl carbonate was 1.4 ppm. Trace amounts of LIB electrolyte leakage could be detected effectively in seconds, with 200 nL electrolyte leakage leading to a 3% response. We also demonstrate the real-time detection of LIB electrolyte leakage by our OFET sensors. The excellent performance of the receptor-coated OFET sensor makes it a good candidate for LIB safety monitoring and provides a promising platform for the development of sensing technologies.
+
+易燃易爆的锂离子电池电解液泄漏是电池故障的早期症状之一, 甚至会导致电池自燃或电动汽车爆炸. 因此, 有必要找到一种快速简单 的方法来监测电解液泄漏. 现有的传感器难以有效且快速地检测微量电解液泄漏. 我们首次提出了一种将有机场效应晶体管(OFET)的灵敏度和联二脲受体的选择性相结合, 以检测电池电解液泄漏的策略. 复合后的传感器与没有受体的原始传感器相比, 灵敏度显著提高, 传感器对碳酸二乙酯的检测限低至1.4 ppm. 并且可以在几秒钟内有效地检测到微量的泄漏, 200 nL电解液泄漏能够导致3%的响应. 受体复合后的OFET传感器的优异性能使其成为锂离子电池安全监测的良好候选者, 并为传感技术的发展提供了一个有前途的平台.
+
+This is a preview of subscription content,log in via an institutionto check access.
+
+Price excludes VAT (USA)Tax calculation will be finalised during checkout.
+
+Instant access to the full article PDF.
+
+Institutional subscriptions
+
+Li M, Lu J, Chen Z,et al.30 Years of lithium-ion batteries. Adv Mater, 2018, 30: 1800561
+
+ArticleGoogle Scholar
+
+Wen J, Yu Y, Chen C. A review on lithium-ion batteries safety issues: Existing problems and possible solutions. Mat Express, 2012, 2: 197–212
+
+ArticleCASGoogle Scholar
+
+Golubkov AW, Fuchs D, Wagner J,et al.Thermal-runaway experiments on consumer Li-ion batteries with metal-oxide and olivin-type cathodes. RSC Adv, 2014, 4: 3633–3642
+
+Li Y, Liu K, Foley AM,et al.Data-driven health estimation and lifetime prediction of lithium-ion batteries: A review. Renew Sustain Energy Rev, 2019, 113: 109254
+
+Horsthemke F, Friesen A, Mönnighoff X,et al.Fast screening method to characterize lithium ion battery electrolytes by means of solid phase microextraction-gas chromatography-mass spectrometry. RSC Adv, 2017, 7: 46989–46998
+
+Wilken S, Treskow M, Scheers J,et al.Initial stages of thermal decomposition of LiPF6-based lithium ion battery electrolytes by detailed Raman and NMR spectroscopy. RSC Adv, 2013, 3: 16359–16364
+
+Di C, Zhang F, Zhu D. Multi-functional integration of organic field-effect transistors (OFETs): Advances and perspectives. Adv Mater, 2013, 25: 313–330
+
+Guo Y, Yu G, Liu Y. Functional organic field-effect transistors. Adv Mater, 2010, 22: 4427–4447
+
+Zhao G, Dong H, Jiang L,et al.Single crystal field-effect transistors containing a pentacene analogue and their application in ethanol vapor detection. Appl Phys Lett, 2012, 101: 103302
+
+Li C, Wu H, Zhang T,et al.Functionalized π stacks of hexabenzoperylenes as a platform for chemical and biological sensing. Chem, 2018, 4: 1416–1426
+
+Li H, Dailey J, Kale T,et al.Sensitive and selective NO2sensing based on alkyl- and alkylthio-thiophene polymer conductance and conductance ratio changes from differential chemical doping. ACS Appl Mater Interfaces, 2017, 9: 20501–20507
+
+Lu Y, Zhang S, Dai S,et al.Ultrasensitive detection of electrolyte leakage from lithium-ion batteries by ionically conductive metal-organic frameworks. Matter, 2020, 3: 904–919
+
+Zhang F, Qu G, Mohammadi E,et al.Solution-processed nanoporous organic semiconductor thin films: Toward health and environmental monitoring of volatile markers. Adv Funct Mater, 2017, 27: 1701117
+
+Yuan Y, Giri G, Ayzner AL,et al.Ultra-high mobility transparent organic thin film transistors grown by an off-centre spin-coating method. Nat Commun, 2014, 5: 3005
+
+Zhang C, Chen P, Hu W. Organic field-effect transistor-based gas sensors. Chem Soc Rev, 2015, 44: 2087–2107
+
+Zhang S, Zhao Y, Du X,et al.Gas sensors based on nano/microstructured organic field-effect transistors. Small, 2019, 15: 1805196
+
+Ji D, Li T, Hu W,et al.Recent progress in aromatic polyimide dielectrics for organic electronic devices and circuits. Adv Mater, 2019, 31: 1806070
+
+Ji S, Wang H, Wang T,et al.A high-performance room-temperature NO2sensor based on an ultrathin heterojunction film. Adv Mater, 2013, 25: 1755–1760
+
+Lu J, Liu D, Zhou J,et al.Porous organic field-effect transistors for enhanced chemical sensing performances. Adv Funct Mater, 2017, 27: 1700018
+
+Wu X, Mao S, Chen J,et al.Strategies for improving the performance of sensors based on organic field-effect transistors. Adv Mater, 2018, 30: 1705642
+
+Zang Y, Huang D, Di CA,et al.Device engineered organic transistors for flexible sensing applications. Adv Mater, 2016, 28: 4549–4555
+
+Khim D, Ryu GS, Park WT,et al.Precisely controlled ultrathin conjugated polymer films for large area transparent transistors and highly sensitive chemical sensors. Adv Mater, 2016, 28: 2752–2759
+
+Li L, Gao P, Baumgarten M,et al.High performance field-effect ammonia sensors based on a structured ultrathin organic semiconductor film. Adv Mater, 2013, 25: 3419–3425
+
+Wang Z, Huang L, Zhu X,et al.An ultrasensitive organic semiconductor NO2sensor based on crystalline TIPS-pentacene films. Adv Mater, 2017, 29: 1703192
+
+Zhang F, Di C, Berdunov N,et al.Ultrathin film organic transistors: Precise control of semiconductor thicknessviaspin-coating. Adv Mater, 2013, 25: 1401–1407
+
+Lee MY, Kim HJ, Jung GY,et al.Highly sensitive and selective liquidphase sensors based on a solvent-resistant organic-transistor platform. Adv Mater, 2015, 27: 1540–1546
+
+Shen H, Zou Y, Zang Y,et al.Molecular antenna tailored organic thin-film transistors for sensing application. Mater Horiz, 2018, 5: 240–247
+
+Sokolov AN, Roberts ME, Johnson OB,et al.Induced sensitivity and selectivity in thin-film transistor sensorsviacalixarene layers. Adv Mater, 2010, 22: 2349–2353
+
+Torsi L, Farinola GM, Marinelli F,et al.A sensitivity-enhanced field-effect chiral sensor. Nat Mater, 2008, 7: 412–417
+
+Li H, Shi Y, Han G,et al.Monolayer two-dimensional molecular crystals for an ultrasensitive OFET-based chemical sensor. Angew Chem Int Ed, 2020, 59: 4380–4384
+
+Lin P, Yan F. Organic thin-film transistors for chemical and biological sensing. Adv Mater, 2012, 24: 34–51
+
+Meng Q, Zhang F, Zang Y,et al.Solution-sheared ultrathin films for highly-sensitive ammonia detection using organic thin-film transistors. J Mater Chem C, 2014, 2: 1264–1269
+
+Peng B, Huang S, Zhou Z,et al.Solution-processed monolayer organic crystals for high-performance field-effect transistors and ultrasensitive gas sensors. Adv Funct Mater, 2017, 27: 1700999
+
+Jang M, Kim H, Lee S,et al.Highly sensitive and selective biosensors based on organic transistors functionalized with cucurbit[6]uril derivatives. Adv Funct Mater, 2015, 25: 4882–4888
+
+Jang Y, Jang M, Kim H,et al.Point-of-use detection of amphetamine-type stimulants with host-molecule-functionalized organic transistors. Chem, 2017, 3: 641–651
+
+Witte J, Neaton JB, Head-Gordon M. Effective empirical corrections for basis set superposition error in the def2-SVPD basis: gCP and DFT-C. J Chem Phys, 2017, 146: 234105
+
+Tan H, Chen Q, Chen T,et al.Selective adsorption and separation of xylene isomers and benzene/cyclohexane with microporous organic polymers POP-1. ACS Appl Mater Interfaces, 2018, 10: 32717–32725
+
+Lu T, Chen F. Multiwfn: A multifunctional wavefunction analyzer. J Comput Chem, 2012, 33: 580–592
+
+Download references
+
+This work was supported by the National Natural Science Foundation of China (61822405 and 62074111), the Science & Technology Foundation of Shanghai (19JC1412402 and 20JC1415600), Shanghai Municipal Science and Technology Major Project (2021SHZDZX0100), Shanghai Municipal Commission of Science and Technology Project (19511132101), and the Fundamental Research Funds for the Central Universities. We also acknowledge the help from Dr. Howard E. Katz on discussion about the selection of the receptors.
+
+Interdisciplinary Materials Research Center, School of Materials Science and Engineering, Frontiers Science Center for Intelligent Autonomous Systems, Tongji University, Shanghai, 201804, China
+
+Shiqi Zhang 
+            (张诗琦), Yang Lu 
+            (陆洋), Li Li 
+            (李立), Xin Wang 
+            (王鑫), Dapeng Liu 
+            (刘大鹏), Junyao Zhang 
+            (张钧尧), Shilei Dai 
+            (代世磊), Dandan Hao 
+            (郝丹丹), Ben Yang 
+            (杨奔) & Jia Huang 
+            (黄佳)
+
+Institute of New Energy for Vehicles, School of Materials Science and Engineering, Tongji University, Shanghai, 201804, China
+
+Quan Sun 
+            (孙全) & Yunhui Huang 
+            (黄云辉)
+
+Hangzhou Yanqu Information Technology Co., Ltd., Hangzhou, 310003, China
+
+Lai Wei 
+            (魏莱)
+
+Translational Research Institute of Brain and Brain-Like Intelligence, Shanghai Fourth People’s Hospital, Tongji University, Shanghai, 200434, China
+
+Jia Huang 
+            (黄佳)
+
+You can also search for this author inPubMedGoogle Scholar
+
+Zhang S performed the most tests and wrote the manuscript; Lu Y, Li L, Wang X, Zhang J, Sun Q and Huang Y helped with tests and characterization analysis; Liu D and Dai S helped build the test system; Hao D and Yang B helped analyze the data; Wei L provided theoretical calculations; Huang Y supervised the battery leakage test; Huang J developed the concept and provided financial support through grant applications. All authors contributed to the general discussion.
+
+Correspondence toJia Huang 
+            (黄佳).
+
+The authors declare that they have no conflict of interest.
+
+Supporting data are available in the online version of the paper.
+
+Shiqi Zhangreceived her Bachelor’s degree from the College of Nano Science and Technology, Soochow University. Now, she is pursuing her PhD degree under the supervision of Prof. Jia Huang at Tongji University. Her current research interest is organic thin-film transistors and chemical sensors.
+
+Jia Huangis a professor of materials science and engineering at Tongji University, Shanghai, China. He received his BSc degree in materials science and engineering from the University of Science and Technology of China, Hefei, China, MSc degree in applied science from the College of William & Mary, Williamsburg, VA, USA, and PhD degree in materials science and engineering from Johns Hopkins University, Baltimore, MD, USA. His research focuses on chemical sensors and thin-film transistors.
+
+Sensitive Sensors Based on Bilayer Organic Field-effect Transistors for Detecting Lithium-ion Battery Electrolyte Leakage
+
+Reprints and permissions
+
+Zhang, S., Lu, Y., Li, L.et al.Sensitive sensors based on bilayer organic field-effect transistors for detecting lithium-ion battery electrolyte leakage.Sci. China Mater.65, 1187–1194 (2022). https://doi.org/10.1007/s40843-021-1903-5
+
+Download citation
+
+Received:21 October 2021
+
+Accepted:18 November 2021
+
+Published:10 January 2022
+
+Issue Date:May 2022
+
+DOI:https://doi.org/10.1007/s40843-021-1903-5
+
+Anyone you share the following link with will be able to read this content:
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Advertisement
+
+146.137.70.67
+
+Argonne Research Library (8200955775)  - Department of Energy DOE Labs (3000179256)  - Colorado Alliance of Research Libraries (8200982549)
+
+© 2025 Springer Nature
+
+AbstractThe leakage of flammable and explosive lithium-ion battery (LIB) electrolytes can be one of the early symptoms of battery malfunction and can even lead to spontaneous battery combustion or electric car explosion. Therefore, it is necessary to find a rapid and simple method to monitor any leakage of LIB electrolytes. However, LIB electrolytes are generally composed of volatile and redox neutral carbonate solvents. Trace amounts of electrolyte leakage are difficult to detect effectively and rapidly by existing compact sensors. Here, for the first time, we propose a strategy that cooperatively combines the sensitivity of organic field-effect transistors (OFETs) and the selectivity of biurea receptors to detect LIB electrolyte leakage. The fabricated sensors show much higher sensitivity than the pristine sensor without receptors, and the detection limit of the sensor toward diethyl carbonate was 1.4 ppm. Trace amounts of LIB electrolyte leakage could be detected effectively in seconds, with 200 nL electrolyte leakage leading to a 3% response. We also demonstrate the real-time detection of LIB electrolyte leakage by our OFET sensors. The excellent performance of the receptor-coated OFET sensor makes it a good candidate for LIB safety monitoring and provides a promising platform for the development of sensing technologies.摘要易燃易爆的锂离子电池电解液泄漏是电池故障的早期症状之一, 甚至会导致电池自燃或电动汽车爆炸. 因此, 有必要找到一种快速简单 的方法来监测电解液泄漏. 现有的传感器难以有效且快速地检测微量电解液泄漏. 我们首次提出了一种将有机场效应晶体管(OFET)的灵敏度和联二脲受体的选择性相结合, 以检测电池电解液泄漏的策略. 复合后的传感器与没有受体的原始传感器相比, 灵敏度显著提高, 传感器对碳酸二乙酯的检测限低至1.4 ppm. 并且可以在几秒钟内有效地检测到微量的泄漏, 200 nL电解液泄漏能够导致3%的响应. 受体复合后的OFET传感器的优异性能使其成为锂离子电池安全监测的良好候选者, 并为传感技术的发展提供了一个有前途的平台.This is a preview of subscription content,log in via an institutionto check access.Access this articleLog in via an institutionSubscribe and saveSpringer+ Basic$34.99 /MonthGet 10 units per monthDownload Article/Chapter or eBook1 Unit = 1 Article or 1 ChapterCancel anytimeSubscribe nowBuy NowBuy article PDF USD 39.95Price excludes VAT (USA)Tax calculation will be finalised during checkout.Instant access to the full article PDF.Institutional subscriptionsSimilar content being viewed by othersThe features and advancements of electrodes and electrolyte materials for lithium-ion batteriesArticle08 March 2025Accessing the bottleneck in all-solid state batteries, lithium-ion transport over the solid-electrolyte-electrode interfaceArticleOpen access20 October 2017Fundamentals and Recent Advancements in Li-Ion BatteriesChapter© 2022ReferencesLi M, Lu J, Chen Z,et al.30 Years of lithium-ion batteries. Adv Mater, 2018, 30: 1800561ArticleGoogle ScholarWen J, Yu Y, Chen C. A review on lithium-ion batteries safety issues: Existing problems and possible solutions. Mat Express, 2012, 2: 197–212ArticleCASGoogle ScholarGolubkov AW, Fuchs D, Wagner J,et al.Thermal-runaway experiments on consumer Li-ion batteries with metal-oxide and olivin-type cathodes. RSC Adv, 2014, 4: 3633–3642ArticleCASGoogle ScholarLi Y, Liu K, Foley AM,et al.Data-driven health estimation and lifetime prediction of lithium-ion batteries: A review. Renew Sustain Energy Rev, 2019, 113: 109254ArticleGoogle ScholarHorsthemke F, Friesen A, Mönnighoff X,et al.Fast screening method to characterize lithium ion battery electrolytes by means of solid phase microextraction-gas chromatography-mass spectrometry. RSC Adv, 2017, 7: 46989–46998ArticleCASGoogle ScholarWilken S, Treskow M, Scheers J,et al.Initial stages of thermal decomposition of LiPF6-based lithium ion battery electrolytes by detailed Raman and NMR spectroscopy. RSC Adv, 2013, 3: 16359–16364ArticleCASGoogle ScholarDi C, Zhang F, Zhu D. Multi-functional integration of organic field-effect transistors (OFETs): Advances and perspectives. Adv Mater, 2013, 25: 313–330ArticleCASGoogle ScholarGuo Y, Yu G, Liu Y. Functional organic field-effect transistors. Adv Mater, 2010, 22: 4427–4447ArticleCASGoogle ScholarZhao G, Dong H, Jiang L,et al.Single crystal field-effect transistors containing a pentacene analogue and their application in ethanol vapor detection. Appl Phys Lett, 2012, 101: 103302ArticleGoogle ScholarLi C, Wu H, Zhang T,et al.Functionalized π stacks of hexabenzoperylenes as a platform for chemical and biological sensing. Chem, 2018, 4: 1416–1426ArticleCASGoogle ScholarLi H, Dailey J, Kale T,et al.Sensitive and selective NO2sensing based on alkyl- and alkylthio-thiophene polymer conductance and conductance ratio changes from differential chemical doping. ACS Appl Mater Interfaces, 2017, 9: 20501–20507ArticleCASGoogle ScholarLu Y, Zhang S, Dai S,et al.Ultrasensitive detection of electrolyte leakage from lithium-ion batteries by ionically conductive metal-organic frameworks. Matter, 2020, 3: 904–919ArticleGoogle ScholarZhang F, Qu G, Mohammadi E,et al.Solution-processed nanoporous organic semiconductor thin films: Toward health and environmental monitoring of volatile markers. Adv Funct Mater, 2017, 27: 1701117ArticleGoogle ScholarYuan Y, Giri G, Ayzner AL,et al.Ultra-high mobility transparent organic thin film transistors grown by an off-centre spin-coating method. Nat Commun, 2014, 5: 3005ArticleGoogle ScholarZhang C, Chen P, Hu W. Organic field-effect transistor-based gas sensors. Chem Soc Rev, 2015, 44: 2087–2107ArticleCASGoogle ScholarZhang S, Zhao Y, Du X,et al.Gas sensors based on nano/microstructured organic field-effect transistors. Small, 2019, 15: 1805196ArticleGoogle ScholarJi D, Li T, Hu W,et al.Recent progress in aromatic polyimide dielectrics for organic electronic devices and circuits. Adv Mater, 2019, 31: 1806070ArticleGoogle ScholarJi S, Wang H, Wang T,et al.A high-performance room-temperature NO2sensor based on an ultrathin heterojunction film. Adv Mater, 2013, 25: 1755–1760ArticleCASGoogle ScholarLu J, Liu D, Zhou J,et al.Porous organic field-effect transistors for enhanced chemical sensing performances. Adv Funct Mater, 2017, 27: 1700018ArticleGoogle ScholarWu X, Mao S, Chen J,et al.Strategies for improving the performance of sensors based on organic field-effect transistors. Adv Mater, 2018, 30: 1705642ArticleGoogle ScholarZang Y, Huang D, Di CA,et al.Device engineered organic transistors for flexible sensing applications. Adv Mater, 2016, 28: 4549–4555ArticleCASGoogle ScholarKhim D, Ryu GS, Park WT,et al.Precisely controlled ultrathin conjugated polymer films for large area transparent transistors and highly sensitive chemical sensors. Adv Mater, 2016, 28: 2752–2759ArticleCASGoogle ScholarLi L, Gao P, Baumgarten M,et al.High performance field-effect ammonia sensors based on a structured ultrathin organic semiconductor film. Adv Mater, 2013, 25: 3419–3425ArticleCASGoogle ScholarWang Z, Huang L, Zhu X,et al.An ultrasensitive organic semiconductor NO2sensor based on crystalline TIPS-pentacene films. Adv Mater, 2017, 29: 1703192ArticleGoogle ScholarZhang F, Di C, Berdunov N,et al.Ultrathin film organic transistors: Precise control of semiconductor thicknessviaspin-coating. Adv Mater, 2013, 25: 1401–1407ArticleCASGoogle ScholarLee MY, Kim HJ, Jung GY,et al.Highly sensitive and selective liquidphase sensors based on a solvent-resistant organic-transistor platform. Adv Mater, 2015, 27: 1540–1546ArticleCASGoogle ScholarShen H, Zou Y, Zang Y,et al.Molecular antenna tailored organic thin-film transistors for sensing application. Mater Horiz, 2018, 5: 240–247ArticleCASGoogle ScholarSokolov AN, Roberts ME, Johnson OB,et al.Induced sensitivity and selectivity in thin-film transistor sensorsviacalixarene layers. Adv Mater, 2010, 22: 2349–2353ArticleCASGoogle ScholarTorsi L, Farinola GM, Marinelli F,et al.A sensitivity-enhanced field-effect chiral sensor. Nat Mater, 2008, 7: 412–417ArticleCASGoogle ScholarLi H, Shi Y, Han G,et al.Monolayer two-dimensional molecular crystals for an ultrasensitive OFET-based chemical sensor. Angew Chem Int Ed, 2020, 59: 4380–4384ArticleCASGoogle ScholarLin P, Yan F. Organic thin-film transistors for chemical and biological sensing. Adv Mater, 2012, 24: 34–51ArticleGoogle ScholarMeng Q, Zhang F, Zang Y,et al.Solution-sheared ultrathin films for highly-sensitive ammonia detection using organic thin-film transistors. J Mater Chem C, 2014, 2: 1264–1269ArticleCASGoogle ScholarPeng B, Huang S, Zhou Z,et al.Solution-processed monolayer organic crystals for high-performance field-effect transistors and ultrasensitive gas sensors. Adv Funct Mater, 2017, 27: 1700999ArticleGoogle ScholarJang M, Kim H, Lee S,et al.Highly sensitive and selective biosensors based on organic transistors functionalized with cucurbit[6]uril derivatives. Adv Funct Mater, 2015, 25: 4882–4888ArticleCASGoogle ScholarJang Y, Jang M, Kim H,et al.Point-of-use detection of amphetamine-type stimulants with host-molecule-functionalized organic transistors. Chem, 2017, 3: 641–651ArticleCASGoogle ScholarWitte J, Neaton JB, Head-Gordon M. Effective empirical corrections for basis set superposition error in the def2-SVPD basis: gCP and DFT-C. J Chem Phys, 2017, 146: 234105ArticleGoogle ScholarTan H, Chen Q, Chen T,et al.Selective adsorption and separation of xylene isomers and benzene/cyclohexane with microporous organic polymers POP-1. ACS Appl Mater Interfaces, 2018, 10: 32717–32725ArticleCASGoogle ScholarLu T, Chen F. Multiwfn: A multifunctional wavefunction analyzer. J Comput Chem, 2012, 33: 580–592ArticleGoogle ScholarDownload referencesAcknowledgementsThis work was supported by the National Natural Science Foundation of China (61822405 and 62074111), the Science & Technology Foundation of Shanghai (19JC1412402 and 20JC1415600), Shanghai Municipal Science and Technology Major Project (2021SHZDZX0100), Shanghai Municipal Commission of Science and Technology Project (19511132101), and the Fundamental Research Funds for the Central Universities. We also acknowledge the help from Dr. Howard E. Katz on discussion about the selection of the receptors.Author informationAuthors and AffiliationsInterdisciplinary Materials Research Center, School of Materials Science and Engineering, Frontiers Science Center for Intelligent Autonomous Systems, Tongji University, Shanghai, 201804, ChinaShiqi Zhang 
+            (张诗琦), Yang Lu 
+            (陆洋), Li Li 
+            (李立), Xin Wang 
+            (王鑫), Dapeng Liu 
+            (刘大鹏), Junyao Zhang 
+            (张钧尧), Shilei Dai 
+            (代世磊), Dandan Hao 
+            (郝丹丹), Ben Yang 
+            (杨奔) & Jia Huang 
+            (黄佳)Institute of New Energy for Vehicles, School of Materials Science and Engineering, Tongji University, Shanghai, 201804, ChinaQuan Sun 
+            (孙全) & Yunhui Huang 
+            (黄云辉)Hangzhou Yanqu Information Technology Co., Ltd., Hangzhou, 310003, ChinaLai Wei 
+            (魏莱)Translational Research Institute of Brain and Brain-Like Intelligence, Shanghai Fourth People’s Hospital, Tongji University, Shanghai, 200434, ChinaJia Huang 
+            (黄佳)AuthorsShiqi Zhang 
+            (张诗琦)View author publicationsYou can also search for this author inPubMedGoogle ScholarYang Lu 
+            (陆洋)View author publicationsYou can also search for this author inPubMedGoogle ScholarLi Li 
+            (李立)View author publicationsYou can also search for this author inPubMedGoogle ScholarXin Wang 
+            (王鑫)View author publicationsYou can also search for this author inPubMedGoogle ScholarDapeng Liu 
+            (刘大鹏)View author publicationsYou can also search for this author inPubMedGoogle ScholarJunyao Zhang 
+            (张钧尧)View author publicationsYou can also search for this author inPubMedGoogle ScholarShilei Dai 
+            (代世磊)View author publicationsYou can also search for this author inPubMedGoogle ScholarDandan Hao 
+            (郝丹丹)View author publicationsYou can also search for this author inPubMedGoogle ScholarBen Yang 
+            (杨奔)View author publicationsYou can also search for this author inPubMedGoogle ScholarQuan Sun 
+            (孙全)View author publicationsYou can also search for this author inPubMedGoogle ScholarYunhui Huang 
+            (黄云辉)View author publicationsYou can also search for this author inPubMedGoogle ScholarLai Wei 
+            (魏莱)View author publicationsYou can also search for this author inPubMedGoogle ScholarJia Huang 
+            (黄佳)View author publicationsYou can also search for this author inPubMedGoogle ScholarContributionsZhang S performed the most tests and wrote the manuscript; Lu Y, Li L, Wang X, Zhang J, Sun Q and Huang Y helped with tests and characterization analysis; Liu D and Dai S helped build the test system; Hao D and Yang B helped analyze the data; Wei L provided theoretical calculations; Huang Y supervised the battery leakage test; Huang J developed the concept and provided financial support through grant applications. All authors contributed to the general discussion.Corresponding authorCorrespondence toJia Huang 
+            (黄佳).Additional informationConflict of interestThe authors declare that they have no conflict of interest.Supplementary informationSupporting data are available in the online version of the paper.Shiqi Zhangreceived her Bachelor’s degree from the College of Nano Science and Technology, Soochow University. Now, she is pursuing her PhD degree under the supervision of Prof. Jia Huang at Tongji University. Her current research interest is organic thin-film transistors and chemical sensors.Jia Huangis a professor of materials science and engineering at Tongji University, Shanghai, China. He received his BSc degree in materials science and engineering from the University of Science and Technology of China, Hefei, China, MSc degree in applied science from the College of William & Mary, Williamsburg, VA, USA, and PhD degree in materials science and engineering from Johns Hopkins University, Baltimore, MD, USA. His research focuses on chemical sensors and thin-film transistors.Supporting Information40843_2021_1903_MOESM1_ESM.pdfSensitive Sensors Based on Bilayer Organic Field-effect Transistors for Detecting Lithium-ion Battery Electrolyte LeakageRights and permissionsReprints and permissionsAbout this articleCite this articleZhang, S., Lu, Y., Li, L.et al.Sensitive sensors based on bilayer organic field-effect transistors for detecting lithium-ion battery electrolyte leakage.Sci. China Mater.65, 1187–1194 (2022). https://doi.org/10.1007/s40843-021-1903-5Download citationReceived:21 October 2021Accepted:18 November 2021Published:10 January 2022Issue Date:May 2022DOI:https://doi.org/10.1007/s40843-021-1903-5Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboardProvided by the Springer Nature SharedIt content-sharing initiativeKeywordsorganic field-effect transistorschemical sensorreceptorlithium-ion batterieselectrolyte leakage

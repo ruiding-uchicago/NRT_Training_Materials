@@ -1,0 +1,285 @@
+Organic Molecular Detection without Debye-Length Limitation by Desorption of Receptor from the Surface of a Graphene Field-Effect Transistor
+Yuri SakamotoTakashi Ikuta*Kenzo Maehashi*
+Open PDF
+Supporting Information (1)
+OpenURL UNIV OF CHICAGO
+Abstract
+
+Charge-based detection of low concentrations of organic molecules using field-effect transistors (FETs) cannot distinguish between functional groups or detect charges beyond the Debye length. This study uses the desorption of modified molecules on the graphene surface, obtained by changing their solubility in water, to detect the target molecules on the graphene FETs. The thiol–ene reaction, which binds maleimide groups to thiol groups, is used to vary the solubility of the modified molecules in water. N-(1-Pyrenyl) maleimide (PMI) was modified on graphene to immobilize the maleimide groups on graphene in a π-stack. The modification changed the potential of graphene and shifted the transfer characteristics in the positive direction. Next, a glutathione (GSH) solution rich in hydrophilic groups was introduced under UV irradiation. The reaction of PMI with GSH increased the water solubility of the former, and a relatively weak π-stack was released, causing PMI to be desorbed from graphene. Consequently, the potential of graphene changed, and the transfer characteristics shifted in the negative direction. From this shift, the graphene FET detected the desorption of PMI from graphene. The FET detected at least 0.1 nM (3.8 pg) of GSH. This method detects the desorption of the modified molecules instead of the adsorption of target molecule having charge. The proposed method can detect low concentrations of target molecules in a solution while circumventing the electric double-layer effect that prevents the detection of charges outside the Debye length. The method can be applied to detect a variety of targets for higly sensitive sensors.
+
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+
+Copyright © 2022 American Chemical Society
+Subjects
+what are subjects
+Desorption
+Molecules
+Solubility
+Two dimensional materials
+X-ray photoelectron spectroscopy
+Keywords
+what are keywords
+solubility change
+graphene field-effect transistor
+thiol−ene reaction
+glutathione
+Introduction
+In situ detection of low concentrations of organic molecules in small amounts of solvent has garnered interest in chemical sensor research. (1) The demerits of existing field-effect transistor (FET)-based sensors for targets in a solution are the inability to distinguish functional groups and poor molecular-detection performance owing to the Debye length. (2−4) In general, FET-based solution sensors bind the target to the modified molecules on the surface of a gate dielectric and detect the charge on the target. However, an electric double layer is formed at the solution–gate–dielectric interface. The charge is shielded by a counterion outside the width (Debye length) of the layer. Therefore, if the target size is too large, the FET might not be able to detect it. Hence, the signal from the target should be enhanced for better detection. Conventionally, to enhance the signal, studies on biosensors attempted to increase the Debye length or reduce the receptor portion size. (2,5) However, when the Debye length is increased, the effect of physisorption increases, which is undesirable. (2,6) In addition, even if the receptor is downsized, the effect of the Debye length is inevitable. We propose a mechanism that measures the desorption of the modified molecules on graphene FETs instead of adsorption of target molecules with charge in a solution, eliminating the influence of the Debye length. The desorption is triggered by varying the solubility of the modified molecule before and after its reaction with the target molecule. The FETs measure the signals from this process, and thus detect the target molecules in the solution. The effect of physisorption is reduced by controlling the Debye length, improving the selectivity.
+Graphene has high mobility and is sensitive to changes in the electronic state of its surface. (7−9) It has applications in highly sensitive sensors. (10,11) Graphene-based sensors have been studied in the context of redox reactions, (12) antigen–antibody reactions, (13−15) and supramolecular host–guest interactions. (16)
+For this study, we analyze the thiol–ene reaction between the modified molecule and the target in a solution, (17,18) and the resulting change in solubility of the modified molecule. Thiols form covalent bonds with maleimides via thiol–ene reactions under ultraviolet (UV) irradiation. (19−21) If the solubility of molecules with the thiol group in the solvent is sufficiently high, the solubility of the reaction product of the thiol and maleimide derivative will be higher than that of the maleimide derivative before the reaction. N-(1-Pyrenyl)maleimide (PMI), which consists of pyrene and maleimide, was used as the molecule to be modified to immobilize maleimide on graphene. It was modified on graphene by the π-interaction between pyrene and graphene. Compared with direct chemical modification, this method allows to maintain the mobility of graphene FETs. (22−26) The modified molecule can be desorbed by increasing the solubility using the relatively weak π-interactions, instead of covalent modification. Glutathione (GSH), a thiol derivative with many hydrophilic groups, was chosen as the target molecule. GSH deficiency is observed in cells under oxidative stress. Therefore, GSH imbalance is a potential marker for tuberculosis, HIV, diabetes, cancer, and aging. (27−32)
+In this study, we exploited the realteration of the potential of PMI-modified graphene by the desorption of PMI due to the reaction between GSH and PMI to detect low concentrations of GSH in a small amount of solvent. PMI-modified graphene FETs were fabricated, their channels were exposed to a GSH solution, and the ensuing time evolution of the transfer characteristics was measured. Thus, at least 0.1 nM (3.8 pg) of GSH could be detected. Furthermore, changes in strain and hole doping of graphene were confirmed by Raman spectroscopy, and changes of the elements on the device surface before and after the reaction were confirmed by X-ray photoelectron spectroscopy (XPS). Subsequently, the same electrical measurements for GSH detection were performed in an environment with a higher phosphate-buffered saline (PBS) concentration, i.e., a shorter Debye length. Consequently, a similar shift in the transfer characteristics was observed as with a longer Debye length. Finally, these results suggest that the change in the transfer characteristics is due to the change in the potential of graphene caused by the desorption of PMI on its surface by its reaction with GSH.
+We detected molecules in the solution by measuring the potential change across graphene caused by the desorption of the modified molecules on the graphene FETs. This method circumvents the process that degrades the molecule detection performance due to the Debye length. In other words, it can be applied to environments with high ion concentrations, i.e., a short Debye length.
+This study births a technology to detect organic molecules in solutions by utilizing the desorption of modified molecules caused by changes in solubility due to chemical reactions. This method can be used for molecular sensors using various functional-group-specific reactive pairs in the future.
+Experimental Section
+Fabrication of PMI-Modified Graphene FETs
+Graphene was synthesized using chemical vapor deposition (CVD) (Figure 1a). Cu foils were first annealed at 300 °C for 20 min in air. Next, to remove the oxidized impurities and promote catalysis, the foils were annealed at 1060 °C for 40 min with 500 sccm of 3% H2/97% Ar. Graphene was synthesized by flowing 1500 sccm of 3% H2/97% Ar with 15 sccm of 5% CH4/95% Ar at 1,060 °C for 50 min. Thereafter, Ti and Au were deposited on the thermally oxidized SiO2 (290 nm) formed on the Si substrate via thermal evaporation, and they served as the source and drain electrodes, respectively. Subsequently, graphene was transferred onto the substrate (Figure 1b). The excess graphene was etched by oxygen plasma to fabricate graphene FETs. (33) The FETs were annealed under H2/Ar at 300 °C for 1 h. PMI (Tokyo Chemical Industry Co., Ltd., Tokyo, Japan) was dissolved in acetone at 1 mM. The fabricated graphene FETs were soaked for 1 h in the 1 mM PMI-acetone solution (Figure 1c,d).
+Figure 1
+
+Figure 1. (a–e) Schematic illustration of the device fabrication process. (a) Graphene was synthesized using the chemical vapor deposition method. (b) Metal electrodes were deposited by thermal evaporation and structured using a lift-off process. Subsequently, graphene was transferred to the substrate using a poly(methyl methacrylate) (PMMA) layer. (c) Excess graphene was etched by oxygen plasma to fabricate the graphene FETs. The FETs were modified by immersing them in an acetone solution of PMI at 1 mM. (d) PMI-modified graphene FET. (e) Measurement system and circuit and the PMI + GSH reaction equation. An Ag/AgCl reference electrode was used to control the graphene–electrolyte interfacial potential. The sample in a PBS solution were supplied to the silicone rubber pool on the device under UV irradiation (365 nm).
+
+Evaluation of Transfer Characteristics
+A pool made of silicone rubber was placed on the device. The FET channel was fit inside the pool for exposure to the GSH solution. (34) Then, after rinsing the device with 10 mM PBS, 100 μL of the 10 mM PBS was poured into the pool. Next, the pool was covered with a polydimethylsiloxane lid to prevent PBS evaporation. The GSH solution (500 nM) was prepared by dissolving GSH (Tokyo Chemical Industry Co., Ltd., Tokyo, Japan) in 10 mM PBS. An Ag/AgCl reference electrode was used to control the graphene/electrolyte interfacial potential. After stabilization of the device, 25 μL of the as-prepared GSH solution was added to the pool under UV irradiation (200 μW/cm2, 365 nm) (Figure 1e). The transfer characteristics of the devices were measured against time using a source measurement unit (B2912A, Keysight Technologies) by applying a source–drain voltage of 50 mV and sweeping the gate voltage. (35,36)
+X-ray Photoelectron Spectroscopy Analysis
+XPS analysis was performed to confirm difference in the molecules detected on the molecularly modified graphene on a SiO2/Si substrate before and after the reaction of the detection target with the GSH solution. After transferring the graphene prepared by CVD onto a SiO2/Si substrate, we modified PMI to prepare a sample equivalent to that prepared with the PMI-modified graphene FET channel. XPS measurements of C 1s, O 1s, N 1s, and Si 2p narrow spectra were performed before and after the reaction with GSH. The 700 μm × 300 μm area of the sample was measured using an XPS instrument (KRATOS ULTRA2, Shimazu) equipped with a monochromatic Al source. Carbon with a binding energy of C 1s = 284.6 eV was used as the internal standard to correct the binding energies. The thickness of the modified PMI layer was calculated from the XPS spectra of the PMI-modified samples.
+Raman spectroscopy analysis
+Raman analysis was performed to investigate the changes in doping and strain of graphene before and after the PMI modification and after reaction with GSH. We also developed, as the control group, pristine graphene by transferring CVD-synthesized graphene onto a SiO2/Si substrate and measured its Raman spectra (NRS-4500, JASCO). Next, the sample, pristine graphene, was reannealed under H2/Ar at 300 °C for 1 h. Subsequently, it was modified with 1 mM PMI for 1 h. The Raman spectrum was measured after annealing the modified sample under H2/Ar at 300 °C for 1 h. The modified sample was immersed in a 100-nM GSH solution and subjected to UV irradiation for 11 h. Finally, the Raman spectrum was remeasured.
+Results and Discussion
+Evaluation of PMI Modification on Graphene FETs
+The drain current vs. back-gate voltage characteristics before and after the PMI molecular modification are illustrated in Figure 2a; the orange and magenta solid lines correspond to the transfer characteristics of pristine and PMI-modified graphene FETs, respectively. The curves exhibit bipolar characteristics, suggesting a change of the Fermi level of graphene by the back-gate voltage. The transfer characteristic shifted by approximately 25 V in the positive direction after PMI modification. This shift can be attributed to the change in the Fermi level due to the π-interaction between the pyrene group and graphene. This is consistent with the shift direction suggested by the change in the density of states obtained from the density functional theory (Figure S-1). This phenomenon coincides with the results of other biosensor studies with pyrene as the anchor. (14,22)
+Figure 2
+
+Figure 2. (a) Transfer characteristics of the pristine (orange) and PMI-modified graphene FETs (magenta). The back-gate voltage varies from 0 to 40 V, under a source–drain voltage of 50 mV. (b) Raman spectra of the pristine (orange) and PMI-modified graphene (magenta) on the SiO2/Si substrate. (c) Correlation between the frequencies of the G and G′ Raman modes of graphene. The rectangle and circle plots are the results of the spectra of the pristine and PMI-modified graphene channels, respectively. Different colors correspond to results from different FETs.
+
+The modification of graphene was evaluated by Raman analysis. For pristine graphene, the G and G′ peaks were observed at 1593 and 2693 cm–1, respectively (Figure 2b). For PMI-modified graphene, the G and G′ peaks were observed at 1596 and 2693 cm–1, respectively (Figure 2b). In addition, a maleimide-derived peak was observed at 1624 cm–1, and pyrene-derived peaks at 1375, 1404, 1424, and 1440 cm–1. The values of the G and G′ peaks were decomposed into vectors, with the origin at (1581.6 cm–1, 2676.9 cm–1), which is the reference point without doping and strain. Additionally, straight lines with a slope of 2.2 for the case affected by strain and 0.7 for the one affected by hole doping are shown in Figure 2c. (37−39) The compressive strain of the samples decreased after modification, indicating the enhancement of the flatness of the underlying graphene by the π-conjugated system of pyrene. (40) Hole doping also increased after modification, which is consistent with the observation that graphene is hole-doped when modified with pyrene. (41,42) These results confirm the modification of PMI on graphene.
+XPS analysis was conducted to investigate the surface composition after molecular modification of the SiO2/Si substrate. Figure 3 shows that C, N, and O were detected as PMI-derived elements. In addition, Si and O were detected as substrate-derived elements. The thickness of the PMI on the modified device was estimated using the angle-resolved method, as it was assumed to be less than three times the decay length of the thin film. (43−45) By estimating the amount of modified molecules (see Supporting Information for details), we determined the thickness of PMI to be approximately 0.35 nm, which is equivalent to one molecular layer. Moreover, as shown in Figure S-2, the thickness of the PMI layer was estimated to be 0.5 nm by AFM images, which is also equivalent to the height of a PMI molecule. Then, the results indicate that PMI was modified by one molecular layer on graphene.
+Figure 3
+
+Figure 3. XPS narrow scan for the C 1s, O 1s, and N 1s regions of PMI-modified graphene with takeoff angles of 90° (blue), 35° (red), 27° (green), and 20° (cyan).
+
+Detection of GSH by PMI-Modified Graphene FETs
+Sample solutions of 0.1 nM, 100 nM, and 500 μM GSH were dissolved in a PBS and were poured into the pool containing the PMI-modified graphene FET. For each sample, the relationship between drain current and gate voltage was recorded for 5 h in steps of 10 min under UV irradiation. Figure 4a depicts the change of transfer characteristics with the introduction of 100-nM GSH; the curve shifted to the negative direction, resulting in a decrease in the drain current. This shift in the transfer characteristic was caused by a decrease in the hole doping. (46) In the control experiments, the effect of UV irradiation on the devices was confirmed to have no influence on GSH detection (Figure S-3).
+Figure 4
+
+Figure 4. (a) Transfer characteristics at the beginning of the reaction with 100 nM GSH (orange) in 10 mM PBS, during the reaction (blue-green gradation), and 5 h later (pink). The gate voltage was varied from 0 to 150 mV, when a source–drain voltage of 50 mV was applied. (b) Time evolution of the normalized drain current change of a PMI-modified graphene-FET reacting with GSH at 0.1 nM, 100 nM, and 500 μM under UV irradiation. The solid lines represent the fittings for GSH concentrations 0.1 nM, 100 nM, and 500 μM. (c) The dependence of the time constants on the GSH concentration was determined from the fitting in (b).
+
+The drain current changes were normalized to evaluate the dependence of the reaction time constant on the concentration. The change in drain current by the shift of the transfer characteristics was normalized as , where Id is the drain current at a given time, Id0 is the drain current at the beginning of the reaction, and Id∞ is the drain current at saturation; for details, see Figure S-4. The normalized response to GSH at 0.1 nM, 100 nM, and 500 μM is plotted in Figure 4b. Upon the introduction of GSH, the normalized drain current change ΔI exponentially decreased and gradually converged to zero. The following equation is obtained from chemical kinetics:
+	(1)
+where t is the elapsed time, and τ is the time constant of the change in drain current. The solid lines in Figure 4b represent the fits for the GSH concentrations of 0.1 nM, 100 nM, and 500 μM. Figure 4c illustrates the time constants calculated from the fits in Figure 4b against GSH concentration. The higher the GSH concentration, the shorter the reaction time constant. This is qualitatively consistent with eq 1. This result indicates that the mechanism detects GSH at the subnanomolar to submillimolar levels. Furthermore, the correlation between reaction rate and concentration suggests that the concentration can be inferred from the time constant.
+Analysis of the Reaction between PMI and GSH on Graphene Surface
+Raman spectroscopy was performed to investigate the mechanism of change in the transfer characteristics before and after the reaction of PMI-modified graphene with GSH (Figure 5a). For the PMI-modified sample immersed in 100-nM GSH solution under UV irradiation, the G and G′ peaks of graphene were observed at 1590 and 2691 cm–1, respectively. The maleimide- and pyrene-derived peaks were observed at 1624 and 1374, 1404, 1424, and 1440 cm–1, respectively. As in the pre- and postmodification evaluations, values of the G and G′ peaks were decomposed into vectors, with the origin at (1581.6 cm–1, 2676.9 cm–1), which is the reference point without doping and strain. Straight lines with slopes of 2.2 for the case affected by strain and 0.7 for the case affected by hole doping are illustrated in Figure 5b. (37−39) Because of the reaction, the strain increased and the hole doping decreased, which are reflected by the changes in the transfer characteristics. In addition, by comparing the ratio of PMI-derived peak to G-peak, we observed that the former declined from 0.50 to 0.33 after reaction with GSH. This suggests that the amount of PMI on the graphene decreased after the reaction, which in turn indicates the desorption of the molecule from graphene. This phenomenon stems from the dissolution of PMI into the aqueous solution by its reaction with GSH. (46−48)
+Figure 5
+
+Figure 5. (a) Raman spectra of PMI-modified graphene before (magenta) and after (blue) its reaction with GSH. (b) Correlation between the frequencies of the G and G′ Raman modes of graphene. The circular and triangular plots are the results of Raman spectra of the PMI-modified graphene channel before and after its reaction with GSH, respectively. Different colors correspond to results from different devices.
+
+XPS analysis was performed to investigate the surface composition after the reaction with GSH. As observed in Figure 6a–c, C, N, and O were detected as GSH-derived elements. Next, the S 2p spectrum must be measured to evaluate the chemical state of S; however, we could not confirm it due to the strong influence of the nearby Si 2s spectrum. The peak of C 1s (around 288 eV), which was presumably derived from the C═O bond of PMI, was identified in the sample before the reaction; however, it decreased after the reaction. In the O 1s peak, a shoulder was observed around 532 eV after the reaction (Figure 6b). This is thought to be due to hydrolysis of PMI to form COOH groups. (49,50) For the N 1s peak, the N concentration on the surface should increase after the reaction with GSH; however, the N 1s peak decreased after the reaction, as shown in Figure 6c. Furthermore, the peak areas before and after the reaction were calculated to be 6080 and 3195, respectively. The results show a decreasing trend of nitrogen atoms on graphene after the reaction with GSH, which is consistent with the results by Raman spectroscopy. This suggests that the PMI component decreased on the surface of the sample after the reaction, resulting in the shift in the transfer characteristics of the graphene FETs.
+Figure 6
+
+Figure 6. XPS narrow scan for the (a) C 1s, (b) O 1s, and (c) N 1s regions of PMI-modified graphene before (blue) and after (red) the reaction, with a takeoff angle of 20°. (d) XPS narrow scan for the N 1s region of PMI-modified graphene after (red) the reaction, with a takeoff angle of 20°. This spectrum is divided into two components: Band 1 (light blue) and Band 2 (light green).
+
+In the N 1s XPS spectrum shown in Figure 6d, the postreaction sample has a broader peak width than the prereaction one. The peak separation results of the N 1s spectrum led to the discovery of two N components in the postreaction sample: Band 1, which was also detected in the prereaction sample, was derived from the imide of PMI, whereas Band 2, which was detected only in the postreaction sample, was derived from the amine of hydrolyzed maleimide. (51,52) This indicates the presence of PMI and hydrolyzed PMI on the surface of the sample before and after the reaction, respectively. Thus, the detected change in the transfer characteristics would be smaller than that if all PMI reacted. The sensor response could be further improved by preventing hydrolysis. As described above, the decreased PMI on the surface indicates the desorption of PMI from graphene, possibly because of the dissolution of PMI into the aqueous solution by its reaction with GSH. (53,54)
+The Raman spectra and XPS results are used to investigate the desorption of PMI below. The reaction of PMI with GSH, which is rich in hydrophilic groups, may increase the water solubility of the reaction product, resulting in its desorption from the graphene surface (Figure 7). We used machine-learning-based predictions to estimate the solubility of molecules (Table S-1). The water solubility (log S) of PMI was small before the reaction. After the reaction, however, the solubility of the reaction product increased by approximately 3 orders of magnitude. This suggests that the reaction products are more energetically stable when dissolved in the solvent than when immobilized on the graphene by π-stacking.
+Figure 7
+
+Figure 7. Schematic illustration of the graphene surface before and after the reaction between PMI and GSH.
+
+To demonstrate the advantage of the detection method based on molecular desorption with a negligible Debye length, we attempted to detect GSH in a solution with a smaller Debye length (<1 nm) or in PBS with a higher ion concentration (100 mM). Figure 8a displays the transfer characteristics in 100 mM PBS before and 4 h after the introduction of GSH (100 nM). Even in 100 mM PBS, the transfer characteristics clearly shifted in the negative direction in response to the incorporation of GSH, as with 10 mM PBS. This indicates the possibility of molecular detection even under high-ionic-concentration conditions, which is difficult to achieve with conventional molecular adsorption-based detection methods due to the Debye length effect. It also demonstrates the superiority of molecular detection by molecular desorption. The results after the introduction of glutamyl-valyl-glycine (GVG) (1 μM) are illustrated in Figure 8b. GVG, in which the cysteine of GSH is replaced by valine, has a molecular backbone similar to that of GSH and is a good molecule to verify selectivity. (53,54) Unlike the case of GSH introduction, no distinct shift in the transfer characteristics was observed after the introduction of GVG, which is an order of magnitude denser than GSH. These results indicate the selectivity of PMI-modified graphene FETs for GSH. In addition, the shift in transfer characteristics in 100 mM PBS was smaller than that in 10 mM PBS (Figure S-5). These results suggest that the effect of physisorption of GVG on graphene FET was suppressed in 100 mM PBS by the reduction in the Debye length. Based on these results, the proposed method is independent from the Debye length owing to molecular desorption. Moreover, molecular detection is possible even in solutions with high ion concentrations. (2,3,5) This method has the potential to suppress the influence of physisorption and improve selectivity by allowing to reduce the Debye length.
+Figure 8
+
+Figure 8. Transfer characteristics of PMI-modified graphene FET with introduction of (a) GSH (100 nM) and (b) GVG (1 μM) in 100 mM PBS under UV irradiation.
+
+Conclusions
+We demonstrate the electrical detection of low-concentration target molecules in a solution using the desorption of modified PMI molecules on graphene FETs. The modification of PMI on graphene was evaluated by electrical measurements, Raman spectroscopy, and XPS. A film thickness of 0.35 nm, equivalent of one molecular layer, was observed. The PMI-modified graphene FETs responded to 0.1 nM to 500 μM GSH under UV irradiation. Their transfer characteristics shifted such that the drain current at the same gate voltage decreased. In addition, the concentration dependence of the time constant of the current change was investigated. The PMI-modified graphene FETs could detect at least 0.1 nM (3.8 pg) of GSH. The analysis demonstrated the consistency of the dependence of the time constant on concentration with the reaction kinetics. The graphene surface was chemically analyzed to examine the molecular changes in graphene before and after the reaction and elucidate the mechanism of change in the transfer characteristics. Consequently, PMI was reduced in graphene after the reaction. These results attribute the change in transfer characteristics before and after the reaction of PMI with GSH to PMI desorption from the graphene surface, which was due to the change in the water solubility of PMI caused by the thiol–ene reaction with GSH. Thus, the proposed method of detecting target molecules in a solution by the desorption of modified molecules addresses the constraints imposed by the Debye length. Furthermore, this detection method confirms the GSH specificity from the selectivity of the chemical reaction and improves this selectivity by suppressing the effect of physisorption from the reduction of the Debye length. These results represent an important step toward developing a method for molecular sensors in solutions by utilizing the desorption of the modified molecules by chemical reactions.
+Supporting Information
+The Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acsanm.2c03705.
+
+DFT calculation of the partial density of states of graphene before and after the modification of PMI, AFM images of graphene surfaces before and after modification of PMI, estimation of thickness of molecular layer from XPS analysis, control experiment of GSH detection, explanation of the normalization of the drain current change, prediction of water solubility of molecules, and Raman spectra of pristine graphene before and after UV irradiation (PDF)
+Supporting Information
+Organic Molecular Detection without Debye-Length Limitation
+by Desorption of Receptor from the Surface of a Graphene
+Field-Effect Transistor
+Yuri Sakamoto1
+, Takashi Ikuta2*
+and Kenzo Maehashi2*
+1) Graduate School of Bio-Applications and Systems Engineering, Tokyo University of
+Agriculture and Technology, 2-24-16, Nakacho, Koganei, Tokyo 184-8588, Japan
+2) Division of Advanced Applied Physics, Institute of Engineering, Tokyo University of
+Agriculture and Technology, 2-24-16, Nakacho, Koganei, Tokyo 184-8588, Japan
+Corresponding Authors
+*Takashi Ikuta: Email ikuta@go.tuat.ac.jp
+*Kenzo Maehashi: Email maehashi@cc.tuat.ac.jp
+S-2
+DENSITY FUNCTIONAL THEORY CALCULATIONS
+Density functional theory (DFT) calculations were employed to theoretically examine the changes
+in the density of state of graphene. The density of states was calculated for two types of graphene:
+monolayer graphene and monolayer graphene modified with N-(1-Pyrenyl) maleimide (PMI).
+The calculations were performed using the generalized gradient approximation and van der Waals
+corrections, implemented in the Quantum Espresso package.1–3 Vanderbilt ultrasoft
+pseudopotentials were also used. The kinetic energy cutoff was 30 Ry for the wave function and
+200 Ry for the charge density. The calculations were carried out in a 9 × 9 graphene supercell with
+a PMI molecule that used 9 × 9 × 1 k-points.
+The transfer characteristic changes obtained in the experiments were also studied using DFT
+calculations. We calculated the projected density of states (PDOS) for monolayer graphene and
+monolayer graphene modified with PMI molecules. The PDOS is depicted in Figure S1, where
+orange and magenta represent the PDOS of the monolayer graphene and PMI-modified monolayer
+graphene, respectively. The PDOS of PMI-modified monolayer graphene exhibited a positive shift,
+signaling a decrease of the Fermi level of graphene. Therefore, this implies that the modification
+caused a positive shift. The calculation results were consistent with the direction of change in the
+transfer characteristics obtained from the experiment.
+S-3
+-1 0 1
+0
+2
+4
+6
+8
+10 PDOS (states eV-1atom-1
+)
+E - EFermi (eV)
+ pristine graphene
+ PMI/graphene
+Figure S-1. Projected density of states for two types of graphene, monolayer graphene (orange)
+and PMI-modified monolayer graphene (magenta), calculated using the DFT.
+S-4
+Atomic force microscope (AFM) images
+Figure S-2. AFM images of graphene surfaces (a) before and (b) after modification of PMI.
+S-5
+ESTIMATION OF THE AMOUNT OF THE MODIFIED MOLECULE
+The detected intensity of element A in a PMI layer with thickness d is
+𝐼𝑃𝑀𝐼𝐴 = 𝐼𝑃𝑀𝐼𝐴
+0 𝑋𝑃𝑀𝐼𝐴
+[1 − 𝑒𝑥𝑝 (
+−𝑑
+𝜆𝑠𝑖𝑛𝜃)]
+(1)
+where 𝐼𝑃𝑀𝐼𝐴
+0
+is the intensity of element A in PMI corresponding to the bulk standard sample, 𝜆 is
+the attenuation length, θ is the take-off angle, and 𝑋𝑃𝑀𝐼𝐴
+is the mole fraction of element A in PMI
+in the pure material. The effect of H atoms is negligible in XPS, and the molar ratio of PMI
+excluding H atoms is C:N:O=20:1:2. Hence, the mole fraction of N atoms in PMI is assumed to
+be 1/23. Because the electrons generated in the graphene base only decay in the PMI layer, the
+detected intensity of C atoms in graphene is
+𝐼𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶 = 𝐼𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+0 𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+𝑒𝑥𝑝 (
+−𝑑
+𝜆𝑠𝑖𝑛𝜃)
+(2)
+where 𝐼𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+0
+is the intensity of C atoms in graphene corresponding to the bulk standard
+sample; λ is the attenuation length and is approximated to be equal for PMI and graphene; θ is the
+take-off angle; and 𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+is the mole fraction of C atoms in graphene. As graphene has only
+C atoms, 𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+is equal to 1. The concentration of atoms detected by XPS can be
+approximated as
+𝐶𝑃𝑀𝐼𝐴 = 𝐼𝑃𝑀𝐼𝐴
+𝐼𝑃𝑀𝐼𝐴
+0 ⁄ = 𝑋𝑃𝑀𝐼𝐴
+[1 − 𝑒𝑥𝑝 (
+−𝑑
+𝜆𝑠𝑖𝑛𝜃)]
+S-6
+𝐶𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶 = 𝐼𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+𝐼𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+0 ⁄ = 𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+𝑒𝑥𝑝 (
+−𝑑
+𝜆𝑠𝑖𝑛𝜃)
+(3)
+where 𝐶𝑃𝑀𝐼𝐴
+and 𝐶𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+refer to the concentrations of element A in the PMI layer and C atoms
+in graphene, respectively. From the molar ratio of PMI, we have, 𝐶𝑃𝑀𝐼𝐶 = 20𝐶𝑃𝑀𝐼𝑁
+. Then, the
+ratio of the atomic concentrations of N and C atoms detected by XPS is
+𝑎 =
+𝐶𝑃𝑀𝐼𝑁
+𝐶𝑃𝑀𝐼𝐶 + 𝐶𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+=
+𝑋𝑃𝑀𝐼𝑁
+(1 − 𝑥)
+20𝑋𝑃𝑀𝐼𝑁
+(1 − 𝑥) + 𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+𝑥
+(4)
+where 𝑎 is the ratio of the atomic concentrations of N and C atoms as detected by XPS, and 𝑥 =
+𝑒𝑥𝑝 (
+−𝑑
+𝜆𝑠𝑖𝑛𝜃). Thus,
+𝑥 =
+𝑋𝑃𝑀𝐼𝑁 − 20𝑎𝑋𝑃𝑀𝐼𝑁
+𝑋𝑃𝑀𝐼𝑁 − 20𝑎𝑋𝑃𝑀𝐼𝑁 + 𝑎𝑋𝑔𝑟𝑎𝑝ℎ𝑒𝑛𝑒𝐶
+(5)
+The N/C ratio 𝑎 of the modified device at an XPS take-off angle of 20° is 𝑎 = 0.02. The average
+value of the inelastic mean free path of electrons at N 1s and C 1s, used as the attenuation length,
+is λ = 1.8 nm, and 𝑑 = −𝜆𝑠𝑖𝑛𝜃 ⋅ 𝑙𝑛(𝑥).
+4 Therefore, the thickness of PMI is approximately d =
+0.35 nm, which is equivalent to one molecular layer. The XPS analysis reveals that PMI was
+modified by one molecular layer on graphene.
+S-7
+Effect of the UV irradiation
+The results of the introduction of GSH after 1.5 h of UV irradiation are displayed in Figure S3.
+The change in transfer characteristics due to UV irradiation was negligible, and the subsequent
+shift due to the introduction of GSH was obtained similar to that in Figure 4a.
+Figure S-3. Transfer characteristics before UV irradiation (black), after irradiation (red) and after
+the reaction with induced GSH (blue).
+0 20 40 60 80 100 120 140
+20
+22
+24
+26
+28
+30
+32 drain current (mA)
+gate voltage (mV)
+ before UV irradiation
+ after UV irradiation
+ after reaction with introduced GSH
+S-8
+Explanation of the normalization of the change in drain current
+The shift was normalized by 𝛥𝐼 =
+𝐼𝑑−𝐼𝑑∞
+𝐼𝑑0
+−𝐼𝑑∞
+to evaluate the concentration dependence of the reaction
+time constant. Here, Id, Id0, and Id∞ are the drain currents at a given time, at the beginning of the
+reaction, and at saturation, respectively.
+Figure S-4. Explanation of the normalization of the change in drain current.
+S-9
+Prediction of water solubility of molecules
+A machine-learning-based predictor is programmed to estimate the solubility of molecules. Solid
+solubility prediction implemented in Reaction Mechanism Generator produced by an MIT group
+was employed to estimate the water solubility (LogS) of the molecules before and after the
+reaction.5,6 Each molecule was represented by a simplified molecular-input line-entry system to
+predict its solubility in water at 300 K.
+Table S-1. Prediction of water solubility of the molecules.
+S-10
+Evaluation of Physisorption of glutamyl-valyl-glycine (GVG) in 10 mM PBS
+Figure S-5. Transfer characteristics before the GVG introduction (black) and after (red) GVG
+introduction in 10 mM PBS.
+0 50 100 150
+80
+90
+100
+110 drain current (mA)
+gate voltage (mV)
+ before GVG introduction
+ after GVG introduction
+S-11
+Raman spectra of pristine graphene before and after UV irradiation
+Figure S-6. Raman spectra of pristine graphene before and after UV irradiation. UV irradiation
+was performed overnight at a power of 200 μW/cm2
+.
+S-12
+REFERENCES
+(1) Giannozzi, P.; Baroni, S.; Bonini, N.; Calandra, M.; Car, R.; Cavazzoni, C.; Ceresoli, D.;
+Chiarotti, G. L.; Cococcioni, M.; Dabo, I.; Corso, A. D.; Gironcoli, S. de; Fabris, S.; Fratesi,
+G.; Gebauer, R.; Gerstmann, U.; Gougoussis, C.; Kokalj, A.; Lazzeri, M.; Martin-Samos, L.;
+Marzari, N.; Mauri, F.; Mazzarello, R.; Paolini, S.; Pasquarello, A.; Paulatto, L.; Sbraccia,
+C.; Scandolo, S.; Sclauzero, G.; Seitsonen, A. P.; Smogunov, A.; Umari, P.; Wentzcovitch,
+R. M. QUANTUM ESPRESSO: A Modular and Open-S
+Table S-1. Prediction of water solubility of the molecules.
+MoleculeSMILESTemperature [K]logS [log10(mol/L)]PMIO=C1C=CC(=O)N1c2ccc3ccc4cccc5ccc2c3c45300-6.118GSHC(CC(=O)NC@@HC(=O)NCC(=O)O)C@@HN300-0.968PMI+GSHO=C(NC@@HCS)C@HCC@@HN300-3.394

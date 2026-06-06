@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_open.202400098",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "spermidine",
+      "lower_detection_limit": "2.3 μM",
+      "upper_detection_limit": "",
+      "probe_material": "2-carboxymethylthio-5-mercapto-1,3,4-thiadiazole (TMT)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "8.5",
+      "test_medium": "N-cyclohexyl-2-aminoethanesulfonic acid/sodium chloride/water"
+    }
+  ]
+}

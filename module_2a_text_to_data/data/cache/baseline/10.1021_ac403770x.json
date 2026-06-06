@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_ac403770x",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "H2O2",
+      "lower_detection_limit": "100 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "rGO/PPy NT composites",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "7.4",
+      "test_medium": "PBS buffer solution"
+    }
+  ]
+}

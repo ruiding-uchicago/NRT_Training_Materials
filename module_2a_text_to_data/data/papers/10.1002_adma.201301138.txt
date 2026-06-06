@@ -1,0 +1,906 @@
+© 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 1
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com
+COMMUNICATION
+ Liqiang Li , Peng Gao , Martin Baumgarten , Klaus Müllen , * Nan Lu , Harald Fuchs ,
+ and Lifeng Chi *
+ High Performance Field-Effect Ammonia Sensors Based
+on a Structured Ultrathin Organic Semiconductor Film
+ Dr. L. Q. Li, Prof. H. Fuchs, Prof. L. F. Chi
+Physikalisches Institut and Center
+for Nanotechnology (CeNTech)
+Universität Münster
+48149 Münster, Germany
+E-mail: chi@uni-muenster.de
+ Dr. P. Gao, Prof. M. Baumgarten, Prof. K. Müllen
+Max Planck Institute for Polymer Research
+Ackermannweg 10, 55128 Mainz, Germany
+E-mail: muellen@mpip-mainz.mpg.de
+ Prof. N. Lu
+State Key Lab of Supramolecular Structures and Materials
+Jilin University
+130023 Changchun, China
+ Prof. L. F. Chi
+Functional Nano & Soft Materials Laboratory (FUNSOM)
+Soochow University
+215123, Suzhou, China
+ DOI: 10.1002/adma.201301138
+ Sensors can be categorized according to operational principles
+such as electrical sensors, optical sensors, magnetic sensors,
+and so on. An electrical sensor is simple in device confi guration because the detection of the electrical signal generally
+does not need complicated detection equipments. Among
+electrical sensors based on different device geometries, for
+example, three-terminal transistors and two-terminal resistors, organic fi eld-effect transistor (OFET)-based sensors are
+one of promising candidates for low-cost, portable, sensitive,
+and selective applications in chemical, biological, and physical
+monitoring, [1,2]
+ Gas sensing is in general important for environment and health issues. Ammonia is one of the most harmful
+environmental pollutants. Until now, ammonia detection based
+on OFET sensors has been reported in a few cases. [2]
+ We summarize the key performance parameters (sensitivity, response/
+recovery time, selectivity, reversibility, stability, and detection
+limit) of electrical ammonia sensors with transistor or resistor
+geometries using organic semiconductors (OSCs), conducting
+polymers, carbon, and inorganic compounds as the active layer
+in Table S1, Supporting Information. [2,3]
+ It can be seen that in
+the reported sensors the sensitivity ( S 1, Igas-off / Igas-on , for detailed
+defi nition, see Experimental Section) is basically smaller than
+10. Furthermore, those devices respond and recover quite
+slowly (generally in the range of minutes, Table S1, Supporting
+Information). [2,3]
+ Undoubtedly, higher sensitivity and faster response/recovery
+rate will signifi cantly increase the credibility and fi delity of
+sensors and thus expand their application fi eld. This is still a
+challenging task because in an OFET, the conductive channel
+locates at the interface between an OSC and a dielectric, [4]
+ but
+the thick and continuous OSC fi lms (tens of nm) commonly
+used in OFETs create barriers for the interaction between the
+conductive channel and the analyte, and therefore dramatically
+lower the sensitivity and prolongs the response/recovery time.
+Lateral scaling (microstructuring) and vertical scaling (thinning)
+of OSC thin fi lms enable the conductive channel to be exposed
+to analyte molecules effectively, [2b,5]
+ and thus can accelerate the
+interaction between the conductive channel and analytes. However, growth of ultrathin, micro-structured and continuous (at
+least in one dimension) OSC fi lms through solution methods
+is a challenging task due to the necessary compromise between
+thickness, microstructuring and continuous fi lm formation.
+Here, we report a versatile strategy for the growth of dendritic
+microstripes of OSCs with 4–6 molecular layers (6.5–11 nm in
+thickness) and one-dimensional continuity, which is a kind of
+continuous, microstructured and ultrathin OSC fi lm, via a dipcoating process. Based on ultrathin microstripes, ammonia sensors with signifi cantly enhanced sensitivity and short response/
+recovery time are realized. The key performance parameters are
+listed in Table S1, Supporting Information, for an easy comparison with other electrical sensors reported previously.
+ Selection of appropriate active OSCs is one of the prerequisites for high performance sensors, especially in view of sensitivity and selectivity, because the chemical nature of OSCs determines the type, strength, and specifi city of interactions between
+OSCs and analytes. In our work, a solution-processable OSC,
+namely a dialkyl tetrathiapentacene (DTBDT-C6) ( Figure 1 a) is
+used. [6]
+ A dip-coating technique is adopted to produce ultrathin
+microstripes of this semiconductor compound, as we have
+reported previously. [7]
+ By optimizing the growth conditions, uniform and ultrathin dendritic microstripes are obtained over a
+large area (centimeter size). The underlying growth mechanism
+will be discussed separately elsewhere. Atomic force microscopy (AFM) measurements indicate that the thickness of these
+microstripes is only 4–6 molecular layers (Figure 1 b; Figure S1,
+Supporting Information). X-ray diffraction (XRD) measurements (Figure S2, Supporting Information) reveal that DTBDTC6 molecules adopt an edge-on arrangement on the substrates
+(Figure 1 a, right part). Large-area scanning electron microscopy
+(SEM) images (Figure 1 c) show that the main arms of the dendritic microstripes (trunks in Figure 1 b,c) are well aligned and
+extend continuously over hundreds of micrometers. The continuity and alignment over large area facilitate the fabrication of
+planar electronic devices.
+ The ultrathin, continuous and well-aligned microstripes
+allow the easy fabrication of OFET-based sensors. We fi rst
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+2
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+fabricated a series of organic transistors by
+depositing Au source and drain electrodes on
+the microstripes through a mask ( Figure 2 a,b
+inset). These transistors exhibit well-defi ned
+fi eld-effect behavior (Figure 2 b). The FET
+parameters are calculated by Equation 1 in
+the saturation regime.
+IDS =
+µCiW
+2L
+(VGS − Vth)
+2
+(1)
+ where IDS is the drain-source current, W and L
+are the channel width and length, respectively,
+µ is the mobility, Ci
+ is the dielectric capacitance per unit area, VGS is the gate-source
+voltage, and Vth is the threshold voltage.
+OFETs consist of multiple microstripes, so
+the effective channel width is calculated by
+the accumulation of width of each microstripe. The mobility and threshold voltage
+range for 20 individual transistors are 0.02 to
+0.3 cm 2
+ V − 1
+ s − 1
+ and − 8 to − 25 V, respectively.
+ The sensing properties of these devices to
+gaseous ammonia were tested. Figure 2 c displays the typical sensing curves of transistors
+with ultrathin microstripes for 50 ppm NH 3
+gas. After exposure to ammonia, the sourcedrain current ( IDS ) decreases rapidly over two
+orders of magnitude. Turning off of the NH 3
+stream (50 ppm) results in a quick recovery
+of IDS to the initial range without any additional treatments, such as vacuum degassing,
+opposite bias, and thermal annealing. The sensitivity ( S 1 =
+INH3-off / INH3-on , defi ned as the ratio of drain-source current
+between NH 3
+ gas-off and gas-on) is over 100. The distribution of sensitivity (Figure S3, Supporting Information) indicates the good reproducibility, which may be due to the weak
+dependence of sensitivity on the mobility as well as threshold
+voltage (for details, see Supporting information, Section 5). The
+dependence of sensitivity on the VGS is tested (Figure S4, Supporting Information). The sensitivity increase as VGS decrease,
+which is consistent with the previous report [8]
+ (for detailed discussion, see Supporting information, Section 5). The response
+and recovery times are 27–36 s and 4–10 s (Figure 2 d). Such
+a performance is remarkable in the fi eld of OFET-based sensors. [2]
+ Furthermore, the sensitivity and response/recovery time
+obtained in this work rival or exceed those of other electrical
+ammonia sensors with different active materials including
+conducting polymers, carbon and inorganic semiconductors
+(Table S1, Supporting Information). [3]
+ For comparison, the sensing performance is tested on
+continuous fi lms of the same molecule (about 20–25 nm in
+thickness), which shows signifi cantly lower performance
+than those of ultrathin microstripes ( Figures 3 , 4 ). The sensors using continuous fi lms work quite slowly without current
+saturation, indicating the slow adsorption/diffusion/desorption rate of analytes due to the barrier effect. At a low sensitivity of about 10, the response/recovery time is in the range
+ Figure 1 . Ultrathin dendritic microstripes of an organic semiconductor.
+a) Molecular structure of DTBDT-C6 and molecular packing. b) AFM
+image (50 µ m × 50 µ m) and section profi le. c) SEM images of ultrathin
+microstripes (dark lines are the microstripes of the molecules, while the
+bright structures are the silicon surface).
+ Figure 2 . OFET and OFET-based sensors. a) Schematic diagram of an OFET-based ammonia
+sensor with ultrathin microstripes. b) Output curves of OFET with ultrathin microstripes
+(4–6 ML). Inset, SEM image of the real device. The channel length is about 20 µ m. c) Sensing
+curve, i.e., plot of source-drain current versus time with exposure to NH 3
+ or air. VGS and VDS are
+fi xed at − 40 V. The grey bars indicate the exposure of 50 ppm NH 3
+ . The current is normalized for
+giving clear information about sensitivity. d) Enlarged panel in (c), showing the detailed shape
+of sensing curves and defi nition of response/recovery time.
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+3
+www.advmat.de
+www.MaterialsViews.com
+© 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com
+COMMUNICATION
+are displayed in Figure 3 c,d, from which it can be clearly seen
+that upon NH 3
+ exposure mobility decreases by about 66%, and
+threshold voltage negatively shifts by about 19.0 V. The mobility
+decay and threshold voltage shift account for the response of
+the sensor to NH 3
+ . To fi nd out the underlying reason for the
+change of mobility and threshold voltage upon NH 3
+ exposure,
+we approximately calculate the trap density ( Ntr ) in the OFETs
+with SS by using the following equation: [9]
+SS ≈
+kT ln 10
+q
+
+1 +
+q Ntr
+Ci
+
+(2)
+where q is the electronic charge, k is Boltzmann’s constant, T is
+absolute temperature. Using this equation, the density of traps
+before ( Ntr,bef ) and after NH 3
+ ( Ntr,aft ) exposure are estimated
+of 70–130 s. This result indicates that the microstructured and
+ultrathin OSC fi lms are highly benefi cial for enhanced sensor
+performance.
+ In order to investigate the sensing mechanism, it is necessary to determine the decisive factors for the sensors. Equation 1 indicates that the change of IDS is mainly caused by the
+mobility and/or threshold voltage since other factors including
+dielectric capacitance, device geometry, gate, and drain voltage
+are generally fi xed during the sensor test. To investigate the
+factors determining the drain current change between NH 3
+on and off, we systematically tested the transfer curves before,
+during and after NH 3
+ exposure (Figure 3 b), and then derived
+the device parameters including mobility, threshold voltage,
+and subthreshold swing ( SS ) from transfer curves. These data
+ Figure 3 . a) Sensing curves of continuous fi lms with a thickness of about 20–25 nm prepared by the drop-casting method. VGS and VDS are fi xed at
+− 40 V. b) Transfer curves of OFETs with microstripes before, during and after NH 3
+ (50 ppm) exposure. The red cycle curves are obtained during NH 3
+exposure, blue triangle curves are obtained in several minutes after removal of NH 3
+ , and cyan star curve are obtained after removal of NH 3
+ for about
+35 min. VDS is fi xed at − 40 V. Channel length is 20 µ m. Channel width (accumulation of the width of 75 microstripes) is about 300 µ m. c) Mobility and
+threshold voltage and d) subthreshold swing ( SS ) and density of traps ( Ntr ) calculated from transfer curves in (b). e) Schematic diagram of sensing
+process between microstructure ultrathin OSC fi lm (left part) and continuous and thick OSC fi lm (right part).
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+4
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+ In OFETs, the threshold voltage generally consists of two
+parts, as shown in the following Equation: [11]
+Vth = Vfb +
+q Nmob
+Ci
+≈ Vfb −
+q Ntr
+Ci
+(4)
+where Vfb is the fl at band voltage and Nmob is the density of mobile charge. Since there generally is low density of mobile charge ( Nintr ) in the low conductivity OSCs
+fi lm, Nmob = Nintr – Ntr ≈ – Ntr . From Equation 4, the trap
+density induced by NH 3
+ ( Ntr,NH3 ) can be estimated to be
+1.19 × 10 12 cm − 2
+ by ΔVth = qNtr,NH3 / Ci
+ , which is near to the
+value (1.79 × 10 12 cm − 2
+ ) obtained by Equation 2. These two
+calculations about trap density confi rm that traps induced by
+NH 3
+ may account for the mobility decay and threshold voltage
+shift.
+ Until now, it has been reported that two factors (base
+dedoping effect and dipole-charge interaction, as shown in
+Figure 3 e) induced by NH 3
+ may contribute the formation of
+traps. [2c,3a,12]
+ As chemical impurity, the lone electron pair of
+ammonia may interact with positively-charged OSC unit to
+form linkage type structure (base dedoping effect). [2c,3a,12a]
+ Such
+effects may directly immobilize or trap the charge carrier. [3a,12a]
+In addition, polar NH 3
+ are randomly adsorbed on organic
+semiconductors, and therefore the dipole of NH 3
+ can induce
+disorder electric fi elds in the vicinity of OSC molecules, which
+yield disorder dipole-charge interaction. Such interaction will
+cause a portion of the mobile charge to be trapped. [1b,2c,9d,12b–e]
+The dedoping effect and dipole-charge interaction may contribute to the basic sensing mechanism between OSC and
+NH 3
+ . The investigation of whether there are other factors infl uencing the sensing mechanism is still ongoing. In our work,
+compared with thick and continuous OSC fi lm, the ultrathin
+and microstructured OSC fi lm provides more effi cient pathway
+for the interaction between OSC and NH 3
+ , and therefore further improves the sensitivity and response/recover time (as
+illustrated in Figure 3 e). In Figure 3 b, after removal of NH 3
+ ,
+the transfer curve (blue and triangle curve) quickly (in several
+minutes) recovers near to the initial state before NH 3
+ exposure.
+There is a slight difference in mobility and threshold voltage
+compared to the initial state (Figure 3 c). Such hysteresis may be
+due to the trace adsorption of NH 3
+ on the device, which takes
+longer time to remove. This explanation is confi rmed by the
+further recovery after more than 35 min (cyan and star curve).
+ Selectivity is one of the key parameters for practical sensor
+applications, which mainly relies on the specifi c interactions
+between the molecules used as active layer and the analyte.
+To test the selectivity of sensors with ultrathin microstripes,
+the sensing property toward several organic volatile solvents
+including ethanol, isopropanol, acetone, ethyl acetate, and
+heptane were investigated (Figure 4 ; Figure S5, Supporting
+Information). The key sensor parameters are displayed in
+Figure 4 . Remarkably, the sensitivity to NH 3
+ (50 ppm) is over
+ten times higher than that to other organic solvents at higher
+concentration ( > 200 ppm), and the response/recovery time to
+NH 3
+ (50 ppm) is smaller than that of other organic solvents.
+Furthermore, the sensing performance of continuous fi lms of
+DTBDT-C6 to NH 3
+ is still better than that of ultrathin microstripes to other organic solvents. These comparative tests clearly
+to be 3.71 × 10 12 cm − 2
+ and 5.50 × 10 12 cm − 2
+ , respectively
+(Figure 3 d). The density of traps induced by NH 3
+ ( Ntr,NH3 ) can
+be calculated to be 1.79 × 10 12 cm − 2
+ by Ntr,NH3 = Ntr,aft – Ntr,bef .
+It is clear that exposure to NH 3
+ increase the density of traps.
+The reason why traps may lead to mobility decay and threshold
+voltage shift can be understood as follows.
+ In the polycrystalline or disorder OSCs fi lms, the effective
+mobility ( µeff ) is closely related to the shallow traps at the semiconductor/dielectrics interface, and can be well described by
+the standard multiple trap and release (MTR) model with the
+following equation: [10]
+µeff ≈ µ0
+τdiff
+τdiff + τtr
+≈ µ0
+Nfree
+Nfree + Ntr
+(3)
+where µ0
+ in the intrinsic trap-free mobility, τdiff is the average
+time of carrier diffusion between shallow traps, τtr is the average
+retention time of carrier in the shallow traps, and Nfree and Ntr
+are the density of free carrier and trapped carrier, respectively.
+Equation 3 indicates that the effective mobility decreases as the
+trap increases.
+ Figure 4 . Selectivity tests of sensors. Sensitivity (upper panel), response
+time (middle panel), and recovery time (bottom panel) of sensors to different analytes. In the caption of x -axis, stripe and fi lm in the bracket
+mean microstripe and continuous fi lm (20–25 nm), respectively. The concentration of NH 3
+ is 50 ppm. The concentration of other organic analytes
+is higher than 200 ppm. VGS and VDS are fi xed at − 40 V for all the tests.
+0
+50
+100
+150
+Response time (s)
+0
+50
+100
+150
+200
+Recovery time (s)
+100
+101
+102
+ Sensitivity
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+5
+www.advmat.de
+www.MaterialsViews.com
+© 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com
+COMMUNICATION
+under continuous bias stress over 3000 seconds. Cycle sensing
+experiments were further performed to test the reversibility
+and operational stability under different conditions ( Figure 5 a).
+For simulating real working conditions, short and long cycles
+(i.e., exposure of a sensor to NH 3
+ (50 ppm) and air for different
+periods) were carried out. During total 12 cycles over 3000 s, the
+sensor worked reliably, indicating good reversibility and operational stability. After storage in air for 25–35 days, the sensors
+still worked very well (Figure 5 b). The sensitivity ( S 1) shows is
+still in the range of 35–90. There is almost no change in the
+response/recovery time (10–30 s). These series of stability tests
+indicate the good reversibility and stability under continuous
+operation and storage conditions, which are rarely met in the
+OSCs-based electrical sensors reported so far (Table S1, Supporting Information). [2]
+ To investigate the sensing property under varying NH 3
+ concentrations, the NH 3
+ concentration was systematically tuned
+from 100 ppm to 10 ppm. The sensing curves are recorded
+demonstrate the good selectivity of DTBDT-C6-based sensors to
+NH 3
+ . Very weak signals can be detected in continuous fi lms
+toward other organic analytes, further proving the advantage
+of ultrathin microstripes for sensor performance (Figure S5,
+Supporting Information). From the selectivity test, it may also
+be deduced that the dipole-charge interaction may not mainly
+contribute the trap formation; otherwise, if dipole-charge interaction is the main reason, acetone, ethanol and ethyl acetate
+with bigger dipole moment [13]
+ compared with NH 3
+ should have
+higher sensing performance.
+ Sensor stability is another key criterion for practical applications. This is related to various factors including bias
+stress stability, cycle (or operational) stability, and storage stability. Bias stress instability generally results in the change of
+source-drain currents even over orders of magnitude and can
+give fake sensing signals. Therefore, we tested the bias stress
+stability on the OFET with ultrathin microstripes (Figure S6,
+Supporting Information). These devices are generally stable
+ Figure 5 . Stability and detection limit tests on sensors with ultrathin microstripes. a) Cycle test. b) Sensing curves after storage in air for about
+30 days. c) Sensing curves under varying NH 3
+ concentration (100–10 ppm). The bars with different colors denote different concentrations. d) Performance parameters calculated from the test in (c). VGS and VDS are fi xed at − 40 V for all the tests.
+0 1000 2000 3000
+100
+101
+102
+103
+Normalized Current
+Time (s)
+a) b)
+0 50 100 150 200
+1
+10
+100
+Normalized Current
+Time (s)
+0 200 400 600
+100
+101
+102
+103
+104
+Normalized Current
+Time (s)
+60 25 10
+NH3
+ Concentration (ppm) c) 100
+101
+102
+103
+Response/Recovery time (s)
+100 60 60 25 25 10 10
+Sensitivity (I DS-NH3
+/I DS-air
+)
+NH3
+ Concentration (ppm)
+Sensitivity
+100
+20
+40
+ Response time 60
+ Recovery time
+d)
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+6
+www.advmat.de
+www.MaterialsViews.com
+wileyonlinelibrary.com © 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+COMMUNICATION
+tapping mode. Scanning electron microscope (SEM) measurements
+were performed on a LEO VP 1530 fi eld emission scanning electron
+microscope system. XRD measurements with θ -2 θ scan mode were
+carried out on a Siemens Kristallofl ex with a D5000 diffractometer.
+Device Fabrication and Characterization : The heavily doped silicon
+wafer and 300 nm thermally oxided SiO 2
+ layer was used as gate and
+insulator, respectively. Gold electrodes were defi ned via a mask with
+20 µ m channel lengths. The effective channel width is calculated by
+the accumulation of each microstripe in the channel area. Electrical
+measurements were performed on Keithley 4200 SCS in air at room
+temperature. The FET parameters including mobility and threshold
+voltage are calculated by the standard Equation 1 in the saturation
+regime. The subthreshold swing ( SS ) are calculated with:
+SS =
+dVGS
+d(log IDS )
+(5)
+ To test the sensing property for ammonia gas, the OFET was biased
+at a VGS and VDS of − 40 V and exposed to NH 3
+ gas. The source-drain
+current was recorded with time. 100–10 ppm NH 3
+ were obtained by
+diluting standard 500 ppm NH 3
+ in N 2
+ (Westfalen GmbH, Germany) with
+pure N 2
+ in a controlled manner. We could not go below 10 ppm due to
+the limitation of our experimental setup for mixing the gas.
+ Generally, two kinds of defi nitions are used for sensitivity in
+electrical sensors. The fi rst one is expressed as a percentage, that is
+( Igas-off – Igas-on )/ Igas-off × 100%, or ΔI / Igas-off × 100% (referred as S 2).
+The second one is the ratio of current between gas off and gas on
+( Igas-off / Igas-on , referred as S 1). If the current does not change signifi cantly
+(over one order of magnitude), the fi rst one is commonly used. If the
+current change is over one order of magnitude, the second criterion
+would be clearer than the fi rst one. These two defi nition can be easily
+converted by the equation S 1 × (1 – S 2) = 1. The response time is
+defi ned as the period in which the sensor output signal reaches 10% of
+the steady value upon exposure to the analyte, while the recovery time is
+defi ned as the period in which the sensor output signal reaches 90% of
+the steady state after the analyte is removed.
+ Supporting Information
+ Supporting Information is available from the Wiley Online Library or
+from the author.
+ Acknowledgements
+ This work was funded by the Germany-China Joint Project TRR61 (DFGNSFC Transregio Project), EU project (FP7-People-2009-IRSES/247641)
+and the National Basic Research Program, China (2009CB939701).
+ Received: March 12, 2013
+Published online:
+in Figure 5 c, and two cycles were carried out for each concentration to confi rm the reproducibility. As NH 3
+ concentration
+decreases, the sensitivity decreases with increased response/
+recovery time (Figure 5 d). The sensitivity and response/
+recovery time for 100 ppm NH 3
+ are about 1000 and 15–31 s,
+respectively. For 10 ppm NH 3
+ , the sensitivity is still higher than
+30, and the response/recovery time is in the range of 35–50 s.
+If the exposure time is increased at low NH 3
+ concentration, the
+sensitivity can be further improved. 10 ppm is lower than the
+threshold limit value (25 ppm) for the human body under longterm exposure (8 h). [3c]
+ The excellent performance under varying NH 3
+ concentration and good reproducibility makes these
+sensors suitable for quantitative detection. Although 10 ppm is
+not as low as the detection limit in some reports, [2a,e,g]
+ at similar
+NH 3
+ concentrations, the sensitivity in this work is clearly better
+than the reported value (Table S1, Supporting Information). [2]
+Due to the restriction of the experimental setup for mixing
+gas, we did not test the limit of detection of our sensors. However, since the sensitivity for 10 ppm NH 3
+ is still as high as 30,
+the sensors in this work hold promise for lower concentration
+detection.
+ Finally, the growth of ultrathin microstripes is not restricted
+only to DTBDT-C6, as tested with other molecules with a different alkyl chain length (DTBDT-C9) [7]
+ or a different core unit
+(DIDTD-C6, Figure S7, Supporting Information). The results
+indicate the generality of such a growth method for some other
+soluble OSCs. By rational design of molecular structures and
+introduction of active groups, highly sensitive and selective sensors for different analytes are promising to be realized in the
+further works.
+ In conclusion, ammonia gas sensing with ultrathin microstripes of DTBDT-C6, which are grown in a controllable way
+via dip-coating, was tested in an OFET geometry. Excellent
+sensor performance including high sensitivity, fast response/
+recovery rate, good selectivity, low concentration detection
+ability, good reversibility, and stability were demonstrated. Such
+a performance, especially the sensitivity and response/recovery
+time, represents a great progress for OFET-based sensors. The
+ultrathin microstripes provide direct and effi cient pathways for
+the analytes’ activities (adsorption/diffusion/interaction/desorption) within the conductive channel, and therefore account
+for the improved sensing performance. This study may pave an
+avenue toward low-cost, fast, and portable electronic noses for
+environmental monitoring in agricultural areas and chemical
+processing plants, gas detection for counter-terrorism, and
+sensing for disease diagnosis.
+ Experimental Section
+Growth and Characterization of Ultrathin Microstripes : The
+tetrathiapentacene, 2,7-dihexyl-dithieno[2,3- d ;2 ′ ,3 ′ - d′ ]benzo[1,2- b ;4,5-b ′ ]
+dithiophene (DTBDT-C6), was synthesized according to the literature [6]
+and dissolved in toluene (Aldrich 99%, anhydrous) to form a 2 mg mL − 1
+solution. A silicon wafer with a 300 nm oxide layer (Si-Mat GmbH) was
+vertically immersed into and pulled out of the solution at the speed
+range of 8–10 mm s − 1
+ . Dip-coating was carried out at ambient laboratory
+conditions (temperature = 19.0–25.0 ° C, humidity = 35–60%).
+ The topography and thickness of microstripes were measured on
+a Digital Instruments nanoprobe atomic force microscope 3000 in
+ [ 1 ] a) L. Torsi , G. M. Farinola , F. Marinelli , M. C. Tanese , O. H. Omar ,
+ L. Valli , F. Babudri , F. Palmisano , P. G. Zambonin , F. Naso , Nat.
+Mater. 2008 , 7 , 412 ; b) T. Someya , A. Dodabalapur , J. Huang ,
+ K. C. See , H. E. Katz , Adv. Mater. 2010 , 22 , 3799 ; c) P. Lin ,
+ F. Yan , Adv. Mater. 2012 , 24 , 34 ; d) A. N. Sokolov , B. C. K. Tee ,
+ C. J. Bettinger , J. B. H. Tok , Z. Bao , Acc. Chem. Res. 2011 , 45 ,
+ 361 ; e) T. Someya , Proc. Natl. Acad. Sci. USA 2005 , 102 , 12321 ;
+ f) H. Jiang , H. P. Zhao , K. K. Zhang , X. D. Chen , C. Kloc , W. P. Hu ,
+Adv. Mater. 2011 , 23 , 5075 ; g) G. Darlinski , U. Bottger , R. Waser ,
+ H. Klauk , M. Halik , U. Zschieschang , G. Schmid , C. Dehm , J. Appl.
+Phys. 2005 , 97 , 093708 ; h) L. Q. Li , K. Meise-Gresch , L. Jiang , C. Du ,
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+7
+www.advmat.de
+www.MaterialsViews.com
+© 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim wileyonlinelibrary.com
+COMMUNICATION
+ J. Park , I. K. Schuller , W. C. Trogler , A. C. Kummel , Appl. Phys. Lett.
+2007 , 90 , 263506 ; d) V. A. Moshnikov , I. E. Gracheva ,
+ V. V. Kuznezov , A. I. Maximov , S. S. Karpova , A. A. Ponomareva , J.
+Non-Cryst. Solids 2010 , 356 , 2020 .
+ [ 6 ] P. Gao , D. Beckmann , H. N. Tsao , X. Feng , V. Enkelmann ,
+ M. Baumgarten , W. Pisula , K. Müllen , Adv. Mater. 2009 , 21 , 213 .
+ [ 7 ] L. Q. Li , P. Gao , K. C. Schuermann , S. Ostendorp , W. Wang , C. Du ,
+ Y. Lei , H. Fuchs , L. D. Cola , K. Müllen , L. Chi , J. Am. Chem. Soc.
+2010 , 132 , 8807 .
+ [ 8 ] J. Huang , J. Miragliotta , A. Becknell , H. E. Katz , J. Am. Chem. Soc.
+2007 , 129 , 9366 .
+ [ 9 ] a) M. McDowell , I. G. Hill , J. E. McDermott , S. L. Bernasek ,
+ J. Schwartz , Appl. Phys. Lett. 2006 , 88 , 073505 ; b) H. Klauk , Chem.
+Soc. Rev. 2010 , 39 , 2643 ; c) M. H. Yoon , C. Kim , A. Facchetti ,
+ T. J. Marks , J. Am. Chem. Soc. 2006 , 128 , 12851 ; d) T. Shaymurat ,
+ Q. Tang , Y. Tong , L. Dong , Y. Liu , Adv. Mater. 2013 , 25 , 2269 .
+ [ 10 ] a) Y. Chen , V. Podzorov , Adv. Mater. 2012 , 24 , 2679 ; b) W. Kalb ,
+ F. Meier , K. Mattenberger , B. Batlogg , Phys. Rev. B 2007 , 76 184112 ;
+ c) S. J. Zilker , C. Detcheverry , E. Cantatore , D. M. de Leeuw ,
+Appl. Phys. Lett. 2001 , 79 , 1124 ; d) H. Sirringhaus , T. Sakanoue ,
+ J.-F. Chang , Phys. Status Solidi B 2012 , 249 , 1655 .
+ [ 11 ] a) G. Horowitz , R. Hajlaoui , H. Bouchriha , R. Bourguiga ,
+ M. Hajlaoui , Adv. Mater. 1998 , 10 , 923 ; b) A. Das , R. Dost ,
+ T. Richardson , M. Grell , J. J. Morrison , M. L. Turner , Adv. Mater.
+2007 , 19 , 4018 ; c) H. Etschmaier , P. Pacher , A. Lex , G. Trimmel ,
+ C. Slugovc , E. Zojer , Appl. Phys. A: Mater. Sci. Process. 2009 , 95 , 43 .
+ [ 12 ] a) F. Mohammad , J. Phys. D: Appl. Phys. 1998 , 31 , 951 ; b) D. Duarte ,
+ D. Sharma , B. Cobb , A. Dodabalapur , Appl. Phys. Lett. 2011 , 98 ,
+ 133302 ; c) D. Duarte , A. Dodabalapur , J. Appl. Phys. 2012 , 111 ,
+ 044509 ; d) X. Hong-Quan , M. Yong-Mei , G. Jun-Shi , Synth. Met.
+2001 , 123 , 47 ; e) M. C. Tanese , D. Fine , A. Dodabalapur , L. Torsi ,
+Biosens. Bioelectron. 2005 , 21 , 782 .
+ [ 13 ] Tables of Physical & Chemical Constants (16th edition 1995),
+2.1.4 Hygrometry , Kaye & Laby Online, Version 1.0 2005 ,
+www.kayelaby.npl.co.uk, last accessed: May 2013.
+ W. Wang , H. Fuchs , L. Chi , Adv. Mater. 2012 , 24 , 3053 ; i) M. Halik ,
+ A. Hirsch , Adv. Mater. 2011 , 23 , 2689 .
+ [ 2 ] a) W. Huang , K. Besar , R. LeCover , A. M. Rule , P. N. Breysse ,
+ H. E. Katz , J. Am. Chem. Soc. 2012 , 134 , 14650 ; b) F. Zhang , C.-a. Di ,
+ N. Berdunov , Y. Hu , Y. Hu , X. Gao , Q. Meng , H. Sirringhaus ,
+ D. Zhu , Adv. Mater. 2013 , 25 , 1401 ; c) S. Tiwari , A. K. Singh , L. Joshi ,
+ P. Chakrabarti , W. Takashima , K. Kaneto , R. Prakash , Sens. Actuators B: Chem. 2012 , 171 , 962 ; d) J. W. Jeong , Y. D. Lee , Y. M. Kim ,
+ Y. W. Park , J. H. Choi , T. H. Park , C. D. Soo , S. M. Won , I. K. Han ,
+ B. K. Ju , Sens. Actuators B: Chem. 2010 , 146 , 40 ; e) H. W. Zan ,
+ M. Z. Dai , T. Y. Hsu , H. C. Lin , H. F. Meng , Y. S. Yang , IEEE Electron
+Device Lett. 2011 , 32 , 1143 ; f) N. J. Tremblay , B. J. Jung , P. Breysse ,
+ H. E. Katz , Adv. Funct. Mater. 2011 , 21 , 4314 ; g) H. W. Zan ,
+ W. W. Tsai , Y. R. Lo , Y. M. Wu , Y. S. Yang , IEEE Sens. J. 2012 , 12 , 594 .
+ [ 3 ] a) S. Virji , J. Huang , R. B. Kaner , B. H. Weiller , Nano Lett. 2004 , 4 ,
+ 491 ; b) B. Dong , D. Y. Zhong , L. F. Chi , H. Fuchs , Adv. Mater. 2005 ,
+17 , 2736 ; c) D. R. Kauffman , A. Star , Angew. Chem. Int. Ed. 2008 ,
+47 , 6550 ; d) E. Bekyarova , M. Davis , T. Burch , M. E. Itkis , B. Zhao ,
+ S. Sunshine , R. C. Haddon , J. Phys. Chem. B 2004 , 108 , 19717 ;
+ e) F. Yavari , E. Castillo , H. Gullapalli , P. M. Ajayan , N. Koratkar ,
+Appl. Phys. Lett. 2012 , 100 , 203120 ; f) N. S. Ramgir , Y. Yang ,
+ M. Zacharias , Small 2010 , 6 , 1705 ; g) G. Wang , Y. Ji , X. Huang ,
+ X. Yang , P.-I. Gouma , M. Dudley , J. Phys. Chem. B 2006 , 110 , 23777 .
+ [ 4 ] a) F. Dinelli , M. Murgia , P. Levy , M. Cavallini , F. Biscarini ,
+ D. M. de Leeuw , Phys. Rev. Lett. 2004 , 92 , 116802 ; b) H. Sirringhaus ,
+ T. Sakanoue , J.-F. Chang , physica status solidi (b) 2012 , 249 , 1655 ;
+ c) S. Fabiano , C. Musumeci , Z. H. Chen , A. Scandurra , H. Wang ,
+ Y. L. Loo , A. Facchetti , B. Pignataro , Adv. Mater. 2012 , 24 , 951 ;
+ d) H. Klauk , Chem. Soc. Rev. 2010 , 39 , 2643 ; e) L. Jiang , H. L. Dong ,
+ Q. Meng , H. X. Li , M. He , Z. M. Wei , Y. D. He , W. P. Hu , Adv. Mater.
+2011 , 23 , 2059 ; f) L. Q. Li , W. P. Hu , H. Fuchs , L. F. Chi , Adv. Energy
+Mater. 2011 , 1 , 188 .
+ [ 5 ] a) J. Huang , J. Sun , H. E. Katz , Adv. Mater. 2008 , 20 , 2567 ;
+ b) X. J. Wang , S. L. Ji , H. B. Wang , D. H. Yan , Sens. Actuators B:
+Chem. 2011 , 160 , 115 ; c) R. D. Yang , T. Gredig , C. N. Colesniuc ,
+Adv. Mater. 2013,
+DOI: 10.1002/adma.201301138
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2013.
+Supporting Information
+for Adv. Mater., DOI: 10.1002/adma.201301138
+High Performance Field-Effect Ammonia Sensors Based on a
+Structured Ultrathin Organic Semiconductor Film
+Liqiang Li, Peng Gao, Martin Baumgarten, Klaus Müllen,*
+Nan Lu, Harald Fuchs, and Lifeng Chi*
+
+ 1
+Supporting Information
+High Performance Field-Effect Ammonia Sensors Based on a Structured Ultrathin
+Organic Semiconductor Film
+Liqiang Li, Peng Gao, Martin Baumgarten, Klaus Müllen*
+, Nan Lu, Harald Fuchs and
+Lifeng Chi*
+*
+email: chi@uni-muenster.de; muellen@mpip-mainz.mpg.de
+Table of contents:
+1. Key parameters of electrical ammonia sensors using different active layers
+2. AFM images and section profile of tetralayer and hexalayer microstripes
+3. XRD patterns on ultrathin microstripes
+4. Distribution of sensitivity in OFET-based sensors with ultrathin microstripes
+5. Role of VGS on the sensitivity
+6. Sensing curves of ultrathin microstripes and continuous film toward acetone
+7. Bias stress test on OFETs
+8. Molecular structure and AFM images and section profile of ultrathin microstripes
+of DIDTD-C6
+
+ 2
+1. Key parameters of electrical ammonia sensors using different active layers
+Table S1. Key parameters of electrical ammonia sensors using OSCs, conducting polymers,
+carbon, and inorganic compounds as active layers.a
+
+Ref Active
+Materialsb
+S1, S2c
+(concentration) Tres Trec Selectivity Reversibility Stability
+Detection
+Limitd
+(S1)
+2a CuPc-TPFB
+CoPc-TPFB
+<2, <50%
+(20ppm) ~ 90s > 5min Good Good N/A 0.45ppm
+(<1.1)
+2b
+NDI(2OD)(4tB
+uPh)-DTYM2
+Ultrathin film
+2-4, 50-70%
+(100ppm) ~5s 10-20s N/A Good N/A 10ppm
+(<1.2)
+2d Polythiophene
+film
+~1.5, 35%
+(100ppm) 30-100s 50-200s N/A Good N/A 10ppm
+( ~1.2)
+2e Porous
+Pentacene
+~1.3, 23%
+(3ppm)
+100-
+200s
+100-
+200s N/A Good N/A 0.5ppm
+(<1.1)
+3a Polyaniline
+Nanofiber
+~20, 95%
+(100ppm) >250s N/A N/A N/A N/A 100ppm
+(~20)
+3d SWCNTPABS
+~1.3, 23%
+(100ppm) >100s >700s N/A Good N/A 5ppm
+( <1.1)
+3e Graphene ~1.2, 17%
+(10ppm) >60min >60min N/A N/A N/A 0.5ppm
+( ~1.03)
+3f WO3
+Nanofiber
+10, 90%
+(500ppm) 20s >50s N/A Good N/A 50ppm
+(~2)
+This
+work
+DTBDT-C6
+Ultrathin
+Microstripe
+70-140e
+,
+98.6-99.3%
+(50ppm)
+5-45se 4-35se Good Good Good 10ppmf
+(~30)
+[a] Some parameters that are not reported directly in the references are derived from the
+corresponding sensing curves. Tres: Response time, Trec: Recovery time, N/A: not available.
+[b] CuPc: copper phthalocyanine, TPFB: tris(pentafluorophenyl)borane, CoPc: cobalt
+phthalocyanine, NDI(2OD)(4tBuPh)-DTYM2: naphthalene diimides derivative, SWCNT:
+single wall carbon nanotube, PABS: poly(m-aminobenzene sulfonic acid)
+[c] S1 is defined as Igas-off/Igas-on, and S2 is defined as (Igas-off-Igas-on)/Igas-off×100%. S1×(1-S2)=1.
+The value in brackets means the concentration corresponding to the sensitivity
+[d] The value in brackets means the sensitivity corresponding to the detection limit
+[e] The sensitivity and response/recovery time range are obtained from 20 individual devices
+[f] The detection limit is restricted by our experimental setup which could not exactly prepare
+NH3 gas with concentration below 10 ppm.
+
+ 3
+2. AFM images and section profile of tetralayer and hexalayer microstripes
+0 10 20 30 40 50
+-10
+-5
+0
+5
+10
+0 10 20 30 40 50
+-10
+-5
+0
+5
+10
+a b
+Figure S1 AFM images and section profile of (a), Tetralayer and (b), Hexalayer microstripes.
+The Unit for x and y axis in section profile is µm and nm, respectively.
+Ultrathin microstripes are obtained via dip-coating over large area (centimeter size). AFM
+measurements indicate the height of ultrathin microstripe is in the range of 6-11 nm, and the
+height of monolayer is about 1.7 nm, so the layer number is 4-6.
+3. XRD patterns on ultrathin microstripes
+5 10 15 20 25 30
+0.0
+5.0k
+10.0k
+15.0k
+(400) (300)
+Intensity (a.u.)
+2 (degree)
+(100)
+Figure S2 XRD patterns of ultrathin microstripes with 4-6 molecular layers
+
+ 4
+4. Distribution of sensitivity in OFETs-based sensor with ultrathin microstripes
+70-100 100-120 120-140
+0
+2
+4
+6
+8
+10
+Account
+Sensitivity
+Figure S3 Distribution of sensitivity of 20 OFETs-based sensors with ultrathin microstripes
+Figure S3 indicates the good reproductvity of OFETs-based sensors with ultrathin
+microstripes, which may be due the weak dependece of sensitivity on the mobility and
+threshold voltage of the pristine OFETs. The detailed explanation is shown in the supporting
+information 5.
+5. Role of VGS on the sensitivity
+0 20 40 60 80 100 120
+1
+10
+100
+I gas-off/I gas-on
+Time (s)
+V GS=-20V
+ V GS=-40V
+V GS=-60V
+Figure S4. Sesning curves of OFET-based sensor with ultrathin microstripes at different VGS.
+VDS is fixed at -40 V for these tests.
+
+ 5
+Figure S4 reveal the inverse relationship between sensitivity and VGS, which is consistent with
+the previous reports and can be understood as follows:
+The equation in saturation regime of OFETs is:
+2 ( ) 2
+i
+DS GS th
+C W I V V
+L
+
+  (1)
+The sensitivity (S1) is defined as follows:
+2 ,
+2 ,
+( ) 1
+( )
+gasoff gasoff GS T gasoff
+gason gason GS T gason
+I VV S
+I VV
+
+
+    (2)
+Substituting Vth,gason = Vth,gasoff + ∆Vth into Equation (2), then we get Equation (3)
+2 ,
+2 ,
+( ) 1
+( )
+gasoff GS T gasoff
+gason GS T gasoff th
+V V S
+VV V
+
+ 
+    (3)
+From Equation (2) and (3), it is clear that sensitivity show inverse relationship with VGS, and
+that the ratio of µgasoff/µgason, not single µgasoff or µgason, contributes sensitivity.
+6. Sensing curves of ultrathin microstripes and continuous film toward acetone
+0 200 400 600 800
+0
+1
+2
+3
+4
+Normalized Current
+Time (s)
+a b
+0 250 500 750
+0
+1
+2
+3
+Acetone off
+Normalized Current
+Time (s)
+Acetone on
+Figure S5 Sensing curves of (a) Ultrathin microstripes and (b) Continuous film toward
+acetone.
+Figure S5 shows the typical sensing curve of ultrathin microstripes (4-6 ML) and continuous
+film (20 nm) toward acetone (> 200 ppm). Clear sensor signal i.e., the change of drain-source
+current can be observed in sensor with ultrathin microstripes, while continuous film yields
+very weak sensing signal. This comparison definitely confirms that ultrathin microstripes can
+enhance the sensor performance.
+
+ 6
+7. Bias stress test on OFETs
+0 1000 2000 3000
+2
+4
+6
+8
+10
+4-6 ml
+ Film
+Normalized Current
+Time (s)
+Figure S6 Bias stress test of ultrathin microstripes and continuous film under VGS and VDS of -
+40 V
+8. Molecular structure and AFM images and section profile of ultrathin microstripes of
+DIDTD-C6
+0 10 20 30 40 50
+-10
+-5
+0
+5
+10
+a b
+Figure S7 (a) Molecular structure of DIDTD-C6. (b) AFM image and section profile of 4-7
+molecular layers. The unit for x and y axis in b is µm and nm, respectively.
+2,7-dihexyl-s-indaceno[1,2-b:5,6-b']dithiophene-4,9-dione (DIDTD-C6, Figure S5a) was
+synthesized according to literature (Tian, H.; Deng, Y.; Pan, F.; Huang, L.; Yan, D.; Geng, Y.;
+Wang, F., J. Mater. Chem. 2010, 20, 7998-8004). This compound is also suitable for the
+growth of ultrathin microstripes (4-7 ML) via dip-coating, as shown in Figure S7b. 

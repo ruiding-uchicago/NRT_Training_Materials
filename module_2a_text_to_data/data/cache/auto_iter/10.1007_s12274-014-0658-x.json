@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s12274-014-0658-x",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Hg2+",
+      "lower_detection_limit": "3e-11 M",
+      "upper_detection_limit": "1e-6 M",
+      "probe_material": "molybdenum disulfide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "potassium perchlorate/water"
+    }
+  ]
+}

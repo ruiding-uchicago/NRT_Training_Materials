@@ -1,0 +1,194 @@
+New method for selectivity enhancement of SiC field effect gas sensors for quantification of NO x
+Technical Paper
+Published: 07 February 2012
+Volume 18, pages 1015–1025, (2012)
+Cite this article
+Download PDF
+Access provided by Big Ten Academic Alliance (BTAA)
+
+
+Microsystem Technologies
+Aims and scope
+Submit manuscript
+New method for selectivity enhancement of SiC field effect gas sensors for quantification of NO x
+Download PDF
+Christian Bur, Peter Reimann, Mike Andersson, Anita Lloyd Spetz & Andreas Schütze 
+336 Accesses
+
+Explore all metrics 
+
+Abstract
+A silicon carbide based enhancement type metal insulator field effect transistor with porous gate metallization has been investigated as a total NO x sensor operated in a temperature cycling mode. This operating mode is quite new for gas sensors based on the field effect but promising results have been reported earlier. Based on static investigations we have developed a suitable T-cycle optimized for NO x detection and quantification in a mixture of typical exhaust gases (CO, C2H4, and NH3). Significant features describing the shape of the sensor response have been extracted and evaluated with multivariate statistics (e.g. linear discriminant analysis) allowing quantification of NO x . Additional cleaning-cycles every 30 min improve the stability of the sensor further. With this kind of advanced signal processing the influence of sensor drift and cross sensitivity to ambient gases can be reduced effectively. Measurements have proven that different concentrations of NO x can be detected even in a changing mixture of other typical exhaust gases under dry and humid conditions. In addition to that, unknown concentrations of NO x can be detected based on a small set of training data. It can be concluded that the performance of GasFETs for NO x determination can be enhanced considerably with temperature cycling and appropriate signal processing.
+
+Similar content being viewed by others
+
+Gas sensor array based on carbon-based thin-film transistor for selective detection of indoor harmful gases
+Article 06 June 2024
+
+Nonlinear Regression Algorithm for Processing Signals from Semiconductor Chemical Sensors to Provide Selective Detection of Impurities in Artificial Air
+Article 01 March 2021
+
+Selective detection of the inorganics NOx, SO2, and H2S in the presence of volatile BTEX contaminants toluene, benzene, and xylene
+Article 17 June 2015
+Explore related subjects
+Discover the latest articles, news and stories from top researchers in related subjects.
+Automotive Engineering
+1 Introduction
+In the last years, the requirements to reduce the emissions of environmentally hazardous gases have become more and more strict and therefore the need to control emissions, e.g. from cars or other combustion processes, increases. The debate is currently concentrating on the reduction of carbon dioxide emissions to limit global warming attributed to this greenhouse gas but the emissions of nitrogen oxides (NO x ) also pose a serious problem, especially for diesel engines (Jobson 2004). Diesel engines produce less carbon dioxide but on the other hand the emission of NO x is higher compared to petrol powered cars. There is also a tendency to operate under lean conditions, i.e. with higher oxygen to fuel ratio, in order to reduce the fuel consumption but this also leads to an increase of the NO x emissions. Together with unburned or partially oxidized hydrocarbons (HC) NO x contributes to the formation of ground level ozone (smog) and acid rain. NO x concentrations can be reduced by adding ammonia (NH3) in the form of urea in so called SCR systems (selective catalytic reduction) (Koebel et al. 2000). However, for optimal SCR systems sensors are required to detect either NO x or NH3 to avoid emission of unused ammonia which is still a challenging task (Classen and Sahner 2011).
+
+Gas sensitive field effect devices with silicon carbide (SiC) as substrate material are suitable candidates for operation in harsh environments, e.g. directly in the exhaust stream of vehicles and power plants. The wide band gap of 3.2 eV of the semiconductor silicon carbide (4H–SiC) allows operating temperatures up to 700°C (for short periods of time) and the material is chemically highly inert making it suitable for the use in harsh environment (Lloyd Spetz et al. 2003). Lundström et al. (1975, 2007) have shown that by adding a catalytic material, e.g. palladium, platinum or iridium, to the gate of an ordinary MOS FET, it can be made gas sensitive. Later on, Lloyd Spetz et al. (1992) and Hunter et al. (1993) introduced other field effect devices such as MOS capacitors and Schottky diodes which can also be used as gas sensors. The basic sensing principle however is similar for all kinds of sensors and independent of the materials and the sensor architecture. Gas molecules reaching the catalytic surface will react and form a polarized layer either on the oxide side of the metal/insulator interface or directly on bare patches of insulator for porous catalyst layers (Eriksson and Ekedahl 1998). This dipole layer gives rise to an electric field inside the semiconductor and hence affects the density of mobile carriers in the channel region. The sensor signal is then observed as a shift in the IV- (current–voltage-curve) or CV- (capacitance–voltage) curve of the device. Assuming the sensor is operated in an oxygen atmosphere, oxygen will adsorb on the sensor surface. Schalwig et al. (2002) suggested that the sensitivity towards hydrogen and non-hydrogen containing gases have a common cause. The adsorbed oxygen anions influence the electric field in the semiconductor and thus the sensor signal. In the presence of reducing gases like CO, reactions on the catalytic surface will lead to a lower concentration of oxygen and therefore to a change in the sensor signal similar to metal oxide sensors.
+
+The metal insulator silicon carbide field effect transistor (MISiC FET) has already been successfully tested for continuous monitoring of exhaust gases, for instance as an ammonia sensor in SCR systems (Wingbrant et al. 2005), for on board diagnostics (OBD) (Andersson et al. 2004) or as a lambda sensitive device for enhancing catalytic converters (Larsson et al. 2002).
+
+Chemical sensors in general often suffer from poor selectivity even though they have a high sensitivity, and from poor long time stability. In order to improve the limited selectivity sensor arrays have been used variously consisting of different sensors or sensors operated at different temperatures. However, sensor arrays increase the complexity and the cost of the system. In addition, the signal processing is more demanding and the stability is reduced considerably because drift of a single sensor changes the obtained pattern making correct data evaluation nearly impossible.
+
+A completely different approach is the use of a single sensor operated in a dynamic mode of operation, e.g. using temperature cycled operation (TCO). This approach was originally developed for metal oxide sensors (Eicker 1977; Lee and Reedy 1999) and is a powerful method to increase both the selectivity and the stability of the sensors (Gramm and Schütze 2003). Sears et al. (1989a, b) reported in a review that an oscillating sensor temperature leads to several advantages: cycling the temperature can improve the sensitivity due to the fact that there is a specific temperature for each gas corresponding to the maximum sensitivity. Furthermore, a temperature cycle often leads to a unique signature for each gas, i.e. a shape of the sensor response, due to different rates of reaction, different oxygen species (Schalwig et al. 2002) on the sensor surface etc. At low temperature high sensitivity is achieved for some gases (e.g. CO) but often causes an incomplete reaction of more complex molecules on the sensor surface and thus an accumulation of chemisorbed species making the sensor “go blind” by blocking adsorption sites. Therefore, periodic heating to higher temperatures is necessary to clean the surface. Also, fast temperature changes leading to non-equilibrium conditions on the sensor surface seem to be advantageous for high selectivity (Schütze et al. 2004). A system based on a single sensor with dynamic operation is sometimes called “a virtual multi sensor”.
+
+In a preliminary, more general work (Bur et al. 2010) we showed that this approach can successfully be applied to gas sensors based on the field effect as well. In this article an enhancement type (normally off) MISiC FET with two different gate metallizations (platinum and iridium) is used in TCO mode to detect NO x . The gate metallization does not have a strong influence on the NO x detection when using TCO (Bur et al. 2011a, b). However in this work, the basic concept of the virtual multi sensor approach applied to MISiC-FETs is tailored to NO x quantification in a changing mixture of other typical exhaust gases (CO, C2H4 and NH3) in dry as well as in humid atmosphere. The obtained multidimensional data vector is then evaluated by pattern recognition tools (here: linear discriminant analysis, LDA) (Duda et al. 2000).
+
+2 Experimental
+2.1 Sensor device and sensor hardware
+The sensor devices used in this work are gas sensitive field effect transistors based on n-type silicon carbide substrates (4H–SiC wafers). A schematic drawing is shown in Fig. 1. Drain and gate of the transistor are connected in order to obtain a simple two terminal device with diode characteristics. During all measurements, the current between source and drain/gate is kept constant at 100 μA and the resulting voltage drop is recorded reflecting changes in the IV characteristic of the device. The transistors were designed by MC2-department of Chalmers University in Gothenburg, Sweden, and processed by ACREO AB, Kista, Sweden (ACREO). Sputtered porous layers of either platinum or iridium, deposited at Linköping University, Sweden, were used as gate metallization. The thickness of the catalytic layers is 250 Å and the deposition was performed under argon atmosphere at 50 mTorr.
+
+Fig. 1
+figure 1
+Schematic drawing of the used enhancement type MISiC-FET sensor. The gate and the drain of the transistor are connected in order to get a simple two terminal device with diode characteristics
+
+Full size image
+The die size is 2.1 × 1.9 mm2 with each die containing three MISiC sensors plus a test structure; in all experiments only one transistor structure was used at a time. The chip is glued onto a ceramic heater (Heraeus) together with a Pt-100 temperature sensor and mounted on a TO-8 header as shown in Figs. 2 and 3.
+
+Fig. 2
+figure 2
+The complete sensor device. MISiC field effect transistor with ceramic heater and Pt-100 temperature sensor mounted on a TO-8 header
+
+Full size image
+Fig. 3
+figure 3
+Top view of the used sensor. The photo shows two sensor chips, one with platinum and one with iridium metallization mounted side by side
+
+Full size image
+In order to operate the sensor a customized hardware platform offering versatile temperature cycles, accurate heater control and synchronous detection of the sensor signal was developed by 3S––Sensor, Signal Processing and Systems GmbH, Saarbrücken, Germany (3S). The temperature control is realized with an analog control circuit as shown in Fig. 4. The temperature can be set by the digital potentiometer which determines the resistance of the heater via a bridge circuit and a feedback transistor setting the current flow through the heater. In all measurements a sampling rate of 10 Hz was used, the voltage across the device was measured using a 10 bit ADC.
+
+Fig. 4
+figure 4
+Schematic of the analog heater control circuit (Kammerer et al. 2003). The value of the heater RH, respectively, the temperature, is set by the digital potentiometer Rpot
+
+Full size image
+2.2 Temperature cycle
+The temperature cycle (T-cycle) used for all the measurements reported here is optimized for NO x detection in a mixture of other typical exhaust gases (e.g. CO, HC and NH3). In order to find a suitable T-cycle the sensor response towards NO, NO2 and a mixture of the other exhaust gases was studied as a function of the operating temperature. For this, the steady state temperature was increased from 100°C up to 400°C and the sensor response towards 100 ppm NO, 10 ppm NO2 and a gas mixture consisting of 600 ppm CO, 50 ppm C2H4 an 60 ppm NH3 was investigated under humid conditions (50% rel. hum. at RT). An appropriate T-cycle should contain temperature levels which represent points of maximum sensitivity towards the primary gases of interest. Thus, the difference between the sensor signals obtained in the mixture and in NO or NO2, respectively, was calculated. Figure 5 shows the obtained results where temperature levels corresponding to points of maximum sensitivity are marked. The resulting T-cycle (shown in Fig. 6) is designed based on these temperature levels. The duration of the T-cycle is 45 s which is mainly determined by the time constant of the ceramic heater which is in the order of 5 s. The high temperature step (380°C) at the end of the cycle is mainly to clean the sensor from reaction products adsorbed on the sensor surface, thus improving reproducibility, but is also used for data evaluation.
+
+Fig. 5
+figure 5
+Difference in the sensor response between a mixture of exhaust gases (600 ppm CO, 50 ppm C2H4 and 60 ppm NH3) and either 100 ppm NO (squares) or 10 ppm NO2 (triangles) while the temperature is increased from 100°C up to 400°C in 45 min (circles). Points of maximum sensitivity of NO x towards the mixture are marked. The measurement was done in an atmosphere of 10% oxygen in nitrogen with 50% rel. hum. at room temperature
+
+Full size image
+Fig. 6
+figure 6
+The selected temperature cycle covering a temperature range from 118°C to 380°C. The sketch shows the temperature set points (squares) and the resulting sensor signal in pure nitrogen (triangles). The temperature steps correspond to levels of maximum sensitivity towards NO x versus a standard background mixture as shown in Fig. 5. The high temperature step (380°C) at the end of the cycle is mainly to clean the sensor from reaction products adsorbed on the sensor surface but is also used for data evaluation
+
+Full size image
+2.3 Gas profiles used for testing
+The gases used in this project are typical for automotive or power plant exhaust gases, e.g. nitrous oxides (NO and NO2), carbon monoxide (CO), hydro carbons (HC) and ammonia (NH3) which has become of interest since the introduction of SCR systems. In these tests, ethene (C2H4) was selected as a representative for hydrocarbons. In a first step the sensor response towards all test gases was investigated (see subchapter 4.1). Then a NO/NO2 (in the following called NO x ) standard test profile was defined with a constant NO:NO2 ratio of 10:1 covering a concentration range from 50 ppm up to 200 ppm NO in 25 ppm steps, corresponding to 5 ppm up to 20 ppm for NO2. The background of this standard profile is a mixture of 600 ppm CO, 50 ppm C2H4 and 60 ppm NH3 in a carrier gas consisting of 10% oxygen in nitrogen with either 0 or 50% relative humidity (at room temperature). The carrier gas containing oxygen was selected to reflect lean combustion processes which work with an excess of oxygen. A short NO x exposure was used at the beginning of each profile as an initialization peak in every measurement in order to have a well-defined starting situation and to reduce influences from earlier exposures. In addition to the standard test profile, changes of the background were investigated as well. Variations of the standard profile studied in this paper are measurements with 300 and 900 ppm CO, 25 and 75 ppm C2H4 and 30 ppm and 90 ppm NH3, while keeping all other concentrations unchanged as shown in the test profile in Fig. 7.
+
+Fig. 7
+figure 7
+NO x test profile. The ratio between NO and NO2 is kept constant at 10:1. The concentration range starts at 50 ppm NO (5 ppm NO2) and increases in 25 ppm steps (2.5 ppm steps NO2) up to 200 ppm NO (20 ppm NO2). There are seven different background mixtures contained in the profile. The standard background consists of 600 ppm CO, 50 ppm C2H4 and 60 ppm NH3. In addition, there are backgrounds with a higher and a lower concentration of each background gas. The carrier gas is 10% oxygen in nitrogen, the relative humidity at room temperature is either 0 or 50%
+
+Full size image
+3 Signal processing
+Temperature cycled operation leads to multi-dimensional data making an advanced signal processing necessary. Our established procedure for processing sensor data is shown in Fig. 8. Before the actual evaluation of the sensor response the raw data are subjected to a signal pre-processing step. Due to the fact that the signals are affected by digital noise a smoothing filter is applied first. It turned out that for smoothing the data, a second order Savitzky–Golay convolution filter (SG filter) (Savitzky and Golay 1964; Steiner et al. 1972; Madden 1978) is a convenient method to suppress the noise while preserving the original shape and relevant features of the sensor signal which is essential for the subsequent evaluation. Using a temperature cycled operation a raw data matrix is obtained containing the subsequent cycles in the different rows and the sampled data of one specific cycle in the columns. The SG smoothing filter was applied in both dimensions.
+
+Fig. 8
+figure 8
+Flow chart of the applied signal processing
+
+Full size image
+Schütze et al. (2004) showed that raw data normalization obtained by dividing each value in the temperature cycle by the mean value calculated for the entire cycle is appropriate to reduce sensor drift of metal oxide sensors improving the long-term stability of the data evaluation. We found that the same normalization is also a very promising approach for field effect devices operated in temperature cycling. This normalization of each individual cycle is especially suitable to reduce baseline drift.
+
+When using pattern recognition for evaluating the obtained sensor data it is important to identify significant features describing the sensor signal (Gutierrez-Osuna 2002). Previous work (Gramm and Schütze 2003) has shown that features describing the shape of the sensor response are very effective, outperforming Fourier or Wavelet transformation coefficients. Here, the temperature cycle is divided into ten sections (shown in Fig. 9) from which features are extracted. In this work previously established standard features like slope and mean value of the sensor signal in a specific interval (Ankara et al. 2004) as well as the Euclidian norm of the data vector and the standard deviation within each interval are calculated and used for the pattern recognition (Bur et al. 2011a, b). In Fig. 10 one can easily observe that the slope and the mean value changes with different concentrations of NO/NO2.
+
+Fig. 9
+figure 9
+Smoothed and normalized dynamic sensor signal of a MISiC FET with platinum as the gate metallization. One specific cycle is shown for each NO x concentration. The ten intervals which were used for feature extraction are marked
+
+Full size image
+Fig. 10
+figure 10
+Detailed view of the dynamic sensor signal. The difference in the shape of the sensor signal for the different NO x concentrations can be observed
+
+Full size image
+The resulting 40 dimensional feature vector is then the basis for the following multivariate data analysis to reduce the dimensionality and allow classification of the data. In this work, Linear Discriminant Analysis (LDA) was used as a supervised data evaluation method allowing optimal separation of different groups while reducing the scatter within each group (Duda et al. 2000; Gutierrez-Osuna 2002). Here, two dimensional LDA projections are used, in which the data can be interpreted for example using next neighbor classification to identify different gases or gas mixtures or by correlating one discriminant function, i.e. one projection dimension, to an analog value, e.g. the gas concentration to be determined (Lösch et al. 2008).
+
+4 Results and discussion
+4.1 Sensitivity of the sensor
+In a first step, the sensor response to the single test gases was studied. Figure 11 shows the quasi static sensor response (one data point per T-cycle and temperature level over the whole measurement) of a platinum gate GasFET towards the different test gases. As one can observe there is hardly any response towards ethene and carbon monoxide and only a small reaction towards ammonia. On the other hand, the sensitivity to both nitrogen monoxide and dioxide is high reflecting a good base selectivity of the sensors for NO x . In general, the used field effect transistors are suitable for monitoring NO x in the exhaust but the absolute value of the sensor response does not correlate well to the NO x concentration. Hence, quantification of NO x would be very difficult. This drawback can be overcome by using TCO because then the sensor response pattern is used to quantify NO x (e.g. by using shape describing features).
+
+Fig. 11
+figure 11
+Quasi static sensor signal of a MISiC FET with platinum gate metallization to various exhaust gases. The response towards the background gases (CO, C2H4 and NH3) is relatively low while the sensitivity towards NO and NO2 is high. Therefore, the sensor is suitable for detection NO x in the exhaust. The measurement was performed in a carrier gas with 10% oxygen in nitrogen with 50% rel. hum. at room temperature
+
+Full size image
+4.2 Quantification of NO x
+In order to investigate the possibility to quantify NO x in a mixture of other exhaust gases the gas profile shown in Fig. 7, especially the last part marked as “standard”, is used.
+
+4.3 Quantification under dry conditions
+The data recorded from the sensors are first pre-processed (i.e. smoothed and normalized) and then the features are extracted as described above. The two dimensional LDA plot of an iridium gate FET discriminating different NO x concentrations in a dry atmosphere is shown in Fig. 12. Measurements in dry atmosphere do not represent the conditions in applications but are suitable for a first characterization of the sensor. Discrimination of different NO x concentrations in the range of 50–200 ppm in a background of CO, C2H4 and NH3 works reasonably well. The different groups in the plot can be separated using the first discriminant function (DF1). In addition to the discrimination of different NO x concentrations, proportionality between the NO x concentration and the first discriminant function (DF) can be observed, which can be used to quantify the NO x concentration after determining the value of the DF1. In Fig. 13 the NO x concentration is plotted versus the value of the first discriminant function. The group centroids (solid squares) are then fitted using a second order polynomial. This resulting function can then be used to determine an unknown NO x concentration by simply calculating the value of the first DF from the sensor data and inserting it into the derived function. Note that the 0 ppm group (respectively the background mixture without NO x ) has been projected into this LDA plot using the LDA coefficients obtained from the sensor data with NO x . Even the projection of this group fits into the proportionality of concentration versus DF1. Similar results were also found for a field effect sensor with a platinum gate (Bur et al. 2011a, b).
+
+Fig. 12
+figure 12
+Discrimination of different NO x concentrations in the standard background (600 ppm CO, 50 ppm C2H4 and 60 ppm NH3) under dry conditions with a MISiC FET with iridium gate metallization. The 0 ppm group is projected using the LDA coefficients obtained from an LDA discriminating only the different NO x concentrations. Proportionality between the NO x concentration and the first discriminant function is evident
+
+Full size image
+Fig. 13
+figure 13
+Correlation between the concentration and the first discriminant function for the sensor data from Fig. 12
+
+Full size image
+4.4 Quantification under humid conditions
+A dry atmosphere is a valid scenario in the laboratory but in real applications there is usually a certain amount of water vapor present, especially in exhaust gas measurements. Therefore, measurements with additional water vapor (here: 50% rel. hum. at room temperature) were carried out as well. In Fig. 14 the result of the Linear Discriminant Analysis is shown. For this measurement the same sensor was used as for the measurements under dry condition. The quality of the discrimination is slightly impaired compared to the results under dry conditions in the sense that the scales of the discriminant functions are smaller and, thus, the scatter within the groups is much higher relative to the distance between different groups. Nevertheless, estimation of the NO x concentration is still possible even though the accuracy is reduced.
+
+Fig. 14
+figure 14
+LDA plot discriminating different NO x concentrations of in the standard background under humid conditions (50% rel. hum. at room temperature) with a MISiC FET with iridium gate metallization. Proportionality between the concentration and the first discriminant function can be observed even if the scatter within the groups is higher than under dry conditions
+
+Full size image
+It is known that additional water vapor influences the sensor signal due to ionic species like OH groups formed on the sensor surface. However, we did not expect that the quality of the discrimination deteriorates this much when water vapor is present. Further investigations revealed that this phenomenon is caused by sensor deterioration or aging which occurs after the sensor is operated for some time in the humid gas atmosphere. Therefore, we think that there are some partially oxidized species on the sensor surface which interfere with the reaction of other gas molecules on the sensor surface. Actually, the high temperature step at the end of the T-cycle was added to suppress this phenomenon. Apparently, this short heating step is not sufficient for removing all adsorbed species from the sensor surface. To test this hypothesis, the sensor was heated up to 400°C for approx. 30 min before repeating this measurement. The influence on the discrimination achieved by LDA is shown in Fig. 15. Now, the result is much more similar to the one obtained under dry conditions, thus improving discrimination of different groups and quantification of NO x .
+
+Fig. 15
+figure 15
+LDA plot discriminating different concentrations of NO x in the standard background under humid conditions as in Fig. 14 with a MISiC FET with platinum gate metallization. Here, sensor was kept at 400°C for approx. 30 min before the start of the measurement in order to clean the surface from adsorbed reaction products
+
+Full size image
+Regarding temperature cycled operation there are two options to improve the stability especially for longer measurements: the first option would be based on a changed high temperature step with longer duration and/or higher maximum temperature. Note that both variants would result in a longer T-cycle due to the large thermal time constant of the sensor. The second option is to periodically introduce a special cleaning cycle, e.g. keeping the temperature constant at maximum temperature for a certain period for cleaning the surface. This special cycle could for instance occur every 30 min, respectively after every 40th T-cycle. For data evaluation this cycle (#41) would be ignored.
+
+4.5 Classification of unknown NO x concentrations
+In field test systems or in applications it is inconvenient or expensive to calibrate the system with many different concentrations. Instead, a calibration process with only very few concentrations, ideally only one or two, is preferable. Figure 16 shows a LDA plot discriminating different NO x concentration where the LDA coefficients are determined (“trained”) using only three NO x concentrations (50, 125 and 200 ppm, solid symbols). The other concentrations are then projected into that plot using the obtained LDA coefficients resulting in a projection where the additional groups (open symbols) fit perfectly into the set of training groups. Thus, it is sufficient to train the system with only a few concentrations which should, however, span the relevant concentration range.
+
+Fig. 16
+figure 16
+LDA trained with only three NO x concentrations (500, 125 and 200 ppm, marked by solid symbols) for a MISiC FET with iridium gate metallization. The obtained coefficients are then applied to the data from the other NO x concentrations (marked by open symbols). It can be observed that NO x quantification is possible even if the system is trained only by a few concentrations
+
+Full size image
+4.6 Influence of a changing background
+In order to investigate the influence of varying background gas concentrations the entire gas profile shown in Fig. 7 consisting of NO x concentration profiles in a total of seven different backgrounds was used. For each of the three background gases a higher and a lower concentration compared to the standard background was used.
+
+Although the sensor is less sensitive to the background gases the response towards NO x is influenced by the background making NO x quantification more complicated. In particular, it is not possible to determine the NO x concentration based on one single set of LDA training coefficients. In order to solve this problem a hierarchical approach could be used where the second step is based on the decision obtained before (Gramm and Schütze 2003; Schütze et al. 2004). In a first step, the current background composition could be determined, again using a specific LDA projection, and based on this step the most suitable LDA coefficients are chosen to determine the NO x concentration. This approach was successfully used also for other complex applications, e.g. underground fire detection with a semiconductor gas sensor (Reimann et al. 2009). A hierarchical approach on the other hand requires a larger set of calibration data, i.e. a complete calibration set for each class in step one. Figure 17 shows the LDA projection for the first step discriminating four different backgrounds scenarios (where CO, C2H4 or NH3, respectively, are changing, compare Fig. 7). For each group, the data from three NO x concentrations (50, 125, 200 ppm) in the respective background were selected. Although the sensor is almost insensitive towards the background gases CO, C2H4 and NH3 their influence on the NO x response is not negligible as shown in Fig. 17. On the one hand this is due to the fact that the NO x response on the sensor surface can be attenuated in the presence of other gases; on the other hand it might be possible that there is also some kind of sensor drift contained in the sensor signals.
+
+Fig. 17
+figure 17
+LDA discriminating different backgrounds for a MISiC FET with iridium gate metallization. Each group contains three different NO x concentrations (50, 125 and 200 ppm) in the respective background in humid atmosphere (50% rel. hum. at room temperature)
+
+Full size image
+4.7 Verification of the approach
+To verify the described hierarchical approach, an LDA projection was trained with the different background groups similar to Fig. 17. Each group is based on data from three NO x concentrations (50, 125 and 200 ppm, respectively) in the particular background. The obtained coefficients were then used to project data of the other NO x concentrations (75, 100, 150 and 175 ppm, respectively in background with changed ethane concentration). The resulting projection is shown in Fig. 18. The new data (marked by x) are fairly close to the group corresponding to a changed ethene background so that a classifier (e.g. k-nearest neighbor) would correctly identify the background scenario as “changed C2H4 concentration”. Then, LDA coefficients for this specific background would be used to quantify the NO x concentration.
+
+Fig. 18
+figure 18
+LDA projection based on the coefficients obtained from the data in Fig. 17. In addition, data are projected for several more NO x concentrations in a background with higher C2H4 concentration (marked with x) showing that the background can be identified independent of variations of the NO x concentration
+
+Full size image
+5 Conclusion and outlook
+The aim of this work was to study the quantification of different NO x concentrations in a mixture of typical exhaust gases with a field effect transistor using temperature cycled operation (TCO). We have shown that MISiC FETs with catalytic gate materials (e.g. iridium, platinum) combined with TCO are suitable for NO x quantification over a wide concentration range. In a first step a temperature cycle was developed based on static investigations in order to optimize it for NO x quantification in a mixture of other typical exhaust gases. Significant features describing the shape of the sensor signal were extracted and used together with multivariate statistics (here: linear discriminant analysis) to evaluate the data. We could show that this approach is suitable for quantification of NO x even with only a few calibration measurements. In order to suppress the influence of a changing background, a hierarchical strategy can be used where first the background composition is determined and in a second step the NO x concentration in this specific background.
+
+It turned out that it is beneficial to heat up the sensor to maximum temperature for a certain period before each measurement to clean the surface and thus improve the stability and reproducibility. However, there is some evidence that the sensor is already aging or showing drift when exposed to the exhaust gas mixture for some days. Therefore, a strategy needs to be developed to either identify stable features independent of this sensor drift/aging or to improve the stability of the sensor, e.g. by cleaning the sensor periodically during the measurement or even during each temperature cycle. While this would lead to a low data rate with the current sensor set-up, miniaturization leading to a lower thermal time constant of the sensor would allow much faster determination of the NO x concentration. MEMS technology would allow realization of micro hotplate GasFETs with thermal time constants on the order of 10 ms similar to existing microstructured metal oxide gas sensors. These should allow gas identification and quantification within approx. 1 s (compare Ankara et al. 2004). In addition, further studies will address the influence of changing humidity and changes in the NO:NO2 ratio which is not constant in real exhaust gas atmosphere.
+

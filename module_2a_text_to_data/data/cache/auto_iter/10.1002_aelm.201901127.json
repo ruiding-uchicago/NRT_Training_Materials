@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_aelm.201901127",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "500 ppb",
+      "upper_detection_limit": "50 ppm",
+      "probe_material": "DPPT-TT(poly[2,5-(2-octyldodecyl)-3,6-diketopyrrolopyrrole-alt-5,5-(2,5-di(thien-2-yl)thieno[3,2-b]thiophene])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

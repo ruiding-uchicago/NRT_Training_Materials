@@ -1,0 +1,221 @@
+Microfluidic System with Extended-Gate-Type Organic Transistor for Real-Time Glucose Monitoring
+Dr. Pierre Didier, Nicolas Lobato-Dauzier, Dr. Nicolas Clément, Dr. Anthony J. Genot, Yui Sasaki, Dr. Éric Leclerc, Dr. Tsukuru Minamiki, Dr. Yasuyuki Sakai … See all authors 
+First published: 19 January 2020 https://doi.org/10.1002/celc.201902013Citations: 33
+Find It at UChicago
+SectionsPDFTools Share
+Graphical Abstract
+Live monitoring: The development of a microfluidic system with an extended-gate-type organic field-effect transistor is presented for real-time glucose monitoring.
+
+Description unavailable
+Abstract
+Organic field-effect transistors (OFETs) can be potentially employed to monitor cell activities for healthcare and medical treatment because of their attractive properties such as ease of use, flexibility, and low-cost manufacturing processes. Although current OFET-based sensors are suitable for point-of-care testing, the establishment of real-time monitoring methods is in high demand for continuous monitoring of health conditions and/or biological cell activities. In this regard, we herein propose a microfluidic platform integrated with an extended-gate-type OFET for real-time glucose monitoring. The mechanism of glucose detection depends on the artificial receptor phenylboronic acid and its boronate esterification. After optimization of the microfluidics for the OFET-based sensor, the sensor was used to monitor glucose consumption and release in a model of pseudo-liver cells. Random increases or decreases in the glucose concentration were reproducibly monitored.
+
+Saccharides are well known as primary sources of metabolic energy for cells or species transport in the human body.1, 2 Blood glucose (Glc) levels are closely related to medical conditions in humans,3-6 where normal concentrations are between 4.4 and 6.1 mM.7, 8 Indeed, disruptions in the blood Glc levels may induce diseases and complications such as diabetes-related blindness,9, 10 heart disease,11-13 kidney failure,14, 15 and apoplectic stroke.16, 17 Thus, monitoring cellular bioactivity related to Glc consumption can provide useful information regarding health conditions, making this undertaking a significant challenge.18, 19 For these reasons, numerous analytical approaches as quartz crystal microbalance (QCM) analysis,20 surface plasmon resonance (SPR),21 and electrochemical technologies22-24 have been researched to monitor Glc concentrations. However, the proposed methods are limited in terms of user-friendliness because of difficulties related to equipment manufacture, high-cost, and the requirement for relatively large equipment. Thus, we developed Glc sensors based on organic field-effect transistors (OFETs) to exploit the features of mechanical flexibility, biocompatibility, low-cost, and solution-processability.25, 26 Furthermore, the combination of supramolecular artificial receptors and OFETs can offer robust, thermally and chemically stable sensing systems for long-term use.27 A number of prior publications reported that an artificial lectin, phenylboronic acid (PBA), is one of the most appropriate receptors for glucose detection.28-30 Thus far, such OFET-based chemical sensors have been mainly designed for point-of-care testing. In order to establish continuous and quantitative sensing systems, the detection system of the OFET should be coupled with microfluidics,31, 32 but this approach has rarely been attempted.33 Although previous reports have successfully demonstrated the utility of floating-gate type transistors for the detection of proteins using microfluidics and antigen/antibody recognition sites,34, 35 emphasis must be placed on optimizing the microfluidic platform. In other words, the sensor response should be improved by optimizing the design of the microfluidic chamber, allowing the establishment of a continuous, sensitive, quantitative, and fast signal-response sensing system using the lowest volume of analyte for real-time monitoring of small molecule biomarkers such as Glc.
+
+In this communication, we demonstrate the feasibility of an extended-gate-type OFET-based chemical sensor integrated with microfluidics for real-time Glc monitoring. The extended-gate electrode is employed as the detection component and is functionalized with a self-assembled monolayer (SAM) made of 4-mercaptophenylboronic acid (4-MPBA), the surface of which is further attached to the microfluidic chamber (Figure 1). 4-MPBA recognizes Glc in the in vivo concentration range and forms an anionic boronate ester, which affects the characteristics of the OFET (change of drain current and threshold voltage).36 Here, we firstly describe the design and optimization of the microchannel component using finite element modeling, followed by demonstration of the stable performance of the sensor device by repeated injection of Glc. Finally, by simulating the bioactivity of liver cells for Glc consumption and release, we demonstrate the continuous sensing ability of the OFET for monitoring random increases or decreases in the Glc concentration, with a drastic decrease of the response time.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Schematic illustration of the fabricated extended-gate OFET sensor integrated with the microfluidic system. The extended-gate electrode was functionalized with 4-MPBA.
+
+To operate at low-voltage and prevent electrical degradation of the OFET during long-term monitoring of the Glc concentration, the device design includes two parts: the drive component (i. e. OFET) and the detection component (i. e. extended-gate electrode) (Figure 1). A SAM-based dielectric bilayer (5 nm in thickness) composed of aluminum oxide and tetradecylphosphonic acid (TDPA) was deposited on the aluminum gate electrode (30 nm in thickness).37, 38 The surface of the Al gate electrode was oxidized by reactive ion etching (RIE) with oxygen plasma treatment, followed by immersion of the electrode in a 2-propanol solution of TDPA (10 mM) for 15 h at room temperature (r.t.). After this period, the source and drain electrodes were deposited by vacuum thermal evaporation (30 nm in thickness) on the dielectric layer. The organic semiconductor layer (OSC) made of poly(2,5-bis(3-hexadecylthiophene-2-yl)thieno[3,2-b]thiophene) (PBTTT)39 was formed by a drop-casting method and was baked at 160 °C for 10 min. PBTTT materials have been widely applied to polymer FETs because of their excellent carrier mobility, solubility for organic solvents, and performance uniformity and stability.39-41 Hence, PBTTT is one of the most suitable materials for the development of OFET-based sensors.41 Finally, a Cytop passivation layer (CTL-809M in CT-Solv.180, ratio 1 : 1 (v/v)) was spin-coated on the OSC layer and baked at 110 °C for 10 min. The extended-gate component (the sensing area) (15 mm2) was fabricated by thermal vacuum deposition of gold (50 nm in thickness). The gold layer was immersed in a methanol solution of 4-MPBA (10 mM) for 1 h. Identification of the electrode functionalized with 4-MPBA was carried out according to a previous report.36 After oxygen RIE treatment of the substrate using a shadow mask, the microfluidic channel made of polydimethylsiloxane (PDMS) was bound onto the extended-gate electrode. The length and width of the microfluidic chamber for the sensing portion was 7 mm and 6 mm, respectively. The chamber size was slightly larger than that of the extended-gate electrode, allowing centering of the microfluidic chamber and the gold electrode during the binding process. The chamber was connected to three inlets and one outlet, which afforded easy injection of the solutions and water for rinsing the microfluidic chamber without experimental perturbations. The height of the channels and the chamber was 50 μm. The width of the channels connecting the inlets and outlets to the chamber was 100 μm. The extended-gate component was connected to the gate electrode of the OFET using a conductive cable.
+
+The electrical characteristics were measured using a semiconductor parameter analyzer, where voltage sweep was applied to the drain electrode, the source was connected to the ground, and the gate voltage was applied through a Ag/AgCl reference electrode.40 The reference electrode was directly inserted into the microfluidic chamber (Figure 1).
+
+For the microfluidic experiments, we used a two-channel vacuum pump coupled to tubes (1/32 inch) comprising polyether ether ketone (PEEK). Glc was dissolved in phosphate buffer (100 mM) at pH 7.4 with NaCl (100 mM) (PBS) and was injected into the microfluidic chamber at room temperature (r.t.) at a constant flow rate.
+
+COMSOL Multiphysics software was used to optimize the microfluidic device. As simulation parameters, we defined the flow to be incompressible. The properties of the solution are the same as those of water. In addition, a non-slip boundary condition was applied. The length and thickness of the channel and the flow rate parameters were inputted in the calculation. Figures 2A and 2B respectively present a schematic overview of the microfluidic system combined with the extended-gate-type OFET, and the geometry and mesh structure of the fabricated microfluidic system. The meshes were obtained with free triangular elements and distribution size. Figure 2C illustrates the flow lines subsequent to achieving steady flow. After injection of the analyte solution (Glc at 10 mM in PBS) from the centered inlet (at 25 μL min−1) into the buffer solution, Glc gradually diffused in the microfluidic chamber and was uniformly distributed within 60 s (Figure 2D–F). To optimize the microfluidic chamber, the simulation studies were performed under stationary and temporal operating conditions. The simulation results showed that the geometry of the chamber significantly impacted the flow uniformity. Indeed, the asymmetrical design (i. e. length, width, height, and crossing angle) produced the most uniform flow in the chamber. Moreover, the optimization studies clearly showed that the microfluidic chamber with biased corners presented highly uniform flow in comparison with the chamber without biased corners.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+A) Schematic top view of the microfluidic system combined with the extended-gate type OFET. B) Geometry and mesh structure of the fabricated microfluidic system used for Finite Element modeling. C) Simulation of steady-state flow of PBS in microfluidic chamber. The flow rate of injection was 25 μL min−1. Flow evolution in microfluidic chamber at D) 0 s, E) 40 s, and F) 60 s.
+
+The basic electrical properties of the OFET with the microfluidic device were characterized. Figure 3 shows the typical transfer and output characteristics of the OFET connected to the microfluidic device. The electrical characteristics were measured under microfluidic conditions, where a constant flow rate of 25 μL min−1 was used. The transfer curves in Figure 3A show the evolution of the drain current (IDS) as a function of the gate voltage (VGS). A constant voltage was applied to the drain electrode (VDS=−1 V) and voltage sweep was applied to the gate electrode (from 1.5 to −3 V); this measurement was repeated three times. The output curves in Figure 3B display the evolution of IDS as a function of VDS, where VDS was swept from 0 to −3 V and VGS from 0 to −2.5 V (step −0.5 V). As demonstrated, the overall measurements were carried out at low voltage. Furthermore, no hysteresis resulting from repetitive measurements was observed in Figure 3. We thus concluded that the OFET device with microfluidics can offer electrically stable signals and can be employed for Glc sensing applications.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Electrical characteristics of extended-gate OFET integrated with microfluidic system. A) Transfer (|IDS|=f(VGS)) and B) output (|IDS|=f(VDS)) characteristics of the same device. The injection flow rate was 25 μL min−1.
+
+The ability of the device to detect reproducible changes in the Glc concentration in real-time was investigated. To allow real-time monitoring, a constant voltage was applied to the gate and drain electrodes, respectively at −1.5 and −1 V. To stabilize the baseline of the output signal, the bias voltage was continuously applied to the device for 1 h before the real-time measurement. The measurement was performed at a constant flow rate of 25 μL min−1. The time-dependence of IDS with injection of PBS was monitored in the presence or absence of Glc. The Glc solution was injected into the microfluidic chamber under the conditions of negligible drift. As expected, a steep increase followed by a plateau of the drain current was observed upon injection of Glc. When the IDS had remained stable for 5 min, the extended-gate was rinsed by injection of pure PBS, thereby reestablishing the initial IDS level. The reversibility and reproducibility of the response were verified, confirming not only the chemical stability of the receptor, but also the electrical stability of the device. Further, reproducible results were obtained with quicker response times. Indeed, the response time between the initial state and the plateau phase (corresponding to injection of Glc into the solution) was evaluated at 3 min.
+
+Finally, we attempted to monitor simulated Glc consumption and release by liver cells using the microfluidic OFET sensor by modifying the Glc concentration in solution during the experiment. The Glc concentrations employed in the experiment ranged up to 20 mM, covering both normal (4.4 and 6.1 mM)[7.8] and abnormal (higher than 11.1 mM) Glc concentrations in humans.43 This concentration range was also applied for monitoring the Glc concentration in a cellular experimental model of diseases such as type 2 diabetes.44 Figure 4B shows the relationship between the time-dependent variation in IDS and gradual concentration changes of Glc, mimicking pseudo Glc consumption in cells. The IDS gradually decreased with the Glc concentration. A progressive increase of the IDS owing to a rise in the Glc concentration was also observed (Figure S2). Importantly, we successfully monitored random changes (i. e. mimicry of the actual cell activities) in the Glc concentration45 as shown in Figure 4C. Thus, real-time monitoring of the Glc concentration was successfully achieved. According to a previous report about Glc metabolism in liver cells such as HepG2,46 the response time (80 % response time: ∼2 min) of the fabricated sensor system is certainly adequate for monitoring cell activities.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Time-course of variation in IDS with A) increasing or decreasing Glc concentration (20 mM), B) pseudo Glc consumption by cells with decreasing Glc concentration, C) pseudo Glc release and consumption by cells with random variation of the Glc concentration. The measurements were performed in PBS buffer solution (100 mM) at pH 7.4. VDS=−1 V, VGS=−1.5 V. Flow rate of injection was 25 μL min−1.
+
+In this communication, an extended-gate type OFET was integrated with microfluidics for real-time monitoring of Glc. A microfluidic chamber for the OFET was successfully designed, optimized, and fabricated, and thereafter used to monitor the pseudo-consumption and release of Glc in liver cells. To the best of our knowledge, this is the first report of an extended-gate type OFET operated in a microfluidic system for real-time detection of small molecules such as Glc. Importantly, by varying the type of receptor on the extended-gate electrode, various targets could be monitored in real-time. Hence, we strongly believe that our preliminary results are useful for the further realization of real-time chemical sensors based on OFETs. Monitoring the bioactivity related to Glc metabolism in liver cells using the sensing system is underway in our laboratory.
+
+Experimental Section
+Experimental details including the process for fabricating the microfluidic PDMS channel and basic electrical measurements can be found in the Supporting Information.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+Microfluidic SystemSupporting with Extended-Gate-Type Information Organic
+Transistor for Real-Time Glucose Monitoring
+Pierre Didier, Nicolas Lobato-Dauzier, Nicolas Clément, Anthony J. Genot, Yui Sasaki,
+Éric Leclerc, Tsukuru Minamiki, Yasuyuki Sakai, Teruo Fujii, and Tsuyoshi Minami*An invited
+contribution to a Special Collection on Electrochemical Sensing
+
+S1
+Table of contents
+1. Experimental Section S2
+2. Effect of flow on electrical characteristics of OFET S3
+3. Real-time monitoring of increase in Glc concentrations S4
+1. Experimental Section
+1.1 Reagents and chemicals
+All chemical reagents used for this study were commercially available.
+Tetradecylphosphonic acid (TDPA) was purchased from Tokyo Chemical Industry Co.
+Ltd. (Tokyo, Japan). 4-Mercaptophenylboronic acid was purchased from Sigma-Aldrich
+Inc. Poly(2,5-bis(3-hexadecylthiophene-2-yl)thieno[3,2-b]thiophene) was purchased
+from Merck KGaA. All compounds were used under inert atmosphere in a glovebox
+from UNICO ([O2]: < 1 ppm, [H2O]: < 1 ppm). Gold and aluminum for vacuum deposition
+were purchased from Tanaka Kikinzoku Kogyo Co., Ltd. and Furuuchi Chemical Co.,
+respectively. Cytop (model: CTX-809SP2) and perfluorotributylamine were kindly
+supplied by AGC. Cytop, used for deposition of the hydrophobic thin-film, was diluted
+using perfluorotributylamine. Glucose and sodium chloride were purchased from
+Wako. Phosphate buffer solution was prepared using Milli-Q water (18 MΩ.cm at 25
+°C). The Ag/AgCl electrode used as the reference electrode was purchased from BAS,
+Inc. Polydimethylsiloxane Silpot 184 w/c was purchased from Dow Corning Toray. The
+negative SU-8 3050 photoresist was purchased from MicroChem. Isopropyl alcohol
+(IPA) was purchased from Kanto Chemical Co.
+1.2 Instruments for device fabrication
+ The substrates were cleaned by UV/O3 treatment using an ASM401N cleaner from
+Asumi Giken. Metal layers were deposited on the substrates using a SVC700TMSG / SVC-7PS80 vacuum evaporator from SANYU Electron. The aluminum
+oxide layer and the binding between the microfluidic device and the extended gate
+electrode were prepared by using a RIE-10NG reactive ion etching system from
+Samco, Inc. 
+S2
+1.3 Fabrication of microfluidic PDMS channel
+ The microfluidic device was obtained after casting PDMS on a silicon wafer mold.
+A negative photoresist (SU-8 3050) was used to fabricate the mold. The SU-8 3050
+photoresist was spin-coated for 30 s at 1000 rpm, followed by further spinning for 30 s
+at 3000 rpm at r.t. Subsequently, the substrate was soft-baked for 1 min at 65 °C and
+for 9 min at 95 °C. After this period, the assembly was exposed to UV irradiation for 20
+s, followed by post-baking for 1 min at 65 °C and for 7 min at 95 °C. The substrate was
+developed for 5 min in a SU-8 developer and rinsed with isopropyl alcohol (IPA). Finally,
+the assembly was hard-baked for 10 min at 150 °C. The Si mold was protected with a
+polytetrafluoroethylene (PTFE) layer, which was deposited by CHF3 RIE treatment
+(200 W, 50 sccm) for 12 min.
+ A mixture of PDMS pre-polymer and the curing agent (9:1, w/w; Silpot 184 W/C;
+Dow Corning Toray, Tokyo Japan) was then prepared and centrifuged using a planetary
+mixer for 30 s at 2000 rpm. Air bubbles from the PDMS solution were removed after
+placing the mixture in a vacuum desiccator for degassing treatment for 15 min. After
+casting PDMS on the Si mold, the device was baked for 1.5 h at 80 °C. Finally, the
+PDMS device was detached from the mold, which was bound to the extended-gate
+electrode via O2 RIE treatment (75 W, 50 sccm) for 13 s, and baked in an oven for 1 h
+at 60 °C.
+1.4 Measurement of basic electrical characteristics
+ For the electrical measurements, the OFET-based sensor was set-up in a probe
+station (Oyama Co., Ltd.). The electrical characteristics of the devices were measured
+using an Agilent 4156B semiconductor parameter analyzer and the data were acquired
+with EasyExpert software (Rev. 6.1.1830.2880). Electrical characterization was
+performed under microfluidic conditions. The microfluidic channels were connected to
+a two-channel vacuum pump (Argos). The flow rate was set to 25 µL min‒1 and was
+monitored using a dedicated flowmeter (Argos).
+S3
+2. Effect of flow on electrical characteristics of OFET
+Figure S1. Electrical characteristics of
+extended-gate OFET integrated with microfluidic system. Red curve: transfer characteristics
+of device in static environment. Black curve: transfer characteristics of device with constant
+injection flow rate of 25 µL min‒1
+.
+3. Real- time monitoring
+of increase in Glc
+concentration
+Figure S2. Time-course of variation in IDS with increase in Glc concentration in PBS buffer
+solution (100 mM) at pH 7.4. VDS = −1 V, VGS = −1.5 V. Flow rate of injection was 25 µL min‒1
+.
+-2 0 2
+0
+20
+40
+60
+80
+100
+120
+140
+|IDS
+| /nA
+VGS /V
+ With flow
+ Without flow
+250 500 750 1000 1250 1500
+10.5
+11.0
+11.5
+12.0
+12.5
+13.0
+13.5
+|IDS | /nA
+Time /s
+1 mM Glc
+3 mM
+5 mM
+7 mM
+10 mM
+20 mM
+

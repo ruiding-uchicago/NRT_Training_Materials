@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11172-022-3533-z",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": ""
+    }
+  ]
+}

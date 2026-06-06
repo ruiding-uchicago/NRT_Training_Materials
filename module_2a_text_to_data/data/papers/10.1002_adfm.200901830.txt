@@ -1,0 +1,177 @@
+Dual-Gate Organic Field-Effect Transistors as Potentiometric Sensors in Aqueous Solution
+Mark-Jan Spijkman, Jakob J. Brondijk, Tom C. T. Geuns, Edsger C. P. Smits, Tobias Cramer, Francesco Zerbetto, Pablo Stoliar, Fabio Biscarini, Paul W. M. Blom, Dago M. de Leeuw
+First published: 22 March 2010 https://doi.org/10.1002/adfm.200901830Citations: 140
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+Buried electrodes and protection of the semiconductor with a thin passivation layer are used to yield dual-gate organic transducers. The process technology is scaled up to 150-mm wafers. The transducers are potentiometric sensors where the detection relies on measuring a shift in the threshold voltage caused by changes in the electrochemical potential at the second gate dielectric. Analytes can only be detected within the Debye screening length. The mechanism is assessed by pH measurements. The threshold voltage shift depends on pH as ΔVth = (Ctop/Cbottom) × 58 mV per pH unit, indicating that the sensitivity can be enhanced with respect to conventional ion-sensitive field-effect transistors (ISFETs) by adjusting the ratio of the top and bottom gate capacitances. Remaining challenges and opportunities are discussed.
+
+1. Introduction
+The prospect of label-free sensing of sub-picomolar concentrations of biomolecules has motivated intense research in semiconductor field-effect transistors operating under water. The target is to develop a disposable platform capable of sensitive, selective and reliable detection for biological and biomedical applications. Most sensors are based on ion-sensitive field-effect transistors (ISFETs).1 ISFETs are attractive because detection does not require labeling of the molecules and the small sensors can be integrated with microfluidics for lab-on-a-chip applications.2
+
+ISFETs are potentiometric sensors that detect, within the Debye length, changes in the dielectric-electrolyte interface potential. The modulation of the potential is reflected in a modulation of the channel current. The first ISFET was reported by Bergveld in 1970.3 The sensor was initially optimized for pH detection and applied for instance in catheters. Later the scope was expanded to, for example, immunosensors4 in which, by applying an enzyme-entrapping membrane on top of the ISFET gate, the enzyme can be detected. The current focus is on the use of ISFETs for direct DNA detection, circumventing the need for multiplication by the time-consuming polymerase chain reaction (PCR).5 Other application areas include ISFETs modified to specifically detect proteins (ImmunoFET), and ISFETs adapted for gas detection (ChemFET).6, 7
+
+The first ISFETs were fabricated using single crystalline silicon. As with other electronic applications, such as solar cells and light emitting diodes, there is a wish to manufacture disposable sensor arrays on a large scale at low cost. For this purpose, organic electronics is indicated because of its compatibility with flexible large-area substrates, simple processing by spin-coating or printing, and the tunability of the active materials. Various papers on the development of biological sensors using organic transistors have already been published.8-13
+
+The challenges in applying organic transistors as sensors in aqueous solution are reproducibility and operational stability. Considering the voltages commonly applied, measurement of transistors in water inevitably leads to Faradaic leakage currents due to electrolysis. Furthermore, the operational stability is severely hampered by huge hysteresis in the electrical transport. Hence, direct contact of both the electrodes and semiconductor with water has to be avoided. To prevent this contact we used buried electrodes and protected the semiconductor with a hydrophobic barrier layer. The additional layer then acts as a second gate dielectric. The final device is actually a so-called dual-gate transistor that can be used as a sensor.
+
+Below, we will first elucidate the operating mechanism of classical ISFETs followed by an explanation of organic dual-gate transistors and transducers. We show that the transducer acts as a potentiometric sensor. The detection relies on measuring a shift in threshold voltage due to changes in the electrochemical potential at the second gate dielectric caused by, for example, changes in adsorbed ions. The shift can only be reliably detected by including a reference electrode14 to fix the potential of the fluid. The theoretical sensitivity of the dual-gate transducer is then compared to that of a standard silicon ISFET. We then present details of the fabrication technology of the organic sensors and the microfluidic channel used to confine the fluid. Then, as a proof-of-principle, we investigated the sensors as a function of the pH of the electrolyte. The shift of the threshold voltage could be quantitatively assessed. We show that the sensitivity of the sensor is enhanced by the ratio of the top and bottom gate capacitances of the dual-gate transducer. Remaining challenges and opportunities are discussed.
+
+2. Operation Mechanism of Dual-Gate Transducers
+2.1. Response of an ISFET
+The first ion-sensitive field-effect transistor (ISFET) was based on single crystalline silicon.3 The operation can be described by comparison with its purely electronic analogue, the metal oxide–semiconductor field-effect transistor (MOSFET). A schematic representation of a MOSFET and the corresponding ISFET is presented in Figure 1a. The ISFET is a potentiometric sensor that responds to changes in electrical potential at the dielectric–electrolyte interface.1, 2, 15 The changes in this oxide interface potential, Ψ0, are reflected in the flat band voltage, VFB, by16
+equation image
+((1))
+where EREF is the potential of the reference electrode, χsol the surface dipole potential of the solution, ΦSi the silicon work function, Qss the surface state density at the silicon surface, Qox the fixed oxide charge and Cox the gate insulator capacitance per unit area. All terms are constant except the interface potential Ψ0.
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a) Schematic representation of a MOSFET and the corresponding ISFET. b) Schematic representation of a dual-gate field-effect transistor and the corresponding transducer. PTAA stands for the organic semiconductor polytriaryalamine. The top dielectric consists of a stack of polyisobutylmethacrylate (PIBMA) and the Teflon derivative AF-1600. The gate dielectrics are highlighted in yellow. It shows that the dual-gate transducer is a classical ISFET with an additional gate dielectric to enhance the sensitivity.
+
+The ISFET senses changes in the interface potential Ψ0. The changes are due, for instance, to differences in protonation of the SiO2 interface as a function of pH. The mechanism can be described by the site-binding model17 that describes the equilibrium between the amphoteric silanol SiOH surface sites and the protons in solution by
+equation image
+((2))
+The proton activity at the interface is then related to Ψ0 by the Nernst equation as
+equation image
+((3))
+where kB is the Boltzmann constant, q is the elementary charge and the symbol a denotes the proton activities.
+The surface charge on the oxide is balanced by an equal but opposite charge in the electrolyte. The position of the compensating charge in the solution defines the so-called double-layer capacitance that can be calculated using the Gouy-Chapman-Stern model. In this model the double-layer capacitance consists of a series network of a Helmholtz-layer capacitance, or Stern capacitance, and a diffuse-layer capacitance. The Helmholtz layer models the effect that ions in solution have a finite size and that cannot approach the surface any closer than their ionic radii. The diffuse layer starts from this plane of closest approach and contains the same amount of charge as the oxide surface charge, because the Helmholtz layer by definition is electrically neutral.
+
+The potential decays exponentially with distance.18 The characteristic length scale is the Debye length, λD, given by
+equation image
+((4))
+where ε is the dielectric constant of the electrolyte (for water 78 at 25 °C), ε0 is the permittivity of a vacuum, NA is the Avogadro constant, Ci is the concentration of species i in the electrolyte (mol L−1) and zi the corresponding ionic charge. For dilute symmetrical aqueous electrolytes with z = 1 at 25 °C, the Debye length becomes
+equation image
+((5))
+A physicochemical change in the environment can only be detected when it leads to a change within the Debye length and, hence, of the electrochemical interface potential. Outside the Debye length the interface potential is screened. In physiological solutions the Debye length is small. According to the assumptions of the Gouy-Chapman-Stern diffuse double-layer model, detection of biomolecules whose size exceeds the Debye length would be severely hampered.
+
+By immobilizing antibodies on the gate dielectric, ImmunoFETs can be made that sense the affinity of the corresponding antibodies. The sensor is complicated because the charge of the protein itself is a function of pH. A detailed analysis is given by Schasfoort et al.19 Importantly, the dimensions of the macromolecules are larger than those of the double layer. In physiological solutions the protein charge will be at a distance larger than the Debye length. Only in low ionic strength electrolytes might the protein charges be statically detected.19 To circumvent this limitation, dynamic detection techniques such as the ion-step approach have been introduced.4, 20-22 The operation then relies on release or uptake of protons by bound protein molecules when the ionic strength of the electrolyte is changed.
+
+The sensitivity of ISFETs has been optimized for pH detection. The change in oxide interface potential with pH of the bulk electrolyte could be derived starting from Equation (3). A detailed analysis has been given by Bergveld,3, 16 leading to
+equation image
+((6))
+where α is a dimensionless parameter that varies between 0 and 1, depending on the proton buffer capacity of the SiO2 interface and the differential double-layer capacitance. If α is 1 the ISFET has a so-called Nernstian sensitivity of 59 mV per pH unit at 25 °C, which is also the maximum achievable sensitivity.
+The threshold voltage is equal to the flat band voltage apart from small offset potentials caused by, for example, differences in the Fermi level between the contacts and the semiconductor. Hence, the shift in threshold voltage is given by
+equation image
+((7))
+2.2. Dual-Gate Transistor and Transducer
+For single crystalline silicon ISFETs the threshold voltage in Equation (7) is defined as the onset of strong inversion.23 The difficulty of defining a threshold voltage in disordered organic transistors has been pointed out by Horowitz et al.24 Most organic transistors only operate in accumulation and no channel current in the inversion regime is observed.25 The threshold voltage is typically taken as the intercept from a linear extrapolation of the linear transfer curve.
+
+Organic transistors have been explored for analyte detection in electrolytes. In most of those studies a reference electrode was not applied. We note, however, that a reference electrode has to be included to fix the potential of the electrolyte and hence to minimize drift. Furthermore, to minimize parasitic Faradaic currents, we use buried electrodes and apply a second hydrophobic dielectric on top of the semiconductor. The resulting dual-gate transistor and the corresponding transducer are schematically depicted in Figure 1b.
+
+The use of a dual-gate field-effect transistor has the advantage of increased sensitivity for the corresponding transducer. In a dual-gate transistor the voltages on both top and bottom gates can be varied independently. As an illustration, experimental transfer curves are presented in Figure 2. The transfer curves are measured by scanning the voltage on the bottom gate for various fixed top gate voltages. The measurements show that the threshold voltage shifts with applied top gate bias.26-30 To explain this, we take the case that both top and bottom channel are operated in accumulation. The total device current in the linear regime is then given by
+equation image
+((8))
+where Cbottom and Ctop are the bottom and top gate capacitances per unit area, Vsd is the applied source-drain bias, µ is the field-effect mobility, taken to be equal for top and bottom channels, the Vth are the threshold voltages, and, L and W are the channel length and width, respectively. For a constant top gate bias, the total current can be regarded as originating from a single overall channel by
+equation image
+((9))
+The transfer curves therefore shift over an amount given by26, 28, 30
+equation image
+((10))
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Transfer curves of a polytriarylamine dual-gate field-effect transistor. The channel length and width are 10 and 10 000 µm, respectively. The absolute value of the drain current is presented on a semi-logarithmic scale as a function of the bottom gate bias. The top gate bias is varied from left to right in steps of 10 V from +20 to −20 V. The inset shows that the threshold voltage depends on top gate bias as ΔVth = (Ctop/Cbottom)Vtop gate.
+
+An analysis of other operating regimes leads to the same expression for the shift in effective threshold voltage, ΔVth.
+
+In a dual-gate transducer the top gate is replaced by an electrolyte. The applied top gate bias is then replaced by the top gate–electrolyte interface potential, Ψ0, leading to
+equation image
+((11))
+This implies that the sensitivity for detection of threshold voltage shifts due to changes in the interface potential is enhanced with respect to classical ISFETs by a factor of Ctop/Cbottom. The enhanced sensitivity is advantageous because the changes to be detected are small. For example, a shift in threshold voltage of 50 mV has been reported for the detection of horseradish peroxidase and green fluorescent protein with amorphous Si (a-Si)-based ISFETs.2 DNA hybridization was shown to yield 20 mV changes in surface charge density.5 Dual-gate transducers are indicated because they have the capability to amplify these small shifts. Ctop is a convenient experimental handle that can be optimized by choice of dielectric constant or by reducing the film thickness. Finally, we note that the operation of organic transducers is severely hampered by instability. The drift should be at least an order of magnitude smaller than the change in threshold voltage, meaning a few mV at most. Therefore any method to improve the sensitivity like the dual-gate transducer approach is worthwhile.
+
+We note that other approaches have been reported to enhance the sensitivity. However, the operating principle in all cases is the same. Diamond field-effect transistors or so-called solution-gate FETs (SGFETs) are basically ISFETs where SiO2 is replaced by a thin undefined insulating top layer. The higher capacitance yields a steeper sub-threshold slope, but for the same surface charge a similar threshold voltage shift is obtained.5 Carbon nanotube sensors are ISFETs as well. The high surface-to-volume ratio might be advantageous for fast detection.31 The silicon nanowire sensors as reported by Stern et al.32, 33 can be regarded as dual-gate ISFETs similar to the dual-gate transducers described above.
+
+3. Fabrication of Dual-Gate Transducers and Microfluidics
+The transducers consist of a dual-gate field-effect transistor that can be integrated with a microfluidic channel. Optical micrographs are presented in Figure 3. The field-effect transistors are fabricated on heavily n-type doped 150 mm silicon wafers acting as a common bottom gate. Thermally oxidized SiO2 with various layer thicknesses was used as the bottom gate dielectric. Au source and drain electrodes were defined on top by photolithography; details on the passivation will be discussed below. A 10 nm Ti layer was used for adhesion. The SiO2 layer was treated with hexamethyldisilazane prior to semiconductor deposition. The microfluidic set-up made from poly(methyl methacrylate) is fixed on the middle of the die using pre-cut double-sided tape to make a watertight seal. Tubes are attached to supply and confine the electrolyte to the sensing area. There are four interdigitated transistors on each die that can be measured simultaneously. A Pt wire is inserted as a reference electrode.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Dual-gate transducer with microfluidic channel. Top left) Optical photograph of a die, 13 by 17 mm, with 4 interdigitated transistors. The channel length varies between 5 and 40 µm and the channel width is 1 cm. The central purple area shows the structured polytriarylamine semiconductor. Top right) Picture of a finished dual-gate transducer. The microfluidic channel is attached on top with double-sided tape. The contact pads remain accessible. Fluid can be pumped via the tubes through the channel. Bottom) Schematic of a dual-gate transducer with the components indicated.
+
+In order to address the transistors, the contact pads are located outside the microfluidic chamber. The long leads yield a large surface area in contact with the electrolyte. The direct contact causes electrolysis of water occurring at a potential of 1.23 V at all values of pH.34 To minimize the Faradaic currents that dominate the charge transport at higher applied drain biases, passivation of the electrodes is necessary. Two technologies have been investigated: lift-off and dry etching. The lift-off technology did lead to high contact resistances and was therefore abandoned. Details are presented in the experimental section.
+
+Passivated electrodes however could be realized using a dry etching procedure, presented schematically in Figure 4. First Ti and Au are sputtered on the bare SiO2 wafer. A positive photoresist is applied, patterned and developed, but not removed. Then exposed Au is removed using Ar ion bombardment, using the undeveloped photoresist as a self-aligned etch mask. The etching is stopped at the Ti layer to prevent damaging the underlying SiO2 interface. The Ti is subsequently wet etched, a standard procedure that does not damage the SiO2 interface. The self-aligned etching results in electrodes where the top is passivated. Only the 50 nm sides are bare Au and permit efficient charge injection into the semiconductor.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Buried electrode process. a) A titanium and gold layer are sputtered on a bare SiO2 wafer. b) A positive photoresist is spincoated, patterned and developed, but not removed. c) Gold is removed by argon ion etching. d) Removal of the titanium adhesion layer by wet etching.
+
+As a semiconductor, we used polytriarylamine (PTAA) because this semiconductor is stable at ambient conditions and yields reproducible transistors with a mobility of 10−3 cm2 V−1 s−1.35 PTAA films were spincoated in air from toluene with a layer thickness of approximately 60 nm. To prevent parasitic leakage current, the semiconductor area was patterned using masking with Scotch tape. To remove solvent residues the transistor was annealed in nitrogen for 1 h at 110 °C.
+
+In order to prevent electrical contact between the PTAA semiconductor and the electrolyte in the microfluidic channel an insulating stack is applied on top of the PTAA. First a 400 nm thick polyisobutylmethacrylate (PIBMA) layer was spincoated from butanol. One layer is typically not sufficient to eliminate leakage currents because of pin holes. Hence on top a second layer of 300 nm of a Teflon derivative (AF-1600) was spincoated from a fluorinated solvent (FC-40). Finally the resulting dual-gate transistor was annealed in nitrogen for 1 h at 110 °C. The transducers were completed by inserting a reference electrode and sealing the microfluidic channel.
+
+4. Results
+4.1. Transducer with Bare Electrodes
+Measurement of transistors without passivated electrodes, immersed in aqueous solution, suffers from parasitic Faradaic leakage currents due to electrolysis. Figure 5 serves as an illustration of the occurrence of high leakage currents when using dual-gate transistors where the electrodes are in direct contact with the electrolyte. The inset shows the transfer curves, the drain current as a function of gate bias, at various drain biases in the linear regime. The reference electrode is grounded. At negative gate biases the drain current shows the standard accumulation behavior of a normally-on p-type transistor.36 The field-effect mobility is about 10−3 cm2 V−1 s−1, a typical value for PTAA.35 In depletion at positive gate bias however, contrary to what is expected for a unipolar p-type transistor, the drain current cannot be ignored. The current is not due to leakage to either the gate or the reference electrode. The current in depletion is plotted as a function of drain bias and an exponential behavior is found. The origin is parasitic Faradaic leakage current due to electrolysis of water that can be described with the Tafel equation18
+equation image
+((12))
+Where η is the electrode overpotential, the coefficient α is the Tafel slope and i0 is the exchange current density, which is the background current already present in the absence of any overpotential. The electrolysis is a direct consequence of the contact between the electrolyte and the bare source and drain electrodes.
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Faradaic leakage current using bare electrodes without passivation. The inset shows the transfer curves of a dual-gate transistor at various drain biases. The reference electrode is grounded. For positive gate bias in depletion, the drain current is much higher than expected for a unipolar transistor, due to electrolysis of water. The current in depletion is plotted as a function of drain bias. An exponential behavior is found that can be explained with the Tafel equation.
+
+4.2. Dual-Gate Transducer with Buried Electrodes
+In order to reduce the leakage currents, we fabricated transducers with buried electrodes as described in Section 3. The transfer curves are presented in Figure 6, the reference electrode is again grounded. The only difference with the transducer presented in Figure 5 is the use of buried electrodes. The important result is complete elimination of the parasitic Faradaic leakage currents. We note that the drain bias can be increased even up to 50 V without deteriorating the transducer. The fabrication has been upscaled to 150 mm wafers. The inset of Figure 6 shows a final wafer fabricated with established semiconductor processing technologies. Each wafer contains 62 dies, as presented in Figure 3.
+
+Details are in the caption following the image
+Figure 6
+Open in figure viewer
+PowerPoint
+Buried electrodes. Transfer curves for dual-gate transducers using buried electrodes. The leakage current has been completely eliminated. The fabrication is presented in Section 3 and has been upscaled to 150 mm wafers. The inset shows a final wafer containing 62 dies, each with four transducers.
+
+We first investigated whether the transducers could sense the surface potential at the top dielectric–electrolyte interface. We measured in solution the transfer curves for various values of the potential applied to the reference electrode. Linear transfer curves were measured using a drain bias of −2 V by scanning the bottom gate electrode and are presented in Figure 7. Due to the use of buried electrodes, the leakage currents can be disregarded. The transfer curves shift with the applied potential on the reference electrode, similar to the behavior of dual-gate transistors with a metallic top gate. In this case the metallic top gate is replaced by an electrolyte. The potential on the reference electrode sets the potential of the electrolyte and, hence, the surface potential Ψ0 shifts by the same amount. The corresponding shift in threshold voltage is given in Equation (11) as ΔVth = −(Ctop/Cbottom)ΔΨ0. The shifts in threshold voltage and surface potential are approximately equal, which indicates a capacitive coupling, Ctop/Cbottom, of about unity, in agreement with the layer thicknesses in the transducer. We note that the capacitive coupling can be tuned by varying the thickness of the bottom gate dielectric. We demonstrate in the next paragraph that ratios up to 2 can be realized.
+
+Details are in the caption following the image
+Figure 7
+Open in figure viewer
+PowerPoint
+Dual-gate transduction in aqueous solution. The linear transfer curves of dual-gate transducers measured at a drain bias of −1 V by scanning the voltage on the bottom gate electrode. The curves are measured as a function of the potential on the reference electrode. The transfer curves shift with the applied reference potential, which sets the potential of the electrolyte and, hence, the surface potential.
+
+4.3. pH Sensing
+To demonstrate the functionality of the transducers, we investigated their response as a function of the pH of the electrolyte. The shifts in threshold voltage to be detected are relatively small, in the order of 10–100 mV. Therefore, statistics are required to accurately determine the threshold voltage. To that end we measured the transfer curve at a certain pH several times in succession. Then we applied an electrolyte with a different pH and repeated the measurements. For each measurement we determined the threshold voltage. By plotting the threshold voltages versus time, we determined the drift as well as the change in threshold voltage due to the change in pH. A typical example is presented in Figure 8 for electrolytes with pH of 10 and 2. To show the threshold shifts the transfer curves are presented on a linear scale. The inset shows the threshold voltage with time. The drift of about 100 mV per minute is remarkably small taking into account that the operational lifetime of organic transistors is dominated by the presence of water.37 The drift could be due to, for example, residual stress, photoconduction and thermo-electricity. The shift in threshold voltage due to change in pH is 500 mV leading to a change of about 60 mV per pH unit.
+
+Details are in the caption following the image
+Figure 8
+Open in figure viewer
+PowerPoint
+pH detection with organic dual-gate transducers. Linear transfer curves of dual-gate transducers in electrolytes of pH 10 and 2. For statistical analysis at each pH the measurement was repeated several times in succession. The inset shows the change in threshold voltage with time. The drift is about 100 mV per minute. The shift in threshold voltage due to the change in pH is 500 mV leading to a change of about 60 mV per pH unit.
+
+The transducers detect changes in the surface potential at the second gate dielectric, Ψ0. This potential has to be corrected for by the potential of the electrolyte. We used a Pt wire as a reference electrode. Its electrode potential is given by the externally applied bias and any redox potential in the electrolyte. A typical redox reaction that occurs in the pH buffers used is O2 + 4H+ + 4e− ↔ 2H2O. The redox potential follows from Equation (3), which yields a change in redox potential of 59 mV per pH unit for an ideal Nernstian behavior.18, 38 We experimentally verified this dependence with separate Kelvin probe measurements on the Pt wire immersed in the buffer solutions. Hence the electrolyte potential changes with the applied bias and the redox potential of the pH buffer, Vref − 0.059 V per pH unit.
+
+Ψ0 can vary due to changes at the second gate dielectric for which we used a fluorinated, hydrophobic polymer. Due to the absence of hydroxyl groups, a change in pH hardly affects its surface charge density, that is, in Equation (6) α ∼ 0. The dielectric behaves similar to parylene, a site-free and ion-blocking membrane that does not show any ion or proton response.11 The potential at the second gate dielectric interface therefore in this case is set mainly by the potential of the electrolyte.
+
+Hence, upon changing the buffer solution, the surface potential at the second dielectric interface of the transducer, Ψ0, is expected to shift with 59 mV per pH unit. To demonstrate that the sensitivity can be tuned by the capacitive coupling as described by Equation (11), a series of transducers were fabricated and their sensitivity was determined. The top and bottom gate capacitances were deliberately varied by varying the layer thicknesses. Then for each transducer the capacitive coupling, Ctop/Cbottom, was derived from the threshold voltage as function of externally applied bias on the reference electrode. The coupling values obtained were in good agreement with the expected values based on layer thickness and dielectric constant. Subsequently, the threshold voltage of the transducers was measured as a function of the pH of the electrolyte. The procedure was the same as used in Figure 8. The experimentally determined threshold voltage shift is presented in Figure 9 as a function of the capacitive coupling. The solid line in Figure 9 shows that the sensitivity linearly depends on the coupling as ΔVth = (Ctop/Cbottom) × 58 mV per pH unit. By using a coupling above unity, the response can be enhanced to above the 60 mV per pH unit of conventional ISFETs, demonstrating proof-of-principle for the fabricated organic dual-gate transducers. We note that the calomel electrode can be used to fix the electrolyte potential and that the Teflon dielectric can be replaced with other polymers that have strong interactions with a variety of charged analytes. The response of the transducer is then different but the operational principle remains the same.
+
+Details are in the caption following the image
+Figure 9
+Open in figure viewer
+PowerPoint
+Sensitivity of dual-gate transducers. The shift in threshold voltage in mV per pH unit as a function of the capacitive coupling, Ctop/Cbottom. The inset shows the experimental geometry. The solid line shows that the sensitivity increases linearly with capacitive coupling as ΔVth = (Ctop/Cbottom) × 58 mV per pH unit.
+
+5. Summary and Conclusions
+Application of organic transistors as sensors in aqueous solution inevitably leads to Faradaic leakage currents due to electrolysis. Direct contact of both the electrodes and semiconductor with water has to be avoided. To prevent this contact, we used buried electrodes and protected the semiconductor with a hydrophobic barrier layer. This additional layer then acts as a second gate dielectric. The final device is a dual-gate organic transducer. The fabrication has been has been scaled up to 150 mm wafers using established semiconductor processing technologies. A microfluidic set-up is fixed on each die using pre-cut double-sided tape to make a watertight seal with tubes for electrolyte supply.
+
+The transducers are potentiometric sensors and in this respect are similar to classical ISFETs. The detection relies on measuring a shift in threshold voltage, ΔVth, due to changes in the surface potential of the second gate dielectric, ΔΨ0. Charge density changes can only be detected when they occur within the Debye length. Outside the Debye length the interface potential is screened.
+
+The change in threshold voltage is given by ΔVth = −(Ctop/Cbottom)ΔΨ0, which implies that the sensitivity of the dual-gate transducer can be tuned with respect to classical ISFETs by the ratio of the top and bottom gate capacitances. An enhanced sensitivity is advantageous because changes to be detected are small, in the order of 10 mV.
+
+Transducers were investigated as pH sensors. The use of a reference electrode is essential to fix the potential of the electrolyte and to eliminate hysteresis in the electrical transport measurements. A statistical measurement protocol was used to minimize the drift to less than 100 mV min−1. The threshold voltage shift depends linearly on pH: ΔVth = (Ctop/Cbottom) × 58 mV per pH unit, in good agreement with the 59 mV as expected for an ideal Nernstian redox reaction. An enhanced sensitivity is realized by using a capacitive coupling larger than unity. The measurements demonstrate proof-of-principle for the fabricated organic dual-gate transducers.
+
+For application as label-free biosensors, the second gate dielectric of the dual-gate transducers should be functionalized with the appropriate antibodies. However, DC detection measurements remain problematic. In physiological solutions the Debye length is small. According to the analysis presented, detection of biomolecules whose size exceeds the Debye length will be severely hampered. To circumvent the screening by the electric double layer, AC detection measurements are indicated.
+
+6. Experimental
+Transducers were fabricated on 150 mm wafers in the MiPlaza clean room. All chemicals were obtained from Sigma-Aldrich, except the semiconductor polytriarylamine (PTAA), which was obtained from Merck-UK. Thin films were fabricated by spincoating at ambient conditions and the layer thicknesses were measured with a Dektak surface profilometer. The microfluidic enclosure was milled from polymethylmethacrylate and then fixed on the substrate with laser-cut double-sided tape.
+
+Electrical measurements were performed on an Agilent 4155C semiconductor parameter analyzer at ambient conditions. Measurements were performed with a short integration time of 80 µs to suppress ionic interactions and thus to minimize the hysteresis in the transfer measurements. To accurately determine the threshold voltage, the gate voltage was swept with a resolution of 100 mV. The drain voltage was fixed at −2 V and the reference electrode was grounded (0 V). The threshold voltage was acquired from the intersection of the linear drain current versus gate voltage curve with the voltage axis.
+
+Two technologies to fabricate buried electrodes were investigated: lift-off and dry etching. In the lift-off process, positive photoresist (SPR-660) was spincoated on the bare SiO2 and patterned by photolithography. After development, layers of Ti and Au were deposited. The photoresist between the electrodes was then removed by lift-off. A new layer of photoresist was spincoated on top and patterned with an inverse photo-mask. The final result was a stack of Ti, Au and 1 µm photoresist. This procedure was chosen because the protecting photoresist should be perfectly aligned with the underlying electrodes. In practice, however, small misalignments did occur. The edge of the electrodes was unintentionally covered with the photoresist. Injection into the semiconductor was impaired, leading to transistors with unacceptable high contact resistances. Hence this procedure was abandoned. Buried electrodes could be realized successfully using a dry etching process, as presented in Section 3.
+

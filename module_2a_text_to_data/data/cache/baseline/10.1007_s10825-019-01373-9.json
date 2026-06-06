@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10825-019-01373-9",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "trinitrotoluene (TNT)",
+      "lower_detection_limit": "100 nM",
+      "upper_detection_limit": "20 μM",
+      "probe_material": "APTES (3-aminopropyltriethoxysilane)",
+      "test_operating_temperature_celsius": "",
+      "pH_value": -1,
+      "test_medium": "deionized water"
+    }
+  ]
+}

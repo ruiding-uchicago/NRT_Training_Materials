@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_pssa.200983310",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-13 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "Ba0.31Sr0.69TiO3",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3-13",
+      "test_medium": "water"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s13738-013-0367-5",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "6.31e-13 M",
+      "upper_detection_limit": "1.78e-3 M",
+      "probe_material": "hydroquinone monosulfonate-doped polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2.75−12.20",
+      "test_medium": "phosphoric acid/acetic acid/boric acid/sodium hydroxide/water"
+    }
+  ]
+}

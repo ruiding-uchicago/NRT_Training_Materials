@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11664-022-09468-z",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-13 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "silicon carbide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-13",
+      "test_medium": "water"
+    }
+  ]
+}

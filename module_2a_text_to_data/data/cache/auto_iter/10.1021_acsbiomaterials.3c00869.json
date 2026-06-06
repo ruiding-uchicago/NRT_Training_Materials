@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsbiomaterials.3c00869",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "1e-16 M",
+      "upper_detection_limit": "1e-11 M",
+      "probe_material": "serotonin-imprinted poly(methacrylic acid-co-acrylamide)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

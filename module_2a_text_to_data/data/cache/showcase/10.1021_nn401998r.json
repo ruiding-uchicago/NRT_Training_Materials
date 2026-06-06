@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_nn401998r",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-18 M",
+      "upper_detection_limit": "",
+      "probe_material": "semiconducting single-wall carbon nanotubes (s-SWCNTs)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate-buffered saline"
+    }
+  ]
+}

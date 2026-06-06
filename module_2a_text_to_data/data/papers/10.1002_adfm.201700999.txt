@@ -1,0 +1,364 @@
+Solution-Processed Monolayer Organic Crystals for High-Performance Field-Effect Transistors and Ultrasensitive Gas Sensors
+Boyu Peng, Shuyun Huang, Zhiwen Zhou, Paddy Kwok Leung Chan
+First published: 31 May 2017 https://doi.org/10.1002/adfm.201700999Citations: 180
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+This work innovatively develops a dual solution-shearing method utilizing the semiconductor concentration region close to the solubility limit, which successfully generates large-area and high-performance semiconductor monolayer crystals on the millimeter scale. The monolayer crystals with poly(methyl methacrylate) encapsulation show the highest mobility of 10.4 cm2 V−1 s−1 among the mobility values in the reported solution-processed semiconductor monolayers. With similar mobility to multilayer crystals, light is shed on the charge accumulation mechanism in organic field-effect transistors (OFETs), where the first layer on interface bears the most carrier transport task, and the other above layers work as carrier suppliers and encapsulations to the first layer. The monolayer crystals show a very low dependency on channel directions with a small anisotropic ratio of 1.3. The positive mobility–temperature correlation reveals a thermally activated carrier transport mode in the monolayer crystals, which is different from the band-like transport mode in multilayer crystals. Furthermore, because of the direct exposure of highly conductive channels, the monolayer crystal based OFETs can sense ammonia concentrations as low as 10 ppb. The decent sensitivity indicates the monolayer crystals are potential candidates for sensor applications.
+
+1 Introduction
+Charge accumulation in the channel of an organic field-effect transistor (OFET) usually occurs at the semiconductor layer within a few nanometers above the interface with the dielectric layer.1, 2 It is thus of great importance to reveal the charge transport behavior at this region of the OFETs. Semiconductor monolayers, as ideal platforms for the above study, have consequently drawn substantial attention in investigations on device physics and novel applications. In contrast to typical thick active layers (>20 nm) where the channel region is hidden, the physical properties of the semiconductor monolayers including the channel coverage area, charge transport mechanism, and molecular alignment can be facilely explored by observation of the exposed active channels through various characterization tools, such as scanning tunneling microscopy,3 scanning Kelvin probe microscopy,4 ultraviolet photoelectron spectroscopy,5 and atomic force microscopy (AFM). Utilizing semiconductor monolayers as active layers of OFETs can also greatly reduce material consumption and improve profit margin of potential mass-production. More importantly, without the coverage of extra layers, the directly exposed semiconductor monolayers are much more sensitive to external stimuli as high-efficiency sensors. Meanwhile, the 2D distributed molecules can be effectively doped to bring novel applications, such as ambipolar transistors, organic light-emitting transistors, and organic conductors.6-8
+
+OFETs with semiconductor monolayers as the active channels are promising vehicles for understanding the corresponding device physics and have tremendous potential in hi-tech applications. However, fabricating high-quality organic monolayers is very challenging. Although ultrathin films can be obtained through thermal evaporation by controlling the thickness of the deposited materials, these thermally evaporated films are usually not continuous or suffer from grain boundaries.1, 2 With solution-processing methods, the density of the grain boundary can be much lower than that with the use of thermal evaporation. To date, various types of OFETs with monolayer or ultrathin active layers reported in the literature are solution-processed by using dip-coating or high-speed spin-coating techniques.9-11 However, they still have limitations, such as small monolayer coverage and low compatibility for scaling up. On the other hand, the mobilities of these monolayer OFETs are generally smaller than 1 cm2 V−1 s−1, which is much lower than the mobilities of typical OFETs with active layers that are 30–50 nm in thickness. Recently, He et al. reported a novel epitaxial growth method of monolayer 2,7-dioctyl[1]benzothieno[3,2-b][1]benzothiophene (C8-BTBT) on graphene and boron nitride with a peak mobility of ~≈0 cm2 V−1 s−1, demonstrating that comparable carrier mobility of monolayer OFETs can also be achieved.3 Limited by template size, the organic crystal domain size is smaller than 80 µm and it is hard to obtain larger monolayer crystals. Solution-processing methods have also been employed in 2D organic semiconductor growth. Wang et al. and Xu et al. have separately reported the utilization of floating-coffee-ring growth and solution-epitaxy methods to develop high-quality 2D organic semiconductor crystals for field-effect transistor applications. Instead of using carrier transport in the first monolayer, the organic crystals obtained by these methods with thickness equal to or thicker than bi-layer show decent field-effect mobilities.12, 13 In this regard, it is in great demand to create a more effective and efficient method to produce large-area, highly ordered organic semiconductor monolayers on general substrates.
+
+In this work, we have created a new dual solution-shearing (DSS) method, which successfully generates continuous and highly crystallized semiconductor monolayers (HCSMs) in centimeter scale with single-crystalline domains in millimeter scale. The OFET devices with HCSMs of 2,9-didecyl-dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene (C10-DNTT) show a distinguished carrier mobility of up to 10.4 cm2 V−1 s−1, which is the highest among the reported values of solution-processed monolayer devices. A quite low anisotropic ratio (≈.3) of HCSM suggests a uniform molecular alignment in the a–b plane and a minor preference in the channel direction. In contrast to the multilayer C10-DNTT based device displaying a band-like transport behavior, the mobility of HCSM-based device shows that hopping is the main carrier transport mode, as revealed by the Arrhenius relationship with the temperature. Finally, the decent sensitivity (detection limit down to 10 ppb) of the monolayer-based OFETs to ammonia indicates the monolayer crystals are potential candidates in sensor applications.
+
+2 Results and Discussion
+The solution-shearing method has been utilized in small molecule and polymer semiconductor materials to obtain outstanding performance in OFETs.14-17 The evaporation of the solvent is the main reason for the occurrence of nucleation and crystal deposition in solution-processing methods. Other parameters such as concentration of the semiconductor solution, its interaction with the substrate, and shearing speed also play important roles in the deposition process. These highly dependent parameters cause difficulties in modeling the growth of organic crystals and thus most of the corresponding studies are based on experiments to date. Generally, homogenous nucleation prevents the fabrication of highly crystallized thin-films. In order to suppress homogenous nucleation in solution-shearing, the concentration of the organic semiconductors is usually smaller than the solubility limit (c*).14, 17, 18
+
+In the current work, we intentionally dissolve C10-DNTT in tetralin with a concentration close to the solubility limit (c*) of the solvent to develop a monolayer of C10-DNTT through a new DSS method. As shown in Figure 1a, we performed the first solution-shearing of C10-DNTT solution (first shearing concentration, c1 = 1 mg mL−1) on a phenyltrichlorosilane (PTS) treated Si/SiO2 substrate at a temperature (Tsub) of 85 °C (c*85 = 0.9 mg mL−1, Figure S1, Supporting Information). The polarized optical microscope (POM) image of the as deposited thin film is shown in Figure 2a. As expected, domains with different orientations and multilayer crystals are observed in the POM image. These observations are in line with expectations when homogenous nucleation is involved.18 We then performed the second solution-shearing of C10-DNTT solution (second shearing concentration, c2 = 1 mg mL−1) on the deposited crystals at Tsub of 90 °C (c*90 = 1.1 mg mL−1, Figure S1, Supporting Information). As the substrate temperature increases, the solvent can dissolve more C10-DNTT molecules, and at the same time, the work of adhesion (W) between the C10-DNTT crystal layers is weak (50.0 mN m−1, Figure S2, Supporting Information). The preformed crystals would be simultaneously redissolved during the second shearing process (Figure 1b). On the other hand, a stronger W between the bottom layer of molecules and the substrate (64.3 mN m−1, Figure S2, Supporting Information) slows down the redissolving process of the first layer as opposed to the other layers. Thus, by controlling the substrate deposition temperature and the semiconductor concentration, our DSS method can produce high-quality HCSMs by dissolving the additional semiconductor multilayers.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a,b) Schematic drawing of the DSS process. Dissolving (blue arrows) and recrystallization (red arrow) processes promote the growth of highly crystallized semiconductor monolayer.
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+a) POM image of crystals after first shearing process. b–e) POM images of crystals after second shearing processes. Scale bars: 200 µm.
+We investigated the formation mechanism of the organic semiconductor (OSC) monolayers by varying the c2 values in different experiments. From the POM images shown in Figure 2b,c, when the semiconductor concentration for the second shearing (c2) is zero (pure tetralin solvent) or only 0.5 c*, the bottom layer would also be partially dissolved, leaving gaps (5–10 µm) and random islands in the crystal morphology. These large gaps and variation in thickness of the crystal will prevent carrier transport and reduce the field-effect mobilities of the crystals. On the other hand, when the c2 is 10% higher than c*, the second shear process can barely dissolve the preformed crystals (Figure 2e), and the multilayer morphology remains unchanged. A uniform monolayer with ≈100% crystal coverage is only possible when the c2 is slightly less than c* (Figure 2d). More experiment conditions at higher/lower substrate temperature, semiconductor concentration, and shearing speed were carried out to further support the mechanism of the DSS method, as shown in Table S1, Figure S3, and corresponding discussions in the Supporting Information. The results indicate that a well-controlled balance between crystal deposition effect and dissolving effect is critical in obtaining large-area and uniform crystal monolayers.
+
+The thickness of the monolayer crystals is assessed by using an AFM and the result is shown in Figure 3a. After the second shearing, the crystal surface is very smooth with a few islands over a scanned area of 10 × 10 µm2. Aligned cracks can be observed, which are attributed to the anisotropic thermal expansion coefficients of the crystal and the thermal expansion mismatch between the silicon substrate and the organic crystals. Similar cracks have been previously observed in C10-DNTT crystals grown by an edge-casting method.19, 20 The inset of Figure 3a and Figure S4a–f in the Supporting Information indicate a height profile of 4 nm of the monolayer, which agrees well with the (001) d-spacing value of C10-DNTT crystals.20-22 In Figure 3c, we show the statistical plot of the HCSM thickness based on the AFM image. The monolayer content is as high as 98.2% while the remaining are open crack areas and bilayer islands. The in-plane crystallinity of the HCSM is further examined by using a tunneling electron microscope and select area electron diffraction (SAED). Very similar diffraction patterns can be observed in the monolayer and bilayer C10-DNTT crystals (Figure 3b, Figure S6, Supporting Information). The molecular packing and lattice parameters (a ≈ 5.9 Å, b ≈ 7.8 Å) are comparable among the different samples, which suggests the monolayer C10-DNTT crystal and thicker C10-DNTT crystals have very similar crystalline structures at in-plane direction. We further applied in-plane grazing-incident X-ray diffraction (XRD) to determine the crystal uniformity and orientation. XRD 2Θ scan was first performed to acquire the in-plane diffraction peaks of the HCSM, among which the (020) diffraction showed the strongest signal at 2Θ = 22.52° (Figure 3e). Afterwards, with the 2Θ value settled, XRD Φ scan was performed to investigate the crystal orientation information. From the inset of Figure 3f, if the a-axis align perfectly with the shearing direction, the highest intensity of (020) diffraction should be located at Φ1 = 90° + Θ = 101.26°. On the other hand, the experimental result of Φ scan (Figure 3f) shows that highest diffraction intensity is located at 101.8°, indicating that angular difference between the a-axis of the crystal and the shearing direction is only 0.54°. The DSS process is thus proved very effective in guiding crystal growth in a specific orientation over a large area (>1 cm2).
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+a) AFM image of HCSM. White arrow denotes shear direction. Scale bar is 2 µm. Inset: Height profile along white dotted line. b) SAED patterns of HCSM. c) Statistical height distribution in (a). d) I–V transfer curves of multilayer crystals (black) and monolayer crystals with (red) and without (blue and green) PMMA encapsulation layer. Square root plot for mobility calculation is shown in Figure S7 in the Supporting Information. In-plane grazing-incident XRD measurements of the HCSM. e) 2θ scan. Incident X-ray and sample were not moving, and the detector moved clockwise (seen from top). f) ϕ scan. Incident X-ray and detector were not moving, and the sample rotated clockwise (seen from top).
+Encouraged by the high-quality crystals, we further employed the bottom-gate top-contact OFET structure with HCSM as the active layer to study the corresponding carrier transport mechanisms. The channel length and width are 80 and 450 µm, respectively. Highest saturated mobility values are used as representatives to quantify the charge transport of the crystals. When the thickness of the active layer approximates the charge accumulation thickness, thickness-dependent field-effect mobility will become important and has been observed with different active layer materials including silicon, transition metal dichalcogenides, and organic semiconductors. Generally, the mobility of semiconductor in ultrathin films, especially monolayers, is significantly reduced compared to that in its thicker films. For example, monolayers of molybdenum disulfide (MoS2) and molybdenum diselenide (MoSe2) show lower mobilities than their multilayers due to the presence of Coulomb impurities (CIs) such as adsorbed gas molecules and atomic defects which scatter the charges in the channel.23, 24 In contrast to MoS2 or MoSe2, the previously reported carrier hopping in ultrathin OFETs are usually prevented by weak in-plane ordering and various grain orientations.25, 26 Taking pentacene as an example, the field-effect mobility can be as high as 35 cm2 V−1 s−1 for the grain boundary free single crystals through vapor phase deposition27 while the mobility of thermally evaporated monolayer pentacene is generally approximately or less than 1 cm2 V−1 s−1.25 This clearly indicates the challenges and need to develop a fabrication method, which not only can produce monolayer organic semiconductors but also high-quality in-plane packaging with an extremely low grain boundary density for OFET applications. As a reference example, an OFET with a thick layer (30 nm) of C10-DNTT shows a mobility of 12 cm2 V−1 s−1 as presented with a black curve in Figure 3d and Figure S7 in the Supporting Information. However, when the active layer is replaced by the HCSM, a significant drop in mobility is observed (μ = 0.3 cm2 V−1 s−1 under a nitrogen environment and no field-effect transfer curve can be measured in ambient air, as shown by the blue and green curves in Figure 3d and Figure S7 in the Supporting Information). This provides direct evidence that HCSM OFETs are exposed to external perturbation like Coulomb impurities or surface trap states at the channel region. To overcome this and reveal the carrier transport capability of the HCSM active layer, a poly(methyl methacrylate) (PMMA) encapsulation layer is deposited onto the HCSM after the formation of drain/source electrodes. The PMMA encapsulated HCSM shows similar transfer curves although the mobility is slightly less than the thick crystal as shown in the red curve in Figure 3d and Figure S7 in the Supporting Information. The highest carrier mobility value is 10.4 cm2 V−1 s−1 (output curves shown in Figure S8b in the Supporting Information) and average value is 5.8 cm2 V−1 s−1 (mobility distribution in Figure S9 in the Supporting Information). Our finding confirms that as long as high-quality monolayer crystals with a suitable encapsulation method can be produced, it is already good enough for OFET applications.
+
+The mobility anisotropic ratio (ratio between the highest and lowest mobility values in different directions) of C10-DNTT with herringbone packing is measured by using fan-shaped electrodes formed by high-resolution photolithography. We used the orthogonal photolithography process to directly develop the top gold contacts on the HCSM with a smallest feature size (gap distance between two adjacent electrodes) of 4 µm. By using similar fan-like electrodes, Xie et al. reported a single-crystalline dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene (DNTT) formed by physical vapor transport and the anisotropic ratio is in the range of 1.3–1.7.28 The optical microscope (OM) and POM images of the HCSM with the electrodes are shown in Figure 4a,b, respectively. The color contrast in the POM image shows that the crystals almost share a single orientation, and single-crystallinity is ensured in the area surrounded by the electrodes without worrying about the grain boundary effect. The normalized mobilities in different directions are measured in a vacuum chamber and plotted in Figure 4c in a radar graph. The shearing direction corresponds to the horizontal direction (180°–0°) of the radar graph. The [100] direction (a-axis) follows the shearing direction with only 0.54° difference, as confirmed in Figure 3f. The direction with the highest mobility shows a ≈30° angle from the [100] direction of the crystal and the anisotropic ratio of the HCSM is 1.3. It is important to point out that this value may be affected by the presence of tiny narrow cracks in the HCSM as shown in Figure 3a, and thus the actual intrinsic anisotropic ratio of C10-DNTT crystals may be even smaller. Although the current side effect caused by very small W/L ratio of fan-shaped electrodes may lead to slight mobility overestimation (µave = 9.0 cm2 V−1 s−1 as shown in Figure S10 in the Supporting Information, compared with µave = 5.8 cm2 V−1 s−1 of large W/L ratio devices), this effect is equal at all directions so that it has little influence on the anisotropic measurement. For the monolayer device, the anisotropic value is quite comparable with the DNTT single crystal grown by vapor phase deposition.28 For the multilayer devices, as the anisotropic value is larger (12.5 to 1.7 cm2 V−1 s−1, as shown in Figure S12a in the Supporting Information) due to much wider cracks (Figure S12b, Supporting Information). The current anisotropic ratio is already significantly smaller than those of pentacene29 and 6, 13-bis(triisopropylsilylethynyl)pentacene,30 and it may be one of the reason for the high mobility of DNTT-based materials.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+a) POM and b) OM images of top-contact fan-shaped electrodes on HCSM. Shearing direction is denoted by the black arrow. Inset: crystal packing of C10-DNTT molecules. c) Radar graph of normalized mobilities on different directions of HCSM. Shearing direction is from 180° to 0°.
+We further investigate the charge transfer mechanism in HCSM-based OFETs by performing mobility-temperature dependency measurements in a cryogenic probe station. Positive or negative mobility-temperature dependency is usually regarded as a sign of thermal activated transport22 or band-like transport,20 respectively. Kinoshita et al. found that the linear field-effect mobility of the thermally evaporated C10-DNTT thin film follows a typical thermal activation behavior with an Ea of 10 meV over a wide temperature range.22 On the other hand, Nakayama et al. observed a negative mobility-temperature dependency of solution-processed C10-DNTT crystals in a narrow temperature range close to room temperature.20 However, the mobility-temperature dependencies of ultrathin organic single crystals have been rarely reported even though they can provide a better means for understanding carrier transport behavior. The measured mobility-temperature dependencies of the reference multilayer C10-DNTT device (black) and HCSM device (red) are plotted in Figure 5. For the thick crystals of C10-DNTT, the mobility increases by 20% with a reduction in the temperature from 300 to 180 K. The negative mobility-temperature dependence in this region shows that band-like transport takes place in the thick C10-DNTT crystals. The trend is fitted with the band-like transport equation of µ ∝ T−n with n equaling 0.7. The increase in the carrier mobility is saturated by further reducing the testing temperature, which has also been observed by Xu et al.31 and Cho et al.32 on other highly crystallized active layer materials. This is presumably due to the effects of deep trap states that have a negative effect on carrier transport at low temperature. Mobility-temperature dependency is, however, different in the case of HCSM. The mobility monotonically decreases when the temperature is reduced from the starting point of 300 K. This, on the contrary, reveals an overall thermal activated carrier transport in the channel, where carriers need to gain extra energy from the thermal lattice fluctuations. The thermal activation energy (Ea) term acquired from the fitting is around 60 meV, indicating an even stronger positive mobility-temperature dependency than that of thick polycrystalline C10-DNTT (10 meV)22 deposited by thermal evaporation method. This observation suggests that, although the HCSM has a higher carrier mobility than the thermally evaporated polycrystalline film, the trap states at the semiconductor/dielectric interface cannot be neglected. We believe the trap states counteract the band-like transport and thus the HCSM-based OFETs show a net positive mobility-temperature dependency. The slight decrease in mobility and threshold voltage (VTH) negative shift from reference thick crystals to monolayer crystals further confirm that the monolayer C10-DNTT is sensitive to trap states. With the mobility-temperature relationship easily modulated by trap states, the HCSM can be potentially used for large-area temperature sensing applications.33
+
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Mobility–temperature relationships of reference crystals (black) and monolayer crystals (red) of C10-DNTT.
+The exposed active channel of the HCSM based OFET is sensitive to external stimuli, which is promising to be utilized in gas sensing applications. NH3 is widely used in the chemical, agricultural, biopharmaceutical, and aerospace industries. However, it is regarded as harmful waste to the environment and cause irreversible damage to the human skin and eyes upon long-term exposure even at low concentrations (≈1 ppm), causing detrimental effects on the environment and human health.34 Therefore the development of highly sensitive NH3 sensors can be very useful for agriculture, food safety, animal husbandry, and environmental monitoring. In OFET-based NH3 sensors, the NH3 molecules diffuse through the active layer and form negative local traps at the channel regime, leading to a drain–source current decrease in p-type OFETs.35 Generally, ultrathin active layers are critical in gas sensors because the diffusion time for the gas analytes to reach the conductive channel can be minimized. Meanwhile, high carrier mobility is indeed favorable for maximizing the current sensitivity caused by trace amounts of analytes. Thus, our HCSM-based OFET is anticipated to serve as an efficient NH3 sensor, owing to its facile preparation process, molecularly thin thickness, and high field-effect mobility.
+
+The current response of the HCSM-based sensor at different NH3 concentrations is shown in Figure 6a and Figure S13 in the Supporting Information. The lowest detectable concentration (detection limit) is 10 ppb. An NH3 concentration of 100 ppb causes over two orders of magnitude change in the current, which, as far as we know, is the most sensitive performance among the reported work (Table S2, Supporting Information).9, 35-40 As a direct comparison, the sensing property of 80 nm thick thermally evaporated C10-DNTT is also tested under different NH3 concentrations (black curve in Figure 6b). The detection limit is only 5 ppm, which is almost 500 times worse than that of the HCSM-based sensor. The diffusion of NH3 molecules plays an important role in explaining the distinct sensitivities of the HCSM and thick film. In the HCSM device (Figure 6b), the molecules adsorbed on the semiconductor surface directly interact with the accumulated carriers, while in the thick film (Figure 6c), the molecules need to diffuse through almost the whole bulk film of the semiconductor to interact with the channel region. The superior sensitivity of the HCSM-based NH3 sensor benefits from the molecularly thin thickness and grain boundary-free transport, thus trace amounts of NH3 can directly interact with free carriers and largely reduce the drain–source current. The response of HCSM-based sensor to other common compounds including acetone, ethanol, hydrogen, oxygen, and nitride oxide was measured (Figure 7). The high sensitivity of the NH3 sensor show great potential in the development of ultrasensitive gas sensors.
+
+Details are in the caption following the image
+Figure 6
+Open in figure viewer
+PowerPoint
+a) Drain–source current response of monolayer- (red) and multilayer-based (black) OFET sensors upon exposure of different concentrations of NH3. VGS and VDS are −80 V during the tests. At the end of each test, pure N2 was used to purge the device. Proposed mechanisms for NH3 sensing in b) monolayer and c) multilayer-based OFET sensors.
+Details are in the caption following the image
+Figure 7
+Open in figure viewer
+PowerPoint
+Sensitive response of the C10-DNTT monolayer-based gas sensor (except green bar, which is the sensitivity of multilayer-based sensor to NH3). As the sensitivity of the monolayer to NH3 is too high, the concentration of the red bar is 100 ppb. For all the other tests, including NH3 detection of C10-DNTT multilayer, and acetone, ethanol, hydrogen, oxygen, and nitride oxide detection of C10-DNTT monolayer are performed at 10 ppm gas concentration.
+3 Conclusion
+In summary, we have developed a DSS process by using an OSC concentration regime close to the solubility limit to fabricate large-area monolayers of C10-DNTT for OFET applications. With proper encapsulation to suppress perturbation to the channel, the HCSM-based OFET shows a mobility up to 10.4 cm2 V−1 s−1 with an average value of 5.8 cm2 V−1 s−1. Through systematical investigations of the HCSMs and thicker crystals at low temperature, we confirm that the carrier transport in such highly crystalline semiconductor monolayers follows carrier hopping mechanism. As long as the bottom layer is free of grain boundaries, the other upper layers of molecules merely contribute to the carrier density at the channel region rather than directly increase the field-effect mobility. The high mobility and ultrathin thickness also allow HCSM-based OFETs to serve as efficient NH3 sensors with a detection limit down to 10 ppb, which demonstrates a much better performance in terms of mobility, detection limit, and sensitivity, compared to those in existing reports. With the unique advantages of HCSMs, more interesting applications such as strain sensors, transparent and ambipolar OFETs, etc., can be foreseen. Relevant investigations are being carried out in our laboratory.
+
+4 Experimental Section
+Substrate Preparation: Heavily doped silicon wafers (525 µm in thickness) with thermally grown 300 nm thick oxide layers were used as the substrates. The substrates were cleaned with a UV–ozone cleaner for 10 min. They were then immersed into a PTS/carbon tetrachloride solution (3 wt%) inside a glove box for 10 h to improve solvent wettability. Afterward, the substrates were rinsed twice with chloroform, followed by a thermal annealing treatment at 120 °C for 20 min. The surface roughness of the substrates is ≈0.3 nm after the PTS treatment. The overall areal capacitance of the PTS/SiO2 was measured to be 10.6 nF cm−2.
+
+Dual Solution-Shearing Process: C10-DNTT was dissolved in 1,2,3,4-tetrahydronaphthalene (tetralin) at 100 °C with a concentration of 1 mg mL−1. A solution-shearing setup with heaters on both the blade and substrate was used. The blade temperature was set to 80 °C throughout the experiment. The substrate temperature was 85 °C in the first shearing process, and then increased to 90 °C in the second shearing process. In each shear process, 20 µL of the solution (1 mg mL−1 C10-DNTT in tetralin, heated to 100 °C) was injected for a substrate size of 1.5 × 1.5 cm2. A constant shear velocity of 30 µm s−1 was established by using a Newport linear translation stage during the first and second shearing processes. Each shearing process lasted for ≈5 min. After the DSS process, the HCSM samples were annealed in a vacuum oven for 8 h to eliminate any solvent residue.
+
+Solubility Limit Measurement: Fixed volume of tetralin solvent (50 mL) was firstly heated to 70 °C. Then 10 mg C10-DNTT was added, followed by stirring during heating. After that, the solution was held for 10 min to see if it is saturated or not. If no precipitation was observed, more C10-DNTT were added in the solution, followed by the stirring processed again, until precipitation was observed. This study used a temperature step of 5 °C for each dissolving process and the maximum concentration at that temperature is the solubility limit plotted in Figure S1 in the Supporting Information.
+
+OFET Fabrication and Characterization: Photolithography was used to fabricate the fan-shaped top-contact drain/source electrodes. A fluorinated sacrificial layer (1000 rpm) and a negative photoresist (4000 rpm) were sequentially spin-coated on the HCSM. After UV exposure, developers were used to create patterns on the two deposited layers. A 50 nm thick gold layer was deposited by thermal evaporation. After immersion into a remover solution, the drain/source electrodes remained on the organic semiconductor to form a complete OFET structure. All chemicals related to the photolithography process were purchased from Orthogonal and used as received. A PMMA (10%) solution was spin-coated on the OFET at 4000 rpm, which resulted in a 500 nm thick PMMA encapsulation layer. The transfer I–V curves of the OFETs were recorded at room temperature in a glove box under nitrogen atmosphere, and the saturation region equation [IDS = μCi(W/2L)(VG – VTH)2] is applied for mobility calculation. The mobility-temperature dependency test was completed in a cryogenic probe-station with liquid nitrogen supply. Mobilities at VDS = −1 V were measured in the mobility-temperature test so that the I–V relationship is linear [IDS = μCi(W/L)(VG – VTH)VDS]. POM and OM images were taken under a Nikon LN100N POL microscope
+
+In-plane Grazing-Incident XRD: A Rigaku Smartlab XRD with 9 kW X-ray power was used. The sample was placed with the shearing direction perpendicular to the X-ray incident direction. The incident angle is 0.15° and the detector in located in the sample plane. For 2θ scan, incident X-ray and sample were not moving, and the detector moved clockwise. (seen from top) For ϕ scan, incident X-ray and detector were not moving, and the sample rotated clockwise. (seen from top) The starting position of ϕ scan (0° in Figure 3f) is when the incident X-ray is perpendicular to the shearing direction of the sample.
+
+Ammonia Detection: A polydimethylsiloxane reservoir (≈1 cm3) with a gas inlet/outlet was molded by using a 3D-printed plastic mold. The reservoir was then attached onto the OFET surface (without PMMA encapsulation) to ensure proper gas tightness. NH3 detection was carried out inside a glove box. When a mixed gas of NH3/N2 of specific concentrations was injected into the reservoir, the drain–source current response of the OFET was recorded. After one test, the sensor was placed into a vacuum oven at 80 °C for 2 h to regain sensitivity, and 80% of the original sensitivity was recovered through this process. For the sensitivity test of other compounds, the same experiment setup was used and the concentration of other gases were fixed at 10 ppm.
+
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2017.
+Supporting Information
+for Adv. Funct. Mater., DOI: 10.1002/adfm.201700999
+Solution-Processed Monolayer Organic Crystals for HighPerformance Field-Effect Transistors and Ultrasensitive Gas
+Sensors
+Boyu Peng, Shuyun Huang, Zhiwen Zhou, and Paddy Kwok
+Leung Chan*
+
+1
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2016.
+Supporting Information
+Solution-Processed Monolayer Organic Crystals for High-Performance Field Effect
+Transistors and Ultra Sensitive Gas Sensors
+Boyu Peng, Shuyun Huang, Zhiwen Zhou and Paddy Kwok Leung Chan*
+Figure S1. C10-DNTT solubility limit in tetralin at different temperature.
+
+2
+Figure S2. Surface energy characterizations of C10-DNTT and PTS/SiO2 surfaces using deionized
+water and diiodomethane.
+Based on the surface energy results, the work of adhesion between the C10-DNTT and PTS is
+calculated by
+ [
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+Similarly, the work of adhesion of between two layers of C10-DNTT can be evaluated by
+ [
+
+
+] [ ]
+The measured results for the is 64.3 mN/m and is 50.0
+mN/m. It indicates that the interaction between C10-DNTT and PTS is stronger than that the
+interlayer interactions of C10-DNTT.
+
+3
+Table S1. Dual shearing experiments performed at different first/second shearing conditions. In
+first shearing, over saturated solutions are applied. In second shearing, the substrate temperature is
+raised for 5oC to make the solutions slightly unsaturated.
+
+4
+Figure S3. POM images of C10-DNTT crystals deposited from different combinations of first and
+second sharing conditions. The scale bars of (a) and (d) are the same as 100 μm. The length and
+height scale bars of AFM figures in insets of (a) and (d) are 1 μm and 10 nm, repectively. The scale
+bars of (b, c) and (e-l) are the same as 200 μm. The shearing speed in all shearing processes is 30
+μm/s.
+The mechanism of the dual-shearing process is mainly the well-controlled dissolving process of
+the pre-formed multilayer C10-DNTT crystals. In order to find optimum experimental parameters,
+three different conditions of both first and second shearing were set, namely F1 to F3 and S1 to S3,
+
+5
+as shown in Table S1. The different conditions were systematically combined to study the
+mechanism of dual-solution shearing. Figure S3a-c are POM images of the crystals deposited from
+first shearing processes (F1 to F3). As suggested by B. Peng et al. [J. Mater. Chem. C, 2016, 4,
+8628-8633], the crystal thickness deposited from meniscus-guided solution-processing method is a
+balance between evaporation-induced heterogeneous nucleation and receding speed of the threephase line. Compared with F2, F1 process has lower solution concentration and substrate
+temperature, the crystal deposition effect is thus much weaker than F2. The crystals only form
+discrete monolayer islands, as shown in Figure S3a. On the other hand, F3 has both higher solution
+concentration and substrate temperature, the crystal deposition effect is very strong, so that thick
+crystal layers (4-8 layers) are formed. Among the three different first shearing processes, F2 is
+capable of forming continuous layer with suitable layer thickness (2-4 layers) and relatively large
+grain sizes.
+Based on the first shearing results, dual-shearing combinations of F1+S1, F2+S2, F3+S3 were
+set, and the POM images of the crystals are shown in Figure S3d-f. For F1+S1, the dissolving effect
+of S1 further decreases the sizes of monolayer islands deposited from F1, as shown in Figure S3d.
+As the preformed crystals are not continuous, the F1+S1 combination is not suitable for monolayer
+formation. For combination F3+S3, the second shearing process S3 failed to dissolve the preformed crystals from F3, and the layer thickness maintains at 4-8 layers. Only in combination
+F2+S2, the second shearing process S2 successfully dissolves the pre-formed crystals into
+monolayer.
+Three different first shearing processes were combined with second shearing process S2 to
+investigate the influence of pre-formed crystals, as shown in Figure S3g-i. For F1+S2, the preformed discrete islands have little effect on the second shearing process, so that the resulted crystals
+are similar to crystals deposited from a single shearing process performed at conditions as S2,
+which means multilayers (2-4 layers), as shown in Figure S3g. For F3+S2, the pre-formed crystals
+is very thick (4-8 layers), the dissolving effect of S2 only decreases the thickness to 2-4 layers but
+
+6
+not monolayers. It indicates that the suitable crystal thickness for monolayer formation is from F2
+process (2-4 layers).
+In addition, first shearing process F2 was combined with three different second shearing
+processes to study the second shearing effect, as shown in Figure S3j–l. The effect of second
+shearing is a combination of dissolving effect of the unsaturated solution (short for dissolving effect
+below) and crystal deposition effect by heat-induced solvent evaporation (short for deposition
+effect). The results of F2+S1 is very similar to the case in Figure 2c, which means the dissolving
+effect is stronger than deposition effect so that the bottom monolayer become discontinuous.
+However, the deposition effect is much stronger than dissolving effect of the high temperature
+unsaturated solution (F2+S3, Figure S3l), so that the crystal thickness increases from 2–4 to 4–8
+layers after second shearing. Only when the second shearing process get a balance between the two
+effects (F2+S2, Figure S3k), a uniform crystal monolayer is thus obtained. In summary, a wellcontrolled balance between the dissolving and deposition effect of the second shearing process is
+crucial in getting uniform monolayers.
+
+7
+Figure S4. a) AFM image of the C10-DNTT monolayer at a boundary razor blade scratch. b) Height
+plot along the white dash line in (a). c, e) AFM images of monolayer C10-DNTT at other locations.
+d, f) Height plot along the white dash line in (c, e). g) AFM image at the boundary of monolayer
+and bilayer crystals. h) Height plot along the white dash line in (g).
+
+8
+Figure S5. X-Ray reflectivity results of the monolayer C10-DNTT. By using multilayer model, C10-
+DNTT thickness is fitted to be 4.1 nm, in consistence with the AFM results.
+0.0 0.1 0.2 0.3 0.4 0.5
+10
+-6
+10
+-5
+10
+-4
+10
+-3
+10
+-2
+10
+-1
+10
+0
+Experiment
+Simulation
+Normalized Intensity
+Qz
+(Å
+-1
+)
+
+9
+Figure S6. TEM and SAED results of monolayer and C10-DNTT crystals. The a, b lattice
+parameters of the crystals are almost identical to be 5.9 Å and 7.8 Å, respectively.
+
+10
+Figure S7. Square root of drain-source current in Figure 3d. Linear regimes for mobility calculation
+are marked by black, red and blue solid lines.
+
+11
+Figure S8. Representative linear transfer curve (a) and output curves of the HCSM-based OFET in
+in Figure 3d. Channel length and width are 80 and 450 μm, respectively. Linear mobility calculated
+from (a) is 8.8 cm2V
+-1
+s
+-1
+.
+
+12
+Figure S9. Mobility distribution of 20 HCSM-based OFETs. Averaged mobility is 5.8 cm2V
+-1
+s
+-1
+.
+Standard deviation is 1.86 cm2V
+-1
+s
+-1
+.
+
+13
+Figure S10. Radar graph of saturated mobilities on different directions of HCSM. Shearing
+direction is from 180o
+to 0o
+. Average value is 9.0 cm2V
+-1
+s
+-1
+.
+
+14
+Figure S11. Surface AFM image (a) and enlarged view at a grain boundary (b) of C10-DNTT
+monolayer. The cracks do not fully separate the thin film, thus allowing carriers to transport along
+horizontal direction.
+
+15
+Figure S12. (a) Saturation mobility (VDS = -80 V) of multilayer crystal (8 layers) measured at
+parallel (red) and perpendicular (blue) directions to the shearing direction. The large anisotropic
+ratio between the two directions (12.5 to 1.7 cm2V
+-1
+s
+-1
+) is caused by the oriented cracks along the
+shearing direction (b). White arrow denotes the shearing direction.
+
+16
+Figure S13. a) Sensitive response of the C10-DNTT monolayer-based gas sensor towards NH3 with
+different concentrations (red curve). Bias stress effect is recorded from a control device without
+NH3 exposure (blue curve). VGS and VDS are -80 V during the tests. At the end of each test, pure N2
+was used to purge the device. b) Enlarged view of (a) at 300 s range. 10 ppb exposure leads to
+obvious slop change in current decay.
+
+17
+Figure S14. Calibration curve of the monolayer device towards ammonia.
+
+18
+Table S2. Key parameters of ammonia sensors based on OFETs
+Ref
+Active
+materialsa
+Film
+thickness
+(nm)
+Field-effect
+mobility
+(cm2V
+-1
+s
+-1
+)
+Sensitivityb
+(concentration)
+Detection
+limitc
+(sensitivity)
+39
+CuPc-TPFB
+CoPc-TPFB
+6 ~10-4
+<2
+(20 ppm)
+0.45 ppm
+(<1.1)
+9
+NDI(2OD)(4t
+BuPh)-
+DTYM2
+4 ~0.1
+2-4
+(100 ppm)
+10 ppm
+(<1.1)
+40 P3HT >100 5.5×10-3
+~1.5
+(100 ppm)
+10 ppm
+(~1.2)
+38 pentacene 50 0.77
+1.3
+(3 ppm)
+0.5 ppm
+(<1.1)
+35 HTEB 1-2 ML 0.48
+2.8
+(1 ppm)
+0.1 ppm
+(1.7)
+36 DTBTN-C6
+6-11
+(4-6 ML)
+0.02-0.3
+70-140
+(50 ppm)
+10 ppm
+(~30)
+37 pDPPBu-BT N/A
+3.6×10-4
+-
+1.4×10-3
+~1.2
+(1 ppm)
+10 ppb
+(~1.005)
+This
+work
+C10-DNTT ~4 (1 ML) ~10
+85
+(0.1 ppm)
+10 ppb
+(1.72)
+[a] CuPc: copper phthalocyanine, TPFBL: tris(pentafluorophenyl)borane, CoPc: cobalt
+phthalocyanine, NDI(2OD)(4tBuPh)-DTYM2: naphthalene diimides derivative, P3HT: poly-3-
+hexylithiophene, HTEB: 1,4-bis((5'-hexyl-2,2'-bithiophen-5-yl)ethynyl)benzene, DTBTN-C6:
+dialkyl tetrathiapentacene, pDDPBU-BT: DPP-bithiophene conjugated polymer with thermally
+cleavable tert-butoxy groups in the side chains.
+[b] Sensitivity is defined as Igas-off/Igas-on, corresponding to the concentration in the brackets.
+[c] Detection limit is the lowest detectable concentration. The value in the brackets is the sensitivity
+at detection limit.

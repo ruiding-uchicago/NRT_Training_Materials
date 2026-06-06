@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2021.113903",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "GABA (gamma-aminobutyric acid)",
+      "lower_detection_limit": "1 aM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "GABAA receptors (α5β2γ2 or α1β2γ2 subunits) in nanovesicles on CNT-FET",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "DPBS (Dulbecco's phosphate buffered saline)"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See ourprivacy policyfor more information on the use of your personal data.
+
+Manage preferencesfor further information and to change your choices.
+
+Access provided by Argonne Research Library
+
+271Accesses
+
+4Citations
+
+Explore all metrics
+
+Gas sensors based on organic semiconductors receive tremendous attentions owing to their advantages on high selectivity and room temperature operation. However, until now, most organic semiconductor based sensors still suffered from problems, such as low sensitivity, slow response/recovery speed and poor stability. In addition, a clear correlation between the sensing performance and the film property is still absent. Herein, we report the investigation on sensing performance of a series of organic films with various morphologies. By simply adjusting the quality of self-assembled monolayer(SAM) on the silicon wafer surface, we obtain organic semiconductor 6,13-bis(triisopropylsilylethynyl)pentacene (TIPS-pentacene) films with varied morphologies and different charge transport abilities. The film with a small grain size and a continuous morphology presents the highest sensing performance to NO2, with a sensitivity up to 730%/ppm(ppm=parts per million, volume ratio). We thus reveal that the high sensitivity of the organic film is evident related with the charge transport ability and initial conductivity of the films, as well as the morphologies of both modification layer and the active films.
+
+Downloadto read the full article text
+
+Avoid common mistakes on your manuscript.
+
+Sirringhaus H.,Adv. Mater.,2014,26, 1319
+
+ArticleCASGoogle Scholar
+
+Sirringhaus H., Tessler N., Friend R. H.,Science,1998,280, 1741
+
+Baude P. F., Ender D. A., Haase M. A., Kelley T. W., Muyres D. V., Theiss S. D.,Appl. Phys. Lett.,2003,82, 3964
+
+Steudel S., Myny K., Arkhipov V., Deibel C., de Vusser S., Genoe J., Heremans P.,Nat. Mater.,2005,4, 597
+
+Zhang C., Chen P., Hu W.,Chem. Soc. Rev.,2015,44, 2087
+
+Someya T., Dodabalapur A., Huang J., See K. C., Katz H. E.,Adv. Mater.,2010,22, 3799
+
+Lin P., Yan F.,Adv. Mater.,2012,24, 34
+
+ArticleGoogle Scholar
+
+Torsi L., Magliulo M., Manoli K., Palazzo G.,Chem. Soc. Rev.,2013,42, 8612
+
+Khan H. U., Jang J., Kim J. J., Knoll W.,J. Am. Chem. Soc.,2011,133, 2170
+
+Li H., Shi W., Song J., Jang H. J., Dailey J., Yu J., Katz H. E.,Chem. Rev.,2019,119, 3
+
+Beaujuge P. M., Frechet J. M.,J. Am. Chem. Soc.,2011,133, 20009
+
+Garg K., Singh A., Majumder C., Nayak S. K., Aswal D. K., Gupta S. K., Chattopadhyay S.,Org. Electron.,2013,14, 1189
+
+Di C. A., Liu Y. Q., Yu G., Zhu D. B.,Acc. Chem. Res.,2009,42, 1573
+
+Ji S., Wang H., Wang T., Yan D.,Adv. Mater.,2013,25, 1755
+
+Wang X., Ji S., Wang H., Yan D.,Org. Electron.,2011,12, 2230
+
+Shaymurat T., Tang Q., Tong Y., Dong L., Liu Y.,Adv. Mater.,2013,25, 2269
+
+Huang W., Besar K., LeCover R., Rule A. M., Breysse P. N., Katz H. E.,J. Am. Chem. Soc.,2012,134, 14650
+
+Lu J., Liu D., Zhou J., Chu Y., Chen Y., Wu X., Huang J.,Adv. Funct. Mater.,2017,27, 1700018
+
+Wu S., Wang G., Xue Z., Ge F., Zhang G., Lu H., Qiu L.,ACS Appl. Mater. Interfaces,2017,9, 14974
+
+Huang W., Zhuang X., Melkonyan F. S., Wang B., Zeng L., Wang G., Han S., Bedzyk M. J., Yu J., Marks T. J., Facchetti A.,Adv. Mater.,2017,29, 1701706
+
+Wang Z., Huang L., Zhu X., Zhou X., Chi L.,Adv. Mater.,2017,29, 1703192
+
+Jiang L., Dong H., Meng Q., Li H., He M., Wei Z., He Y., Hu W.,Adv. Mater.,2011,23, 2059
+
+Minari T., Kano M., Miyadera T., Wang S.-D., Aoyagi Y., Seto M., Nemoto T., Isoda S., Tsukagoshi K.,Appl. Phys. Lett.,2008,92, 173301
+
+Virkar A., Mannsfeld S., Oh J. H., Toney M. F., Tan Y. H., Liu G. Y., Scott J. C., Miller R., Bao Z.,Adv. Funct. Mater.,2009,19, 1962
+
+Ito Y., Virkar A. A., Mannsfeld S., Oh J. H., Toney M., Locklin J., Bao Z. A.,J. Am. Chem. Soc.,2009,131, 9396
+
+Ong B. S., Wu Y. L., Liu P., Gardner S.,J. Am. Chem. Soc.,2004,126, 3378
+
+Kobayashi S., Nishikawa T., Takenobu T., Mori S., Shimoda T., Mitani T., Shimotani H., Yoshimoto N., Ogawa S., Iwasa Y.,Nat. Mater.,2004,3, 317
+
+Giri G., Verploegen E., Mannsfeld S. C., Atahan-Evrenk S., Kim D. H., Lee S. Y., Becerril H. A., Aspuru-Guzik A., Toney M. F., Bao Z.,Nature,2011,480, 504
+
+Anthony J. E., Brooks J. S., Eaton D. L., Parkin S. R.,J. Am. Chem. Soc.,2001,123, 9482
+
+Zhu X. F., Zhang X. D., Huang L. Z., Wang Z., Chi L. F.,Chem. Res. Chinese Universities,2018,34(1), 151
+
+Lee H. S., Kim D. H., Cho J. H., Hwang M., Jang Y., Cho K.,J. Am. Chem. Soc.,2008,130, 10556
+
+Kim D. H., Lee H. S., Yang H., Yang L., Cho K.,Adv. Funct. Mater.,2008,18, 1363
+
+Download references
+
+This work was supported by the National Key Research and Development Program of China(No.2018YFE0200700), the National Natural Science Foundation of China(Nos.51773143, 51821002), and the Fund of the German-Chinese Transregional Collaborative Research Centre TRR 61(No.21661132006).
+
+Institute of Functional Nano & Soft Materials(FUNSOM), Jiangsu Key Laboratory for Carbon-based Functional Materials & Devices, Soochow University, Suzhou, 215123, P. R. China
+
+Lunan Zhu, Zi Wang, Jie Lu, Xu Zhou, Lizhen Huang & Lifeng Chi
+
+Research and Development Center for Genetics Resource, Chinese Academy of Sciences, Changzhou, 213000, P. R. China
+
+Zhoufang Zeng
+
+You can also search for this author inPubMedGoogle Scholar
+
+Correspondence toLizhen HuangorLifeng Chi.
+
+The authors declare no conflicts of interest.
+
+Reprints and permissions
+
+Zhu, L., Wang, Z., Lu, J.et al.Influence of SAM Quality on the Organic Semiconductor Thin Film Gas Sensors.Chem. Res. Chin. Univ.38, 510–515 (2022). https://doi.org/10.1007/s40242-021-1167-6
+
+Download citation
+
+Received:13 April 2021
+
+Accepted:10 May 2021
+
+Published:01 June 2021
+
+Issue Date:April 2022
+
+DOI:https://doi.org/10.1007/s40242-021-1167-6
+
+Anyone you share the following link with will be able to read this content:
+
+Sorry, a shareable link is not currently available for this article.
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+
+Advertisement
+
+146.137.70.67
+
+Argonne Research Library (8200955775)  - Department of Energy DOE Labs (3000179256)  - Colorado Alliance of Research Libraries (8200982549)
+
+© 2025 Springer Nature
+
+AbstractGas sensors based on organic semiconductors receive tremendous attentions owing to their advantages on high selectivity and room temperature operation. However, until now, most organic semiconductor based sensors still suffered from problems, such as low sensitivity, slow response/recovery speed and poor stability. In addition, a clear correlation between the sensing performance and the film property is still absent. Herein, we report the investigation on sensing performance of a series of organic films with various morphologies. By simply adjusting the quality of self-assembled monolayer(SAM) on the silicon wafer surface, we obtain organic semiconductor 6,13-bis(triisopropylsilylethynyl)pentacene (TIPS-pentacene) films with varied morphologies and different charge transport abilities. The film with a small grain size and a continuous morphology presents the highest sensing performance to NO2, with a sensitivity up to 730%/ppm(ppm=parts per million, volume ratio). We thus reveal that the high sensitivity of the organic film is evident related with the charge transport ability and initial conductivity of the films, as well as the morphologies of both modification layer and the active films.Article PDFDownloadto read the full article textSimilar content being viewed by othersII-VI Semiconductor-Based Thin Film Electric and Electronic Gas SensorsChapter© 2023Microstructure control of organic semiconductors via UV-ozone for high-sensitivity NO2detectionArticle24 March 2021Metal Oxide Semiconductor Gas SensorsChapter© 2020Use our pre-submission checklistAvoid common mistakes on your manuscript.ReferencesSirringhaus H.,Adv. Mater.,2014,26, 1319ArticleCASGoogle ScholarSirringhaus H., Tessler N., Friend R. H.,Science,1998,280, 1741ArticleCASGoogle ScholarBaude P. F., Ender D. A., Haase M. A., Kelley T. W., Muyres D. V., Theiss S. D.,Appl. Phys. Lett.,2003,82, 3964ArticleCASGoogle ScholarSteudel S., Myny K., Arkhipov V., Deibel C., de Vusser S., Genoe J., Heremans P.,Nat. Mater.,2005,4, 597ArticleCASGoogle ScholarZhang C., Chen P., Hu W.,Chem. Soc. Rev.,2015,44, 2087ArticleCASGoogle ScholarSomeya T., Dodabalapur A., Huang J., See K. C., Katz H. E.,Adv. Mater.,2010,22, 3799ArticleCASGoogle ScholarLin P., Yan F.,Adv. Mater.,2012,24, 34ArticleGoogle ScholarTorsi L., Magliulo M., Manoli K., Palazzo G.,Chem. Soc. Rev.,2013,42, 8612ArticleCASGoogle ScholarKhan H. U., Jang J., Kim J. J., Knoll W.,J. Am. Chem. Soc.,2011,133, 2170ArticleCASGoogle ScholarLi H., Shi W., Song J., Jang H. J., Dailey J., Yu J., Katz H. E.,Chem. Rev.,2019,119, 3ArticleCASGoogle ScholarBeaujuge P. M., Frechet J. M.,J. Am. Chem. Soc.,2011,133, 20009ArticleCASGoogle ScholarGarg K., Singh A., Majumder C., Nayak S. K., Aswal D. K., Gupta S. K., Chattopadhyay S.,Org. Electron.,2013,14, 1189ArticleCASGoogle ScholarDi C. A., Liu Y. Q., Yu G., Zhu D. B.,Acc. Chem. Res.,2009,42, 1573ArticleCASGoogle ScholarJi S., Wang H., Wang T., Yan D.,Adv. Mater.,2013,25, 1755ArticleCASGoogle ScholarWang X., Ji S., Wang H., Yan D.,Org. Electron.,2011,12, 2230ArticleCASGoogle ScholarShaymurat T., Tang Q., Tong Y., Dong L., Liu Y.,Adv. Mater.,2013,25, 2269ArticleCASGoogle ScholarHuang W., Besar K., LeCover R., Rule A. M., Breysse P. N., Katz H. E.,J. Am. Chem. Soc.,2012,134, 14650ArticleCASGoogle ScholarLu J., Liu D., Zhou J., Chu Y., Chen Y., Wu X., Huang J.,Adv. Funct. Mater.,2017,27, 1700018ArticleGoogle ScholarWu S., Wang G., Xue Z., Ge F., Zhang G., Lu H., Qiu L.,ACS Appl. Mater. Interfaces,2017,9, 14974ArticleCASGoogle ScholarHuang W., Zhuang X., Melkonyan F. S., Wang B., Zeng L., Wang G., Han S., Bedzyk M. J., Yu J., Marks T. J., Facchetti A.,Adv. Mater.,2017,29, 1701706ArticleGoogle ScholarWang Z., Huang L., Zhu X., Zhou X., Chi L.,Adv. Mater.,2017,29, 1703192ArticleGoogle ScholarJiang L., Dong H., Meng Q., Li H., He M., Wei Z., He Y., Hu W.,Adv. Mater.,2011,23, 2059ArticleCASGoogle ScholarMinari T., Kano M., Miyadera T., Wang S.-D., Aoyagi Y., Seto M., Nemoto T., Isoda S., Tsukagoshi K.,Appl. Phys. Lett.,2008,92, 173301ArticleGoogle ScholarVirkar A., Mannsfeld S., Oh J. H., Toney M. F., Tan Y. H., Liu G. Y., Scott J. C., Miller R., Bao Z.,Adv. Funct. Mater.,2009,19, 1962ArticleCASGoogle ScholarIto Y., Virkar A. A., Mannsfeld S., Oh J. H., Toney M., Locklin J., Bao Z. A.,J. Am. Chem. Soc.,2009,131, 9396ArticleCASGoogle ScholarOng B. S., Wu Y. L., Liu P., Gardner S.,J. Am. Chem. Soc.,2004,126, 3378ArticleCASGoogle ScholarKobayashi S., Nishikawa T., Takenobu T., Mori S., Shimoda T., Mitani T., Shimotani H., Yoshimoto N., Ogawa S., Iwasa Y.,Nat. Mater.,2004,3, 317ArticleCASGoogle ScholarGiri G., Verploegen E., Mannsfeld S. C., Atahan-Evrenk S., Kim D. H., Lee S. Y., Becerril H. A., Aspuru-Guzik A., Toney M. F., Bao Z.,Nature,2011,480, 504ArticleCASGoogle ScholarAnthony J. E., Brooks J. S., Eaton D. L., Parkin S. R.,J. Am. Chem. Soc.,2001,123, 9482ArticleCASGoogle ScholarZhu X. F., Zhang X. D., Huang L. Z., Wang Z., Chi L. F.,Chem. Res. Chinese Universities,2018,34(1), 151ArticleCASGoogle ScholarLee H. S., Kim D. H., Cho J. H., Hwang M., Jang Y., Cho K.,J. Am. Chem. Soc.,2008,130, 10556ArticleCASGoogle ScholarKim D. H., Lee H. S., Yang H., Yang L., Cho K.,Adv. Funct. Mater.,2008,18, 1363ArticleCASGoogle ScholarDownload referencesAcknowledgementsThis work was supported by the National Key Research and Development Program of China(No.2018YFE0200700), the National Natural Science Foundation of China(Nos.51773143, 51821002), and the Fund of the German-Chinese Transregional Collaborative Research Centre TRR 61(No.21661132006).Author informationAuthors and AffiliationsInstitute of Functional Nano & Soft Materials(FUNSOM), Jiangsu Key Laboratory for Carbon-based Functional Materials & Devices, Soochow University, Suzhou, 215123, P. R. ChinaLunan Zhu, Zi Wang, Jie Lu, Xu Zhou, Lizhen Huang & Lifeng ChiResearch and Development Center for Genetics Resource, Chinese Academy of Sciences, Changzhou, 213000, P. R. ChinaZhoufang ZengAuthorsLunan ZhuView author publicationsYou can also search for this author inPubMedGoogle ScholarZi WangView author publicationsYou can also search for this author inPubMedGoogle ScholarJie LuView author publicationsYou can also search for this author inPubMedGoogle ScholarXu ZhouView author publicationsYou can also search for this author inPubMedGoogle ScholarZhoufang ZengView author publicationsYou can also search for this author inPubMedGoogle ScholarLizhen HuangView author publicationsYou can also search for this author inPubMedGoogle ScholarLifeng ChiView author publicationsYou can also search for this author inPubMedGoogle ScholarCorresponding authorsCorrespondence toLizhen HuangorLifeng Chi.Ethics declarationsThe authors declare no conflicts of interest.Rights and permissionsReprints and permissionsAbout this articleCite this articleZhu, L., Wang, Z., Lu, J.et al.Influence of SAM Quality on the Organic Semiconductor Thin Film Gas Sensors.Chem. Res. Chin. Univ.38, 510–515 (2022). https://doi.org/10.1007/s40242-021-1167-6Download citationReceived:13 April 2021Accepted:10 May 2021Published:01 June 2021Issue Date:April 2022DOI:https://doi.org/10.1007/s40242-021-1167-6Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboardProvided by the Springer Nature SharedIt content-sharing initiativeKeywordsSelf-assembled monolayerGas sensorOrganic semiconductorThin film growth

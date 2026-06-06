@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_advs.201901001",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-6 M",
+      "upper_detection_limit": "1e-1 M",
+      "probe_material": "azobenzene (azo) chromophore",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "3",
+      "test_medium": "potassium chloride/water"
+    }
+  ]
+}

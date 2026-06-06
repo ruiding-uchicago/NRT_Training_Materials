@@ -1,0 +1,372 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1252/jcej.28.267",
+  "paper_metadata": {
+    "title": "Measurement of Binding Constant of Cyclodextrin by Ultrafiltration",
+    "authors": ["Takao Kokugan", "Kaseno", "Tetsuya Takada", "Masaru Shimizu"],
+    "journal": "Journal of Chemical Engineering of Japan",
+    "year": 1995,
+    "volume": "28",
+    "issue": "3",
+    "pages": "267-273",
+    "si_pdf": null
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R1",
+      "name": "alpha-cyclodextrin (alpha-CD)",
+      "structure_notes": "Cyclic oligosaccharide of six alpha-1,4-linked D-glucopyranose units; truncated cone cavity; optically active D-form host.",
+      "smiles_or_structure_available": true,
+      "smiles": "OC[C@H]1O[C@@H]2O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@@H]1[C@H](O)[C@@H]2O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; formula C36H60O30 matches alpha-CD; 30 chiral centers with CIP pattern consistent with six alpha-1,4-linked D-glucopyranose units (per unit: anomeric C1=S, C2/C3/C5=R, C4=R/S as expected)."
+    },
+    {
+      "receptor_id": "R2",
+      "name": "beta-cyclodextrin (beta-CD)",
+      "structure_notes": "Cyclic oligosaccharide of seven alpha-1,4-linked D-glucopyranose units; larger cavity than alpha-CD; optically active D-form host.",
+      "smiles_or_structure_available": true,
+      "smiles": "OC[C@H]1O[C@@H]2O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CO)O[C@@H]1[C@H](O)[C@@H]2O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; formula C42H70O35 matches beta-CD; 35 chiral centers with CIP pattern consistent with seven alpha-1,4-linked D-glucopyranose units."
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "A1",
+      "name": "o-nitrophenol (o-NP)",
+      "smiles_or_structure": "Oc1ccccc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C6H5NO3; ortho substitution confirmed."
+    },
+    {
+      "analyte_id": "A2",
+      "name": "m-nitrophenol (m-NP)",
+      "smiles_or_structure": "Oc1cccc(c1)[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C6H5NO3; meta substitution confirmed."
+    },
+    {
+      "analyte_id": "A3",
+      "name": "p-nitrophenol (p-NP)",
+      "smiles_or_structure": "Oc1ccc(cc1)[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C6H5NO3; para substitution confirmed."
+    },
+    {
+      "analyte_id": "A4",
+      "name": "L-threonine (L-Thr)",
+      "smiles_or_structure": "C[C@@H](O)[C@H](N)C(=O)O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C4H9NO3; CIP (2S,3R) matches L-threonine."
+    },
+    {
+      "analyte_id": "A5",
+      "name": "D-threonine (D-Thr)",
+      "smiles_or_structure": "C[C@H](O)[C@@H](N)C(=O)O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C4H9NO3; CIP (2R,3S) matches D-threonine (enantiomer of L-Thr)."
+    },
+    {
+      "analyte_id": "A6",
+      "name": "L-phenylalanine (L-Phe)",
+      "smiles_or_structure": "N[C@@H](Cc1ccccc1)C(=O)O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C9H11NO2; CIP alpha-C = S matches L-phenylalanine."
+    },
+    {
+      "analyte_id": "A7",
+      "name": "D-phenylalanine (D-Phe)",
+      "smiles_or_structure": "N[C@H](Cc1ccccc1)C(=O)O",
+      "charge_class": "neutral",
+      "smiles_verification": "verified",
+      "smiles_verification_notes": "RDKit parses; C9H11NO2; CIP alpha-C = R matches D-phenylalanine (enantiomer of L-Phe)."
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C1",
+      "solvent": "aqueous buffer, pH 7",
+      "temperature": "303 K (30 C)",
+      "method": "ultrafiltration-based binding constant measurement; [CD]0 = 5 mM, [G]0 = 2.5-10 mM; equilibrium K_B obtained at the plateau region where 1/dP > 1/dP_B (low pressure plateau)",
+      "notes": "K_B at plateau is the equilibrium binding constant; values read from Figs. 2, 3 and 9, 10 at pH 7."
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "L1",
+      "receptor_id": "R1",
+      "target_id": "A3",
+      "interferent_id": "A1",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(p-NP / alpha-CD) ~ 1000 M^-1 (plateau, pH 7)",
+      "interferent_value": "K_B(o-NP / alpha-CD) ~ 175 M^-1 (plateau, pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 269,
+        "figure_or_table": "Fig. 2",
+        "quote": "K_B of p-NP is about 5 times larger than those of o- and m-NPs ... for alpha-CD"
+      },
+      "notes": "Plateau K_B values read from Fig. 2 for alpha-CD at pH 7."
+    },
+    {
+      "label_id": "L2",
+      "receptor_id": "R1",
+      "target_id": "A3",
+      "interferent_id": "A2",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(p-NP / alpha-CD) ~ 1000 M^-1",
+      "interferent_value": "K_B(m-NP / alpha-CD) ~ 175 M^-1",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 269,
+        "figure_or_table": "Fig. 2",
+        "quote": "K_B of p-NP is about 5 times larger than those of o- and m-NPs"
+      },
+      "notes": "Plateau region of Fig. 2; p-NP fits the smaller alpha-CD cavity best."
+    },
+    {
+      "label_id": "L3",
+      "receptor_id": "R2",
+      "target_id": "A1",
+      "interferent_id": "A3",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(o-NP / beta-CD) ~ 700 M^-1 (plateau, pH 7)",
+      "interferent_value": "K_B(p-NP / beta-CD) ~ 200 M^-1 (plateau, pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 270,
+        "figure_or_table": "Fig. 3",
+        "quote": "o- and m-NPs ... are more structurally stable in beta-CD than in alpha-CD"
+      },
+      "notes": "Read from Fig. 3 plateau (1/dP > 1) for beta-CD at pH 7."
+    },
+    {
+      "label_id": "L4",
+      "receptor_id": "R2",
+      "target_id": "A2",
+      "interferent_id": "A3",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(m-NP / beta-CD) ~ 600 M^-1",
+      "interferent_value": "K_B(p-NP / beta-CD) ~ 200 M^-1",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 270,
+        "figure_or_table": "Fig. 3",
+        "quote": "o- and m-NPs ... are more structurally stable in beta-CD than in alpha-CD ... because of the steric hindrance effect"
+      },
+      "notes": "Plateau region of Fig. 3 at pH 7."
+    },
+    {
+      "label_id": "L5",
+      "receptor_id": "R2",
+      "target_id": "A1",
+      "interferent_id": "A2",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(o-NP / beta-CD) ~ 700 M^-1",
+      "interferent_value": "K_B(m-NP / beta-CD) ~ 600 M^-1",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "medium",
+      "evidence": {
+        "page": 270,
+        "figure_or_table": "Fig. 3",
+        "quote": "Plateau K_B values in Fig. 3 for beta-CD"
+      },
+      "notes": "Both values close (~700 vs ~600); ordering visible in Fig. 3 plateau."
+    },
+    {
+      "label_id": "L6",
+      "receptor_id": "R1",
+      "target_id": "A3",
+      "interferent_id": "A3",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(p-NP / alpha-CD) ~ 1000 M^-1",
+      "interferent_value": "K_B(p-NP / beta-CD) ~ 200 M^-1",
+      "normalized_direction": "larger K_B = stronger binding for given guest",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 270,
+        "figure_or_table": "Figs. 2 and 3",
+        "quote": "the inner diameter of the cavity of alpha-CD was so large that a benzene ring could just fit in. ... p-NP might thus just fit in to the alpha-CD cavity"
+      },
+      "notes": "Receptor selectivity comparison: alpha-CD vs beta-CD for p-NP. Treated as receptor comparison (target = alpha-CD-p-NP, interferent = beta-CD-p-NP)."
+    },
+    {
+      "label_id": "L7",
+      "receptor_id": "R1",
+      "target_id": "A4",
+      "interferent_id": "A5",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Thr / alpha-CD) ~ 55 M^-1 (pH 7)",
+      "interferent_value": "K_B(D-Thr / alpha-CD) ~ 35 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 272,
+        "figure_or_table": "Fig. 9",
+        "quote": "the optically active D-form CD tends to include optically heterogeneous L-Thr rather than homogeneous D-Thr under the present conditions"
+      },
+      "notes": "Read from Fig. 9 at pH 7 for alpha-CD."
+    },
+    {
+      "label_id": "L8",
+      "receptor_id": "R2",
+      "target_id": "A4",
+      "interferent_id": "A5",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Thr / beta-CD) ~ 25 M^-1 (pH 7)",
+      "interferent_value": "K_B(D-Thr / beta-CD) ~ 18 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "medium",
+      "evidence": {
+        "page": 272,
+        "figure_or_table": "Fig. 9",
+        "quote": "CD tended to include optical L-acid rather than D-acid under the present conditions"
+      },
+      "notes": "Read from Fig. 9 at pH 7 for beta-CD; values close, ordering preserved."
+    },
+    {
+      "label_id": "L9",
+      "receptor_id": "R1",
+      "target_id": "A6",
+      "interferent_id": "A7",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Phe / alpha-CD) ~ 50 M^-1 (pH 7)",
+      "interferent_value": "K_B(D-Phe / alpha-CD) ~ 25 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 272,
+        "figure_or_table": "Fig. 10",
+        "quote": "The D-form optical isomer CD tends to include L-Phe rather than D-Phe in a similar manner as Thr"
+      },
+      "notes": "Read from Fig. 10 at pH 7 for alpha-CD."
+    },
+    {
+      "label_id": "L10",
+      "receptor_id": "R2",
+      "target_id": "A6",
+      "interferent_id": "A7",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Phe / beta-CD) ~ 70 M^-1 (pH 7)",
+      "interferent_value": "K_B(D-Phe / beta-CD) ~ 35 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 272,
+        "figure_or_table": "Fig. 10",
+        "quote": "The difference of K_B between L- and D-Phes is larger at high pH. Optical resolution of Phe must be carried out ... using beta-CD"
+      },
+      "notes": "Read from Fig. 10 at pH 7 for beta-CD."
+    },
+    {
+      "label_id": "L11",
+      "receptor_id": "R2",
+      "target_id": "A6",
+      "interferent_id": "A6",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Phe / beta-CD) ~ 70 M^-1 (pH 7)",
+      "interferent_value": "K_B(L-Phe / alpha-CD) ~ 50 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 272,
+        "figure_or_table": "Fig. 10",
+        "quote": "The K_B of Phe for beta-CD is larger than that for alpha-CD, in contrast with that of Thr ... Phe is included more stable in beta-CD than in alpha-CD"
+      },
+      "notes": "Receptor selectivity for Phe; bulkier benzyl side chain fits beta-CD better."
+    },
+    {
+      "label_id": "L12",
+      "receptor_id": "R1",
+      "target_id": "A4",
+      "interferent_id": "A4",
+      "condition_id": "C1",
+      "readout_type": "binding_constant",
+      "label_basis": "Ka",
+      "target_value": "K_B(L-Thr / alpha-CD) ~ 55 M^-1 (pH 7)",
+      "interferent_value": "K_B(L-Thr / beta-CD) ~ 25 M^-1 (pH 7)",
+      "normalized_direction": "larger K_B = stronger binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 271,
+        "figure_or_table": "Fig. 9",
+        "quote": "As the diameter of Thr molecules is smaller than that of nitrophenol (NP), the K_B of Thr for alpha-CD is structurally larger than that for beta-CD"
+      },
+      "notes": "Receptor selectivity for L-Thr; smaller Thr fits alpha-CD better."
+    }
+  ],
+  "rapids_results": []
+}

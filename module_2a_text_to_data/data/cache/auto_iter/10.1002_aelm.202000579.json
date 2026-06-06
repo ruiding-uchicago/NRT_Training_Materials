@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_aelm.202000579",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "dimethoate",
+      "lower_detection_limit": "0.60 ppb",
+      "upper_detection_limit": "10 ppb",
+      "probe_material": "NDI3HU-DTYM2(N,N′-bis(3-(perfluorooctyl)propyl)-1,4,5,8-naphthalenetetracarboxylic diimide derivative with long alkyl chains)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

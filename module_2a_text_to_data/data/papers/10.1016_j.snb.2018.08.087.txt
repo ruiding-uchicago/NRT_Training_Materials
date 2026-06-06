@@ -1,0 +1,154 @@
+In-plane-gate a-IGZO thin-film transistor for high-sensitivity pH sensor applications
+Author links open overlay panel
+Ju-Young Pyo
+, 
+Won-Ju Cho
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.snb.2018.08.087
+Get rights and content
+Highlights
+•
+Novel double-gate structure pH sensor with in-plane-gate (IPG).
+•
+Sensitivity dependence with IPG and upper-gate (UG) area ratio.
+•
+Sensitivity was exponentially increased when it reached IPG/UG area ratio of 15–21.
+•
+Structural advantages of low fabrication cost and free from material.
+Abstract
+In this paper, we propose a thin-film transistor (TFT) with an in-plane-gate (IPG) structure, in which the channel and bottom-gate electrodes are located on the same plane to enhance the sensitivity of the pH sensor. The transistor was applied to an extended-gate field-effect transistor (EGFET) system for disposable sensor implementation. The fabricated IPG pH sensor exhibited amplified pH sensitivity owing to the improved capacitive coupling effects. Moreover, we measured the dependence of the pH sensitivity on the IPG area and evaluated the performance of the pH sensor with the IPG structure. The fabricated IPG pH sensor showed a linearity of 99% or more even for a small IPG area, and the amplification of the sensitivity was improved with further reduction in the area. Notably, we achieved a high sensitivity of 387.58 mV/pH, which is significantly greater than the Nernst limit (59 mV/pH), at the lowest IPG area. To evaluate the stability and reliability of the fabricated IPG pH sensor, non-ideal effects, such as hysteresis and drift characteristics, were considered. The IPG structure exhibited enhanced stability and reliability. Accordingly, we believe that EG-type biosensors with an IPG structure can be useful for biomedicine, clinical diagnosis, environmental monitoring, and point-of-care-testing (POCT) systems.
+Previous article in issue
+Next article in issue
+Keywords
+In-plane-gateCapacitive couplingHigh sensitivityEGFETa-IGZO TFTpH sensor
+1. Introduction
+As the interest in early diagnosis of various diseases and quality of life increases, biosensors have received considerable attention over the last several decades. A biosensor is an analytical device used to detect an analyte, wherein a biological component is combined with a physicochemical detector. Several biosensors have been developed, wherein chemiluminescence, quartz crystal microbalance (QCM), and surface plasmon resonance (SPR) methods have been used to detect biological elements; however, these methods are unsuitable for home medical care. Chromatography cannot be used to measure bio-materials in real-time, and SPR and chemical luminescence equipment are too large and heavy for home use [1]. As a substitute for this, a potentiometric biosensor method based on field-effect transistors (FETs) has emerged. As FET-based biosensors have high sensitivity, similar to those of SPR and QCM, they are a promising and viable point-of-care diagnostic device for the rapid and sensitive detection and analysis of disease-related biomarkers. In particular, FET-based ion-sensitive sensors (ISFETs) are more advantageous as they can be used to selectively detect biological analytes in a real-time, label-free, and regentless manner [2,3]. In addition, they are inexpensive and highly compatible with complementary metal-oxide semiconductor (MOS) processes. The ISFET structure is similar to that of a metal-oxide-semiconductor field-effect transistor (MOSFET), and the potential is measured at the oxide–electrolyte interface [4,5]. However, existing ISFETs have disadvantages such as the lack of implementation of a disposable sensor due to weak chemical stability; sensitivity change due to optical elements; low isolation; and combined structure (of sensing membrane (detector) and transistor (transducer)). In contrast, an extended-gate FET (EGFET), which is a modified version of the ISFET, has a structure in which the EG; which serves as the detector for detecting the bio-materials, and the transducer, which is used to convert the potential change into an electrical signal; are separated [6,7]. Therefore, making the EGFET more suitable for disposable sensor implementation than ISFET. Moreover, it is confirmed that EGFET have detecting capability for real-biomaterials, such as drosophila LUSH odorant-binding protein [8], salivary sugar related with alzheimer’s disease [9], and hepatitis B surface antigen [10]. However, the fundamental problem with the ISFET and EGFET is that the sensitivity of the sensors depends on the ability of the sensing membrane to have a Nernstian limit of 59 mV/pH at room temperature [11,12]. It should be noted that because the actual biological elements have a low signal, a high sensitivity is required to obtain sufficient signal margins compared to noise [1]. To overcome this major problem, in our earlier investigation on SOI MOSFETs and amorphous indium-gallium-zinc oxide (a-IGZO) thin-film transistors (TFTs), we proposed a pH sensor with a sensitivity higher than the Nernstian limit using the capacitive coupling phenomena in consideration of the specificity of the double-gate structure [[13], [14], [15], [16]].
+In this study, to more effectively amplify the sensitivity, which is generated by the capacitive coupling effect, we propose a novel TFT with an in-plane-gate (IPG) structure [[17], [18], [19], [20]]. Because of the favorable operating characteristics of the IPG structure, it has been studied and employed for developing various promising devices such as logic devices [21,22], rectifiers [23], and neuron TFT [21,24]. On the other hand, the structural peculiarity of the IPG is more beneficial for improving the sensor sensitivity characteristics of the ISFET, compared to that in previously applied fields [25]. In the proposed device, the IPG is located on the same plane as that of the a-IGZO channel, and the capacitive coupling with the channel and the upper-gate (UG) was performed through the buried conducting layer. Here, the IPG and UG correspond to bottom and top gates, respectively, of the conventional double-gate structure transistors. The IPG TFT, which serves as a transducer, comprises an a-IGZO channel, UG SiO2/IPG SiO2 layers, an indium tin oxide (ITO) buried layer, source/drain (S/D) electrode, and UG and IPG electrodes. The EG, which serves as a detector, comprises a tin dioxide (SnO2) sensing membrane having good sensing characteristics [[13], [14], [15], [16],26]. The microwave irradiation method has been applied to improve the electrical characteristics and instability of the a-IGZO channel [27]. As a result, the sensitivity of the IPG structure is improved. In addition, the smaller the area of the IPG, the greater is the sensor performance; the stability and reliability have been also improved owing to the structural specificity of the IPG structure.
+2. Material and methods
+First, we performed standard RCA cleaning on a p-type (100) 1–10 Ω·cm Si wafer. A 50-nm thick indium-tin oxide (ITO) film was used as the floating layer; this film is used to transfer the potential of the IPG for a-IGZO channel deposition using an RF magnetron sputter (20 sccm, 3 mTorr), thereby forming a buried conducting layer [17,[19], [20], [21]]. Thereafter, a 270-nm thick silicon dioxide (SiO2) film was deposited with IPG oxide using an RF magnetron sputter. Accordingly, the distance from floating layer to IPG and IGZO channel is 270-nm thick. A 20-nm thick a-IGZO film was deposited using RF magnetron sputtering (30 sccm, 6 mTorr), and channel pattern was formed by photolithography and a 30:1 buffered oxide etchant (BOE, 30 volumes of 40% ammonium fluoride to 1 vol of 49% hydrofluoric acid). The patterns of the IPG and S/D electrodes were simultaneously defined using photolithography, and IPG and S/D electrodes of 100-nm-thick ITO were formed using a lift-off process. A 50-nm thick SiO2 film was deposited using RF magnetron sputtering with the UG oxide of the a-IGZO TFT, and a 150-nm thick ITO UG electrode was formed. For the measurement of the fabricated device, S/D and IPG contact holes were formed using the 30:1 BOE etchant. Finally, to improve the electrical characteristics of the TFT, annealing was performed using the microwave irradiation method under a condition of 1000 W for 2 min in air ambient. The defined channel width and length of the fabricated IPG TFT are 20 and 10 μm, respectively, and the IPG area was in the range of 1200–32,000 μm2.
+For the implementation of disposable and inexpensive biosensors, the introduced IPG TFT has two structural advantages. The first is that the IPG does not require a contact-hole process for the bottom-gate contact, as in the conventional double-gate structures. Therefore, the process cost is reduced because the fabrication process is simplified. As the IPG is located on the same plane as that of the source/drain electrodes, it can be formed simultaneously with the source/drain electrode formation. Moreover, there are no stringent requirements on the type of material used for the bottom-gate oxide. For example, low-k material, organic material, or polymer material, which are otherwise difficult to be applied to contact-hole processes, can be employed in this method [19]. The other advantage is that the IPG enables the use of cheap and flexible substrates such as paper [18,19] and plastic [20].
+To implement transducer, before thermally growing 100-nm thick SiO2, a standard RCA cleaning was performed on the p-type (100) 1–10 Ω·cm Si wafer. To transfer the signal potential to the transducer, a 150-nm thick ITO film was deposited using RF magnetron sputtering. Thereafter, a 50-nm thick SnO2 film was deposited as the ion-sensitive membrane using the RF magnetron sputtering. The RF power, chamber pressure, and Ar gas flow rate were 50 W, 3 mTorr, and 20 sccm, respectively. Finally, a polydimethylsiloxane (PDMS) reservoir was attached onto the SnO2 film using silicon glue to inject the pH buffer solution.
+We measured the pH sensitivity of the IPG TFT sensor using the following two methods. Single-gate (SG) mode sensing is a measurement method used for conventional single-gate structure ISFETs, in which the IPG electrode is grounded and the drain current is measured while scanning the top reference electrode voltage. In contrast, a dual-gate (DG) mode sensing is possible only in TFTs with a double-gate structure, wherein the top reference electrode is grounded and the drain current is measured while scanning the IPG voltage [[13], [14], [15], [16]]. Moreover, a ceramic-plug junction (Horiba 2086A-06 T) filled with KCl and AgCl saturated solutions was used as the reference electrode for pH sensing. In this work, the pH sensing characteristics of the SG mode were measured by biasing the top reference electrode using the grounded IPG. In contrast, the pH sensing characteristics of the DG mode were investigated by scanning the voltage at the IPG using the grounded top reference electrode [14,14,15,16]. All measurement method to investigate the characteristics of the transducer and pH sensor were shown in supplementary data (Fig. S1). Fig. 1 shows the schematic of the DG mode measurement using the fabricated IPG a-IGZO TFT, as a transducer, and the EG, as a detector. We defined the gate voltage as the reference voltage (VR) when the reference current (IR) is 1 nA in the SG and DG modes. The hysteresis and drift characteristics were measured to evaluate the reliability and stability of the fabricated IPG TFT pH sensor. The hysteresis characteristics were determined from the VR difference between the initial pH 7 and final pH 7 solutions using a pH loop of 7–10–7–4–7, and the electrical characteristics were measured by monitoring the VR of each pH solution five times at intervals of 2 min. The drift characteristics were defined as the ratio between the initial and final VR values when the pH 7 solution is placed on the sensing membrane for 8 h. The all electrical characteristics were measured using an Agilent 4156B semiconductor parameter analyzer and a reference electrode; the measurement was done in a dark box to avoid noise from the outside environment.
+Fig. 1
+Download: Download high-res image (388KB)
+Download: Download full-size image
+Fig. 1. Schematic of DG mode measurement using the fabricated IPG a-IGZO TFT as a transducer and extended-gate as a detector.
+
+3. Results and discussion
+In the ISFET, the electrical contact with the electrolyte is achieved using the reference electrode. Thus, the detection of pH of an electrolyte or biological element is typically performed by sweeping only the top gate reference electrode voltage; this is defined as a single gate sensing scheme. Therefore, the threshold voltage shift in the conventional SG mode depends largely on the change in the surface potential, and the sensing capability has a Nernst limit of 59 mv/pH at room temperature as per the Nernstian equation [11,12]. For biosensors that need to detect bio-materials with very small potentials, such as living cells, antigen-antibodies, and DNA, the low-sensitivity limitations are a major obstacle to the development of bio-sensors. Therefore, attempts have been made to overcome this problem by developing and studying various aspects of the material and structure of the sensing membrane [[28], [29], [30]]. In contrast, there have been reports on increasing the sensitivity of the sensors without requiring additional processes or circuit configuration using the capacitive coupling effects between the top- and bottom-gate oxides of the transistor based on SOI and a-IGZO [[13], [14], [15], [16]]. The relationship between the capacitive coupling effects and the sensitivity of a transistor with a double-gate structure can be expressed using the following equation [15,16].
+(1)
+where ΔVthB is the bottom-gate threshold voltage shift, CBox is the bottom-gate oxide capacitance, CTox is the top-gate oxide capacitance, CIGZO is the depletion capacitance per unit area of the IGZO channel, and ΔVthT is top-gate threshold voltage shift. Here, when measured in the DG mode, ΔVthB increases because of the effects of CIGZO, CTox, and CBOX on ΔVthT.
+Moreover, the DG mode of the fabricated IPG TFT is measured by voltage sweeping the IPG, as shown in Fig. 1. The capacitance between the IGZO channel and the floating layer (C1) and the capacitance between the IPG and floating layer (C2) are connected in series [[17], [18], [19]]. Therefore, the IPG area, channel area, and IPG oxide thickness of the fabricated TFT are important factors that affect CBOX (CBOX = (C1 × C2)/(C1 + C2). Eq. (1) can be re-written as follows in consideration of the effect of IPG:
+(2)
+The complex capacitance equation, i.e., Eq. (2), can be simplified as follows:
+(3)
+ΔVthB obtained in the DG mode is amplified by the amplification factor in ΔVthT of the SG mode. Thus, the sensing characteristics improved via the capacitive coupling effects can be evaluated by substituting the complicated variables, expressed in Eq. (2), with a simple Amplification factor, as expressed in Eq. (3). The channel area of the fabricated IPG is fixed at 200 μm2. Accordingly, as the area of the IPG becomes smaller, CBOX decreases because of the lower capacity of C2, thereby increasing the amplification factor [[14], [15], [16]]. Therefore, the fabricated IPG TFT pH sensor has higher sensitivity when the area ratio of IPG/UG is lower.
+To predict the sensitivity enhancement obtained using the fabricated IPG a-IGZO TFT in terms of the area ratio of IPG/UG, the influence of the UG bias on the transfer curve was measured. For this experiment, the UG bias was applied in the range of −600 mV to 600 mV at drain voltage (VD) of 0.5 V (Fig. S1(b)). The ID–VIPG transfer curves shift depending on the UG bias, and the representative threshold voltage shift increases with the decrease in the IPG area, as shown in Fig. 2. The insets show the amplification factors extracted from VR (the threshold voltage shift) at IR (1 nA of drain current) with different IPG area.
+Fig. 2
+Download: Download high-res image (811KB)
+Download: Download full-size image
+Fig. 2. Threshold voltage shift of IPG a-IGZO TFT transducer in terms of the UG bias (from −0.6 V to 0.6 V in seven steps) in DG mode. The IPG areas are (a) 32,000, (b) 8000, (c) 2000, and (d) 1200 μm2. The insets show the amplification factors.
+
+Table 1 lists the amplification factors of the transducer corresponding to the IPG areas. The average amplification factor values obtained by measuring the three samples with the same dimension exhibit an increasing trend with the decrease in the IPG area (Fig. S2), and the dependence of the amplification factor on the fabricated IPG area was experimentally verified.
+Table 1. Experimentally extracted amplification factors of the fabricated IPG a-IGZO TFT transducer corresponding to the IPG areas.
+
+IPG area (μm2)	Amplification factor
+32,000	4.8
+24,000	4.9
+16,000	5.0
+8,000	5.1
+4,200	5.2
+3,000	5.3
+2,000	5.7
+1200	6.6
+Fig. 3 shows the typical transfer curves of the (a) SG and (b) DG mode sensing tests for various pH buffer solutions measured using the fabricated IPG a-IGZO TFT pH sensor. Fig. 3(b) shows the representative data for an IPG area of 32,000 μm2. In the SG mode sensing via the UG sweep, a sensitivity showed 57.4 mV/pH with a linearity of 99.94% which close to the Nernstian limit (Fig. 3(a)) [28]. Meanwhile, in the DG mode sensing via the IPG sweep, the sensitivity was 294.5 mV/pH (linearity of 99.78%). Furthermore, using Eq. (2), we extracted sensitivities in the DG mode from measured ID–VIPG transfer curves for various IPG areas. The measured ID–VIPG transfer curves and pH sensitivity for various pH buffer solutions are presented in Fig. S3. Fig. 3(c) shows the threshold voltage shift of the IPG a-IGZO TFT pH sensor with respect to the pH concentration extracted from the ID–VIPG transfer curves (Fig. S3). It is found that the threshold voltage shift with respect to the pH change of the buffer solution has a greater slope in the DG mode than in the SG mode. Moreover, in the DG mode, with the decrease in the IPG area, the slope increases as the sensitivity to pH improves.
+Fig. 3
+Download: Download high-res image (279KB)
+Download: Download full-size image
+Fig. 3. Typical transfer curves of the IPG a-IGZO TFT pH sensor measured in the (a) SG, (b) DG mode at 32,000 μm2 of IPG area. The insets show the changes in the reference voltage with respect to the pH value. And (c) threshold voltage shift with respect to the pH concentration at various IPG area.
+
+Table 2 lists the sensitivity, linearity, and amplification factors of the IPG a-IGZO TFT pH sensor. The sensitivity in the DG mode increases from 291.5 mV/pH at 32,000 μm2 to 381.1 mV/pH at 1200 μm2 with the decrease in the area, compared to a sensitivity of 57.4 mV/pH obtained in the SG mode. In addition, we confirmed that the linearity is higher than 99% even when the sensitivity is increased by 6.8 times. Therefore, it can be concluded that a high sensitivity (381.1 mV/pH) and a high linearity (99.82%) can be simultaneously achieved in an effective manner with a high amplification factor (6.8) for small IPG areas (1200 μm2). This is a remarkable result, because if the IPG area can be controlled compared to the UG, the sensitivity can be increased, even with the same transducer structure. Accordingly, the sensitivity of the proposed IPG a-IGZO TFT pH sensor can be further improved if the IPG area can be reduced below 1200 μm2.
+Table 2. Sensitivity, linearity, and amplification factors with respect to the IPG area of the IPG a-IGZO TFT pH sensor.
+
+IPG area (μm2)	Sensitivity (mV/pH)	Linearity (%)	Amplification factor
+32,000	291.5	99.78	5.1
+24,000	298.2	99.45	5.2
+16,000	301.4	99.94	5.3
+8,000	302.0	99.91	5.3
+4,200	315.5	99.72	5.5
+3,000	332.4	99.89	5.8
+2,000	350.2	99.02	6.1
+1200	387.6	99.82	6.8
+SG mode	57.4	99.94	1.0
+To use the fabricated device for biosensor applications, the high sensitivity as well as the reliability and stability should be verified. In general, biosensors have non-ideal effects such as drift and hysteresis. The drift limits the accuracy of the bio-sensor to measure the pH value. If the sensor is used to measure the pH solution or a bio-material for a long time, a relatively slow chemical deformation occurs between the electrolyte and the sensing membrane of the ion sensing electrode exposed to the electrolyte. This reaction changes the dielectric constant of the insulator surface. Moreover, it slowly and transiently changes the total insulator capacitance determined by the series combination with the hydration layer above the sensing membrane [16,26,31]. The hysteresis is due to the internal sites of the sensing membrane that react with the ions present in the pH solution [16,26,32]. This implies that if the sensor is subjected to chemical solutions of various pH concentrations, the response value may be different for the same chemical solution. As a result, in both the cases, the drain current of the device changes with time, causing problems in terms of long-term reliability. Fig. 4(a) and (b) show the hysteresis and drift effects, respectively, measured in both the SG and DG modes using the fabricated IPG a-IGZO TFT pH sensor. The hysteresis effects were determined in pH loop cycles of 7–10–7–4–7. The measured drift rate and hysteresis voltage (VH) of the SG mode were 10.2 mV/h and 21.1 mV, respectively. Compared to the sensitivity of the SG mode (57.4 mV/pH), the hysteresis and drift effects are relatively significant, suggesting that the SG mode cannot be expected to provide excellent sensor performance.
+Fig. 4
+Download: Download high-res image (222KB)
+Download: Download full-size image
+Fig. 4. (a) Hysteresis and (b) drift effects of the IPG a-IGZO TFT pH sensor with respect to various IPG areas.
+
+However, in the DG mode, the measured drift rate and VH increase with the decrease in the IPG area. This implies that non-ideal effects can be affected by the capacitive coupling effects; moreover, they may get amplified. Therefore, using Eq. (3), we compared the gain considering the non-ideal effects (noise) on the sensitivity (signal) amplification rate to evaluate the sensor characteristics of the IPG structure. Table 3 lists the measured hysteresis and drift effect parameters in the SG and DG modes with respect to various IPG areas.
+Table 3. Hysteresis voltage, drift rate, and amplification factors with respect to the in-plane-gate area of the IPG a-IGZO TFT pH sensor.
+
+IPG area (μm2)	Hysteresis voltage (VH, mV)	VH Amplification factor	Drift rate (mV/h)	Drift rate Amplification factor
+32,000	18.2	0.86	34.8	0.75
+24,000	7.2	0.34	38.5	0.83
+16,000	52.7	2.50	36.4	0.79
+8,000	28.4	1.35	29.8	0.64
+4,200	62.8	2.98	50.9	1.10
+3,000	54.6	2.58	64.8	1.40
+2,000	68.2	3.23	81.8	1.77
+1200	53.7	2.54	71.1	1.54
+SG mode	21.1	1.0	46.3	1.0
+VH changed from 7.2 to 68.2 mV for IPG areas ranging from 32,000 to 1200 μm2. When the IPG area is large, the hysteresis voltage is lower (i.e., 7.2 mV at 24,000 μm2) than that in the SG mode (21.1 mV/pH). The hysteresis amplification factors (0.34–3.23) are relatively low compared to the sensitivity amplification factors (5.08–6.65), as listed in Table 2, indicating that the amplification effect is more dominant in terms of the sensitivity than the hysteresis. Similarly, the drift rates measured with respect to various IPG areas ranges from a minimum of 29.8 mV/h at 8000 μm2 IPG area to a maximum of 81.8 mV/h. Compared to the measured drift rate of 46.3 mV/h in the SG mode, the DG mode amplified the same by a maximum of 1.77 times. However, compared to the sensitivity amplification factors (5.08–6.65), the drift rate amplification factors (0.64–1.77), as in the hysteresis effects, are lower than the sensitivity amplification factors. Additionally, the noise like hysteresis and drift rates were not followed by capacitive coupling effects well. This predominance of the signal amplification compared to the noise and disorder of the noise amplification are due to the specificity of the DG structure. Because the gate oxide is much thicker in the DG mode than in the SG mode, the effect of the vertical field stress on the channel is reduced. As a result, the reliability and stability of the sensor are improved [33]. Furthermore, the proposed IPG structure has a much thicker bottom-gate oxide (IPG oxide) than the conventional double-gate structure, thereby further improving the stability and reliability. Thus, we confirm that the sensitivity of the fabricated IPG a-IGZO TFT pH sensor is more affected by the capacitive coupling effects than the hysteresis and drift effects; the fabricated IPG a-IGZO TFT pH sensor exhibited more signal dominance than noise in the DG mode amplification. Moreover, the proposed IPG structure can simultaneously improve the reliability, stability, and sensitivity.
+Fig. 5 shows the amplification factors of the transducer, sensitivity, hysteresis, and drift characteristics in the DG mode. The amplification factors of the transducer and sensitivity amplification factors, as the signal, were amplified via the capacitive coupling effects (Table S1). In particular, the signals start to increase exponentially from IPG/UG values in the range of 15–21 (showed inset of Fig. 5). This implies that the introduced IPG structure can be fabricated for high-performance sensor applications even with a low fabrication cost and a simple fabrication process, as the area of the IPG/UG becomes smaller.
+Fig. 5
+Download: Download high-res image (462KB)
+Download: Download full-size image
+Fig. 5. Amplification factors of the transducer, sensitivity, hysteresis, and drift characteristics with respect to IPG/UG area.
+
+4. Conclusion
+We developed an extended-gate in-plane-gate structure a-IGZO TFT by introducing an IPG structure to efficiently improve the sensing characteristics of the pH sensor. In particular, the amplified sensitivity in the DG mode depended on the IPG area. The measured sensitivity in the SG mode was 57.4 mV/pH, whereas in the DG mode, the sensitivity increased from 291.5 to 381.6 mV/pH (corresponding to an amplification factor increase from 5.1 to 6.8) with the decrease in the IPG area from 32,000 to 1200 μm2. Furthermore, in the hysteresis and drift effect measurements for the stability and reliability evaluation of the IPG a-IGZO pH sensor, an improved characteristics was observed because of the IPG structural advantages. Therefore, it was confirmed that the transducer with the IPG structure proposed in this study is superior to the conventional double-gate structure, with advantages such as low cost, high sensitivity, and simple fabrication process. Hence, we believe that the new EG-type pH sensor with the IPG structure will be a representative candidate for an economical and effective next-generation bio-sensor market.
+Figure S1. Schematic diagrams of the (a) SG and (b) DG mode to investigate characteristics for the transducer, and (c) SG and (d) DG mode to investigate characteristics for pH sensor connected with EG.
+ 
+   
+Figure S2 Transfer curves and amplification factors (inset) of transducers according to the in-plane gate area of (a) 32000 (b) 24000 (c) 16000 (d) 8000 (e) 4200 (f) 3000 (g) 2000 and (h) 1200 μm2, respectively. Amplification factors were extracted through the ID-VIPG curves at reference current of 1 nA.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure S3 Transfer curves of in-plane gate TFTs and pH sensitivities according to the in-plane gate area of (a) 32,000 (b) 24,000 (c) 16,000 (d) 8,000 (e) 4,200 (f) 3,000 (g) 2,000 and (h) 1,200 μm2 with various pH buffer solution. All sensitivities were extracted through the ID-VIPG curves at reference current of 1 nA.
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Table S1. All amplification factors of the transducer, sensitivity, hysteresis, and drift characteristics with respect to IPG area 
+	Amplification factor
+IPG area (μm2)	Transducer	Sensitivity	Hysteresis voltage	Drift rate
+32,000	4.8	5.1	0.86	0.75
+24,000	4.9	5.2	0.34	0.83
+16,000	5.0	5.3	2.50	0.79
+8,000	5.1	5.3	1.35	0.64
+4,200	5.2	5.5	2.98	1.10
+3,000	5.3	5.8	2.58	1.40
+2,000	5.7	6.1	3.23	1.77
+1,200	6.6	6.8	2.54	1.54
+
+

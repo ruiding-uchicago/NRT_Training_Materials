@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10854-013-1301-4",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "MWCNTs/In2O3",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "2-12",
+      "test_medium": "buffer solution"
+    }
+  ]
+}

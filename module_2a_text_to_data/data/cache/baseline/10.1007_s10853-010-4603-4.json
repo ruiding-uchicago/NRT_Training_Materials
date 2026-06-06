@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10853-010-4603-4",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hydrogen ions (pH)",
+      "lower_detection_limit": "pH 2",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "fluorine-doped tin oxide (FTO)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "2-12",
+      "test_medium": "buffer solutions (pH 2 to 12)"
+    }
+  ]
+}

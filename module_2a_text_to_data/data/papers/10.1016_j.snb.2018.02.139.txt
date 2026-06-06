@@ -1,0 +1,186 @@
+Highly selective FET-type glucose sensor based on shape-controlled palladium nanoflower-decorated graphene
+Author links open overlay panel
+Dong Hoon Shin c 1
+, 
+Wooyoung Kim a 1
+, 
+Jaemoon Jun a
+, 
+Jun Seop Lee b
+, 
+Jae Hyun Kim c
+, 
+Jyongsik Jang a
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.snb.2018.02.139
+Get rights and content
+Full text access
+Highlights
+•
+Palladium nanoflower decorated CVD graphene (PNFG) is successfully fabricated by using surface functionalization and electrodeposition.
+•
+Shape of PNF was easily regulated by adjusting the concentration of sulfuric acid (H2SO4) in the electrolyte.
+•
+Adopting the nafion as blocking layer for non-target material, nafion prohibits the access of non-target molecules to PNF.
+•
+On the other hand, glucose (target-molecule) dissociated into hydrogen peroxide (H2O2) by GOx and reaction between Pd and H2O2 make current change.
+•
+Owing to FET-type, minimum detectable level is 1 nM.
+Abstract
+The glucose concentration in human body fluids is main marker for diagnose diabetes mellitus, which is a disease caused by insufficient insulin. Although diagnostic devices based on glucose level in the blood have been commercialized, a non-invasive detection methodology is required. Here, selectivity enhanced field-effect-transistor (FET)-type glucose sensor based on shape-controlled palladium nanoflower-decorated CVD graphene (SPNFG) with glucose oxidase (GOx) and nafion was fabricated using surface functionalization, electrodeposition and spin coating techniques. The surface-functionalized CVD graphene is used as substrate for electrodeposition and a p-type channel for FET-type sensor. The palladium nanoflower (PNF) shape was controlled by adjusting the sulfuric acid concentration in the electrolyte during the electrodeposition. Nafion and GOx layer were deposited onto SPNFG using spincoating method. The GOx/Nafion/SPNFG electrode within FET system was applied to high sensitive and selective glucose sensor. The GOx/Nafion/SPNFG based sensors exhibit high selectiviy for uric acid and ascorbic acid with low minimum detection limit for glucose (1 nM). and The high durability can be expected for the FET-type sensor by virtue of direct decoration of palladium on the CVD graphene surface.
+Graphical abstract
+The high selective FET-type glucose sensor based on GOx/Nafion/SPNFG is fabricated. The high selective FET-type glucose sensor based on GOx/Nafion/SPNFG is fabricated. The detection limit is a 1 nM and sensitivity is increases with sharpening the shape of palladium. Also high selectivity is achieved by nafion layer and glucose.
+
+Download: Download high-res image (126KB)
+Download: Download full-size image
+Previous article in issue
+Next article in issue
+Keywords
+PalladiumGrapheneHigh selectivityGlucoseBiosensor
+1. Introduction
+Diabetes mellitus is a choronic desease arise from insufficinecy in production of insulin by the pancreas or ineffectiveness of insulin produced [[1], [2], [3]]. This disease brings about serious complications (blindness, renal or cardiac insufficiency), that are related to poor blood circulation, and in severe cases to gangrene that may require amputate [[4], [5]]. Because the glucose level in blood, urine, and body fluids is a crucial indicator for the detection of diabetes mellitus, a highly sensitive glucose sensor device is essential in medical diagnosis and management [6]. Various approaches have been explored to detect glucose such as electrochemical (amperometry [7], potentiometry [[8], [9], [10], [11]]) and optical (Raman spectroscopy [12], infrared spectroscopy [13] and surface plasmon resonance [14]) methods. From among these methods, the electrochemical technique has attracted considerable interest due to the simple device configuration, high sensitivity and reliability, low detection limit, and cost-effectiveness [[15], [16], [17], [18]]. An electrochemical sensor based on amperometry method which is operated by measuring the current change in a redox reaction under constant voltage, is suitable for dedtecting the high concentration (4–8 mM) of glucose in blood [19]. However, the blood collection process irritates the patient and therefore requires a simpler alternative.
+Saliva in the oral cavity plays an important role in diagnosis of periodontal diseases [20] such as oral cavity cancer [21] and HIV [22]. A glucose sensor using saliva has emerged as a viable alternative method to standard amperometry glucose sensors that detect glucose in blood. However, for detecting glucose in saliva, current amperometric type sensor has critical restriction in high detection limit: the glucose level of the saliva is at least thirty times lower than glucose level in blood [[23], [24], [25], [26], [27]]. high selectivity is also require to prevent unwanted signal change owing to impurities. For this reason, selectivity improved field-effect-transistor (FET)-type sensor based on measuring the current change of carrier density by gate voltage is an attractive electrochemical sensor which meets these demand [[28], [29], [30], [31], [32], [33]].
+An enzyme based biosensors for detecting the various biomolecules such as glucose, ascorbic acid, cholesterol, and uric acid present wide potential applications in health cares, medical diagnosis, environmental sensing, and food safety, etc [[34], [35], [36], [37]]. For this reason, the enzyme was frequently used in conventional blood glucose monitoring device. However, most of these devices have a high minimum concentration of 20 mg/dL. Therefore, it is not suitable for detecting low concentrations of glucose in saliva.
+Therefore, it is essential part to investigate FET-type sensor platform for high-sensitive enzyme biosensors. Various glucose sensors have been widely studied using carbon-based material [[38], [39], [40]], metal [[41], [42]], and its oxide [[43], [44]]. Graphene has been applied to glucose sensors owing to high conductivity, tuneable band gap, and chemical stability [[45], [46], [47], [48]]. Among biosensor based on graphene, liquid-ion-gated FET-type graphene sensors have attracted numerous attention due to high-sensitivity and real-time monitoring [[29], [49], [50]]. Moreover, these FET-type sensors display high-sensitivity compared to the other conventional method owing to the inherent amplification characteristics of thee electrode [[51], [52]]. Most important factor for practical applications of the biosensors is the selectivity due to numerous impurities in real-sample such as blood serums, saliva and tears, etc [[27], [53], [54], [55], [56]].
+Herein, we demonstrate the fabrication of a liquid-ion gated FET-type sensor device based on selectivity improved shape-controlled palladium nanoflower-decorated CVD graphene (GOx/Nafion/SPNFG) to detect low concentration glucose with high selectivity. The CVD graphene acts as both a supporting substrate for Pd decoration and a conducting channel for carrier transfer in the FET system. Furthermore, the sharpness of the PNF increase with decreasing sulfuric acid concentration in the electrolyte because of a hindering effect by the Pd lattice. Eventually, the interaction between the glucose molecules and the SPNFG is enhanced due to the increased active site. In addition, blocking the non-target molecules by nafion and GOx facilitates the high selectivity. The optimized GOx/Nafion/SPNFG FET-type sensors present a field-induced response to glucose, which led to the incredible detection limits down to 1 nM.
+2. Results and discussion
+2.1. Fabrication and characterization of the SPNFG
+Shape-controlled palladium nanoflower-decorated CVD graphene (SPNFG) was fabricated via surface functionalization and electrodeposition method. Prior to the electrodeposition process, single layer graphene was grown on copper (Cu) foil by chemical vapor deposition (CVD) in a vacuum chamber with CH4 as the carbon source and H2 as the carrier gas at 1000 °C. Then, the Cu was eliminated using an etchant solution and the floating graphene was transferred onto the substrate [[57], [58]]. The CVD graphene was immersed in a methanolic solution of 1,5-diaminonaphthalene (1 M, DAN) to chemically functionalize the amino groups. The DAN molecule lays flat on the graphene surface owing to π-π interactions between the aromatic structure of graphene and the phenyl groups of DAN. When a constant voltage was applied using a three-electrode system, palladium ion (Pd2+) was reduced to palladium (Pd0) by the electron supplied from the graphene surface. Despite numerous oxygen-containing functional groups on the graphene surface, the amino groups of DAN preferentially interact with palladium ion, resulted in formation of the Pd0 as a nucleation site. Palladium was then growth from the nucleation site to the nanoflower structure that was affected by the hindering effect of sulfate ions in the electrolyte [[59], [60]].
+Field Emission-Scanning Electron Microscope (FE-SEM) images of the SPNFG are presented in Fig. 1. Uniform decoration of PNF on the entire graphene surface is evident at all magnifications, which indicated the high concentration of DAN leading to wide spread nucleation. Furthermore, Fig. 1(c, f and i) reveals that the size of the PNFs was unchanged despite the various concentration of sulfuric acid in the electrolyte. The shape was adjusted by changing concentration of sulfuric acid (0.01, 0.1 and 1 M) in electrolyte; adjusting the DAN concentration did not affect the shape of PNFs. At the highest sulfuric acid concentration, the PNFs were grown as a blunt shapes on account of overall growth inhibition (Fig. 1c). On the other hand, the pointed PNF was formed by partially disturbance at the low concentration (Fig. 1i). This results make it clear that the sharpness of PNFs is increased with decreasing concentration of sulfate ions in the electrolyte. The SPNFG synthesized with electrolyte solutions containing sulfuric acid at 0.01, 0.1, and 1 M were denoted as SPNFG_L, SPNFG_M, and SPNFG_H, respectively.
+Fig. 1
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Fig. 1. High, medium and low magnitude FE-SEM images of SPNFG with various sulfuric acid concentration in electrolyte solution; (a–c) 1 M, (d–f) 0.1 M, and (g–i) 0.01 M, respectively.
+
+Fig. S1a (supporting information) represents High Resolution-Transmission Electron Microscope (HR-TEM) micrographs of the CVD graphene; it was clearly single-layer graphene. RAMAN spectroscopy is a useful analytical tool to examine single-layer graphene. The ratio of the G (ca. 1587 cm−1) to 2D (ca. 2697 cm−1) implies the number of graphene layers. The CVD graphene examined here had an I2D/IG ratio of ca. 1.82, which indicated the single layer graphene (inset of Fig. S1a, supporting information). The TEM images of PNFs detached from SPNFG_L exhibit that the PNF is ca. 300 nm and consisted of numerous rods of having hexagonal pyramid shape ca. 100 nm in length (Fig. S1 b and d, supporting information).
+Additionally, HR-TEM images of the PNFs reveal interplanar spacing of 0.195 nm for the (200) and 0.224 nm for the (111) plane, which correspond to face-centered-cubic (fcc) Pd (Fig. S1c).
+The chemical composition of the SPNFG was studied using X-ray Photoelectron Spectroscopy (XPS). The fully scanned XPS spectrum of CVD graphene indicated that only carbon and oxygen were present. The spectrum of the DAN-treated graphene had additional nitrogen peaks from amino group in DAN. The two Pd pecks in SPNFG spectrum demonstrate that Pd was successfully growth on the graphene. In addition, disappeared nitrogen pick in SPNFG spectrum presents DAN does not remain after electrodeposition. (Fig. S2a, supporting information). The high-resolution XPS spectra of the C 1 s peaks at ca. 285 eV region are presents in Fig. S2b (supporting information). This peak is deconvoluted into four individual components as follows: the first peak for ca. 284.5 eV is assigned to sp2-hybridized carbon atoms; the second peak for ca. 285.3 eV is attributed to a sp3 carbon configuration; the third peak for ca. 286.4 eV is indexed to a sp3 carbon atoms bonded to nitrogen or oxygen; and the last peak for ca. 288.6 eV is assigned to sp2 carbon atom bonded to oxygen. Compared to CVD graphene, the peak of ca. 286.4 eV is almost maintained in DAN-treated CVD graphene due to the replacement from Csingle bondO to Csingle bondN. However, it is considerably decreased in SPNFG owing to the decoration of PNFs on the graphene surface. Fig. S2c (supporting information) shows the high-resolution N 1 s spectrum of a SPNFG. Two components are observed at 399.2 and 400.6 eV for the amino N and pyrrolic N species of the DAN structure, respectively. DAN-treated graphene has a major amino N peak owing to the amino group (-NH2) by functionalization of DAN, whereas CVD graphene is nitrogen-free. Furthermore, the amino N peak for the SPNFG is considerably decreased on account of the elimination of unreacted DAN during the washing process after electrodeposition. The Pd 3d peak consisted of two intense peaks and two weaker peaks, which are attributed to Pd0 and Pd2+, respectively (Fig. S2d, supporting information). The XPS study thus confirms that Pd2+ ions are successfully reduced to Pd0 rather than PdO.
+2.2. Fabrication and characterization of the SPNFG electrodes
+The stability between substrate and materials in a liquid-ion-gated sensor is an important consideration for the fabrication of a highly sensitive FET-type non-enzymatic sensor electrode. Fig. 2 is a schematic diagram of the fabrication procedure for the SPNFG based non-enzymatic FET-type sensor electrode. First, the CVD graphene surface was treated with 1,5-diamino-naphthalate (DAN) to functionalize with amino group (-NH2). Afterward, PNFs were decorated by reduction of palladium ions combined with amino groups. The amine group of DAN on the graphene surface and sulfate ions in the electrolyte facilitates the formation of flower like PNF structures. Two gold electrodes were deposited on the SPNFG through evaporation process. Afterward, the SPNFG based electrode was immersed in to 0.1 M PBS (phosphate-buffered saline) and 1 M NaOH (sodium hydroxide) solution (as oxidation agent) as the gate controller. In the FET-type electrode configuration, the two gold patterns on each side are the source (S) and drain (D), and the top gate electrode is placed in the electrolyte. The gate voltage (VG) was applied to the source electrode in the 1 M NaOH/0.1 M PBS solution, and the distance between the electrode and gate was maintained at 2 mm.
+Fig. 2
+Download: Download high-res image (601KB)
+Download: Download full-size image
+Fig. 2. Illustrative diagram of the liquid-ion gated FET sensor electrode with SPNFG.
+
+A current-voltage (I–V) analysis was conducted to investigate the SPNFG electrical behavior. Fig. S3a presents the ISD-VSD characteristics (VG = 0) of pristine graphene and various SPNFGs. Due to the direct decoration of Pd, all of the electrode demonstrated the linear behavior in the voltage range from −1 to 1 V (ohmic contact). Moreover, owing to high conductivity of PNF, the dI/dV value (conductivity) of the SPNFG considerably increased compared with the pristine graphene. Fig. S3b represents the ISD-VSD plots of SPNFGs at various gate voltages (VG) in steps of −0.1 V at a constant scan rate (10 mV s−1). The ISD decreased with decreasing VG, which indicated p-type (major carrier: hole) behavior; this was attributed by oxygen-containing functional groups. Nevertheless, the linearity (i.e., ohmic contact) retaining imply that the VG only influenced electrical current changes in the FET device.
+2.3. Glucose detecting mechanism of the FET-type SPNFG electrode
+An FET sensor is operated by measuring the density changes of the carrier. Fig. S4 describes the diagram of glucose detection mechanism using an FET-type SPNFG sensor electrode in the liquid-ion-gated system with 1 M NaOH/0.1 M PBS.
+(1)
+(2)
+When the glucose adds to the SPNFG electrode, the palladium hydroxide (Pd(OH)2) oxidizes the glucose into gluconolactone and itself reduced to palladium (Pd). Then, Pd re-oxidized to Pd(OH)2 with two electrons by ionization tendency, and these generated electrons transfer to the gate electrode, which changes the potential distribution to be more negative. As a result, the density of the major carrier (hole) in the conducting channel increased, leading to the current increase while the resistance decreases. The ISD was monitored at a VG of −100 mV (VSD = 1 mV) to examine the sensing characteristic of the liquid-ion-gated SPNFG FET-type electrode [[61], [62]].
+2.4. Real time response of the FET-type SPNFG electrode
+Fig. 3a represents the real-time response of the SPNFG FET-type sensor with various shape as a function of glucose concentration. According to the addition of glucose, the ISD exhibits the increasing tendency due to the more negative gate voltage caused by the generated electrons. Furthermore, the response time for saturation increases with decreasing glucose concentration. It is difficult to achieve the threshold hole density to change the current at low concentration. The detection limit of the SPNFG FET-type sensor toward glucose is 1 nM for SPNFG_L at room temperature. This implies that SPNFG_L has many active sites that can react with glucose, and thereby drive the gate voltage becomes more negative.
+Fig. 3
+Download: Download high-res image (174KB)
+Download: Download full-size image
+Fig. 3. (a) Real-time response for the FET-type sensor with normalized current change (ΔI/I0 = (I–I0)/I0, where I0 is the initial current and I is the instantaneous current). (b) Calibration curves of sensitivity of SPNFG as a function of glucose concentration.
+
+Moreover, the SPNFG FET-type sensor has a much lower detection limit than that of previously reported metal-carbon composite based non-enzymatic glucose sensors (Table S1 in supporting materials).
+Fig. 3b presents the sensitivity (S) as a function of glucose concentration. The S was measured as the difference between the addition and saturation points of the normalized current change ([ΔI/I0]SD x 100), measured 20 s after glucose addition. The SPNFG FET-type sensor displayed linear behavior over a wide concentration range (10−9 M–10−6 M), opposite as non-linear behavior at low concentrations (<10−9 M).
+In practical application of biosensors, target analyte is inevitably mixed with non-target components: uric acid (UA) and ascorbic acid (AA) are present together with glucose. For that reason, selectivity toward SPNFG FET-type sensor is essentially required. To investigate the selectivity of SPNFG FET-type sensor, the ISD change toward successively injection of glucose, UA and AA were monitored in real time. (Fig. S5a) The SPNFG FET-type sensor shows considerable ISD change not only addition of glucose but also non-target molecules (100 nm: glucose, UA, and AA). This result indicates that SPNFG FET-type sensor is unable to detect glucose in Fig. S5b explains the reason of considerable current change at non-target molecules additions. Similar to glucose, uric acid and ascorbic acid are oxidized by catalyst such as noble metal, and generate the electrons. These electrons conduct exactly same role in glucose detection mechanism. Therefore, SPNFG FET-type sensor detects every molecules that are oxidized by palladium nanoflowers.
+2.5. Fabrication of the GOx/Nafion/SPNFG FET-type electrode
+To overcome lack of selectivity, we fabricate selectivity improved SPNFG FET-type sensor (GOx/Nafion/SPNFG FET-type sensor). Fig. 4. is illustrative diagram of fabrication steps of GOx/Nafion/SPNFG FET-type sensor. First, SPNFG electrode is prepareed under eqivalant procedure as described in Fig. 2. Afterward, nafion was coated onto SPNFG electrode by spinning coating to make Nafion/SPNFG FET-type sensor. The nafion solution was prepared by mixing commercial nafion 117 solution and reduced graphene oxides (rGO) which provide electrical conductivity for nafion/rGO layer. The graphene oxides (GO), 4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride (DMT-MM) and glucose oxides (GOx) were dispersed and dissolved in 0.1 M PBS solution. This solution was dropcast onto Nafion/SPNFG FET-type sensor to make GOx/Nafion/SPNFG FET-type sensor. The GO offer anchoring site for attanchment of GOx and attracting force with rGO by pi-pi interaction. The DMT-MM which is known as efficient activator of carboxylic acids by inducing high degree of amidation induce condensing reaction between carboxylic group of the GO and amine group of GOx. Therefore, GOx/Nafion/SPNFG FET-type sensor were successfully fabricated with high stability
+Fig. 4
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Fig. 4. Illustrative diagram of fabrication steps for selectivity improved SPNFG FET-type sensor (GOx/Nafion/SPNFG FET-type sensor) and their specified layer structure.
+
+2.6. Real time response of the GOx/Nafion/SPNFG FET-type electrode
+To evaluate selectivity performance of GOx/Nafion/SPNFG FET-type sensor, ISD was monitored in real time with addition of target and non-target molecules. Fig. 5a. displays the real time response of GOx/Nafion/SPNFG FET-type sensor with adding glucose with various concentration. The ISD exhibit increasing tendency with adding glucose and 1 nM of detection limit, which is corresponding to smillar behavior with SPNFG FET-type sensor this result demonstrate that stacking nafion and GOx layer does not deteriorate the sensitivity ability of SPNFG FET-type sensor. In Fig. 5b, the Nafion/SPNFG FET-type sensor shows no significant ISD change with the addition of any molecules. However, the GOx/Nafion/SPNFG FET-type sensor shows evident ISD change upon the addition of glucose and mixture: glucose mixed with UA and AA. On the other hand, adding UA and AA represents any significant ISD change. Therefore, GOx/Nafion/SPNFG FET-type sensor is consider as having ultra-high selectivity toward glucose.
+Fig. 5
+Download: Download high-res image (218KB)
+Download: Download full-size image
+Fig. 5. (a) Real-time response for GOx/Nafion/SPNFG FET-type sensor with various glucose concentrations. (b) Selectivity responses of the Nafion/SPNFG FET-type sensor toward non target (UA and AA) and target (glucose) analyte. (c) Real time response of for GOx/Nafion/SPNFG FET-type sensor with various analyte. (concentration of all chemicals is 10 nM).
+
+2.7. Selectivity mechanism of the GOx/Nafion/SPNFG FET-type electrode
+Fig. 6 illustrates the sensing and blocking mechanism of GOx/Nafion/SPNFG FET-type sensor. The nafion film covered on the surface of PNFG is negatively charged in PBS solution due to sulfonic acid group at side chain of Teflon backbone. The UA and AA are also deprotonated in PBS solution to form anionic electro-active substance. Threrfore, nafion film effectively impede the diffusion of UA and AA through the electro repulsive force. In addition, glucose, UA and AA are too big enough to penetrate small hole in the nafion film. However, very small molecules, such as H2O2, can conveniently pass through the polymer film. When glucose is injected into GOx/Nafion/SPNFG FET-type sensor, glucose is oxidized by GOx and produces gluconolactone and H2O2. While the gluconolactone cannot diffuse into nafion film owing to big size, the H2O2 penetrate into nafion film and react with PNF to produce electrons. This electrons move to the vicinity of gate electrode and enhance the gate potential. Consequently, more negative gate potential augmenting the hole density of conductive channel and increasing the ISD.
+Fig. 6
+Download: Download high-res image (342KB)
+Download: Download full-size image
+Fig. 6. Illustrative diagram of uric acid (UA) and ascorbic acid (AA) blocking and glucose sensing mechanism about GOx/Nafion/SPNFG FET-type sensor.
+
+3. Conclusion
+We manufactured a SPNFG based FET-type non-enzymatic glucose sensor electrode by surface modification and electrodeposition. To the best of our knowledge, this is the first demonstration of the fabrication of a metal-graphene composite based FET-type non-enzymatic sensor. The particular shape variation of PNF that formed during the electrodeposition process, resulted from a hindering effect of sulfate ions in the electrolyte. The shape of the PNF was modulated by the concentration of sulfuric acid in the electrolyte solution. The much higher sensitivity (1 nM) was observed with more pointed morphology (SPNFG_L) because it reacted with more active site to interact with the analyte. Furthermore, we further the selectivity part by introducing the blocking layer and GOx by spincoating method. The nafion blocks the interfering molecules by charge repulsion and GOx selectively oxidizes glucose. Accordingly, this research demonstrated an efficient method to fabricate a highly sensitive and selective FET-type sensors based on decoration of nanoflower shape metal particles on a conductive composite material and depositing selectivity capacitating layer. Therefore proposed FET-type sensors have applicability for non-invasive glucose sensor device.
+4. Materials and methods
+4.1. Materials
+Copper foil, 1,5-diaminonaphthalene (DAN), palladium (II) chloride (PdCl2), sulfuric acid (H2SO4) and D-(+)-glucose were obtained from Sigma-Aldrich Co. and were used as received without further purification. Poly(methylmethacrylate) (PMMA) solution was acquired from MicroChem Co. and polyethylene naphthalate (PEN) film was purchased from Teijin Dupont co.
+4.2. Synthesis of CVD graphene
+Graphene was grown by CVD on Cu foil (25 μm-thick). In detail, the Cu foil was located in the chamber and heated to 1000 °C at a pressure of 147 mTorr gas (H2) and a flow rate of 8 sccm. This condition was held for 30 min to stabilize the chamber atmosphere. The methane (CH4) gas as the carbon source was then introduced at a flow rate of 20 sccm and a pressure of 560 mTorr for 30 min. Thereafter, the furnace chamber was cooled at 40 °C min−1 to room temperature. For the transfer process, the surface of the as-grown CVD graphene was coated with PMMA solution to protect the graphene during the transfer process, then, the PMMA-coated CVD graphene was floated on etchant and washed with distilled water. After transferring the PMMA-coated CVD graphene from the water to the substrate, the PMMA was removed by dissolving in acetone at 60 °C for 2 h.
+4.3. Fabrication of the SPNFG
+A piece of as-grown CVD graphene (1.5 cm x 1.5 cm) was dipped into a methanol solution of DAN (1 M) for 30 min to functionalize the graphene surface. The functionalized CVD graphene was immersed in a 0.1 M PdCl2 electrolyte containing various concentrations of H2SO4 (0.01, 0.1 and 1 M). An electrodeposition process was used to synthesize SPNFGs at room temperature using a three electrode system composed of functionalized CVD graphene as the working electrode, a Pt wire as the counter electrode, and an Ag/AgCl electrode as the reference electrode. A constant voltage (−0.1 V) was applied for 10 min to reduce from Pd2+ to Pd0 on the surface of the functionalized CVD graphene. It was finally cleaned with distilled water.
+4.4. Characterzation of the SPNFG
+Field Emission-Scanning Electron Microscope (FE-SEM) images were acquired using a JEOL 6700 instrument. JEOL JEM-2100 and JEOL JEM-3010 instruments were performed for Transmission Electron Microscopy (TEM) and High-Resolution Transmission Electron Microscopy (HR-TEM) operated at 200 kV and 300 kV installed at the National Center for Inter-university Research Facilities at Seoul National University, respectively. X-ray Photoemission Spectroscopy (XPS) conducted on a JPS-9000MS (JEOL, Mg Kα X-ray source).
+4.5. Electrical measurement of the SPNFG
+All electrical measurements were performed with a Keithley 2612A sourcemeter and probe station (MS TECH, Model 4000) and a Wonatech WBCS 3000 potentiostat. To utilize the solution based sensor device, a solution chamber was (200 μl volume) was designed and used. The current change was normalized as [ΔI/I0]SD (%) = [(I − I0)/I0] x 100, where I0 is the initial current and I is the instantaneous current.
+4.6. Fabrication of the GOx/Nafion/SPNFG FET-type electrode
+Nafion was coated onto SPNFG electrode by spinning coating to make Nafion/SPNFG FET-type sensor. (2000 rpm with 60 s) The Nafion solution was prepared by mixing commercial nafion 117 solution with 1 wt% of reduced graphene oxides (rGO). The graphene oxides (GO) 1 wt%, 4-(4,6-Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride (DMT-MM) 1 wt% and glucose oxides (GOx) were dispersed and dissolved in 0.1 M PBS solution. This solution was dropcast and dry onto Nafion/SPNFG FET-type sensor to make GOx/Nafion/SPNFG FET-type sensor.
+Acknowledgement
+This research was supported by Device Business, Samsung Electronics, Korea.
+Highly Selective FET-type Glucose Sensor based on Shape-controlled Palladium Nanoflower-decorated Graphene.
+
+Dong Hoon Shinc,‡ , Wooyoung Kima,‡, Jaemoon Juna, Jun Seop Leeb, Jae Hyun Kimc and Jyongsik Jang*,a
+  
+
+aSchool of Chemical and Biological Engineering, College of Engineering, Seoul National University, 1 Gwanakro, Gwanakgu, Seoul, 151-742 Korea
+bDepartment of Nanochemistry, College of Bionano, Gachon University, 1342 Seongnamdaero, Sujeong-gu, Seongnam-si, Gyeonggi-do, 13120, Korea
+cS.LSI Material Technology Group, Device Solutions, Samsung Electronics 1,Samsung-ro, Giheung-gu, Yongin-si, Gyeonggi-do, 446-711 Korea.
+‡these authors contributed equally to this work
+
+[*]   Tel: +82-2-880-7069; Fax: +82-2-888-1604; E-mail: jsjang@plaza.snu.ac.kr
+KEYWORDS
+palladium, graphene, high selectivity, glucose, biosensor
+
+
+
+ 
+
+Figure S1. (a) High Resolution TEM (HR-TEM) image of single layer graphene, (b) low, (c) high, and (d) medium magnitude TEM images of PNF detached from SPNFG_L respectively. 
+ 
+ 
+Figure S2. XPS patterns of (a) fully scanned spectra and (b) C 1s, (c) N 1s, and (d) Pd 3d of CVD graphene (black), DAN-treated graphene (blue) and SPNFG (red) respectively.
+ 
+ 
+Figure S3. (a) Source-drain current voltage (ISD-VSD) curves of graphene (green), SPNFG_H (black), SPNFG_M (blue), and SPNFG_L (red), respectively. (b) ISD-VSD output characteristic of SPNFG liquid-ion-gated FET sensor with different gate voltage (VG) from 0 to -1 V in step of -0.1 V (scan rate of VSD: 10 mV s-1).
+ 
+ 
+Figure S4. Schematic diagram of glucose sensing mechanism of SPNFG based on non-enzymatic FET-type sensor.
+ 
+Table S1.  Detection limits of non-enzyme glucose sensor based on noble metal/carbon composite
+Materials	Detection limits	Linear range	Ref.
+SPNFG_L	1 nM	1 nM – 10 μM	This work
+Pt/GOHa	5mM	5 – 20 mM	(Hoa et al. 2015)
+Pd-SWNTb)	0.2 μM	0.5 – 17 mM	(Meng. et al. 2009)
+Pd NPs/GOc)	0.2 mM	0.2 – 10 mM	(Wang et al. 2012)
+Pt/MCsd)/GCEe)	28 μM	5 μM – 7.5 mM	(Su et al. 2010)
+Pt nanoflower/
+GO/GCE	2 μM	2 μM – 10.3 mM	(Wu et al. 2013)
+
+a)GOH, 3D graphene hydrogel; b) SWNT, single wall nanotube; c) GO, graphene oxide; d) MCs, mesoporous carbons; e) GCE, glassy carbon electrode.
+
+ 
+Figure S5. (a) Selectivity responses of the SPNFG FET-type sensor toward non-target (uric acid (UA) and ascorbic acid (AA)) and target (glucose) analyte. (b) Molecular oxidation diagram of uric acid and ascorbic acid
+ 
+ 
+Figure S6 Real-time response for the FET-type sensor using GOx/Nafion/CVD graphene with normalized current change
+
+To confirm the effect of SPNFG_H, we made GOx/Nafion/CVD graphene electrode. The fabrication detail is the same as GOx / Nafion / SPNFG electrode, except for the electrodeposition process. The Figure S6 reveals sensing performance of GOx/Nafion/CVD graphene electrode. The GOx / Nafion / CVD graphene electrode showed a relatively high minimum concentration of 1 μM. These results show that the large surface area due to the shape of the Pd nanoflower and catalytic effect of Pd helped to improve the sensitivity in GOx/Nafion/SPNFG electrode.
+
+ 
+Reference
+
+Hoa, L.T., Sun, K.G., Hur, S.H., 2015. Sens. Actuators, B 210, 618-623.
+
+Meng., L., Jin., J., Yang., G., Lu., T., Zhang., H., Cai, C., 2009. Anal. Chem. 81, 7271-7280.
+
+Su, C., Zhang, C., Lu, G., Ma, C., 2010. Electroanalysis 22(16), 1901-1905.
+
+Wang, Q., Cui, X., Chen, J., Zheng, X., Liu, C., Xue, T., Wang, H., Jin, Z., Qiao, L., Zheng, W., 2012. RSC Adv. 2(15), 6245.
+
+Wu, G.H., Song, X.H., Wu, Y.F., Chen, X.M., Luo, F., Chen, X., 2013. Talanta 105, 379-385.

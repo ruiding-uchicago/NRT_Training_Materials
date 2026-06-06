@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11172-022-3533-z",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "volatile organic compounds",
+      "lower_detection_limit": "tens ppb",
+      "upper_detection_limit": "",
+      "probe_material": "benzothienobenzothiophene derivatives",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

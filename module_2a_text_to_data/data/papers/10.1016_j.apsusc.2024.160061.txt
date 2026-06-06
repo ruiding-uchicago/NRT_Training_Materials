@@ -1,0 +1,302 @@
+Lead ions detection using CVD-grown ReS2-FET with the facilitation of a passivation layer
+Author links open overlay panel
+Anupom Devnath
+, 
+Annadurai Venkatesan
+, 
+Batyrbek Alimkhanuly
+, 
+Seunghyun Lee
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.apsusc.2024.160061
+Get rights and content
+Highlights
+•
+Dendrite ReS2, a flower-like TMD with a higher surface-to-volume ratio.
+•
+A passivation layer on ReS2 surfaces, significantly boosts device sensitivity.
+•
+Ensure high sensitivity (2 nM) for Pb2+ ions with fast response (1.1 s).
+•
+A reproducible, selective, and repeatable sensing performance.
+•
+A novel metal ion sensing amplifier circuit.
+•
+Low-cost integration with portable devices and industrial electronics.
+Abstract
+Field-effect transistor (FET)-based heavy-metal detection is garnering attention due to its heightened sensitivity, affordability, convenient fabrication, and portability. Flower-like rhenium disulfide (ReS2) offers potential for high-performance FET sensors, but direct exposure of channel materials to the ionic solution without a passivation layer results in multiple signals arising from the ionic transmission, doping impact, and gating effect. Introducing a passivation layer to the channel surface enhances sensor sensitivity without compromising device performance, ensuring conductance changes are primarily due to the gating effect. Here, a large surface area of Chemical Vapor Deposition (CVD)-grown vertically aligned ReS2 is employed in the FET-based sensor, and the utilization of the HfO2 layer is to isolate analytes from the elements of the conducting channel. For real-time lead monitoring in a water environment, it exhibits strong electrical stability, an impressive LoD (≈2 nM), a rapid response time (≈1.1 sec), and notable selectivity. Additionally, sensing operations are characterized by developing a unique amplifier circuit by integrating the fabricated sensor, contributing to advancements in sensor integration to detect hazardous metals in industrial electronics. These results underscore the potential for enhancing the performance of ion-sensitive FETs through structural optimization and improvements to the fundamental sensor mechanism.
+Graphical abstract
+
+Download: Download high-res image (190KB)
+Download: Download full-size image
+Previous article in issue
+Next article in issue
+Keywords
+ReS2 FET-based sensorHeavy-metal detectionPassivation layerSelectivityAmplifier circuit
+1. Introduction
+Lead (Pb2+) poisoning has emerged as a significant global concern [1], with research associating Pb2+ to a range of diseases. Even at moderate exposure levels, it can have adverse health effects, ultimately leading to illness or even death [2], [3]. Pb2+ is mostly found in the environment because of mining and metal smelting activities, during which Pb2+ containing recycled water and particles are indiscriminately released into the atmosphere [4], [5]. Lead can form complexes with ligands containing oxygen, sulfur, and nitrogen in organic materials due to covalent bonding between full ligand-orbitals (e.g., O 2p) and the vacant 6p orbitals of Pb2+, resulting in bond formation and deformation of molecular-orbitals [6]. These complexes can lead to changes in molecular structure, disruption of hydrogen bonds, and enzyme inhibition [7]. There is a pressing need for a rapid, sensitive, and cost-effective method to detect lead ions in drinking water to address lead poisoning [8].
+Recently, numerous approaches have been developed to detect Pb2+ including colorimetric sensors [9], [10], X-ray absorption spectroscopy [11], atomic absorption spectroscopy [12], [13], dynamic-light-scattering-assays [14], fluorescent sensors [15], [16], electrochemical sensors [17]. Despite their significant impact on heavy metal detection, concerns have arisen regarding the complex device structures, bulky systems resulting from the use of reference electrodes, intricacies of data analysis, instrumentation complexity, long response time, and the need for frequent calibration to ensure accuracy. Ion-sensitive field-effect-transistors (ISFETs) have helped to alleviate some of the problems throughout the year. FET-based sensors are reasonably competitive in real-time detection, are prospective for in-line monitoring, and hence are especially appealing for advanced warning in the situation of an urgent Pb2+ contaminating disaster [18]. The utilization of electrolyte solutions is constrained by material volatility and the requirement for a reference electrode. The main process relies on the alteration of the electronic characteristics of the FET in response to analyte binding, with a nano-film serving as the conducting channel connecting the drain and source in the FET approach [19]. Highly desirable is a channel material with a significant surface-to-volume ratio, as it offers a greater number of adsorption sites [20], [21].
+Transition-metal-dichalcogenides (TMDs) within the realm of two-dimensional (2D) materials have emerged as prominent candidates for optoelectronics, digital-electronics, and electronic-sensor applications. A relatively recent member of the TMDs family is ReS2, which shares the same sandwich-like structure as MX2 [22]. ReS2 possesses a substantially lower interlayer coupling than other known TMDs like WS2 [23], and MoS2 [24], [25] due to the deformed T-phase structure in ReS2 bulk-material [26], which results from the stability of the additional valance electron for each Re atom [27]. Many researchers use a mechanically exfoliated single-layer to few-layer MoS2 and WS2 for different sensor applications like chemical sensors [28], [29], gas sensors [30], [31], metal-ion sensors [32], and biosensors [33]. Recently, ReS2 has garnered significant attention due to its potential applications in electronic sensor technology like photodetector [34], humidity sensor [35], pH sensor [36], and gas sensor [37]. Nevertheless, the utilization of ReS2-FET-based sensors for Pb2+-ion detection represents an innovative and valuable approach.
+Several experiments employed AlGaN/GaN HEMT-based sensors to detect heavy metal ions (HMIs) like cadmium [38], mercury [39], and nitrate [40]. A reduced graphene oxide (rGO)-based FET sensor to detect Pb2+ by using Au nanoparticles with a 10 nM detection limit and 2-sec response time [8]. A pulse-driven capacitive-based Pb2+-ion detection with a 12 nM detection limit and 2-sec response time by using rGO [41]. Prior research on ReS2 predominantly involved bulk material [42], [43], but more recently, a few layers of 2D ReS2 have been synthesized using chemical and mechanical exfoliation processes with inconsistent sample homogeneity and yield [26]. To enhance control and yield in the fabrication process, we achieved a significant advancement in ReS2-FET fabrication by synthesizing flower-like structured ReS2 through the CVD method. Multiple nanosheets were combined to develop flower-like patterns, which could boost the number of adsorption edges on the sensory region, leading to an improved sensor sensitivity for different sensing applications like MoS2 [20]. Besides, increased active edge sites play a crucial role in electrochemical processes [44] and vertical TMDs have demonstrated superior catalytic activity compared to TMDs in the basal plane [45].
+In this study, we utilize a CVD-grown ReS2-FET for real-time detection of Pb2+ in aqueous solutions, aided by the HfO2 passivation layer. For the sensor platform, we opted for a reference electrode-free transistor configuration for seamless integration into various electronics and portable units.
+2. Experimental details
+2.1. Materials
+For the CVD-procedure of ReS2, materials utilized in this study contain Rhenium Oxide (ReO3) (Alfa-Aesar), and Sulfur (S) (K-C Lab.). Chloride salts (Sigma-Aldrich) were dissolved in Deionized (DI) water to make Na+, Ag+, Zn2+, Fe3+, Cd2+, Ni2+, Cu2+, As3+, and Pb2+-solutions. NaH2PO4 and Na2HPO4 were used to make the phosphate buffer solution (PBS) at a constant pH.
+2.2. Cvd-grown ReS2
+After cleaning with acetone, isopropyl alcohol (IPA), and DI water, the Si (300 nm) substrate (2 cm × 2 cm) was put on an alumina boat carrying ReO3 precursor material in the middle in the 1-inch radius tube furnace. For the growth of ReS2, the precursor materials ReO3 (4 mg) and S (200 mg) were utilized. The S powder was then placed upstream. The furnace was filled with Argon (flow on, valve close) and hence purged ten times with Argon (flow off, valve open) before the regulation of vacuum to around 20 SCCM of Argon flow rate. Within 43-min, the furnace was swiftly heated up to 650 °C, afterward, it hold at that level for 20-min before swiftly cooling to room temperature.
+2.3. Characterization of CVD-grown ReS2
+HR-Raman (Raman microscopes, Renishaw Corp.), HR FE-SEM (MERLIN, CZ Corp.), FE-TEM (JEM-F200, JEOL Ltd.), AFM (XE-100, Park-Systems Corp.), XPS (K-alpha, Thermo-Elec.), and were practiced characterizing the samples.
+ − 
+measurements were taken with a semiconductor analyzer in a shaded environment (Keithley-4200). For this work, Pb2+ ion concentrations spanning 1 nM ∼ 100 µM were used in the experiments. The PBS was used to test the reproducibility of this sensor.
+3. Results and discussion
+3.1. Structural analysis of ReS2
+Analysis of the CVD-grown ReS2-film is illustrated in Fig. 1. HR FE-SEM pictures of dendrite ReS2-film are depicted in Fig. 1a. An extensive presence of vertical-patterned ReS2 is observed on the Si substrate. The inset image demonstrates that the grain of ReS2 could be hundreds of nanometers in size. A high-resolution photograph of as-synthesized ReS2-film with wave-liked atomic chains is shown in Fig. 1b with the FFT result (inset). The lattice has a deformed 1 T-structure owing to covalent bonding, and an irregular Re-Re chain is patterned by Re atoms [27]. Additionally, the interlayer spacing of CVD-grown ReS2 plays a crucial role in ion absorption and desorption processes. Fig. S1 shows the microscopic pictures of the vertically grown ReS2-film and transferred ReS2-film on the HfO2 substrate with AFM result. In Fig. 1c with the inset SAED result, the film appears to be a superlative polycrystalline alongside a higher grain size. Fig. 1d shows a cross-sectional FE-TEM picture that reveals ReS2 formed a sandwich structure with HfO2. Raman spectroscopy in Fig. 1e confirms the presence of ReS2. The XPS spectra show the types of bonding and elemental formation in Fig. 1(f–h). The Re and S-signals are recognizable. The two peaks in the Re-signal at ∼ 41.1 and ∼ 43.6 eV belong to Re’s 4f7/2 and 4f5/2 base-level peaks, respectively. The two peaks in the S-signal at ∼ 161.4 and ∼ 162.4 eV belong to 2P3/2 and 2P1/2 base-magnitude of S, respectively. Fig. S2 shows the step-by-step process of ReS2-FET fabrication.
+
+Download: Download high-res image (857KB)
+Download: Download full-size image
+Fig. 1. Analysis of the dendrite ReS2-film. (a) HR FE-SEM visuals of the vertically-grown ReS2. (b) FE-TEM picture of the dendrite 1 T ReS2-film (inset: FFT result). According to (a) and (b) data, grown ReS2 is a polycrystalline film with a high-grain size with a deformed 1 T-phase. (c) Further analysis of FE-TEM image (inset: the SAED result). (d) FE-TEM pictures of ReS2 in cross-sectional view with a metal contact. (e) Raman spectrum and (f-h) XPS spectra of ReS2-film.
+
+3.2. ReS2-FET sensor characteristics
+For detecting different ion responses at different concentrations, stock solutions (1 M) were prepared by using DI water to dissolve their chloride salts. By adding varied quantities from prepared stock-solution to sample holders and weakening to 25 mL in conical flux, a variety of unique ion solutions with variable concentrations were made. The sample was diluted into different molarity solutions via the dilution formula:
+Fig. 2a depicts the schematic diagram of the ReS2-FET sensor. Due to increased field-effect mobility after dielectric coating, the electrical conductivity increased [46], [47]. Low contact resistance enhances the sensor’s sensitivity also [48], [49], [50]. The positively charged ions after being captured induce a gating effect and modulate the device current. Fig. 2b shows the schematic of the ion-solution loading procedure in the microfluidic polydimethylsiloxane (PDMS) boundary. A reservoir is used to overcome the problem of solution leakage. Inlet and outlet paths for flowing the fluid are shown also. The solution’s height difference is denoted by “h”. The formation of interdigitated electrodes for source and drain with 5 µm channel length are also shown. The simple working principle of ReS2-FET sensor with FET transfer process and ion transfer process is shown in Fig. 2c. The charge-modulated sensor is based on surface contacts with analyte-molecules, which influence channel characteristics through charge effects, including electron transfer through analyte-channel contact interface and polarization of electrons between analyte-molecules and channel as shown in Fig. 2c [19]. Chemical/physical adsorption, ion doping, and electrostatic interaction are all examples of changes in transfer properties that can occur directly or indirectly [51]. More details about the sensing mechanism are discussed in the sensing mechanism part. Free ions might act like charge carriers between electrodes, disrupting the detecting signal in the absence of passivation. Moreover, accumulated positively charged Pb2+-ions will contribute to the FET channel’s doping influence (Fig. 2d). On the other hand, interfaces may be reduced by passivation, and the gating effect will induce fluctuations in conductivity.
+
+Download: Download high-res image (404KB)
+Download: Download full-size image
+Fig. 2. ReS2-based FET sensor device. (a) Schematic of ReS2-FET sensor. (b) Schematic of ion-solution loading procedure through microfluidic PDMS device (c) Key operational principle of FET sensor: electron transfer across the analyte-channel interface, and polarization of charges at the analyte-channel interface. (d) Without passivation: the possibility of ion conduction effect and doping effect on ReS2-channel, with passivation: only gating effect on ReS2-channel.
+
+3.3. Electrical characterization of ReS2-FET sensor
+The electronic performance of the fabricated sensor is illustrated in Fig. 3. The drain-to-source current (
+) regarding input drain-to-source voltage (
+) with constant gate-to-source voltage (
+) was monitored to assess the electrical functioning of the fabricated sensor. The 
+–
+ characteristics were measured before and after injecting 1 µM concentration of Pb2+-ions. Fig. 3a demonstrates a considerable difference in 
+ after each stage. With and without passivation layer, the
+ − 
+curve demonstrates the effect of the passivation layer. With and without passivation layer the contact-resistance is 14.3MΩ and 27.1KΩ, respectively. The 
+ declined once the Pb2+-solution was introduced. The metal–insulator-semiconductor (MIS) contact was established when the contact was formed between ReS2 and Au. Since ReS2′s work function is 4.8 eV and Au’s is 5.1 eV, electrons flow from ReS2 to Au when they come into contact owing to variations in fermi-levels, boosting the electron density in Au. The 
+ behavior of the FET operation can be expressed by the following equation.
+(1)
+
+Download: Download high-res image (1MB)
+Download: Download full-size image
+Fig. 3. Analysis of the proposed sensor performance. (a)
+ − 
+behaviors of ReS2-FET with and without passivation layer along with 1 µM Pb2+-ion incubation (
+ = 5 V). (b)
+ − 
+behaviors of the sensor and after 1 µM Pb2+-ion incubation (
+ = 2 V) (c) Real-time detection of Pb2+-ion (
+ = 2 V; 
+=2V) (d) Calibration graph for Pb2+-ion detection. (e) Real-time monitoring of ReS2-FET sensor for Pb2+-ion detection with and without passivation layer. (f) Recovery of ReS2-FET sensor. (g) Dynamic response with recovery (h) Reliability-test (different devices). (i) 25 different sensors LoD mapping.
+
+In Equation1, εn indicates permittivity for a different medium, µ indicates charge mobility, and W and L indicate the width and length of the gate contact, correspondingly, and the threshold voltage is 
+. The values of εn, W, L, and 
+ parameters will be constant.
+Due to the immobilization of ions, the sensor’s Dirac point was relocated [8], [21], [52]. Again, for comparatively higher concentrations of Pb2+, while the ions bind with the sensor surface, the positively charged electrical field of the Pb2+-ions attracts the electronsand clustered near the metal–insulator-semiconductor (MIS) interface, resulting in a variation in electron concentration within the channel, a reduction in electronconcentration in ReS2-film, and the development of a depletion layer [53], which triggers the electrical conductivity of the channel in ReS2-FET to be reduced. More details are discussed in the sensing mechanism part. In Fig. 3b, transfer curves (
+ = 2 V) were monitored before and after injecting 1 µM Pb2+-ions.
+Fig. 3c depicts the real-time sensor performance of Pb2+-ions detection utilizing a fabricated sensor. The study was performed throughout the sensing process by injecting the Pb2+-ion solution with a variety of concentrations onto the ReS2 surface at a constant 
+(2 V). Interestingly, the 
+ did not modify when DI water contacts the device’s sensitive area. The sensor was responded from 2 nM to 100 µM. The
+ − time was observed while the accumulated amount of Pb2+ to the FET. As a result of the progressive addition of the Pb2+-ion solution, the current was dropped. The sensing activity was recorded for around 40-sec for each Pb2+-ion concentration. Through the ion diffusion to the contact region from the fluid drop on the sensor surface, the sensor responded to the Pb2+ within a few seconds. This is far quicker than traditional fluorescence sensors [54], [15], which can take several minutes or even hours to respond. The device conductance steadily dropped as the ion solution was gradually added, and the rate of this decline, expressed as a percentage change, corresponded to the Pb2+ concentration. The fluctuations in 
+ might be attributed to the chemical adsorption process, which causes electron transfer to Pb2+ from ReS2. Pb2+-ions have a quite high binding affinity for sulfur in general [55]. When Pb2+-ions contact the sulfur group on the aqueous solution of the channel surface, the S2-group can carry electrons to the adsorbed Pb2+-ions, leading to the form of the Pb-S complexes [56], [57], [58], [59]. Fig. S3 depicts a schematic diagram illustrating the mechanism of complex formation and electrostatic interaction. As the gate potential gets progressively negative, the drain current begins to fall. Besides, electrostatic interaction at the channel surface creates negative charges towards the FET sensing surface, leading to a decrease in 
+. Inspection of the
+ − concertation plot, as seen in Fig. 3d, indicates the sensitivities and limit of detection (LoD) as sensing parameters.
+The response for Pb2+ and different metal ions was calculated by this approach at concentrations spanning from 1 nM ∼ 100 µM. In Equation (2), the detected 
+ response for Pb2+-ions and additional interfering ions was deducted from the base 
+, i.e., the 
+ recorded in DI water, referred to as 
+, for an efficient selectivity analysis. 
+ is the value of 
+ for different ions at different concentrations. M stands for HMIs (Pb, Na, Zn, Cu, etc.) and n stands for the number of charges on metal ions (n = 1, 2, 3).
+(2)
+As per the plot (Fig. 3d), the LoD value is 2 nM, which is much lower than WHO’s minimum contamination level for lead (50 nM) in drinking water pollution limits [8], [60]. The linear regression coefficient (R2) of the calibration line is 0.961. The calibration curve was plotted by deducting the mean 
+ of a specific concentration from the base 
+. When comparing experimental findings to the calibration plot, error bars are utilized. For lower concentrations, the fitting curve is drawn in the inset of Fig. 3d. The response time of the sensor is also crucial. The duration for reducing the 
+ from 10 %-to-90 % of its origin value was calculated as the concentration varied. Using this approach, the sensor obtained a super-fast response time of 1.1-sec at a concentration of 10 nM.
+Understanding how the passivation layer impacts sensor performance can aid designers in fabricating more impactful sensors. Fig. 3e shows the sensitivity performance of ReS2-FET devices with and without a passivation layer for Pb2+ ion detection. Interestingly, the real-time response for Pb2+-ions detection by the fabricated sensor with a passivation layer (2 nm HfO2) is much higher than the sensor without a passivation layer. Moreover, At the point of ion exposure, spikes are not present in 
+ for the real-time sensor response with a passivation layer (Fig. 6f shows in-depth). Besides, without a passivation layer, direct immobilization on channels degrades their electrical characteristics by causing flaws through analytes, resulting in device performance deterioration and unstable [61], [62], [63]. The ultra-thin passivation layer serves to enhance the electronic characteristics of the sensor with durability, leading to fluctuation-free sensor performance without degradation of the channel surface [61], [62]. As noted earlier, the passivation layer contributes to reduced contact resistance, thereby enhancing the sensor's conductivity and sensitivity [48], [49], [50]. Primarily, charged-ions are expected to lower the 
+ during the sensing action due to the gating effect of an n-type ReS2-FET. Adding various concentrations of Pb2+ shows the decline of the 
+ of the sensors. The passivation layer also motivated the sensing operation (Fig. 5a) owing to decreased conductivity with a build-up of more charges at the device surface, based on results from our testing trials, which were obtained from sensors lacking a passivation layer.
+With the introduction of an ultra-thin HfO2 passivation layer, the sensing mechanism evolves from solely relying on chemical absorption to involving both chemical absorption and physical adsorption processes. Furthermore, without such a passivation layer, free ions act like electron carriers between electrodes and might disrupt the sensing signal. Interferences may be reduced by the passivation layer, which involves alterations to the sensor’s conductance due to the immediate electrostatic gating impact caused by the positively charged ion density on the channel [64]. The FET may be coated with non-uniform HfO2 layers using the thinnest (1 ∼ 2 nm) HfO2 deposition. In other research, partial covering of several cycles of ALD (>10 cycles) has been reported [65]. Jinho et al. (our group) reported that ReS2 with the 2.2 nm thickness of HfO2 and Ta2O5 provides a better MIS contact for reducing contact resistance and increasing conductivity due to Schottky barrier modulation [47].Hence, passivation layer thickness has a significant impact on the sensor’s performance, implying the observed sensor mechanism might be characterized further by depositing HfO2 passivation of varied thicknesses according to sensor requirements and managing passivation films such as uniform or non-uniform. The inherent electrical characteristics of ReS2 in combination with improved gate dielectrics might pave the way for high-performance FET sensing devices. Recent studies have utilized higher cycles with high-temperature ALD processes to achieve complete coverage of the entire exposed surface for various hydrophobic sensor applications [66], [67]. However, such extensive coverage is not necessary for the proposed sensor mechanism. Importantly, in the proposed sensor, a 2 nm ultra-thin HfO2 layer deposited by ALD, serves as a discontinuous ultra-thin film. According to the AFM study (Fig. S1), the flower-like ReS2 exhibits a rough surface (peaks and valleys). A few-layer ALD cycle is unable to cover the whole surface of ReS2, leading to inadequate resistance against liquid absorption. Stephen et al. demonstrated that even after 150 ALD cycles (corresponding to ∼ 15 nm) of HfO2, the flake-like surface remained exposed [68]. The ultra-thin film facilitates access to the exposed ReS2 flake for metal ion solutions, providing an advantageous pathway for complex formation and detection. A comprehensive analysis, comprising XPS deconvolution of Hf 4f and HR-XRD investigation, is presented in Fig. S4 and Fig. S5, respectively, revealing the thickness-dependent behavior concerning the transition towards a hydrophilic nature. In addition, the hydrophilic behavior exhibited by ALD ultra-thin HfO2 facilitates the absorption process of ion solutions. More details on chemical absorption and physical adsorption are in the sensing mechanism section.
+The recovery, reproducibility, and repeatability of the proposed sensor were analyzed. Fig. 3f depicts the sensor’s recovery. During the sensing operation, robust Pb-S bonding chemically bonded the ions to the ReS2 surface. As a result, removing bound Pb2+-ions from the top of ReS2 demands higher activation energy [69]. Recent studies have demonstrated the effective use of PBS for removing heavy metals [21], [70], [71]. PBS is well-studied for its capability to stabilize pH, a critical factor for sensor parameters, and to facilitate the effective binding of chelating agents to heavy metal ions [71], [72]. The functional groups of phosphate and hydroxyl present in the phosphate buffer are essential for forming complexes, contributing to the removal of metal ions from the sensing surface [73], [74]. Phosphate ligands and metal ions function as anions and cations, respectively. Importantly, interactions between phosphate-metal and hydroxyl-metal are considered primary binding sites [75], which are stronger compared to interactions between metal and sulfide ligands of ReS2. The low pKa of phosphate ligands makes them suitable functional ligands for absorption from liquid solutions [74]. Consequently, the sensor was rinsed with PBS that had been heated to 120 °C. The resulting sensor takes approximately 7-sec to fully recover from the presence of bound Pb2+-ions. In dry conditions, the drain current quickly reverts to its initial value once all the liquid has been removed. The utilization of this process resulted in an impressive recovery rate of nearly 99.5 %. As an outcome, the use of heated PBS may provide sufficient activation energy to release Pb2+-ions from ReS2-channel, while still maintaining satisfactory sensor recovery. Dynamic response with recovery is shown in Fig. 3g. The repeatability data are extracted in Table S1. The values of CV (%) for the 1st and 2nd sensors are almost the same, which indicates great repeatability. To further clarify the sensor behavior, we experimented with the same device after one month of 1st detection, as depicted in Fig. S6. Surprisingly, the sensor performance is identical. In addition, Fig. S7 demonstrates the real-time sensor performance without initial exposure to DI water. Moreover, the passivation layer advantage lies in its protection of the device from environmental factors like air contamination (oxidization) and source/drain metal, ensuring the device’s suitability for long-term use. The enlarged real-time sensor graphs are shown in Fig. S8 to measure the response time and recovery time. Sensor-1 and Sensor-2 are used for reliability tests under the same conditions and real-time performances are plotted in Fig. 3h, indicating both sensor’s parameters are identical. LoD mapping from 25 different sensors whereas most of the sensor’s LoD is 2 nM, surprisingly, some sensors LoD is noted as 1 nm, as depicted in Fig. 3i.
+Using a different-solution-approach [76], the selectivity of the proposed sensor regarding Pb2+ over other metal ions was examined further (Fig. 4.) For further confirming the specificity of the sensor, sensor responses to only DI water and different common metals are presented in Fig. 4a. whereas the concentrations range of 1 nM ∼ 100 µM. The sensor’s response to Na+, Ag+, and Zn2+ is relatively poor. The sensor conductivity altered significantly during subjected to Cd2+ and Cu2+, which might be related to cadmium and copper’s strong affinity to sulfur [77]. For note, cadmium and copper are also known as hazardous HMIs [78], [79]. Briefly, the selectivity of the proposed sensor depends on various factors such as binding affinity, complex formation, electrostatic interaction, ReS2′s absorption properties, and the effectiveness of the passivation layer to resist the direct immobilization of metal solutions in the sensor surface. Direct immobilization of liquid solution results in degradation of the flake structure of flower-like ReS2 [62], [63]. Notably, the ultra-thin ALD layer lacks functionality in selectivity within the proposed sensor. The lowering electron concentration in ReS2-sheet is responsible for the growing relative change. Besides, the conductance of the device varies due to a depletion-layer forming [53]. Moreover, Fig. 4b shows the relative responsivity for different metal ions. Several metal ions are also selectively detected by the proposed sensor, as shown in Fig. 4c.
+
+Download: Download high-res image (382KB)
+Download: Download full-size image
+Fig. 4. Selectivity test of the proposed sensor. (a) Dynamic response (
+ = 2 V; 
+=2V) at a variety of concentrations of different metals. (b) Comparative sensing feedback of ReS2-FET sensor for various HMIs (1 nM ∼ 100 µM) concentration (
+ = 2 V; 
+=2V) (c) ReS2-FET sensors relative conductivity changes as responsivity to numerous metals at the concentration of 100 µM.
+
+3.4. Sensing mechanism of ReS2-FET sensor
+The circuit model of the proposed sensor mechanism for detecting Pb2+-ions is shown in Fig. 5. Initially, the sensing process commences with the occurrence of the chemical absorption process. In Fig. 2, the exposed sulfur atoms in the ReS2-channel attract the Pb2+-ions. Importantly, it should be noted that the hydrophilic behavior observed in aqueous solutions with ALD-deposited HfO2 (thickness dependent) serves to enhance the absorption properties of ReS2 [80], [81], [82]. Moreover, the ultra-thin passivation layer is unable to resist the absorption process due to its non-uniformity. Owing to the rough surface of the flower-like ReS2, ALD may encounter challenges in uniformly coating film edges, and step structures such as ReS2 rough flakes as well as trenches, leading to a potential discontinuity in the deposition process [68]. Additionally, the hydrophilic behavior of ultra-thin HfO2 contributes to its absorption in a liquid environment. The proposed sensor mechanism relies on the non-uniform film coating, which is essential for facilitating the absorption of ion solutions. When the device was exposed to the solution, Pb2+-ions were considerably adsorbed on the ReS2 surface through the ultra-thin non-uniform passivation. At the first stage, Pb2+-ions adsorb on most surfaces of ReS2, as shown in Fig. 2c and Fig. 5a, resulting in Pb-S complexation [56], [57], [58]. Besides, Fig. 5a shows the simplified model of the ReS2-FET structure. This chemical complex formation process proceeds until all the adsorption sites on the ReS2 surface have been entirely occupied by Pb2+-ions. The accumulation of Pb2+-ions on the surface of ReS2 by S may occur in this process because Pb2+-ions are a potent oxidizing agent and sulfur is a natural reducer. As a logical consequence, by combining with Pb2+-ions, the S2- in ReS2 can share electrons to create the Pb-S complexes. Pb-S complex with FET band diagram is shown in Fig. S9. The Pb-S complex reduces the gate potential or surface potential in the interface, which causes 
+ to drop. With a higher concentration of Pb2+-ions, the functional groups on the first Pb2+-ion layer’s surface can become more involved, introducing a new layer of Pb2+-ions on the top of the initial layer. Due to the n-type properties and higher S atoms concentration of ReS2, the electrostatic interaction phenomena enable more Pb2+-ions to adsorb, as seen in Fig. 2c. Because of the electrostatic interaction, negative charges are formed on ReS2 surface. As the Pb2+-ion concentration is higher, this action decreases the surface potential, causing 
+ to drop even more. Furthermore, the attraction of Pb2+-ions to the ReS2 surface, and the subsequent surface-to-volume ratio with the charge transfer properties of ReS2 may all contribute to the creation of the Pb-S complex and the development of electrostatic interactions over the gate region. We experimented with Fourier-transform infrared spectroscopy (FT-IR) and X-ray diffraction (XRD) spectra analysis to validate the absorption process in the sensor surface before and after the ion immobilization, as shown in Fig. S10, and Fig. S11, respectively.
+
+Download: Download high-res image (272KB)
+Download: Download full-size image
+Fig. 5. Circuit model of the proposed sensor. (a) Simplified ReS2-FET structure with the resistive-capacitive model after Pb2+-ion induced. (b) Equivalent circuit diagram of the FET.
+
+Secondly, in the physical adsorption or physisorption process, analyte molecules cluster to the sensing surface through weak interactions, such as van der Waals and interparticle forces, upon the immobilization of the electrolyte to the ultra-thin passivation layer (presence of coated interface). The weak interactions between oppositely charged cations and anions are separated by ultra-thin film, triggering the formation of the electric double layer (EDL) on the sensor surface (stern and diffused layer), a process that initiates immediately upon contact between the insulator and electrolyte, a widely investigated phenomenon in the insulator-electrolyte interface [83], [84], [85], [86], [87], [88], [89]. The formation of the electric double layer in the proposed sensor is illustrated in Fig. S12. The effectiveness of the back-gated electric field diminishes beyond a critical threshold of passivation layer thickness, a crucial aspect of this phenomenon [84], [90]. The formation of the electric double layer at the interface significantly impacts the sensing mechanism by introducing physical adsorption, notably in the presence of a more positive charge. Surface potential changes, driven by charge redistribution at the interface and exhibiting an exponential decay trend with distance from the interface to metal ions, mirror a capacitor-like structure, a phenomenon observed through real-time capacitor measurements (Fig. 6a), which is attributed to cumulative concentration. Therefore, the presence of the electric double layer leads to a decrease in surface potential due to physical adsorption (absent without passivation), combined with the surface potential reduction caused by chemical absorption, resulting in a modified decline in drain current. The influence of surface potential decreases due to physical adsorption is evident in the sensitivity comparison between with and without a passivation layer (Fig. 3e), whereas the higher sensitivity scenario with a passivation layer reflects contributions from both chemical absorption and physical adsorption. Surface potential differences are depicted in Fig. 6c and Fig. 6d. Before exposure to Pb2+ ions, the surface potential difference was around 102 mV. Without the passivation layer, surface potential decreases to approximately 76 mV following Pb2+ exposure through chemical absorption, whereas with the passivation layer, it diminishes to nearly 64 mV, as depicted in Fig. S13. This phenomenon suggests that the passivation sensor achieves a greater reduction in surface potential, thereby altering the decrease in drain current through the introduction of physical adsorption in the sensing mechanism. Importantly, physical adsorption can occur even after chemical absorption has reached saturation. Therefore, the inclusion of an ultra-thin passivation layer enhances the sensing process via physical adsorption.
+
+Download: Download high-res image (783KB)
+Download: Download full-size image
+Fig. 6. Major experimental results. (a) Real-time capacitance measurement result of Pb2+ testing results (
+ = 2 V; 
+=2V). (b) Raman spectrum of the proposed sensor before and after ion exposure (c) and (d) Surface-potential characteristics before and after Pb2+-ion exposure. (e) Repeatability test (same device) after 1st detection recovery. (f) Response time (tres) for FET sensor with and without passivation layer.
+
+Moreover, as previously mentioned, the electrons are clustered near the MIS interface by the Pb2+-ions positive electrical field, resulting in a modulation of charge carrier density in ReS2-film, causing a decrease in electron density within the channel and leading to the evolution of a depletion-layer [53]. The gate dielectric constant is modulated in a dielectric-modulated FET (DMFET) [91], [92]. A shift of FETs 
+ is caused by an indirect bonding of analyte-molecules via a detecting probe, which causes the 
+ to vary [91]. Besides, in 1910, For ISFET as a sensing application, L. G. Gouy and D. L. Chapman revealed that capacitance was not constant [93], but rather varied depending on the applied voltage and ionic concentration. Hence, the depletion layer with the assistance of the passivation layer lead to the origination of the Helmholtz Model with the Gouy-Chapman Model [93] due to the ion concentration change. Ultrathin HfO2 oxide layer acts as capacitive coupling with ReS2-channel and changes the current in the channel. The equivalent circuit diagram (Fig. 5b) of the FET structure and gate-potential modulation on sensing behavior were used to interpret the sensing results. From the channel-oxide interface (
+ and 
+) and channel-contact interface (
+ and 
+), the system is electrically identical to a resistance–capacitance pair (
+). The channel and contact resistance are represented by 
+ and 
+, respectively. Charge transfer near ReS2 and HfO2 contact results in the formation of 
+. The diffusion-capacitance (
+) has formed apart from the channel to the HfO2, where electronsdisperse in a cloud of opposing charges [94]. ReS2 channel resistance is integrated with series but parallel to both capacitors. Fig. S14. depicts the equivalent circuit model in-depth, which includes two 
+ parallel lines coupled in series, introducing an equivalent 
+ pair for the system (
+ and 
+). When Pb2+-ions concentration is quite high, the number of positive charges may increase due to the cloud of opposing charges, and the overall capacitance (
+) increases as well. 
+ can be formulated from the Gouy-Chapman model [41], [94] by Equation (3). The equivalent capacitance is eventually affected by this change in the diffusion-capacitance [41], [94].
+(3)
+Here, 
+ stands for debye length, 
+ for capacitor region thickness, 
+ for the electronic charge, 
+ stands for ion-induced voltage because of electrostatically charged ions, 
+ for Boltzmann constant, and 
+ for absolute temperature.
+The performance analysis of the suggested ReS2-FET sensor is compared with previously disclosed Pb2+-ion sensors in Table 1. When comparing, the proposed sensor’s LoD and response time outperformed those of previously reported sensors.
+Table 1. Contrast of various sensing methods to detect Pb2+-ions.
+
+Methods	Functionalization	LoD(nM)	Response time	Ref.
+Electrochemical	SnO2/rGO	0.093 nM	−	[95]
+Electrochemical	DPTGCE	3.352 nM	120 sec	[96]
+Electrochemical	CQDs-GO/GCE	5.65 nM	(1 ∼ 7) min	[97]
+Electrochemical	E-Cadherin	5 nM	<16 min	[98]
+Electrochemical	Bismuth film	830 nM	200 sec	[99]
+SWASV	MoS2	0.012 nM	<3 min	[100]
+Colorimetric	GSH-GNPs	100 nM	(15 ∼ 20) min	[9]
+Fluorescent	DNAzyme	10 nM	−-	[101]
+fluorescent	GO/aptamer QD	0.09 nM	25 min	[15]
+ASV	BiF-EPPGE	2.5 nm	4 min	[102]
+HEMT	DMTD	0.05438 nM	4 sec	[103]
+FET	rGO/GSH-Au NP	10 nM	2 sec	[8]
+FET	rGO/Al2O3/Au NP/GSH	12 nM	2 sec	[41]
+FET	HfO2/ReS2/HfO2	2 nM	1.1 sec	This work
+Some major experimental data are shown in Fig. 6. The surface capacitance output by the incremental concentration of Pb2+-ions is presented in Fig. 6a. The capacitance is increased concerning the higher concentration of Pb2+-ions introduced. Another investigation employing semiconductors with a gate-dielectric found a comparable fast shift in capacitance owing to the small change of gate potential [41], [104]. The Raman spectrum characteristics before and after Pb2+-ions exposure are shown in Fig. 6b. After Ca2+ exposure, the intensity peaks (Eg1, Eg2, and Ag1) were almost unchanged. However, after Pb2+-ion exposure, the intensity peaks are reduced due to Pb2+ sensing and this finding is pertinent to the outcomes of earlier experiments. The Kelvin-probe-force-microscopy (KPFM) surface-potential characteristics before and after Pb2+ exposure is presented in Fig. 6c and Fig. 6d, respectively. Before exposure, the surface-potential was almost 102 mV. However, after Pb2+ exposure, the surface-potential down is from around 105 mV to 75 mV with a difference of 64 mV which indicates more n-type strategy from ReS2 and indicates the ReS2 fermi-level is shifted to the conduction-band. Fig. S15 shows the HR FE-SEM results before and after exposure of 1 µM Pb2+-ions. Fig. S16 and Fig. S17 demonstrate the EDS-layered image and EDX-spectra of the sensing surface before and after exposure to Pb2+-ions, respectively. In addition, charge transfer characteristics utilizing XPS analysis before and after Pb2+ ions exposure are shown in Fig. S18. Fig. 6e shows the repeatability test of the proposed sensor. Moreover, along with more sensitivity, the shortest response time is also possible by using passivation layer, as shown in Fig. 6f. Because of passivation layer, the sensor response time (
+) is 1.1-sec which was about 2-sec without passivation layer.
+3.5. Amplifier circuit with ReS2-FET sensor
+For more validation of the experimental results, we performed an amplifier circuit utilizing the fabricated sensor. The employed amplifier circuit is depicted in Fig. 7a, where 
+ (100 kΩ) functions as a resistive load that is linked in series with ReS2 sensor. The probing points of the sensor’s gate voltage and the common node of the load and sensor are denoted by 
+ and 
+, respectively. Fig. 7b shows the transfer curves (
+) of amplifier circuit for several Pb2+-ion concentration where 
+ is swept 0 ∼ 4 V. The 
+ of the amplifier decreases with increasing the concentration. As mentioned earlier, the drain current and the surface potential is decreased with higher concentration ions. Consequently, 
+ is decreased due to the drop of surface-potential and transconductance (
+ of FET sensor after ion-exposure with an increment of slope in the transition region of transfer curves. Due to the steeper-slope obtained after ion-exposure, the amplifier gain is moving upward for higher concentration, as depicted in Fig. 7c. Δ
+(
+) versus 
+(Fig. 7d) for various concentration are plotted as amplifier circuit parameter whereas higher Δ
+ indicating the maximum drop of surface-potential. Fig. 7e shows the 
+ of the amplifier circuit whereas decreasing current with increasing concentration indicates the drop of transconductance. Continued investigation is crucial to obtain precise electronic performance regarding the structure, but this might be a promising research avenue for FET sensors with other 2D materials.
+
+Download: Download high-res image (337KB)
+Download: Download full-size image
+Fig. 7. Developed common-source amplifier circuit with ReS2-FET sensor. (a) Amplifier circuit schematic. (b) Transfer graph (
+) of the circuit for different concentrations of Pb2+. (c) Gain − 
+of the sensing amplifier circuit. (d) Δ
+(
+) versus 
+ as a parameter of the sensing amplifier circuit. (e) (
+) of the sensing amplifier circuit.
+
+4. Conclusion
+In summary, we developed an ion sensor based on CVD-grown ReS2-FET with a passivation layer, demonstrating high sensitivity and selectivity across a range of lead ion concentrations. The inclusion of a passivation layer not only ensures the electrical stability of the devices but also enhances the sensor’s performance. The sensor exhibits rapid response capabilities (1.1-sec) and a satisfactory LoD (2 nM), affirming its excellent sensing capabilities. Moreover, it showcases exceptional selectivity for different metal ions. This sensor platform paves the way for sizable, real-time, low-cost, and greater execution in electrochemical sensing and biosensing applications. The facile manufacturing technique and robust sensing capabilities of the HfO2/ReS2/HfO2 sandwich structure make it an attractive option for real-time detection of Pb2+ in aqueous environments. We concur that the proposed sensor methodology will make a motivating contribution to the sensor-based amplifier circuit that could potentially be implemented in industrial applications.
+Supporting Information
+Lead ions detection using CVD-grown ReS2-FET with
+the facilitation of a passivation layer
+Fig. S1. (a) Microscopic images of the CVD-grown ReS2 film. (b) Microscopic image of
+transferred ReS2 on HfO2/Si substrate (c) Atomic force microscopy image of the ReS2 film.
+Fig. S2 depicts the ReS2 transistor construction process without and with the HfO2 interlayer.
+The HfO2/ Si back-gate substrates were then transferred with as-grown ReS2 released from 300
+nm Si substrate using the BOE transfer process. O2 plasma etching at 60 Watts for one minute
+was used to pattern the ReS2 film. At 200°C, an ALD layer of HfO2 with a thickness ranging
+from 0 to 3 nm was deposited on top of this stack. Then, using lift-off, Ti/ Au contacts (5 nm/ 30
+nm) were established.
+Fig. S2. Step by step of device fabrication process with and without passivation layer.
+CV =
+Standard deviation of 𝐼𝐷𝑆
+Average value of 𝐼𝐷𝑆
+Table S1 illustrates the average and standard deviation of the IDS values for both sensors. 1st
+sensor denotes the proposed device and 2nd sensor denotes the fabricated device.
+Table S1. Reproducibility of the proposed sensor.
+Sensor Average IDS (µA) Standard deviation
+(SD) IDS (µA)
+CV CV (%)
+1
+st sensor 5.8602 0.25980 0.0443 4.43
+2
+nd sensor 5.8707 0.24967 0.0425 4.25
+Fig. S3. Schematic diagram of the mechanism for Pb-S complex, (a) low concentration Pb2+ ions
+reaction for CVD growth ReS2, (b) higher concentration Pb2+
+ ions make the surface as hydrous
+ReS2 surface and formation H3O
++
+layer.
+Fig. S4. XPS deconvolution analysis of Hf 4f spectra.
+we experimented with the XPS deconvolution analysis of Hf 4f spectra. Hf oxide (HfO2) bonds
+at 17.4 and 19.2 eV, respectively. Moreover, Hf suboxide bonds (HfOx) at 16.8 and 18.1 eV are
+also observed. If a significant quantity of hydroxyl groups is found within the film, it may cause
+a substantial decrease in the film's density. Excessive surface oxygen species can enhance
+hydrogen bonding with water molecules at the interface, likely contributing to the observed
+hydrophilic nature of the ALD HfO2 thin films.
+Fig. S5. HR-XRD patterns of HfO2 thin films depending on the thickness.
+The wettability of ALD-grown HfO2 thin films can be inferred as follows: while the
+hydrophilic characteristics of HfO2 thin films can be attributed to their surface oxygen states, this
+factor alone does not determine their wettability. The degree of hydrophilicity appears to be
+influenced by the crystal structures of HfO2. Particularly, with thickness dependency, the
+transformation of the predominant m (-111) crystal orientation significantly impacts the overall
+Surface Free Energy (SFE) of the HfO2 ultra-thin films.
+Fig. S6. Real-time detection after one month of the first detection.
+Fig. S6 shows the real-time detection of the same device after one month of 1st detection.
+Surprisingly, the sensor performance is almost identical. As an advantage of the passivation layer,
+the device was prohibited from environmental effects such as contamination with air
+(oxidization) and source/drain metal which indicates that the proposed device can use for the
+long term.
+Fig. S7. Real-time detection of lead ions (without DI water exposure initially).
+Fig. S8. Enlarged real-time performance graph for measuring (a) the response time and (b) the
+recovery time.
+Fig. S9. FET band diagram due to Pb-S complex
+Following exposure to Pb2+ ions, absorption takes place on the ReS2 surface, initiating electron
+exchange between Pb2+ and ReS2, ultimately forming the Pb-S complex. Application of a
+positive gate bias induces a depletion layer in the channel, leading to an elevation in sensor
+resistance and consequent modulation in conductance.
+Fig. S10. FT-IR spectra of the proposed sensor surface (a) before and (b) after Pb2+ ion absorption.
+Fig. S11. XRD spectra analysis of the proposed sensor (a) before and (b) after Pb2+ ion absorption.
+Fig. S12. A graphical depiction elucidates the electric double layer phenomenon within the proposed
+sensor, emphasizing its incorporation of physical absorption properties.
+Fig. S13. Surface potential difference phenomena with and without passivation.
+Fig. S14. Equivalent circuit model of the ReS2 FET structure after ion exposure.
+Fig. S14 shows the equivalent circuit model of this ReS2 FET system and gate potential
+influence on sensing performance was used to interpret the sensing results.
+Fig. S15. HR FE-SEM results (a) before and (b) after exposure of 1µM Pb2+ ions.
+Fig. S16. EDS-layered image (a-c) before and (d) after exposure of Pb2+ ions.
+Fig. S17. EDX spectra (a) before and (d) after exposure of Pb2+ ions.
+Fig. S18. XPS analysis before and after exposure of experimental Pb2+ ions. Before exposure:
+blue color, After exposure: yellow color.

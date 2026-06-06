@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2020.128540",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "0.29 nM",
+      "upper_detection_limit": "1 μM",
+      "probe_material": "Al functionalized β-Bi2O3 nanofibers",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": 7.2,
+      "test_medium": "phosphate buffer solution; urine"
+    }
+  ]
+}

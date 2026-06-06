@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_anie.201000847",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "2,4,6-trinitrotoluene (TNT)",
+      "lower_detection_limit": "5e-16 M",
+      "upper_detection_limit": "5e-6 M",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "dimethyl sulfoxide/water"
+    }
+  ]
+}

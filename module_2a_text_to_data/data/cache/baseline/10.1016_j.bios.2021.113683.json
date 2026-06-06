@@ -1,0 +1,35 @@
+{
+  "stem": "10.1016_j.bios.2021.113683",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "proton (pH)",
+      "lower_detection_limit": "pH 4",
+      "upper_detection_limit": "pH 9",
+      "probe_material": "Al2O3",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-9",
+      "test_medium": "buffer solutions"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "urea",
+      "lower_detection_limit": "0.5 mM",
+      "upper_detection_limit": "40 mM",
+      "probe_material": "Al2O3 (urease functionalized)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "PBS"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "penicillin G",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Al2O3 (penicillinase functionalized)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "PBS"
+    }
+  ]
+}

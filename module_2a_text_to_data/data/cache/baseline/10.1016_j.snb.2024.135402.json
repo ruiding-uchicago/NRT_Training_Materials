@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2024.135402",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydrogen sulfide (H2S)",
+      "lower_detection_limit": "10 pM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "cobalt phthalocyanine (Copc) and reduced graphene oxide (RGO) nanocomposite (CoGPCs)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline (PBS) or cell culture medium"
+    }
+  ]
+}

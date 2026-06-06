@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.202308857",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "thrombin",
+      "lower_detection_limit": "2e-9 M",
+      "upper_detection_limit": "2e-7 M",
+      "probe_material": "thrombin aptamer (TBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

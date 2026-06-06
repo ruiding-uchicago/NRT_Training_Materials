@@ -1,0 +1,462 @@
+Advances in Natural
+Sciences: Nanoscience
+and Nanotechnology
+
+PAPER • OPEN ACCESS
+Fabrication of few-layer graphene film based field
+effect transistor and its application for tracedetection of herbicide atrazine
+To cite this article: Thi Thanh Cao et al 2016 Adv. Nat. Sci: Nanosci. Nanotechnol. 7 035007
+View the article online for updates and enhancements.
+You may also like
+Development of efficient nonthermal
+atmospheric-pressure Ar-plasma jet
+through simultaneous spectroscopic
+characterization and radical quantification
+P S N S R Srikar, Shaik Mahamad
+Allabakshi, Suman Gomosta et al.
+-
+Progress in the research and development
+of photonic structure devices
+Van Hoi Pham, Huy Bui, Thuy Van
+Nguyen et al.
+-
+Triazine Herbicides Transfer at the
+Water/1,2-Dichloroethane Interface
+M. Velázquez-Manzanares, J. AmadorHernández, C. Cisneros-Cisneros et al.
+-
+This content was downloaded from IP address 130.202.186.152 on 31/05/2025 at 03:13
+Fabrication of few-layer graphene film based
+field effect transistor and its application for
+trace-detection of herbicide atrazine
+Thi Thanh Cao1
+, Van Chuc Nguyen1
+, Hai Binh Nguyen1
+, Hung Thang Bui1
+,
+Thi Thu Vu2
+, Ngoc Hong Phan1
+, Bach Thang Phan3
+, Le Hoang2
+,
+Maxime Bayle4
+, Matthieu Paillet4
+, Jean Louis Sauvajol4
+,
+Ngoc Minh Phan1 and Dai Lam Tran5
+1 Institute of Materials Science, Vietnam Academy of Science and Technology 18 Hoang Quoc Viet,
+Cau Giay, Hanoi, Vietnam
+2 University of Science and Technology of Hanoi, Vietnam Academy of Science and Technology, 18
+Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam
+3 Faculty of Material Sciences, University of Science, VNU-HCMC, Ho Chi Minh City, Vietnam
+4 Laboratoire Charles Coulomb UMR 5221, Universite de Montpellier-CNRS, F-34095 Montpellier, France
+5 Graduate University of Science and Technology, Vietnam Academy of Science and Technology, 18
+Hoang Quoc Viet, Cau Giay, Hanoi, Vietnam
+E-mail: chucnv@ims.vast.ac.vn and tdlam@gust-edu.vast.vn
+Received 2 May 2016
+Accepted for publication 6 June 2016
+Published 1 August 2016
+Abstract
+We describe the fabrication of highly sensitive graphene-based field effect transistor (FET)
+enzymatic biosensor for trace-detection of atrazine. The few-layers graphene films were prepared
+on polycrystalline copper foils by atmospheric pressure chemical vapor deposition method using
+an argon/hydrogen/methane mixture. The characteristics of graphene films were investigated by
+scanning electron microscopy, transmission electron microscopy and Raman spectroscopy. The
+results indicated low uniformity of graphene layers, which is probably induced by heterogeneous
+distribution of graphene nucleation sites on the Cu surface. The pesticide detection is
+accomplished through the measurement of the drain-source current variations of the FET sensor
+upon the urea enzymatic hydrolysis reaction. The obtained biosensor is able to detect atrazine
+with a sensitivity of 56 μA/logCATZ in range between 2 × 10−4 and 20 ppb and has a limit of
+detection as low as 0.05 ppt. The elaboration of such highly sensitive biosensors will provide
+better biosensing performances for the detection of biochemical targets.
+Keywords: graphene, FET, atrazine
+Classification numbers: 2.04, 5.00, 5.15, 6.09
+1. Introduction
+In the last two decades, graphene has attracted much attention
+in many fields such as optoelectronics [1–3], composites [4],
+catalysis [5, 6], energy [7, 8], and sensors [8–13]. In
+particular, graphene has been regarded as a promising
+candidate for the development of highly sensitive
+biosensing systems thanks to its high charge mobility
+(∼105 cm2 V−1 s
+−1
+), large carrier capacity (∼1012 cm−2
+) and
+significant interface interactions with chemical/biological
+elements [14]. Since its introduction in 2004 [15], various
+graphene forms including single/bi/few-layered films,
+nanoribbons, exfoliated graphite nanoplatelets, reduced graphene oxide (rGO) composites etc, were incorporated into
+various types of sensors to improve sensing performances.
+| Vietnam Academy of Science and Technology Advances in Natural Sciences: Nanoscience and Nanotechnology
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 (7pp) doi:10.1088/2043-6262/7/3/035007
+Original content from this work may be used under the terms
+of the Creative Commons Attribution 3.0 licence. Any
+further distribution of this work must maintain attribution to the author(s) and
+the title of the work, journal citation and DOI.
+2043-6262/16/035007+07$33.00 1 © 2016 Vietnam Academy of Science & Technology
+For example, He et al [16] reported the label-free detection of
+the hormonal catecholamine molecules using liquid-gated
+field effect transistor (LgFET) based on parallel rGO arrays.
+The graphene flakes-based FET or electrochemical sensors
+were used to measure biomedical indexes (i.e., glucose) [17],
+monitor food safety (i.e., lactose) [18] and discriminate
+odorants (i.e., amyl butylrate) [19]. The limit of detection
+(LOD) of such sensors might be down to femtomole (fM)
+scale [17, 19]. Nevertheless, it still remains a great challenge
+to obtain reliable graphene sensing devices for highthroughput chemical and biological analysis in practical
+applications [20].
+In this contribution we demonstrate the elaboration of a
+graphene LgFET urea enzymatic sensor for highly sensitive
+detection of atrazine. The graphene thin films prepared by
+atmospheric pressure chemical vapor deposition (APCVD)
+has been transferred onto the surface of source (S) and drain
+(D) electrodes. The use of CVD-grown graphene films in FET
+device will probably provide a promising approach for
+detection of targeted biomolecules.
+2. Experimental
+2.1. Synthesis of graphene films
+Graphene films were grown by APCVD method on polycrystalline Cu foils (1.0 cm × 1.0 cm × 35 μm). First, the Cu
+foil was annealed at 1000 °C for 30 min in Ar (1000
+standard cubic centimeter/minute (sccm))/H2 (300 sccm)
+gas mixture to reduce the native Cu oxide and to facilitate
+Cu grain growth. Then, a flow of methane (CH4, 30 sccm)
+was introduced to grow the graphene films. After 30 min,
+the CH4 flow was turned off and the Cu foil was rapidly
+cooled to room temperature under a flow of Ar (1000
+sccm). Finally, the obtained Cu substrates covered by
+the graphene films were stored in ambient conditions.
+These graphene layers can be subsequently transferred
+onto any desired surfaces by wet-etching method right
+before use.
+2.2. Characterization of graphene films
+The scanning electron microscopy (SEM) images of the
+samples were obtained by using Hitachi S-4800. The graphene layer structure was studied using a high resolution
+transmission electron microscope (HRTEM, Fei Tecnai G20).
+Raman spectra were recorded using an Acton spectrometer
+fitted with a Pylon CCD detector and a 600 grooves/mm
+grating (∼2.5 cm−1 between each CCD pixel). The samples
+were characterized on Cu and using a 457 nm laser. The full
+width at half-maximum (FWHM) of the focused laser spot
+was about 400 nm.
+2.3. Fabrication of the graphene based-FET sensor (GFET
+sensor)
+The liquid gated FET sensor consisted of 19 coupled interdigitated electrodes, each of them has a source (S) and a drain
+(D), fixed on silicon substrate with 100 nm of thermal oxide
+(SiO2/Si) and one platinum wire top gate electrode
+(figure 1(b)). The S and D electrodes were fabricated on the
+SiO2/Si substrate by standard microfabrication techniques.
+The SiO2/Si wafer was spin-coated with a layer of photoresist
+and the shape of the electrodes was defined by UV-photolithography. Then, 20 nm of chromium and 200 nm of platinum were sputtered on top of the wafer and followed by liftoff. The configuration of designed electrodes was
+60 × 60 × 2400 μm3 (width × gap × length). The source and
+drain measurement pads were protected from solution by
+covering the sample with silicone rubber (0.9 mm in radius)
+(figure 1(a)). The synthesized graphene films were released
+from the Cu substrate by wet-etching of the underlying Cu in
+0.5 M iron chloride (FeCl3) solution for 10 min and then in
+0.3 M ammonium persulfate (NH4)2S2O8 solution for 3 h.
+Following the etching, samples were rinsed with deionized
+(DI) water and then transferred onto the FET electrodes. The
+area of graphene film must be sufficiently large
+(∼1.8 × 1.8 mm2
+) to cover all 19 coupled interdigitated
+electrodes (figure 1(a)). Usually FET devices are fabricated
+by depositing metallic electrodes on top of the graphene films
+[21, 22]. Here, the graphene films have been directly deposited on top the prefabricated electrodes.
+2.4. Enzyme immobilization
+The urease enzyme (EC 3.5.1.5, Merck) was diluted in
+phosphate-buffered saline solution and stored at 4 °C.
+This enzyme was immobilized on GFET sensors by crosslinkage via glutaraldehyde (GA) vapor (Sigma-Aldrich)
+for 1 h. To facilitate the immobilization of biomolecules,
+the graphene films (on FET device) were previously
+functionalized with carboxyl groups using an acidic
+mixture of HNO3:H2SO4 at volume ratio of 3:1. The
+electric pads were protected from GA molecules using a
+parafilm.
+2.5. Atrazine detection
+The detection of atrazine is accomplished through measuring
+changes in drain–source current of the FET sensor upon the
+urea enzymatic hydrolysis reaction. The urea solution
+(30 mM) and atrazine solutions (with concentrations ranging
+from 2 × 10−4 to 20 ppb) were prepared in deionized water.
+For each measurement, the FET sensor was incubated in the
+pesticide solution (positive sample) for 30 min and then
+characterized in urea solution. The variations of the drain–
+source current as a function of the gate voltage have been
+recorded to evaluate the inhibition of atrazine toward the
+enzymatic activity of urease. The electrical measurements of
+graphene LgFETs were carried out using a semiconductor
+parameter analyzer (Keithley, Model 4200-SCS). A control
+test was also conducted using a blank solution as a negative
+sample.
+2
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al
+3. Results and discussions
+3.1. Structural characterizations and morphology of graphene
+films
+Figure 2 shows a typical SEM image of a graphene/fewlayers graphene (graphene/FLG) film grown on Cu substrate
+at 1000 °C under flow of CH4 and H2 (CH4/H2 = 30/
+300 sccm) with a CVD duration of 30 min. As shown on
+figure 2, the entire surface of the Cu substrate is completely
+covered with graphene after 30 min growth. It was well
+established that the growth of graphene films is initiated by
+formation of nucleation sites on the substrate, followed by the
+planar spread of carbon atoms from those centers to form
+graphene domains, and finally finished by linking graphene
+domains to create a solid and stable graphene film [23].
+Depending on reaction time, concentration of carbon source,
+substrate roughness, substrate area etc, the continuity of
+graphene films might be extended to several centimeters
+square [23]. The white lines observed on graphene film
+(figure 2) are graphene wrinkles. The appearance of the
+wrinkles is due to accommodation of the differences in the
+thermal expansion coefficients between graphene or graphite
+and Cu substrate [24].
+On figure 3(A) an optical microscopy image of a graphene/FLG film after the CVD process of 30 min is presented. Figure 3(B) presents Raman spectra measured on the
+graphene/FLG covered Cu substrate measured at seven different locations (labelled from a to g on figure 3(A)). As
+expected, the two characteristic peaks assigned to G band
+Figure 1. Schematic illustration of a FET device configuration (a) and the experimental setup (b) and (c) for electrolyte-gate GFETs.
+3
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al
+(∼1580 cm−1
+) and 2D band (2730 cm−1
+) of graphene/FLG
+material were easily detected at all measured points. The
+defect related peak (D band) located around 1370 cm−1 is also
+present on some spectra (a, b, f and g). As inferred from the
+intensity ratio between G and D bands, the structural quality
+of the graphene/FLG film is rather good. At points e and f,
+additional features related to copper oxide [25] are also
+observed. From the analysis of Raman data, we can conclude
+(this was also confirmed by Raman mapping, not shown) that
+(i) the graphene/FLG film is covering the entire surface and
+(ii) the number of layers is varying from place to place as
+shown, for example, by the variation of G band integrated
+intensity from one spectrum to another (only the spectra
+where the copper oxide is not detected should be considered
+here since Raman intensities can be modulated depending on
+the oxide thickness [25]). Deducing the exact number of
+layers from the Raman spectra requires however more
+experiments and analysis since the criteria based on the
+analysis of the 2D band have been shown to be misleading in
+many cases [26]. We thus performed TEM analysis of the
+graphene/FLG film to get insight on this.
+On figures 4(a) and (b) typical HRTEM images of the
+graphene films measured at two different areas of the sample
+after transferring from the Cu substrate to a copper grid for
+TEM examination are presented. According to HRTEM
+images, the number of graphene layers measured at two different areas are three (figure 4(a)) and six (figure 4(b)) layers.
+The distance between of the layers is 0.34 nm.
+To conclude, it is clear that APCVD is a promising
+method for massive production of graphene films. Our proposed approach enables the formation of continuous films of
+few-layer graphene on a large area up to several centimeters
+square. Nevertheless, the uniformity of such FLG thin films is
+rather low in terms of number of layers and defect density.
+This is probably partly due to the heterogeneous distribution
+of graphene nucleation sites on the Cu substrate used.
+3.2. Electrical properties of GFET
+To evaluate electric behaviors of the fabricated FET sensors,
+we have measured the I–V curves, including Ids–Vg at different Vds (from 0.98 to 1.02 V with a step of 0.05 V) and Ids–
+Vds at different Vg (from 0 to 9.0 V with a step of 1.0 V). The
+transport characteristics of the FET are shown on figure 5. As
+seen in figure 5(A), as Vds increases, the minimum conductance point, where the type of charge carrier is changed,
+was shifted towards higher Vg values (see the arrow direction
+in figure 5(A)). Likewise, the inflection point was shifted to
+higher Vds as increasing Vg (see the arrow direction in
+figure 5(B)). The field effect carrier mobility (μ) turns out to
+be ∼7.21 cm2 V−1 s
+−1 via
+m ( ) s = D
+D = D D ⎛
+⎝
+⎜ ⎞
+⎠
+⎟ C V
+L I
+WV
+C V , tg g
+ds
+ds
+tg g
+where Δσ, L, W, ΔIds, Vds, ΔVg, and Ctg are the differential
+conductance, channel length, channel width, differential
+drain–source current, drain–source voltage, differential
+Figure 2. SEM image of graphene/FLG films grown on the Cu
+substrate after CVD process for 30 min.
+Figure 3. (A) Optical microscopy image of graphene/FLG film grown on the Cu substrate after CVD process during 30 min. Points a, b, c, d,
+e, f and g in (A) correspond to the locations where the Raman measurements were performed. (B) Raman spectra (a to g) of the graphene/
+FLG film measured on the Cu substrate at the different correcponding locations as labelled on the spectra and in (A).
+4
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al
+Figure 4. Typical HRTEM images of graphene/FLG film measured at two different locations: the film thicknesses are three (A) and six (B)
+layers.
+Figure 5. Electrical characteristics of the fabricated sensor. (A) Ids as a function of Vg for different Vds from 0.98 to 1.02 V with a step of
+0.05 V; (B) Ids as a function of Vds for different Vg from 0 to 9 V with a step of 1.0 V. The dotted arrow shows the direction of the shift in the
+minimum of Ids; and (C) Ids versus Vg curves measured for different atrazine concentrations at Vds = 1.0 V. As the atrazine concentration
+increases, from 2 × 10−4 to 20 ppb, the minimum of Ids is shifted towards higher Vg.
+5
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al
+voltage and the total top gate capacitance, respectively. The
+total top gate capacitance (Ctg) can be calculated from the
+equation [17]
+= +
+C ⋅ C C
+C C tg
+EL q
+EL q
+The capacitance of the gate electrolyte (CEL) can be
+described from the equation
+( ) ( ) pe e
+e
+e
+= + + C r h
+r 2 1 tan 2 1
+EL 0 r , r
+r
+where r, h, ε0, εr are the radius of the graphene layer, the
+thickness of the gate insulator, the permittivity of free space,
+and the relative permittivity of the solution, respectively. For
+the electrolyte-gated GFETs (with r = 0.9 mm, h = 1 nm,
+ε0 = 8.854 × 10−12 F m−1
+, εr = 80), the CEL is ∼3002 nF
+cm−2
+. With the quantum capacitance of the graphene channel
+(Cq) is approximately 2 μF cm−2 [14], the Ctg is 1200 nF
+cm−2
+. The mobility value of our graphene-based FET is
+smaller than that of other graphene—based FETs [17, 22].
+3.3. Atrazine detection
+For a perfect and contamination-free graphene devices, the
+minimum conductance point should be close to zero [22]. If
+the graphene surface adsorbs any chemicals, the minimum
+conductance point of graphene will be shifted towards positive or negative gate voltage. By observing the shift of the
+minimum conductance point, one can determine the change in
+behaviors of graphene surface [22]. Figure 5(C) shows the
+variation of drain–source current of FLG as function of the
+gate voltage at different concentrations of atrazine (from
+2 × 10−4 to 20 ppb). The applied drain source voltage was
+1 V. As the atrazine concentration increases from 2 × 10−4 to
+20 ppb, the minimum conductance point (where the channel
+conductance is minimum [20]) was shifted towards higher
+values of Vg. As seen in figure 5(C), the value of current
+response (Ids) changed (from 6.456 to 6.709 mA) whereas the
+Vg at minimum conductance point shifted toward positive
+values as increasing concentration of atrazine (from 1.05 to
+1.98). This result was also observed in other report [1]. The
+working principle of our atrazine biosensor is based on the
+inhibition of pesticide toward urease. In ion sensitive fieldeffect transistor biosensor, the conductivity of electrode surface is critical to determine the position, the intensity and the
+width of minimum conductance point. In our case, the
+hydrolysis of subtrate provided ions (NH4
++, OH−) that would
+be adsorped onto electrode surfaces, then led to the increase
+in charge density and mobility on graphene layer [19].
+Hydrolysis reaction:
+( ) + + + + ⋅ + - CO NH 3H O urease CO 2NH 2OH 22 2 2 4
+When atrazine is introduced, it acts as an inhibitor to
+reduce activity of enzyme, lowers the concentrations of ions
+at the electrodes and subsequently decreases current signal.
+The decrease of the differential drain–source current (ΔIds)
+with increasing atrazine concentrations expanding from
+2 × 10−4 to 20 ppb was described in figure 6. Within the
+range of studied concentrations, the device showed good
+linearity with a coefficient of determination (R2
+) of 0.98. The
+regression equation was
+DI C ds ATZ ( ) mA 80.2 56 log . = -
+The LOD and sensitivity were estimated to be 0.05 ppt
+and 56 μA/logC(ATZ), respectively. This value is much lower
+than detection limits for atrazine biosensors in previously
+reported works [27–33].The key of the performance achieved
+for the atrazine sensor described here must rely on the combination of CVD-grown Gr film and FET configuration.
+Compared to other graphene forms, CVD-grown FLGr films
+exhibits stronger and more controllable interaction with chemical/biological elements through π–π bond [17]. Also, it
+was reported that a synergistic effect in which electron
+transfer process was enhanced might occur at the edges of
+graphene planes [20]. Nevertheless, considerable works must
+still be done to gain better knowledge and insights on graphene materials that will advance the design of future graphene based sensing devices and improve their performances.
+4. Conclusion
+In conclusion, we have investigated a GFET enzymatic sensor
+for pesticide detection. The urease molecules were immobilized in a few-layered graphene channel between S and D
+electrodes. The inhibition of enzymatic hydrolysis of urea in
+presence of pesticide was captured as drain-source current
+changes. The sensitivity of graphene sheet—based FET
+atrazine sensor was 56 μA/logCATZ. The detection limit of
+atrazine sensor was determined to be 0.05 ppt. GFET devices
+will probably play a key role in the future biosensing systems
+that can electrically detect biomolecules with high sensitivity
+and specificity.
+Figure 6. The dependence of the differential drain–source current
+(ΔIds) on concentration of atrazine.
+6
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al
+Acknowledgments
+This research is funded by projects: VAST (VAST03.06/14-
+15, VAST.ĐLT.04/14-15, VAST.HTQT.NGA.10/16-17)
+and PICS-CNRS n° 6457.
+References
+[1] Jang S, Hwang E, Lee Y, Lee S and Cho J H 2015 Nano Lett.
+15 2542
+[2] Tran H N, Nguyen V H, Nguyen B H and Vu D L 2016 Adv.
+Nat. Sci.: Nanosci. Nanotechnol. 7 013001
+[3] Nguyen B H and Nguyen V H 2016 Adv. Nat. Sci.: Nanosci.
+Nanotechnol. 7 013002
+[4] Song M 2013 Nanomater. Energy 2 97
+[5] Lonkar S P and Abdala A A 2014 J. Thermodyn. Catal. 5 2157
+[6] Cheng Y, Fan Y, Pei Y and Qiao M 2015 Catal. Sci. Technol.
+5 3903
+[7] Sun Y and Shi G 2013 J. Polym. Sci. B 51 231
+[8] Ramachandran R, Mani V, Chen S M, Saraswathi R and
+Lou B S 2013 Int. J. Electrochem. Sci. 8 11680
+[9] Nguyen V H 2016 Adv. Nat. Sci.: Nanosci. Nanotechnol. 7
+023001
+[10] Nguyen B H and Nguyen V H 2016 Adv. Nat. Sci.: Nanosci.
+Nanotechnol. 7 023002
+[11] Xu K, Meshik X, Nichols B M, Zakar E, Dutta M and
+Stroscio M A 2014 Nanotechnology 25 205501
+[12] Zhan B, Li C, Yang J, Jenkins G, Huang W and Dong X 2014
+Small 10 4042
+[13] Gree N S and Norton M L 2015 Anal. Chim. Acta 853 127
+[14] Ohno Y, Maehashi K, Yamashiro Y and Matsumoto K 2009
+Nano Lett. 9 3318
+[15] Novoselov K S, Geim A K, Morozov S V, Jiang D, Zhang Y,
+Dubonos S V, Grigorieva I V and Firsov A A 2004 Science
+306 666
+[16] He Q, Sudibya H G, Yin Z, Wu S, Li H, Boey F, Huang W,
+Chen P and Zhang H 2010 ACS Nano 4 3201
+[17] Kwak Y H, Choi D S, Kim Y N, Kim H, Yoon D H, Ahn S S,
+Yang J W, Yang W S and Seo S 2012 Biosen. Bioelectron.
+37 82
+[18] Binh N H, Binh N T, Hanh V V, Chuc N V, Dzung N T,
+Loc N T, Thu V T and Lam T D 2016 Curr. Appl. Phys.
+16 135
+[19] Park S J, Kwon O S, Lee S H, Song H S, Park T H and Jang J
+2012 Nano Lett. 12 5082
+[20] Yang W, Ratinac K R, Ringer S P, Thordarson P,
+Gooding J J and Braet F 2010 Angew. Chem. Int. Ed.
+49 2114
+[21] Shon I Y, Kim D J, Jung J H, Yoon O J, Thanh T N,
+Quang T T and Lee N E 2013 Biosens. Bioelectron. 45 70
+[22] Wang Y Y and Burke P J 2013 Appl. Phys. Lett. 103 052103
+[23] Nguyen V T, Le H D, Nguyen V C, Ngo T T T, Le D Q,
+Nguyen X N and Phan N M 2013 Adv. Nat. Sci.: Nanosci.
+Nanotechnol. 4 035012
+[24] Chuc N V, Thanh C T, Tu N V, Phuong V T Q, Thang P V and
+Tam N T T 2015 J. Mat. Sci. Technol. 31 479
+[25] Yin X, Li Y, Ke F, Lin C, Zhao H, Gan L, Luo Z, Zhao R,
+Heinz T F and Hu Z 2014 Nano Res. 7 1613
+[26] Bayle M et al 2015 Phys. Status Solidi B 252 2375
+[27] Pichetsurnthorn P, Vattipalli K and Prasad S 2012 Biosens.
+Bioelectron. 32 155
+[28] Jia K, Adam P M and Ionescu R E 2013 Sensors Actuators B
+188 400
+[29] Xia L, Yang Y, Mao L, Li Z, Zhou C, Liu X, Zheng S and
+Hua Y 2015 Sensors Actuators B 218 1
+[30] Deep A, Saraf M, Neha, Bharadwaj S K and Sharma A L 2014
+Electrochim. Acta 146 301
+[31] Liu X, Li W J, Li L, Yang Y, Mao L G and Peng Z 2014 Sens.
+Actuat. B 191 408
+[32] Lattach Y, Garnier F and Remita S 2012 Chem. Phys. Chem.
+13 281
+[33] Andrés G T, María A Z, Patricia G M, Héctor F,
+Gualberto G S and Fernando J A 2015 Biosens. Bioelectron.
+64 650
+7
+Adv. Nat. Sci.: Nanosci. Nanotechnol. 7 (2016) 035007 T T Cao et al

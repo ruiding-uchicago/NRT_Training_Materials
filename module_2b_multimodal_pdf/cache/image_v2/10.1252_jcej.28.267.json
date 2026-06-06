@@ -1,0 +1,364 @@
+{
+ "records": [
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "m-NP",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "200 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "p-NP",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "100 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "m-NP",
+   "interferent": "p-NP",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "200 M⁻¹",
+   "interferent_value": "100 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "L-Thr",
+   "interferent": "D-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "75 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 9",
+    "page": "271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "L-Phe",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "50 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 10",
+    "page": "272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "L-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "75 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "L-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "m-NP",
+   "interferent": "L-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "200 M⁻¹",
+   "interferent_value": "75 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "m-NP",
+   "interferent": "L-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "200 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "p-NP",
+   "interferent": "L-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "100 M⁻¹",
+   "interferent_value": "75 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "p-NP",
+   "interferent": "L-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "100 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "L-Thr",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "75 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 9, Fig. 10",
+    "page": "271, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "D-Thr",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "50 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 9, Fig. 10",
+    "page": "271, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "L-Thr",
+   "interferent": "L-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "75 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 9, Fig. 10",
+    "page": "271, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "D-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "m-NP",
+   "interferent": "D-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "200 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "p-NP",
+   "interferent": "D-Thr",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "100 M⁻¹",
+   "interferent_value": "50 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 9",
+    "page": "270, 271"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "o-NP",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "400 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "m-NP",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "200 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  },
+  {
+   "receptor": "α-CD",
+   "target": "p-NP",
+   "interferent": "D-Phe",
+   "condition": {
+    "solvent": "water",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding constant (K_B)",
+   "label_basis": "K_B value from figure",
+   "target_value": "100 M⁻¹",
+   "interferent_value": "25 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Fig. 4, Fig. 10",
+    "page": "270, 272"
+   }
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2020.128540",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "serotonin",
+      "lower_detection_limit": "2.9e-10 M",
+      "upper_detection_limit": "1e-6 M",
+      "probe_material": "aluminum/β-Bi2O3",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "sodium chloride/potassium chloride/disodium phosphate/potassium dihydrogen phosphate/water"
+    }
+  ]
+}

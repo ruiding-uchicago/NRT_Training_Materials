@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s13206-020-4410-1",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-9 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "indium tin oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-9",
+      "test_medium": "water"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+Fei Qiu
+
+College of Chemistry and Material Science, Shandong Agriculture University, Taian, 271000 China
+
+Beijing National Laboratory for Molecular Sciences, Key Laboratory of Organic Solids, Institute of Chemistry, Chinese Academy of Sciences, Beijing, 100190 China
+
+Jie Liu
+
+Corresponding Author
+
+Hantang Zhang
+
+htzhang@sdau.edu.cn;ashy@sdau.edu.cn;ljiang@iccas.ac.cn
+
+Haiyang Li
+
+Jianghong Liu
+
+Xiaosong Shi
+
+Chunlei Li
+
+Yanjun Shi
+
+Yuanyuan Hu
+
+Key Laboratory for Micro-Nano Optoelectronic Devices of Ministry of Education, School of Physics and Electronics, Hunan University, Changsha, 410082 China
+
+Yunlong Guo
+
+Xike Gao
+
+Key Laboratory of Synthetic and Self-Assembly Chemistry for Organic Functional Molecules, Center for Excellence in Molecular Synthesis, Shanghai Institute of Organic Chemistry, Chinese Academy of Sciences, Shanghai, 200032 China
+
+Shiyun Ai
+
+Lang Jiang
+
+Give access
+
+Share full-text access
+
+Use the link below to share a full-text version of this article with your friends and colleagues.Learn more.
+
+Share a link
+
+Monolayer molecular crystals (MMC) of NDI3HU-DTYM2 are grown on flexible substrates for constructing organic field effect transistors (OFET) as sensors to detect dimethoate. Benefitting from the ultra-thin thickness of monolayer and highly crystalline nature, the MMC-OFET based dimethoate sensors exhibit an ultrahigh detection limit of 0.60 ppb. The devices also show excellent conformal ability on various curved surfaces with negligible performance degradation. This work offers a promising flexible candidate for the fast and efficient detection of organophosphorus pesticides.
+
+Organophosphorus pesticides (OPPs), which could cause severe nervous system damage, are the most widely used pesticides in the world. OPPs’ residues not only cause damage to human health, but also seriously pollute the environment.[1]Continuous efforts have been made to develop fast and sensitive OPPs detection technologies.[2]For example, the gold standard methods such as gas chromatography flame ionization detection (GC-FID),[3]high-performance liquid chromatography (HPLC)[4]and gas chromatography mass spectrometry (GC-MS),[5]and some new techniques such as electrochemical analysis,[1]fluorescence analysis[6]and microlasers sensors,[7]have been reported with the ability to achieve accurate determination of OPPs’ residuals. Although these methods exhibit strong trace analysis ability, the needs of sophisticated instrumentation and dedicated sample pretreatments limit their application in real-time and on-site detection which is highly demanded in the next generation of detection technology.[8]
+
+Organic field effect transistor (OFET) based sensors have grabbed intense attention due to their cost-effectiveness, ultra-facile operation and low energy consumption.[9]Besides, OFET sensors directly take current changes as the output signals without the need of signal conversion, which is conducive to the portability, real-time sensing and interconnection of devices.[8,10]OFET sensors have achieved great success in hazardous gas sensing,[10,11]but their application in OPPs’ detection has been rarely reported. Considering the high volatility of OPPs, we propose OFET could be a promising candidate for the OPPs’ sensors. However, the sensitivity of OFET sensors need to be further improved since the allowed maximum residuals of OPPs are ultralow.[12]In addition, in order to make the sensors have on-site detection capabilities, the devices should have the flexibility to adapt to various surfaces.[13]
+
+Recently, OFET sensors based on monolayer molecular crystals (MMC) have shown their potential in highly sensitive detection because of the direct interaction of analytes to the conducting channel, which favors stronger transduction and a rapid absorption/desorption process.[8,10,11,14]Its single crystal nature can also reduce the effect of defects on the variations of the source-drain current.[15]However, the direct growth of MMC on flexible substrates through simple solution process remains a challenge: an interface layer which possesses high flatness, resistance to organic solvents, and appropriate surface energy is usually needed.[16]Some commonly used interface layers, such as HfO2[17]and BCB[14,18]require high-temperature processing, which is incompatible with the applicable temperature of commonly used flexible polymer substrates (e.g., PET, PS, and PMMA).[8,10,19]To overcome this challenge, we employed a double polymer dielectric strategy. An ultrathin poly(sodium-p-styrenesulfonate) (PSS) layer was spin-coated on a thick polymethyl methacrylate (PMMA) layer to form PSS/PMMA bilayer. The thick PMMA served as the insulating and substrate roughness reducing layer, while the ultrathin PSS served as a smooth layer for the MMC growth. In addition, hydrosoluble PSS could also prevent organic solvent corrosion in the subsequent solution processes. Then, MMCs were successfully grown on the flexible substrate through simple drop-casting method. Taking dimethoate, a typical organophosphorus pesticide which is highly harmful even at low concentrations-as the analyte, the OFET sensors based on MMC show a detection limit as low as 0.60 ppb. The devices also show fast response/recovery time within 20 s/68 s and obvious selective response to dimethoate. The sensing performances of the device on curved surfaces with different curvatures also remain consistent. To the best of our knowledge, this is the first report on MMC-based flexible OFET sensor.
+
+The molecular structures of organic semiconductors and dimethoate are shown inFigure1a. The long alkyl chain of NDI3HU-DTYM2 can not only lead to dense in-plane molecular packing which is beneficial for carrier transport,[2,20]but also regulate the interlayer force and make it easy to grow into MMC through a simple drop-casting method.[18]Bottom-gate-top-contact device structure is adopted in this work, as shown in Figure1d. Polyethylene terephthalate (PET) is used as the bottom plastic substrate on which sputtered indium tin oxide (ITO) serves as the gate electrodes. Dielectric layer consists of PMMA and a thin layer of PSS, which are both deposited on ITO by spin-coating.
+
+The thickness of PMMA and PSS are 1.5 µm and 80 nm, respectively and the whole dielectric layer has excellent electric insulation (Figure S1, Supporting Information). The results of wetting envelopes (Figure1e) show that wettability of chlorobenzene on the NDI3HU-DTYM2 crystals and on PSS is similar, which leads to stable volatilization of the solvent at the boundary of the droplet and thus facilitates the formation of uniform and smooth MMCs under the condition of dilute solution.[21]According to previous reports, high quality NDI3HU-DTYM2 MMCs were also obtained on BCB substrates, which is consistent with the wetting envelopes results.[14]NDI3HU-DTYM2 MMC can be obtained after extremely dilute solution was dropped on PSS/PMMA and slowly volatilized. AFM (Figure1b) indicates that the crystal thickness is only ≈2 nm, which is equivalent to the thickness of monolayer film of NDI3HU-DTYM2 reported previously.[22]The obvious and uniform change between light and dark of the orthogonal polarizing microscope images demonstrate the single crystal structure of the crystal (Figure1d). XRD was performed to confirm the molecular stacking of NDI3HU-DTYM2 on flexible substrates (Figure S2, Supporting Information). The diffraction peak position at 2θ = 4.23°, 8.30°, 12.37° suggests that the stacking mode of NDI3HU-DTYM2 on flexible PSS/PMMA substrate is the same as that on SiO2.[22]The narrow full width at half maximum (FWHM) indicates a high degree of crystallinity. It is worth noting that the appearance of multiple diffraction peaks in XRD is due to the mixture of monolayer and multilayer crystals on the substrate, but only monolayer crystals were selected to fabricate devices. Combining the data of AFM and XRD, it can be concluded that the NDI3HU-DTYM2 crystals we have obtained are MMCs. On the basis of this, Au electrodes (≈100 nm) were physically transferred onto the MMCs with the help of the mechanical probes to construct top-contact devices.[17]
+
+Dimethoate aqueous solutions with concentrations of 80, 400, and 1000 ppm were first prepared in sealed volumetric flasks. After 12 h evaporation, saturated dimethoate vapor was extracted from the headspace of the volumetric flasks and sprayed on the exposed MMCs layer to test the sensing performances of the device. The concentration of dimethoate vapor was determined by gas chromatograph-mass spectrometry (GC-MS) method (Figure S3 and Table S1, Supporting Information).[23]According to the GC-MS results, the vapor phase concentrations of dimethoate were calculated as 0.60, 3.8, 10 ppb for 80, 400, and 1000 ppm solution, respectively.Figure2ashows the response changes of the transfer curve to different dimethoate concentration steams. Dimethoate exhibits n-doping effect on the electrical properties of the device: maximum on-state drain current (Ion) and mobility increase with the increase of the dimethoate vapor concentration while the threshold voltage (VT) shows the opposite trend, as summarized in Figure2b. These results are consistent with the sensing behavior reported previously for n-type semiconductors, which can be attributed to the increase of carrier concentration and filling of electron traps caused by the n-doping effect.[24]In order to exclude the influence of moisture in the dimethoate vapor, the device response to pure water vapor was also conducted (Figure S4, Supporting Information). As with most n-type organic semiconductors, water has a permanent detrimental effect on NDI3HU-DTYM2 device performance, suggesting that responsiveness of the device is indeed caused by dimethoate molecules. Figure2cpresents the real-time response and recovery of MMC-OFET sensor to dimethoate vapor at different concentrations. The device responsivity to the analyte is presented as (ID−I0)/I0, whereI0andIDare denoted as the initial drain current and the drain current after exposure to the analyte, respectively. When the concentration was as low as 0.60 ppb, the MMC sensor still showed good responsiveness and repeatability, with a responsivity of 4. For 3.8 ppb and 10 ppb dimethoate vapor, the (ID−I0)/I0are about 7 and 17, respectively. The devices also show very fast response and recovery speed within 68 seconds and a sensitivity (defined as the slope of the linear relationship of responsivity versus dimethoate vapor concentration, as shown in Figure2d) as high as 138% ppb−1was obtained. Furthermore, MMC-OFET sensor fabricated on rigid SiO2substrate was also tested for comparison (Figures S5 and S6, Supporting Information). The results show that the responsivity of MMCs on flexible substrate is comparable to that on SiO2, indicating the high quality of MMCs on PSS/PMMA.
+
+In order to demonstrate the superiority of MMCs in sensitivity, OFET sensors based on multilayer NDI3HU-DTYM2 crystal were also fabricated for comparison, as shown inFigure3. NDI3HU-DTYM2 crystal with a thickness of 52 nm was chosen to fabricate multilayer sensor (Figure3b). When exposed to 0.6, 3.8, and 10 ppb dimethoate vapor, respectively, MMC exhibits greater responsivity, 522%, 237%, and 132% higher than that of the multilayer sensor (Figure3c). At a lower concentration of 0.60 ppb, the differences in responsivity between MMCs and multilayer sensors are especially obvious (Figure3e). The multilayer OFETs have a responsivity as low as 0.5, while the MMCs show a responsivity of up to 3.7. The responsivity difference is as high as 522%, which unambiguously demonstrates that MMCs are more advantageous to the realization of ultra-sensitive sensing.
+
+Given that various surfaces may be encountered in actual sensing, good flexibility and reliable performances in bending state are also of great concern besides sensitivity. In this respect, bending tests were performed by attaching MMC OFETs on various surfaces with different curvatures (Figure4a). The resulting transfer and response curves (under 3.8 ppb dimethoate vapor) are shown in Figure S7, Supporting Information. Responsivity andVTare shown in Figure4bas a function of curvature. It is noteworthy that all these characteristics exhibited negligible changes under various bending degrees, even when the curvature is up to 2. These results indicate that our flexible MMC sensors have great potential for fast, real-time and on-site detection.
+
+Selectivity is another crucial parameter for practical gas sensing.[24,25]To probe the selectivity, we measured the responses of the MMC-OFET sensors to several different solvent vapors including water, chloroform, isopropyl alcohol (IPA), acetone, hexane andn-dibutyl sulfide. As shown in Figure4c, the effect of water, chloroform, IPA, hexane, andn-dibutyl sulfide on the sensors caused a decrease in drain current, which were contrary to that of dimethoate. Acetone resulted in an increase in the drain current, but the responsivity to saturated acetone vapor is still four times lower than that of dimethoate vapor, even though the concentration of the vapor is only 10 ppb. Furthermore, dipterex and dimethyl dichlorovinyl phosphate (DDVP) (structures shown in Figure S8, Supporting Information), which are two other common organophosphorus pesticides and have similar structure with dimethoate, were also used to test the selectivity of the sensor. Like most of the tested solvents, both DDVP and dipterex reduce the drain current. These results not only prove the excellent selectivity of NDI3HU-DTYM2 to dimethoate, but also provide information about which part of dimethoate molecular acts as an electron donor. The negative responsivities of hexane,n-dibutyl sulfide and dipterex (or DDPV) demonstrate the alkyl chain, thioether and organophosphate parts have no n-doping effect to NDI3HU-DTYM2 (Figure S8, Supporting Information).[24,26]Taking the low responsivity of acetone into account, it can be inferred that the strong doping effect of dimethoate mainly originates from its amine groups.
+
+In summary, MMC based flexible OFET sensors were fabricated and exhibited remarkable detection performances to dimethoate, with sub-ppb detection limit, fast response/recovery speed, excellent selectivity and flexibility. Moreover, the MMC OFET sensors demonstrate superior sensitivity to OFET sensors based on thick crystals, representing the great potentials of MMCs in ultrasensitive detection. More importantly, it provides a promising route for the rapid, real-time and on-site detection of OPPs’ residues without any sample pretreatments, which cannot be achieved by traditional methods.
+
+For flexible-sensor fabrication, the indium tin oxide (ITO) coated PET substrate (0.05 mm in thickness, Sigma-Aldrich) was cleaned with toluene, acetone, and isopropyl alcohol.[9]The substrate was treated with plasma for 5 min at 100 W, and then PMMA (90 mg mL−1inn-butyl acetate) was deposited by spin-coating. Following that, the PMMA substrates were treated with plasma for 10 s at 100 W before PSS was deposited by spin-coating (20 mg mL−1in H2O). 30 µL diluted chlorobenzene solution of 0.08 mg mL−1NDI3HU-DTYM2 was drop-cast onto substrates and the substrates were placed in petri dishes at room temperature for 12 h.
+
+Heavily doped silicon wafer (n-type) with a thermally grown SiO2(300 nm) was used as bottom-gate electrode and the dielectric layer, respectively, and it was cleaned with deionized water, piranha solution (70/30 v/v H2SO4/H2O2), deionized water, isopropanol and treated with plasma for 5 min at 100 W. The divinyltetramethylsiloxanebis (benzocyclobutene) derivative (BCB) was spin-coated on SiO2/Si substrate in the glove box[18]and chlorobenzene solution of 0.08 mg mL−1NDI3HU-DTYM2 molecule materials was dropped onto a BCB-treated SiO2/Si substrate.
+
+All electronic characterizations were performed on Keithley 4200 SCS in air at room temperature. Solid dimethoate was dissolved in water to prepare dimethoate solutions of 30 mL 1000, 400, and 80 ppm, respectively. The solutions were packed in sealed 100 mL conical bottles. 5 mL of saturated steam was extracted from the headspace of the conical bottles and sprayed on the device. For real-time response test, theVGandVDwere fixed at 40 V.
+
+The authors acknowledge the financial support from the Ministry of Science and Technology of China (2016YFB0401100, 2017YFA0204704), the National Natural Science Foundation of China (21805284, 21873108), and the Chinese Academy of Sciences (Hundred Talents Plan, Youth Innovation Promotion Association and the Strategic Priority Research Program (Grant No. XDB30000000)).
+
+The authors declare no conflict of interest.
+
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+Volume6,Issue11
+
+November 2020
+
+2000579
+
+Copyright © 1999-2025John Wiley & Sons, Incor related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Your password has been changed
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username

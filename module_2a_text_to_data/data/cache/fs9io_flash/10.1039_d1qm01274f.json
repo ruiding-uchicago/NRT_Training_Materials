@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_d1qm01274f",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine",
+      "lower_detection_limit": "3.4e-10 M",
+      "upper_detection_limit": "5e-5 M",
+      "probe_material": "BiVO4 nanofibers",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

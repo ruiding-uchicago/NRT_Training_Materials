@@ -1,0 +1,219 @@
+Organic thin film transistors as selective sensing platforms for Hg2+ ions and the amino acidcysteine
+Author links open overlay panel
+Mohan Ramesh b
+, 
+Hong-Cheu Lin b
+, Chih-Wei Chu a c
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.bios.2012.10.050
+Get rights and content
+Abstract
+In this short communication we report a sensor for divalent mercuric (Hg2+) ions that we constructed from a perylene bisimide (PBI)-based organic thin film transistor. We improved the performance of the n-channel device by positioning N,N′-dioctyl-3,4,9,10-perylenedicarboximide between the dielectric and the active layer (PBI), increasing the electron mobility (μ) from 0.002 to 0.25±0.04 cm2 V−1 s−1 and enhancing the on/off ratio (Ion/Ioff) by two orders of magnitude (from 102 to 104). Based on a “thymine–Hg2+–thymine” mechanism and monitoring the shift in the threshold voltage (Vth), we used this transistor to discriminate Hg2+ ions from mixed ion solutions and it extended to different concentration Hg2+ solutions (from 50 to 350 μM). By monitoring the shifts in drain current (IDS) and Vth, we also used this bilayer device as a sensor for cysteine, a thiol-containing amino acid; the selective detection of cysteine was accompanied by a red shift in the fluorescence maximum of PBI, from 532 to 537 nm.
+Highlights
+► Detecting the selective divalent metal cation (Hg2+) from the single metal and double metal ions. ► This detection was monitored via PTCDI-C8/PBI OTFTs, by observing the change in threshold shift. ► It is extended to sense the thiol-containing AA (Cys-L) by the change in both the IDS and Vth shift. ► Selective detection of cysteine is conformed in red shift of fluorescence spectra enhancement at 537 nm.
+Previous article in issue
+Next article in issue
+Keywords
+Perylene bisimideThin film transistorMetal ion sensorMercuric ionAmino acid
+1. Introduction
+Heavy metals are environmental toxins that can accumulate in human organs without degradation (Jarup, 2003). Accumulated heavy metals (mercury, lead, cadmium) can cause several illnesses, including sleeplessness, carcinogenesis, mutagenesis, skin itching, memory loss, tremors, weakness, gingivitis, excitability, and teratogenesis (Blake et al., 2001). Among the heavy metals, mercury is particularly a toxic material that can damage the kidneys, brain, heart, and other organs (Tchounwou et al., 2003). Most mercury waste arises from chemical manufacturing, solid waste incineration, fossil fuel combustion, gold (Au) and coal mining, and wood pulping (Nolan and Lippard, 2008). The divalent mercuric ion (Hg2+) is the most stable form of waste mercury; several techniques are available for its detection, including mass spectrometry (MS) (Tormen et al., 2011), electrode-based (Han et al., 2001), electrochemical, (Cao et al., 2009, Kong et al., 2009, Miao et al., 2009) and fluorometric (Liu, 2008, Wang and Liu, 2008, Ye and Yin, 2008) methods. On the other hand, the detection of amino acids (AAs) is important because, as constituents of proteins and enzymes, they play critical roles in most physiological processes (Shahrokhian, 2001). In particular, thiol-containing AAs [cysteine (Cys), homocysteine, glutathione (GSH)] are involved in many cellular functions and are, therefore, used as indicators of several major diseases, including HIV/AIDS, Alzheimer's, and various cancers (Refsum et al., 1988). Accordingly, there is high demand for rapid, sensitive, and selective sensing of thiol-containing AAs. At present, the detection and characterization of AAs is performed mostly using electrochemical (Vardanega and Giradet, 2009), electrode-based (Cooper et al., 1993), chromatographic (Wang et al., 2000), and spectroscopic (Lee et al., 2005) approaches. Therefore, the detection of Hg2+ ions and AAs have number of weaknesses such as, prolonged detection times, requiring sophisticated instrumentation, expensive instrumentation, low throughput, and require well-trained skilled operators. To overcome these limitations, we have developed three-terminal device organic thin film transistors (OTFTs) with additional advantages; detection on site, low cost, handheld portable, and user-friendly platform for the detection of Hg2+ ions andAAs.
+Relative to current MS-based or optical detecting systems, OTFTs have several attractive features: they can be fabricated at low cost, over large areas, with mechanical flexibility; they consume low amounts of power; they can be surface-modified for the detection of a wide range of analytes; and they function with rapid analysis times (Lin et al., 1997). Not all available p- and n-type organic semiconductors are suitable for use as OTFT sensors, but modification with suitable probes–pyridine (Huang et al., 2004, Liu et al., 2011), bipyridyl (He et al., 2008, Wang and Wasielewski, 1997), terpyridyl (Kimura et al., 1998), phenanthroline (Yasuda et al., 2003), and thymine (T) (Ono and Togashi, 2004) ligands can improve their performance. A probe for ions and AAs detector should possess the following features: (i)the probe and the organic semiconductor should not be soluble in water; (ii) it should display OTFT behavior; and (iii) the resulting device must be stable in water under the operating conditions. Accordingly, we have employed perylene bisimide (PBI) as an active layer because it satisfies all of these conditions; in addition, it can present specific T probes that form stable T–Hg2+–T base pairs and its n-channel OTFTs outperform start-of-the-art p-channel OTFTs and carbon field effect transistors (FETs) in the sensor pad (Huang et al., 2010, Lin et al., 2010, Sudibya et al., 2011, Zhang et al., 2010). PBI and its derivatives are important organic dyes that possess several attractive photochemical and photophysical properties (Sugiyasu et al., 2004); in particular, PBI derivatives are almost all insoluble in water and perform as good acceptors in OTFTs. As a result, we have developed PTCDI-C8/PBI-based OTFTs for the detection of both Hg2+ ions and thiol-containing AAs. We monitored the sensitivity of these sensors toward (i)Hg2+ ions by observing the shift of the threshold voltage (Vth) and (ii) thiol-containing AAs by observing the changes in both the drain current (IDS) and Vth. Our sensors detected Hg2+ ions at concentrations up to 50 μM and displayed the excellent sensitivity toward Hg2+ ions in mixed-ion media; it also detected thiol-containing AAs at millimolar concentrations.
+2. Materials and methods
+2.1. Sensor devices measurement
+The materials, device fabrication procedure, and characterization are reported in the Appendix. Solutions of the various metal cations and AAs were prepared by dissolving them in deionized water at concentrations of 10−4 and 10−3 M; solutions containing pairs of metal cations were prepared by mixing solutions of the single metal ions of the same concentration (10−4 M) at 1:1 ratio. The sensor devices were tested by placing a drop (2 μL) of solution of the metal cation on top of the channel, air drying for 60 min, and then measuring under a N2 atmosphere. Similarly, AA sensor devices were tested by placing a drop of solution on top of the channel, followed by air drying and then measuring under a N2 atmosphere. Solutions of Hg2+ ions at various concentrations were prepared by diluting the stock solution (1 mM) to 50, 150, 250, and 350 μM; photoluminescence (PL) was measured according to a previously reported procedure (Ruan et al., 2010). The Fold (Vth/V0th) was calculated by dividing the threshold voltage shift in the presence of ions (Vth) by the threshold voltage in the absence of ions (V0th).
+3. Results and discussion
+3.1. PBI device response
+Fig. 1 displays a side view of the fabricated PTCDI-C8/PBI OTFT device. Patterning the dielectric through surface modification with CYTOP allowed selective deposition of the organic semiconductor in desirable regions. Recent reports have noted that SiOH groups trap electrons, but not holes, and can result in large gate leakage currents (Chua et al., 2005). The presence of hydroxyl groups on the top surface will result in inferior channel–dielectric interfaces, along with poor crystalline growth; OTFTs fabricated on such dielectric surfaces display undesirable device characteristics, including poor mobility, instability, and large gate leakage currents. The hydroxyl groups can not only result in remnant dipoles during the off-to-on gate swing but also interact with diffusing water molecules. Therefore, we deposited a reserve polymer layer (CYTOP) to ensure the preparation of OTFTs exhibiting stable operation and high electrical performance. We positioned the CYTOP film at the interface between the SiO2 and the active layer. Fig. S1(a) presents the output characteristics of typical n-channel PBI transistors with various gate voltages (VG); Fig. S1(b) plots IDS with respect to VG at a constant value of VDS of 60 V. The device parameters we extracted from the monolayer were an electron mobility (μ) of 0.002 cm2 V−1 s−1, a threshold voltage (Vth) of 0.92 V, and an on/off ratio extending over two orders of magnitude. Using a bilayer method to improve the device performance and to impart stability, we introduced a film of PTCDI-C8 between the PBI layer and the SiO2/CYTOP dielectric, observing tremendous changes in performance: values of μ and Vth increasing to 0.25±0.04 cm2 V–1 s–1 and 13.21±2 V, respectively, with a four-order (104) on/off ratio [Fig. S1(c) and (d)]. Therefore, we employed this device platform to prepare a sensor for Hg2+ions.
+
+Download: Download full-size image
+Fig. 1. Side view of the structure of the PTCDI-C8/PBI OTFT and of the operation of the OTFT sensor in the presence of Hg(OAc)2 solution.
+
+3.2. OTFTs Hg2+ sensor
+When employing the OTFTs as sensors for Hg2+ ions, we performed device measurements in terms of variations in Vth, rather than IDS, because the former was easier to identify. In the presence of Hg2+ ions, the value of Vth increased by threefold (Vth/V0th). To discern whether this change was due to the Hg2+ ions or another source, we measured the device performance in the presence of doubly charged (Fe2+, Mg2+, Cu2+, Mn2+, Ba2+, Sn2+, Ni2+, Pb2+) and singly charged (Cs+, Li+, K+, Na+) ions [Fig. 2(a)]; the extracted values of Vth/V0th for these cations ranged from 1.3to 2.25. These differences were due to the presence of T probes in the PBI, resulting in T–Hg2+–T coordination (Ruan et al., 2010). The formation of T–Hg2+–T complexes trapped the Hg2+ ions at the interfaces of the grain boundaries of PBI [Fig. 1] and increased the overall channel resistance, thereby leading to a large change in the value of Vth. In contrast, the other ions (Fe2+, Mg2+, Cu2+, Mn2+, Ba2+, Su2+, Ni2+, Pb2+, Cs+, Li+, K+, Na+) were only trapped at the grain boundaries without coordination to the T ligands of the PBI. The trapped ions attracted the electrons in the channel region, thereby increasing the overall channel resistance (Khan et al., 2011, Ramesh et al., 2012). To test the selectivity of the OTFTs toward Hg2+ ions, we examined the effects of solutions of mixedions.
+
+Download: Download full-size image
+Fig. 2. (a)Threshold shifts (Vth/V0th) of the device in the presence of various single metal ions and (b) threshold shifts (Vth/V0th) of the device in the presence of various pairs of metalions.
+
+As indicated in Fig. 2(b), we prepared mixed-ion solutions in the presence and absence of Hg2+ ions. The sensitivity of the probe toward the mixed Hg2+-containing solutions (Vth/V0th=ca. 4.0) was higher than that toward the solutions of single metal ions or the Hg2+-free mixed ions. Furthermore, to prove that the detection was improved through T–Hg2+–T coordination, we fabricated the corresponding device featuring only the PTCDI-C8 monolayer (thickness: 50 nm) and tested it with the solutions of mixed ions. Fig. S2(a) reveals that the sensitivity (Vth/V0th) was approximately 2.5for both the Hg2+-containing and Hg2+-free solutions, presumably because of the trapping of ions at the grain boundaries. Although the device was selective toward Hg2+ ions at a concentration of 10−4 M, such performance would be inferior to that provided by current electrochemistry- and chromatography-based analytical methods. Therefore, we tested the sensitivity of this device toward Hg2+ solutions of lower concentrations, prepared by diluting the 1 mM stock solution; we placed a drop of each solution on top of the same device after measuring the response to the previous solution [Fig. S2(b)]. Upon increasing the concentration of the solution of Hg2+ ions, the value of Vth increased from 27.5 to 40 V; from this experiment, we found that the device could also sense Hg2+ ions at concentrations lower than 50 μM. We used the conventional addition method (Buck and Bakker, 1994) to calculate the limit of detection (LOD), Fig. S3(a–e); by averaging the LODs of five devices, we determined that the device could detect Hg2+ ions at a minimum concentration of 0.40 μM [Fig. S3(f)].
+3.3. Three-terminal device as a sensor for thiol-containing AAs
+After determining that the PBI-based device could be used selectively for the sensing of Hg2+ ions in mixed-ion solutions, we further tested the device performance (selectivity and sensitivity) of the PTCDI-C8/PBI OTFTs as AA sensors, using an approach similar to that employed for the metal ions. For the AA sensors, we split six AAs into two categories: thiol-containing AAs (Cys, GSH) and thiol-free AAs (Ala, Asp, Gly, His); Fig. 3, display the performance of the device toward these AAs. In the presence of Cys, the value of IDS increased [from 34.5 to 38.29 μA; Fig. 3(a)] and the value of Vth decreased [from 11.6 to 8.6 V; Fig. 3(b)]; for the other tested thiol-containing AA (GSH), the values of IDS [Fig. S4(a)] and Vth [Fig. 3(b)] did not change as much, presumably because of the electron-donor nature of GSH (Kang et al., 1998). For the thiol-free AAs, the values of IDS decreased and the values of Vth increased [Fig. S4(b–e) and Fig. 3(b)]. To determine the causes of these changes, we analyzed the fluorescence (PL) spectra of PBI in the presence and absence of the AAs [Fig. S4(f)]. The emission maximum of PBI in DMF/H2O (9:1) appeared at 532 nm; adding Cys (10−3 M, 2 μL) to the PBI solution led to red-shifting of the fluorescence maximum to 537 nm, whereas the other AAs induced only quenching. From both the device performance and the effects on the PL spectra, it is clear that interactions occur between PBI and Cys; we are currently investigating the mechanism behind this process.
+
+Download: Download full-size image
+Fig. 3. (a)Changes in current (IDS) of the device in the presence of Cys and (b) threshold shifts (Vth) of the device in the presence of variousAAs.
+
+4. Conclusion
+We have demonstrated that OTFTs can be used as sensors for Hg2+ ions and for Cys when monitoring their changes in current and threshold voltage. We converted PBI-based OTFTs into aqueous-stable OTFTs by fabricating PTCDI-C8 bilayer devices, the performance of which improved as evidenced by increases in the electron mobility (μ; from 0.002 to 0.25±0.04 cm2 V−1 s−1) and the on/off ratio (from 102 to 104). We employed PTCDI-C8/PBI bilayer devices in the detection of Hg2+ ions at a concentration of 50 μM; the detection mechanism involved T–Hg2+–T coordination, which led to a dramatic shift in the value of Vth. Furthermore, this device could also be used for the sensitive detection of Cys, a thiol-containing AA, with the value of Ids increasing from 34.5 to 38.29 μA and the value of Vth decreasing from 11.6 to 8.6 V; interaction with Cys led to a red shift in the fluorescence maximum of PBI from 532 to 537 nm.
+Supporting Information
+
+Organic Thin Film Transistors as Selective Sensing Platforms for Hg2+ Ions and the Amino Acid Cysteine
+Mohan Ramesh,2 Hong-Cheu Lin,*,2 and Chih-Wei Chu*,1,3
+
+1 Research Center for Applied Sciences, Academia Sinica, Taipei 115, Taiwan (ROC)
+2 Department of Materials Science and Engineering, National Chiao Tung University
+ Hsinchu 300, Taiwan (ROC)
+3 Department of Photonics, National Chiao Tung University, Hsinchu 300, Taiwan (ROC)
+
+
+*Corresponding authors
+Chih-Wei Chu: e-mail: gchu@gate.sinica.edu.tw
+Hong-Cheu Lin: e-mail: linhc@cc.nctu.edu.tw
+ 
+1.  Materials and methods
+
+1.1 Materials
+N,N´-Dioctyl-3,4,9,10-perylenedicarboximide (PTCDI-C8), PBI, CYTOP, Hg(OAc)2, Mn(OAc)2, MgSO4, all chloride salts (Fe2+, Mg2+, Cu2+, Mn2+, Ba2+, Sn2+, Ni2+, Pb2+, Cs+, Li+, K+, Na+1), GSH, Cys, glycine (Gly), histidine (His), alanine (Ala), and L-aspartic acid (Asp) were purchased from Sigma–Aldrich.
+
+1.2 Device fabrication and characterization 
+OTFTs were obtained from highly doped n-type Si wafers (100) covered with silicon dioxide (SiO2) as a gate dielectric (2 cm  2 cm). After cleaning with detergent, acetone, and isopropyl alcohol, the wafer was treated with a UV-ozone cleaner for 30 min. The ozone-treated substrates were spin-coated with CYTOP [Cytop and CT-Solv.180, 1:3 (v/v)] at 2000 rpm for 60 s and then baked at 100 °C for 60 min. PTCDI-C8 (25 nm) was thermally evaporated (pressure: 5  10–6 torr) onto the CYTOP film; PBI (25 nm) was thermally evaporated onto the PTCDI-C8 layer under the same pressure. Following the preparation of the active layer, Au source and drain electrodes (thickness: 50 nm) were thermally evaporated through a shadow mask [channel width (W): 200 µm; channel length (L): 2000 µm; pressure: 5  10–6 torr].
+ 
+1.3 Device characterization and analyses
+Fabricated devices were characterized using a Keithley 4200 semiconductor characterization system; fluorescence spectra were recorded using a F-4500 fluorescence spectrophotometer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. S1. Output characteristics and transfer characteristics of n-channel OTFTs. (a, b) Monolayer (PBI) OTFT; (c, d) bilayer (PTCDI-C8/PBI) OTFT.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. S2. Threshold shifts of monolayer (PTCDI-C8) and bilayer (PTCDI-C8/PBI) OTFTs in the presence of metal ions. (a) Threshold shifts (Vth/Voth) of monolayer (PTCDI-C8) OTFTs in the presence of various ions and (b) Threshold shifts (Vth) of bilayer (PTCDI-C8/PBI) at various concentrations of Hg2+ ions.
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. S3. Limits of detection (LOD) of five different devices were calculated from the device with different concentration vs. threshold shifts (Vth/Voth). (a, b, c, d, and e) LOD of five devices and (f) Average limit of detection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. S4. Output characteristics of bilayer (PTCDI-C8/PBI) OTFTs and fluorescence spectra in the presence of the AAs. (a) GSH, (b) Ala, (c) Gly, (d) His, (e)Asp, and  (f) Fluorescence spectra of PBI in the presence of various AAs.
+
+

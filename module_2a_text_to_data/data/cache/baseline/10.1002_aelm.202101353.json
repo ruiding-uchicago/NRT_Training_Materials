@@ -1,0 +1,25 @@
+{
+  "stem": "10.1002_aelm.202101353",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phosphate (H2PO4−/HPO42−)",
+      "lower_detection_limit": "178 × 10^-12 M (17.3 ppt)",
+      "upper_detection_limit": "",
+      "probe_material": "PDVT-CS (poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4-(2H,5H)-dione-alt-(E)-1,2-di(2,2'-bithiophen-5-yl)ethene] and penta-t-butylpentacyanopentabenzo[25]annulene cyanostar)",
+      "test_operating_temperature (celcius)": "25 (room temperature, assumed)",
+      "pH_value": "7.4",
+      "test_medium": "HEPES buffer"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phosphate (H2PO4−/HPO42−)",
+      "lower_detection_limit": "65.4 × 10^-9 M (6.54 ppb)",
+      "upper_detection_limit": "",
+      "probe_material": "PDVT-CS (poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4-(2H,5H)-dione-alt-(E)-1,2-di(2,2'-bithiophen-5-yl)ethene] and penta-t-butylpentacyanopentabenzo[25]annulene cyanostar)",
+      "test_operating_temperature (celcius)": "25 (room temperature, assumed)",
+      "pH_value": "",
+      "test_medium": "artificial seawater (Instant Ocean Sea Salt electrolyte)"
+    }
+  ]
+}

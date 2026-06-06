@@ -1,0 +1,987 @@
+Receptor Induced Doping of Conjugated Polymer Transistors: A Strategy for Selective and Ultrasensitive Phosphate Detection in Complex Aqueous Environments
+Anthony R. Benasco, Joshua Tropp, Vikash Kaphle, Yusheng Chen, Wei Zhao, Naresh Eedugurala, Tse Nga Ng, Amar H. Flood, Jason D. Azoulay
+First published: 18 March 2022 https://doi.org/10.1002/aelm.202101353Citations: 6
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+Phosphate oxyanions play central roles in biological, agricultural, industrial, and ecological processes. Their high hydration energies and dynamic properties present a number of critical challenges limiting the development of sensing technologies that are cost-effective, selective, sensitive, field-deployable, and which operate in real-time within complex aqueous environments. Here, a strategy that enables the fabrication of an electrolyte-gated organic field-effect transistor (EGOFET) is demonstrated, which overcomes these challenges and enables sensitive phosphate quantification in challenging aqueous environments such as seawater. The device channel comprises a composite layer incorporating a diketopyrrolopyrrole-based semiconducting polymer and a π-conjugated penta-t-butylpentacyanopentabenzo[25]annulene “cyanostar” receptor capable of oxyanion recognition and embodies a new concept, where the receptor synergistically enhances the stability and transport characteristics via doping. Upon exposure of the device to phosphate, a current reduction is observed, consistent with dedoping upon analyte binding. Sensing studies demonstrate ultrasensitive and selective phosphate detection within remarkably low limits of detection of 178 × 10−12 m (17.3 parts per trillion) in buffered samples and stable operation in seawater. This receptor-based doping strategy, in conjunction with the versatility of EGOFETs for miniaturization and monolithic integration, enables manifold opportunities in diagnostics, healthcare, and environmental monitoring.
+
+1 Introduction
+Phosphate oxyanions play central roles in biological, agricultural, industrial, and ecological processes.[1, 2] As a principal constituent of biological systems, phosphate is industrially relevant in the production of medicinal drugs, pharmaceuticals, therapies, and is crucial to the growth of plants and animals.[3] Phosphate oxyanions also serve as potent environmental pollutants responsible for the eutrophication of natural water sources leading to hypoxia, fish kills, and “dead zones.”[1, 4] The development of low-cost, selective, and real-time sensors that operate in complex aqueous environments remains a significant challenge, precluding the development of critical sensing technologies such as those related to biomedicine, environmental monitoring, and point-of-need testing.[5] Current methods of nutrient quantification necessitate sample collection, extraction, and enrichment followed by colorimetric analyses or laboratory-based spectrophotometric, fluorescent, and chromatographic methods.[6, 7] Portable ion-selective electrodes (ISEs) offer the opportunity for real-time monitoring; however, the hydrated nature and dynamic properties of these anions result in crossinterference,[8] limiting their accurate quantification at relevant concentrations (0.02 × 10−6–2 × 10−6 m) in freshwater and seawater.[6] The need for improved analytical performance, miniaturization, in situ operation, and access to spatially and temporally representative data has driven the development of solid-state potentiometric, chemiresistive, amperometric, capacitive, and field-effect transistor sensor platforms.[9] In these devices, specificity is derived from molecular recognition elements such as ion-selective membranes, molecularly imprinted polymers, biomacromolecules, and small-molecule receptors.[10-12] Despite the exploration of a vast chemical space and advancements in device design, the specificity and sensitivity required for trace detection of these anions have yet to be achieved.
+
+Label-free organic electronic sensors based on organic field-effect transistor (OFET) architectures offer novel attributes that match the needs of emerging sensor platforms.[12-14] These include low-cost fabrication on diverse substrates, synthetic tunability, mechanical compliance, and direct integration with existing signal processing electronics, enabling monolithic sensing systems.[15] Furthermore, OFET-based sensors offer improved sensitivity resulting from amplification endowed by the field-effect, the integration of chemical probes at the surface, channel, or electrodes of the device, and high diversity in device architecture. These attributes have advanced OFET-based sensors to the forefront of environmental, biomedical, and wearable diagnostics platforms. Among these, electrolyte-gated OFETs (EGOFETs) are promising for in situ monitoring since they directly transduce interfacial phenomena such as molecular recognition events into electrical signals with ultrahigh sensitivity.[14] While these transistors can be endowed with selectivity through various functionalization strategies, it remains a challenge to electronically couple such receptor chemistries to the active materials of these devices.[15] Furthermore, the integration of many host–guest chemistries into transistors comes at the cost of reduced device performance and a loss of both stability and selectivity in complex aqueous environments.
+
+Over the past two decades, there have been remarkable breakthroughs in the design and synthesis of supramolecular receptors capable of host–guest oxyanion complexation.[16] In particular, penta-t-butylpentacyanopentabenzo[25]annulene “cyanostar” (CS) demonstrates high-fidelity binding of larger anions such as H2PO4− within its electropositive, size-selective cavity by virtue of aromatic C-H hydrogen bonding interactions (Figure 1).[17, 18] CS has been utilized as an ionophore[19] but has not been leveraged in an OFET architecture to endow selectivity. Here, we describe the development of an EGOFET comprised of a composite layer of a semiconducting polymer poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4-(2H,5H)-dione-alt-(E)-1,2-di(2,2'-bithiophen-5-yl)ethene] (PDVT) and CS (Figure 1) that enables the detection of oxyanions within complex aqueous environments. Crucial aspects of the sensor, such as high environmental stability and oxyanion recognition, are achieved using a new strategy in which CS dopes the semiconducting polymer. In the presence of analytes, CS preferentially binds phosphate, resulting in dedoping and large changes to the electrical properties that are compatible with digital readout methods. The robust nature of the electronic doping-dedoping phenomena is demonstrated in complex aqueous environments such as seawater and is therefore amenable for the real-time selective detection of phosphate oxyanions.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a) Molecular structures of the semiconducting polymer (PDVT) and b) cyanostar receptor (CS) which can bind phosphate.
+2 Results and Discussion
+The conjugated polymer PDVT was chosen on the basis of its high field-effect mobility (µ), excellent film-forming properties, and environmental stability.[20] Both PDVT and CS feature rigid extended π-systems that promote strong intermolecular and solid-state interactions, indicative of their potential for electronic coupling. The polymer was synthesized using a microwave-assisted Stille cross-coupling copolymerization resulting in a number average molecular weight (Mn) of 43.7 kg mol−1 and dispersity (Đ) of 2.14 (Figure S1, Supporting Information). Mixtures of the polymer and receptor were initially examined using UV–vis–NIR and electron paramagnetic resonance (EPR) spectroscopies. Thin films for UV–vis–NIR studies were prepared by spin-coating chlorobenzene mixtures of the polymer (10 mg mL−1) and CS (1:1 w/w% relative to polymer) onto quartz substrates. An absorption maximum (λmax) at 804 nm in the pristine PDVT is consistent with aggregation from π−π stacking. The solid-state absorption of PDVT-CS displayed a modest blueshift of 11 and 6 nm at the 0–0 and 0–1 vibronic peaks, a concomitant lowering of the relative intensity of these transitions (PDVT-CS: I0–0/I0–1 = 1.07, PDVT: I0–0/I0–1 = 1.24), and the presence of a low energy absorption tail (Figure 2a). The decrease of intensity of the π−π stacking peak can be associated with a partial disruption of polymer chain interactions and solid-state ordering.[21] These data further suggest the formation of a ground-state charge-transfer complex from the electronic coupling between the PDVT and CS.[22] Further details regarding optical and electrochemical characterization can be found in Figure S2 and Table S1 in the Supporting Information.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+a) UV–vis–NIR absorption profile of pristine PDVT and PDVT-CS films spin-coated from chlorobenzene onto quartz substrates. The inset illustrates a pronounced low-energy absorption tail upon CS addition. b) EPR (X-band) spectra at room temperature of PDVT-CS demonstrating the formation of paramagnetic species, consistent with c) doping. Upon addition of tetrabutylammonium dihydrogen phosphate (TBAP, 1 equiv. relative to CS) to PDVT-CS the films show predominantly diamagnetic behavior, consistent with d) dedoping.
+EPR spectroscopy was used to investigate the doping phenomena. Films were prepared by evaporating chloroform solutions of PDVT and PDVT-CS in 4 mm quartz EPR tubes using the same CS loading as the UV–vis–NIR films. While PDVT films and CS showed no signal (Figure S4a,b, Supporting Information), PDVT-CS films displayed a broad, single line at a g-factor (g) of 2.0034, indicating the formation of paramagnetic species (Figure 2b,c and Table S2, Supporting Information) by doping. Doping was also supported by Kelvin probe force microscopy (KPFM) measurements, which demonstrate a considerable shift in the PDVT Fermi level upon the addition of CS (Figure S5, Supporting Information).[23] CS macrocycles offer novel anion recognition capabilities on account of their propensity to bind and stabilize anions (Figure S35, Supporting Information).[24] As such, organic-soluble tetrabutylammonium dihydrogen phosphate (TBAP, 1 equiv. relative to CS) was mixed with PDVT-CS, which resulted in a dramatic reduction in the EPR signal and predominantly diamagnetic behavior (Figure 2b,d). Taken together, the PDVT-CS combination demonstrates an anion-induced electronic transition which presents itself as a design paradigm for the chemical sensing of phosphate.
+
+OFETs have demonstrated utility in a large number of consumer technologies and show unparalleled modularity in sensing a wide variety of biological, chemical, and physical analytes.[25] Thus, PDVT and CS were combined and utilized as the active layer within the channel of an OFET in order to investigate whether the previously observed doping phenomena could be translated into a signal transduction mechanism and applied for anion sensing. PDVT-CS films (CS loading = 0, 4, 10, 20 wt%) were spin-coated onto n-octadecyltrichlorosilane-treated SiO2/Si substrates (electrodes: Cr  ≈ 5 nm, Au ≈ 60 nm, length (L) = 80 µm and channel width (W) = 1 mm) to construct bottom-gate, bottom-contact (BGBC) devices (Figure 3a). Figure 3b–d shows the room-temperature conductivities (σRT) obtained using two-point probe measurements and OFET transfer and output characteristics for neat PDVT and PDVT-CS (20 wt%) composite films. Further details on the fabrication, solution processing, and testing parameters are discussed in the Supporting Information.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+a) Schematic illustration of a bottom-gate bottom-contact (BGBC) device structure. PDVT-CS devices (CS loading = 0, 4, 10, and 20 wt%) were fabricated and tested to evaluate electronic transformations, material compatibility, and storage stability. b) Electrical conductivities obtained from two-point probe measurements (−2 to 2 V) of PDVT-CS films. c) FET transfer characteristics and d) output curves (left) without and (right) with CS (20 wt%) showing enhancement in p-channel operation using source and drain electrodes (L = 80 µm, W = 1 mm). e) Monitoring of device stability for high performing PDVT-CS films over 60 d. Films were completely submerged in Instant Ocean Sea Salt electrolyte (in the absence of light) and showed minimal changes in the conductivity (black), field-effect mobility (red), and carrier concentration (blue).
+All devices demonstrated p-type FET behavior. The neat PDVT films displayed an average hole mobility of 2.95 × 10–2 cm2 V−1 s−1 and on/off current ratio (Ion/Ioff) of ≈106. Low loadings of 1–2 wt% CS are pinned to a trap-limited doping regime,[12, 26] while a critical threshold of 4 wt% CS was found to produce linear I–V characteristics consistent with Ohmic transport. A concomitant increase in σRT was evident upon increasing the CS concentration. Loadings of 4, 10, and 20 wt% CS result in σRT of 1.17 × 10–5, 1.75 × 10–4, and 8.20 × 10–3 S cm−1, respectively. The PDVT-CS transfer curves do not demonstrate an off-state (Figure 3c), indicating the presence of free carriers, consistent with EPR studies, and a lowering of the gate-dependent channel conduction. There was a concomitant increase in μ up to 3.43 × 10−2 cm2 V−1s−1 for the 20 wt% CS devices. The enhancement of carrier mobility, with increasing CS loading, is unique and emanates from doping since all prior reports generally demonstrate deleterious effects on mobility upon the incorporation of receptor chemistries into organic semiconductors.[27] The carrier concentration (n) was calculated from the mobility using the equation σ = nqμ, where q is the elementary charge (Table S4, Supporting Information). The addition of CS correlates with a proportional increase in σRT with n increasing from 1015 cm−3 (neat PDVT) to greater than 1018 cm−3 at 20 wt% CS.
+
+The Ohmic transport of the composite systems can be associated with the presence of free carriers introduced by doping and the modified injection barrier at the electrode-semiconductor junction.[28] As such, variable temperature (180–340 K) mobility and transmission line method (TLM) measurements were performed to extract the activation energy (Ea) and the contact resistance (RC), respectively. The temperature dependence of μ originates from a thermally activated process described by the relation µ(T) = µ0exp(–Ea/kBT), where µ0 is a pre-exponential factor, kB is the Boltzmann constant, and T denotes the temperature. The values for Ea of 78 meV (PDVT-CS) < Ea = 113 meV (PDVT) (ΔEa ≈ 35 meV) are consistent with a reduced energetic barrier for charge transport. The TLM results suggest a reduction of the contact resistance (RC = 4.5 MΩ) consistent with doping and change in surface potential observed by KPFM (Figure S5, Supporting Information).[29] Therefore, despite producing kinetically quenched morphologies from spin-coating, the composite systems do not appear to be hampered by non-interactive interfaces formed at the electrode-semiconductor junction.[30] To investigate the electrical stability of the PDVT-CS transistors, devices were monitored under an atmosphere of nitrogen in the dark, in ambient conditions, in ultrapure deionized (DI) water, and in Instant Ocean Sea Salt electrolyte. In all cases, the devices exhibit excellent storage stability over a 60 d testing period, even when completely submerged into Instant Ocean Sea Salt electrolyte (Figure 3e), a rare demonstration that is essential for practical translation to field use.[10, 31]
+
+We sought to translate the electronic behavior observed for PDVT-CS mixtures exposed to TBAP (Figure 2b) by incorporating the composite into an OFET architecture. Anions were directly embedded into the PDVT-CS composite matrix to investigate anion-induced electronic perturbations. Adopting the original protocols for device fabrication and testing (Figure 3a–d), organic-soluble tetrabutylammonium salts (TBAX, where X = dihydrogen phosphate (P), nitrate (N), chloride (Cl), perchlorate (PC), and hydrogen sulfate (HS)) were added to PDVT-CS chlorobenzene solutions (1 equiv. relative to CS) for competitive binding measurements. The anions listed were selected based on their vital role and prevalence in ecosystems and agriculture.[32] The binding of anions by CS in low dielectric solvents is an electrostatically driven process, which takes place inside the central cavity (dcavity ≈ 4.5 Ǻ) and arises from activated C‒H hydrogen-bonding units.[17] The solvent choice (chlorobenzene, ε = 5.62) and the sequential film casting into an OFET architecture introduces the appropriate conditions to monitor the analyte's preferential interactions, whether toward the receptor or polymer chain.
+
+Both σRT and μ measurements reveal anion composition-dependent channel conduction and offsets from the original PDVT-CS film properties (dedoping) (Figure 4). The TBAP and tetrabutylammonium nitrate (TBAN) films, in particular, displayed the highest reduction (> 2 orders of magnitude) in bulk channel conduction with σRT = 3.55 × 10–5 and 5.28 × 10–5 S cm−1 and in carrier density with n = 5.24 × 1016 and 2.49 × 1016 cm−3, respectively (Figure 4a,c). These characteristics coincide with the high on–off current ratios (Ion/Ioff > 105) (Figure 4b,d) and closely mirror the native PDVT profile (Figure 3c). On the other hand, σRT values only moderately decreased to 3.09 × 10–3 S cm−1 (TBACl), 4.86 × 10–4 S cm−1 (tetrabutylammonium perchlorate), and 6.40 × 10–4 S cm−1 (tetrabutylammonium hydrogen sulfate) and similar carrier concentrations were obtained with n = 4.59 × 1017, 2.40 × 1017, and 1.54 × 1017 cm−3, respectively. To ensure these anion interactions are preferential to the receptor, TBAP and TBAN were separately added to PDVT (without CS) to assess how it alters the transfer profile. Both conditions degraded the PDVT p-channel operation once introduced (Figure S19, Supporting Information) and support the notion of receptor-anion host–guest complexation as the dominant factor in the dedoping responses. Collectively, the electrical characterization techniques correlate to the diamagnetic behavior found in EPR studies (Figure 2b). Due to the weak nature of intermolecular interactions, the host–guest complexation of CS resulted in a perturbation of the electronic structure or diminished steric interactions with the π-system. This robust phenomenon manifests as a dramatic change in electrical properties only in the presence of specific anions.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+OFET devices (BGBC configuration) based on a three-component mixture of PDVT-CS•TBAX salts (X = P, N, Cl, PC, and HS) and their associated a) two-point probe I–V characteristics and b) OFET transfer curves. The variation in the dedoping response and the preservation of charge transport characteristics without degradation demonstrates that receptor-anion interactions dictate the magnitude of charge carrier reduction. c) Summary of carrier concentration (cm−3) within the conductive channel and d) OFET on/off current ratio comparing ten independent devices with source and drain electrode geometries of L = 80 µm and W = 1 mm.
+To investigate whether the observed anion selectivity in the OFET configuration could be translated to a real-time aqueous sensor, water-soluble sodium salts of the previously tested anions were introduced to the PDVT-CS film within an aqueous electrolyte (HEPES, pH = 7.4), (Figure 5a). In this EGOFET configuration, the Ag/AgCl gate was electrically coupled to the composite film via the electrolyte solution, which was then spiked with the anion salt of interest. The gate electrode bias facilitates ion migration toward the channel interface with no bulk volumetric response due to the hydrophobic nature of the film (Figure S20, Supporting Information). Further details regarding EGOFET fabrication can be found in the Supporting Information. While PDVT-CS films remained stable when tested under various pH conditions (4–10, Figure S21, Supporting Information), HEPES buffer (baseline) solution showed consistent output responses (Figure S22, Supporting Information) and was used to maintain consistent sensing environments between each analyte (Figure S23, Supporting Information). Baseline measurements were first conducted by monitoring the drain current (IDS) drift upon continuous exposure to an aqueous solution with no target analyte present. Next, the transient responses toward dissolved sodium salts of phosphate (H2PO4−), nitrate (NO3−), bicarbonate (HCO3−), carbonate (CO32−), and chloride Cl− at various concentrations (nm‒mm) were measured and compared to the baseline trend so as to determine the channel current offset and the resultant chemical sensing performance (Figure S24, Supporting Information). The sensitivity (S) is defined by the relative change of the drain current under the same voltage conditions (VGS = ‒0.7 V and VDS = ‒1.0 V) following the equation[33]
+ 
+ 
+(1)
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+a) Schematic illustration of the EGOFET device and b) the proposed sensing mechanism. c) Transient responses of the device toward phosphate (H2PO4−/HPO42−), nitrate (NO3−), bicarbonate (HCO3−), carbonate (CO32−), and chloride (Cl−) in HEPES buffer (pH = 7.4). d) Comparison of state-of-the-art phosphate sensors with PDVT-CS, which demonstrated a limit of detection (LOD) and quantification (LOQ) of 178 × 10−12 m (17.3 parts per trillion (ppt)) and 430 × 10−12 m (41.7 ppt), respectively.
+Upon analyte introduction, the electrical response to phosphate anions emanates from migration to the film interface (<1 nm film swelling exposed to DI water, Figure S20, Supporting Information), leading to physical adsorption and channel conduction changes. In this case, receptor-analyte complexation generated a dedoping response as a function of anion concentration, which matches the results from the three-component films (Figure 4). The limit of detection (LOD) and quantification (LOQ) were calculated from the noise of each sensor as previously reported (Figure S25, Supporting Information).[34, 35] From the calibration plot for phosphate, the LOD and LOQ were calculated to be 178 × 10−12 m (17.3 ppt) and 430 × 10−12 m (41.7 ppt), respectively. The observed sensitivity is competitive with diverse classes of state-of-the-art phosphate sensors including capacitive,[36] colorimetric,[37] lab-on-chip,[38] ISEs,[39] FETs,[34, 40] and commercialized products (Figure 5d and Table S8, Supporting Information).
+
+The selectivity was investigated by individually challenging the device with other mono- and divalent anions comprising NO3−, SiO32−, Br−, HCO3−, CO32−, SO42−, and Cl− (Figure 5c and Figures S24–S26, Supporting Information). Overall, the transient responses revealed a more pronounced reduction in the bulk channel conduction upon exposure to phosphate when compared to the other anions tested. Calibration and sensitivity metrics for each anion can be found in Figures S24–S26 in the Supporting Information. To further support the CS-dependent selective dedoping of the real-time sensor, EGOFETs were fabricated and tested with photoisomerized IsoCS (Figures S3 and S9 and Table S5, Supporting Information), rather than CS. The solution NMR of IsoCS (Figures S27–S29, Supporting Information) and sequential PF6− anion titration experiments (Figures S30–S32, Supporting Information) suggested a lack of anion affinity. Moreover, aqueous sensors using PDVT-IsoCS active layers were electrochemically unstable and no statistically significant electrical responses were observed upon anion addition (Figure S33, Supporting Information). Taken together, the anion-selective dedoping response of the device was dependent on the shape-persistent electropositive cavity of the CS, rather than other possible interactions with PDVT.
+
+To demonstrate the potential for real-time phosphate oxyanion detection in the marine environment, we tested the PDVT-CS EGOFETs in high ionic strength, artificial seawater solution (Instant Ocean Sea Salt electrolyte). This mixture gives a typical salinity of 35 parts per thousand and contains appreciable concentrations of ions prevalent in seawater (>1 ppm): Na+, K+, Mg2+, Ca2+, Sr2+, Br ̄, Cl ̄, CO32–, HCO3 ̄, and SO42−. The transient responses toward the dissolved sodium salt of phosphate at various concentrations (nm–mm) were measured using the same conditions employed for measurements in HEPES buffer. The LOD and LOQ in artificial seawater were 65.4 × 10−9 m (6.54 parts per billion (ppb) and 940 × 10−9 m (91.2 ppb), respectively (Figure S34, Supporting Information). The measured sensitivity (Figure 5d and Figures S25 and S34, Supporting Information) and seawater stability (Figure 3e) are competitive with current technologies (Figure S38 and Table S8, Supporting Information), demonstrating the utility of our approach for the real-time selective detection of phosphate oxyanions.
+
+3 Conclusion
+In summary, we have demonstrated a new strategy for the selective detection of phosphate, an anion with central roles in biological, agricultural, industrial, and ecological processes. This was enabled by the combination of the semiconducting polymer PDVT with CS. This synergistic combination offered engineered electronic interactions that result in doping and unparalleled stability in water, selective phosphate complexation by the receptor in the presence of competing anions, and a significant dedoping of the polymer in the presence of phosphate. Spectroscopic analysis suggests the doping was promoted by weak orbital mixing of PDVT and CS, forming a ground-state charge-transfer complex sensitive to electronic and structural perturbations induced by analyte binding. When the active layer was mixed with TBA salts of various anions, the device transfer and I–V characteristics demonstrate a selective and strong dedoping response toward phosphate. This selectivity was then translated to an EGOFET for real-time experiments, which demonstrated ultrasensitive phosphate detection with a LOD of 178 × 10−12 m (17.3 ppt) in buffered samples, well within the U.S. Environmental Protection Agency specifications. The device also demonstrated the stable, selective, and sensitive detection of phosphate in artificial seawater, a rare demonstration and critical step toward practical field deployment. The unmatched performance of this sensor and new strategy for analyte detection overcome significant challenges and offer a novel approach for phosphate detection within complex aqueous environments. In a broader context, the combination of semiconducting polymers with next-generation receptors offers manifold opportunities for designing novel composite films that can be applied within emerging OFET-based diagnostic, healthcare, environmental monitoring, and bioelectronics platforms.
+Supporting Information
+for Adv. Electron. Mater., DOI: 10.1002/aelm.202101353
+Receptor Induced Doping of Conjugated Polymer
+Transistors: A Strategy for Selective and Ultrasensitive
+Phosphate Detection in Complex Aqueous Environments
+Anthony R. Benasco, Joshua Tropp, Vikash Kaphle,
+Yusheng Chen, Wei Zhao, Naresh Eedugurala, Tse Nga
+Ng, Amar H. Flood, and Jason D. Azoulay*
+1
+Supporting Information
+Receptor Induced Doping of Conjugated Polymer Transistors: A Strategy for Selective and
+Ultrasensitive Phosphate Detection in Complex Aqueous Environments
+Anthony R. Benasco, Joshua Tropp, Vikash Kaphle, Yusheng Chen, Wei Zhao, Naresh Eedugurala,
+Tse Nga Ng, Amar H. Flood, and Jason D. Azoulay*
+*Correspondence to: jason.azoulay@usm.edu
+This document includes:
+Materials and Methods
+Figures S1 ‒ S38
+Tables S1 ‒ S8
+Supporting References
+2
+1. Materials and Methods:
+1.1. General Remarks. All manipulations of air- and moisture sensitive compounds were
+performed under an inert atmosphere using standard glovebox and Schlenk techniques. Reagents,
+unless otherwise specified, were purchased from Sigma Aldrich, and used without further
+purification. Chlorobenzene (C6H5Cl) was degassed and dried over 4 Å molecular sieves prior to
+use. Tris(dibenzylideneacetone)dipalladium(0) was purchased from Strem Chemicals and used as
+received. 1,2-(E)-Bis(5’-trimethylstannanyl-2’-C-thienyl)ethene, 3,6-bis-(5-bromo-thiophen-2-
+yl)-N,N’-bis(2-decyltetradecyl)-1,4-dioxo-pyrrolo[3,4-c]pyrrole, poly(3,6-dithiophen-2-yl-2,5-
+di(2-decyltetradecyl)-pyrrolo[3,4-c]pyrrole-1,4-dione-alt-thienylenevinylene-2,5-yl) (PDVT),
+[1]
+and penta-t-butylpentacyanopentabenzo[25]annulene (cyanostar, CS)
+[2] were prepared according
+to literature procedures.
+1.2 Characterizations
+Atomic Force Microscopy (AFM). The surface potential and topography data were recorded with
+a Bruker Dimension Icon scanning probe microscope. Scanning Kelvin probe force microscopy
+(SKPFM) measurements were performed with MESP-V2 (tip radius: 35 nm) probes using a twopass procedure.
+Device Fabrication and Film Processing. Si/SiO2 substrates (2.0 cm × 1.5 cm) were sequentially
+submerged into Hellmanex detergent, deionized water, acetone, and 2-isopropanol for sonication.
+Before passivating the dielectric, UV‒O3 cleaning was used to remove any surface contamination
+and to create a more hydrophilic oxide surface for effective electrode and OTS monolayer
+deposition. Inside an inert glovebox, gold (Au) electrodes (~ 60 nm) were deposited on a chromium
+adhesive layer (~ 5 nm) using a shadow mask (L = 80 µm, W = 1000 µm) at a rate of 0.5 Ǻ s
+‒1
+3
+under a pressure of 1 × 10‒6 Torr (Angstrom Engineering EvoVac PVD). Since the channel
+conduction is influenced by the semiconductor growth, morphology, and dielectric
+functionalization, we employed an optimized OTS procedure tailored for our material systems. 3
+mM OTS in trichloroethylene (TCE) was cast onto clean, prefabricated substrates while allowing
+the solution to sit (15 s) prior to spin-coating at 3000 rpm for 10 s.[3] In a vacuum desiccator the
+OTS-treated substrates were exposed overnight to a solution of ammonium hydroxide (28 ‒ 30%
+in water) to accelerate the hydrolysis. Residual OTS was removed via sonication in toluene (2x)
+and subsequently rinsed with acetone and IPA. A 4 mg mL‒1 PDVT/0.8 mg mL‒1 CS solution was
+spin-coated onto the substrate with pre-patterned Au electrodes at 800 rpm for 60 s. For the threecomponent films, tetrabutylammonium (TBAX, X = dihydrogen phosphate (P), nitrate (N),
+chloride (Cl), perchlorate (PC), and hydrogen sulfate (HS)) salt analogues (1 equiv. with respect
+to CS) were used for inner film host-guest complexation studies. For the EGOFET transient
+responses, 8 mg mL‒1 PDVT/1.6 mg mL‒1 CS composite was formulated.
+Bottom-Gate/Bottom-Contact FET Device Testing. The conventional electronic characteristics
+were measured on Signatone 1160 Series probe station and recorded on a Keithley 4200A-SCS
+Parameter Analyzer. First, the film conductivity at room temperature (
+ RT
+) was measured using a
+two-probe method and a voltage sweep (‒2 to 2 V) between the source and drain electrodes (no
+applied gate voltage). The σRT was calculated from equation (S1):
+RT
+I L
+σ = ×
+V WT
+(S1)
+where I, V, L, W, and T represent current, voltage, channel length, channel width, and active
+layer thickness (measured by AFM). The hole mobility (
+
+) was extracted from the FET transfer
+curve (linear regime) based on equation (S2):
+4
+DS
+i DS GS
+L ΔI
+μ = ×
+WCV ΔV
+(S2)
+where
+Ci
+,VDS
+, VGS
+, and
+DS I
+represent the dielectric capacitance, drain-source voltage, gate-source
+voltage, and drain-source current, respectively. Variable-temperature mobility studies were
+performed on a Lakeshore Model CRX-VF Cryogenic Probe Station. The sample stage was heated
+to 340 K and cooled to 180 K. The mobility was measured at each temperature after equilibration
+(30 min). The data were recorded on a Keithley 4200A-SCS Parameter Analyzer. The activation
+energy (
+Ea
+) was extracted after fitting the data to the Arrhenius expression
+0
+( ) exp( / )   T E k T = −
+a B
+, where
+0
+is a pre-exponential factor,
+B
+k
+is the Boltzmann constant,
+and
+T
+denotes temperature.[4]
+Electrochemistry. The electrochemical reduction and oxidation onsets were measured by cyclic
+voltammetry (CV) at a scan rate of 50 mV s‒1
+. Scans were carried out drop-cast polymer films in
+degassed anhydrous acetonitrile with tetrabutylammonium hexafluorophosphate (0.1 м) as the
+supporting electrolyte. The CV apparatus consists of platinum wires (working and counter
+electrodes) and Ag/AgCl (reference) electrode. The reference electrode was calibrated to ferrocene
+(internal standard) with the potential axis corrected to the standard hydrogen electrode (SHE: ‒
+4.75 eV). The bandgap was calculated from the difference of the onset of oxidation (
+EHOMO
+) and
+reduction (
+ELUMO
+).
+Electron Paramagnetic Resonance (EPR) Spectroscopy. Room-temperature continuous-wave
+EPR spectra were recorded on a Bruker EMXmicro EPR spectrometer (X‒band) microwave
+bridge. The solution sample was dissolved in chloroform, evaporated inside a 4 mm quartz tube,
+and sealed in a N2-filled glovebox. Spin concentration was obtained by comparing against a 2,2-
+diphenyl-1-picrylhydrazyl (DPPH) standard with a known spin concentration. The thin film
+5
+samples were prepared in anhydrous chloroform (8 mg mL‒1
+), and the solvent was subsequently
+removed via a rotary evaporator.
+Ellipsometry. To investigate the water uptake (film swelling behavior) of the films, we employed
+ellipsometry on a J.A. Woollam M-2000® UI Ellipsometer with a 500 µL variable temperature
+liquid cell accessory (incident angle at 70o
+and held at 23 oC). The results were modeled on the
+CompleteEase software. Each sample was scanned using 5 angles (55, 60, 65, 70, and 75) over the
+range of 245 – 1700 nm at 2 s scan intervals. Data was first fit using an anisotropic B-spline, which
+establishes an initial absorption profile using 103 varying parameters. B-spline model was then
+converted to a series of gaussian general oscillators as an optimized model with variables reduced
+to 20 or less per material.
+Environmental Stability Studies. Long-term electrical measurements were conducted to assess
+material storage stability. Over a sixty-day period, pristine and composite films were stored in
+inert (N2 glovebox), ambient, ultrapure deionized water (MilliQ > 18.0 MΩ-cm, Millipore), and
+high nutrient Instant Ocean Sea Salt solution, all in the absence of light.
+Fourier Transform Infrared (FTIR) Spectroscopy. FT‒IR was carried out under vacuum (~ 0.8
+mbar) in the solid state (NaCl plates) with a Bruker VERTEX 80v spectrometer. A liquid nitrogen
+cooled mercury-cadmium-telluride detector was utilized.
+Gel Permeation Chromatography. The number average molecular weight (Mn), weight average
+molecular weight (Mw), and dispersity (Đ) were determined by gel permeation chromatography
+(GPC) at 160 °C in 1,2,4-trichlorobenzene (TCB), stabilized with 125 ppm of BHT in an Agilent
+PL-GPC 220 High Temperature GPC/SEC system using a set of three PLgel Olexis columns.
+6
+Polymers were pre-dissolved at a concentration of 1.00 – 2.00 mg mL‒1
+in TCB with stirring at
+160 oC for 12 h.
+Sensing Tests and Characterization. PDVT-CS and PDVT-IsoCS EGOFET sensors were
+exposed to a baseline solution (0.1 M HEPES, pH = 7.4) and analyte solution (containing either
+dihydrogen phosphate, nitrate, metasilicate, bromide, chloride, sulfate, bicarbonate, or carbonate)
+of various concentrations mixed in HEPES. This protocol was used to minimize pH-dependent
+channel conduction responses. The sensor performance and transient responses were measured
+using a Keithley 4200A-SCS Parameter Analyzer. The sensor sensitivity is defined by the relative
+change of the drain current under applied voltage (
+VGS
+= ‒0.7 V and
+VDS
+= ‒1.0 V in our case)
+following equation (S3):
+DS DS
+DS
+| I (analyte)- I (baseline)| S = ×100
+I (baseline)
+(S3)
+UV-vis-NIR Spectroscopy. The optical absorption spectra were recorded from 0.250 to 3.30 µm
+on a Cary 5000 UV-Vis-NIR spectrophotometer. Dilute sample solutions were made by dissolving
+the polymer and receptor in chlorobenzene solution, and thin films were prepared by spin-coating
+a chlorobenzene solution (10 mg mL‒1) onto quartz substrates. The optical bandgaps were
+calculated based on the absorption onset from thin film absorption spectra with equation (S4):
+opt
+g
+onset
+hc E =
+λ
+(S4)
+where
+h
+is Planck’s constant,
+c
+is the speed of light, and
+onset
+is the absorption onset.
+7
+2. Supporting Figures and Tables:
+Figure S1. GPC (TCB, 160 °C) trace of PDVT.
+8
+Figure S2. a) UV-vis-NIR absorption spectra in C6H5Cl solution, b)
+A0 0/0 1 − −
+intensity ratio versus
+material composition, and c) cyclic voltammetry (CV) spectra showing the onset of oxidation and
+reduction.
+Table S1. Optical and electrochemical properties summary.
+Polymer
+Solution
+max
+a
+(nm)
+Film
+max
+b
+(nm)
+opt Eg
+c
+(eV)
+EHOMO
+d
+(eV)
+ELUMO
+e
+(eV)
+elec E
+g
+f
+(eV)
+PDVT 838, 796, 454 804, 731, 449 1.34 ‒5.57 ‒3.66 1.91
+PDVT-CS 841, 794, 454,
+325
+793, 725, 449,
+310 1.28 ‒5.50 ‒3.56 1.94
+a Dilute solution made from C6H5Cl. b Thin films spin-coated from C6H5Cl (10 mg mL
+‒1
+). c opt Eg
+estimated from the film absorption onset. d
+EHOMO
+and e ELUMO
+calculated from the CV onset of
+9
+oxidation and reduction, respectively.
+f
+elec E
+g
+calculated from the difference between
+EHOMO
+and
+ELUMO
+.
+10
+Figure S3. Anion recognition control experiment. a) 2:1 sandwich complex with a PF6
+− anion. The
+cyanostar receptor was photoisomerized (IsoCS) under a UV-treatment (365 nm) in CHCl3. b)
+Depiction of a trans-cis-trans-cis-trans conformer (one of 25
+potential isomers) precluding hostguest complexation. This receptor configuration was integrated into the PDVT host matrix to
+conduct our control experiments, where we do not expect analyte binding. c) UV-vis absorption
+spectra of CS CHCl3 solutions undergoing photoisomerization. The solutions show absorption
+profiles with the maxima (
+max
+) reaching equilibrium beyond 1 h of irradiation.
+11
+Figure S4. EPR (X-band) spectra at 25 oC for a) PDVT, b) CS, c) PDVT-CS, and d) PDVTIsoCS films evaporated from chloroform solution.
+Table S2. PDVT-CS film EPR summary.
+#spins/g #spins/mol
+repeat unit #spins/mol #spins/chain mol of
+spins
+singlet
+spin/repeat
+unit
+singlet
+spin/chain
+7.1 x 1014 8.5 x 1017
+3.1 x 1019 5.1 x 10‒5
+9.4 x 10-9
+7.0 x 10-7
+2.6 x 10‒5
+Table S3. PDVT-IsoCS film EPR summary.
+#spins/g #spins/mol
+repeat unit #spins/mol #spins/chain mol of
+spins
+singlet
+spin/repeat
+unit
+singlet
+spin/chain
+5.02 x 1014 6.0 x 1017
+2.2 x 1019 3.6 x 10‒5
+6.7 x 10-9
+5.0 x 10-7
+1.8 x 10‒5
+12
+Figure S5. Kelvin probe force microscopy (KPFM) surface potential measurements of PDVT and
+PDVT-CS as-spun on ITO glass substrates. After film removal via scratch test, the probe was
+scanned over the film/ITO border. a,b) Topography and c,d) surface potential images between
+PDVT/ITO and PDVT-CS/ITO, where a clear surface potential drop was found with CS
+admixing.
+
+13
+Figure S6. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of pristine PDVT films using a BGBC device configuration and d) 2-point probe
+room-temperature I‒V plot (without a gate electrode).
+14
+Figure S7. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS (20 wt%) films using a BGBC device configuration and d)
+2-point probe room-temperature I‒V plot (without a gate electrode).
+15
+Figure S8. Composition-dependent charge transport properties showing conductivity, field-effect
+mobility, and hole carrier concentration versus CS loading in a PDVT host matrix.
+Table S4. Tabulated conductivity, field-effect mobility, and calculated carrier density with the
+trap‒limited regime (CS < 4 wt%) highlighted in reference to the above plot.
+Material System Composition
+Conductivity
+(S cm–1
+)
+Mobility
+(cm2 V
+–1
+s
+‒1
+)
+Calculated
+carrier
+density
+(cm–3 Average Max Average Max )
+PDVTa Pristine 6.30 × 10–6
+1.36 × 10–5
+2.29 × 10–2
+2.95 × 10–2
+1.70 × 1015
+PDVT-CSb
+1% 2.83 × 10–6
+5.00 × 10–6
+1.02 × 10–2
+3.07 × 10–2
+1.71 × 1015
+1.33% 2.80 × 10–7
+8.58 × 10–7
+3.87 × 10–3
+1.26 × 10–2
+4.52 × 1014
+2% 8.80 × 10–7
+4.53 × 10–6
+5.78 × 10–3
+1.37 × 10–2
+9.50 × 1014
+4% 1.17 × 10–5
+1.90 × 10–5
+4.75 × 10–3
+1.00 × 10–2
+1.54 × 1016
+10% 1.75 × 10–4
+3.36 × 10–4
+2.25 × 10–2
+4.01 × 10–2
+4.85 × 1016
+20% 8.20 × 10–3
+1.67 × 10–2
+3.43 × 10–2
+6.00 × 10–2
+1.49 × 1018
+50% 7.07 × 10–2
+1.10 × 10–2
+9.01 × 10–2
+1.44 × 10–1
+4.90 × 1017
+a,b All processed films were prepared in C6H5Cl at 110o
+overnight and spin-coated at 1000 rpm for
+1 min, and the film thicknesses (50‒100 nm) were measured via profilometry.
+b Binary composite
+films with variation in CS content (1‒50 wt%).
+16
+Figure S9. Composition-dependent charge transport properties showing conductivity, field-effect
+mobility, and hole carrier concentration versus IsoCS loading in a PDVT host matrix.
+Table S5. Tabulated conductivity, field-effect mobility, and calculated carrier density of PDVTIsoCS with the trap‒limited regime (< 10 wt% IsoCS) highlighted in reference to the above plot.
+Material System Composition
+Conductivity
+(S cm–1
+)
+Mobility
+(cm2 V
+–1
+s
+‒1
+)
+Calculated
+carrier
+density
+(cm–3 Average Max Average Max )
+PDVTa Pristine 6.30 × 10–6
+1.36 × 10–5
+2.29 × 10–2
+2.95 × 10–2
+1.70 × 1015
+PDVT-IsoCSb
+1% 1.69 × 10–6
+4.11 × 10–6
+1.10 × 10–2
+3.26 × 10–2
+9.60 × 1014
+1.33% 1.69 × 10–6
+1.38 × 10–5
+5.73 × 10–2
+8.40 × 10–2
+1.84 × 1014
+2% 3.12 × 10–6
+8.48 × 10–6
+2.76 × 10–2
+7.58 × 10–2
+7.06 × 1014
+4% 3.47 × 10–6
+8.32 × 10–6
+3.07 × 10–2
+6.93 × 10–2
+7.06 × 1014
+10% 2.14 × 10–5
+6.01 × 10–5
+2.48 × 10–2
+5.75 × 10–2
+5.40 × 1015
+20% 1.69 × 10–5
+5.89 × 10–5
+3.16 × 10–2
+5.88 × 10–2
+3.34 × 1015
+50% 5.02 × 10–5
+1.01 × 10–4
+3.05 × 10–2
+4.59 × 10–2
+1.03 × 1016
+a,b All processed films were prepared in C6H5Cl at 110o
+overnight and spin-coated at 1000 rpm for
+1 min, and the film thicknesses (50‒100 nm) were measured via profilometry. b Binary composite
+films with variation in IsoCS content (1‒50 wt%).
+17
+Figure S10. Variable temperature OFET transfer characteristics (180–340 K) of a) PDVT, b)
+PDVT-IsoCS and c) PDVT-CS films. The temperature-dependent mobility was fitted to the
+multiple-trap and release model to calculate the mean energy of the trap states.[4]
+18
+Figure S11. a) Device schematic used to conduct the transmission line method (TLM). b)
+Resistance of PDVT-CS and PDVT-IsoCS samples as a function of channel length (L), where the
+y-intercepts (
+L →0
+) show contact resistances (
+RC
+) of 4.5 MΩ and 255.1 MΩ, respectively. Inset
+plot: zoomed image of PDVT-CS
+19
+Figure S12. Monitoring charge transport shelf-life for high performing PDVT-CS films for 60
+days. Films stored and measured under an a) inert atmosphere and b) ambient conditions (both in
+the absence of light) showed moderate change in conductivity, field-effect mobility, and hole
+concentration over a period of 60 days. No discernable degradation was found.
+20
+Figure S13. Monitoring charge transport shelf-life for high performing PDVT-CS films for 60
+days. Films stored and measured under deionized water (in the absence of light) showed moderate
+change in conductivity, field-effect mobility, and hole concentration over a period of 60 days. No
+discernable degradation was found.
+21
+Figure S14. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS•TBAP (anion: 1 equiv. relative to CS) films using a
+BGBC device configuration and d) 2-point probe room-temperature I‒V plot (without a gate
+electrode).
+22
+Figure S15. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS•TBAN (anion: 1 equiv. relative to CS) films using a
+BGBC device configuration and d) 2-point probe room-temperature I‒V plot (without a gate
+electrode).
+23
+Figure S16 a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS•TBACl (anion: 1 equiv. relative to CS) films using a
+BGBC device configuration and d) 2-point probe room-temperature I‒V plot (without a gate
+electrode).
+24
+Figure S17. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS•TBAPC (anion: 1 equiv. relative to CS) films using a
+BGBC device configuration and d) 2-point probe room-temperature I‒V plot (without a gate
+electrode).
+25
+Figure S18. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of blended PDVT-CS•TBAHS (anion: 1 equiv. relative to CS) films using a
+BCBG device configuration and d) 2-point probe room-temperature I‒V plot (without a gate
+electrode).
+26
+Table S6. Tabulated conductivity, field-effect mobility, and calculated carrier density of PDVTCS•TBAX three-component films.
+Material System Composition
+Conductivity
+(S cm–1
+)
+Mobility
+(cm2 V
+–1
+s
+‒1
+)
+Calculated
+carrier
+density
+(cm–3 Average Max Average Max )
+PDVTa Pristine 6.30 × 10–6
+1.36 × 10–5
+2.29 × 10–2
+2.95 × 10–2
+1.70 × 1015
+PDVT-CS•TBAXb
+P 3.55 × 10–5
+8.79 × 10–5
+4.23 × 10–3
+1.09 × 10–2
+5.24 × 1016
+N 5.28 × 10–5
+1.01 × 10–4
+1.33 × 10–2
+1.78 × 10–2
+2.49 × 1016
+Cl 3.09 × 10–3
+5.13 × 10–3
+4.20 × 10–2
+5.56 × 10–2
+4.59 × 1017
+PC 4.86 × 10–4
+6.10 × 10–4
+1.27 × 10–2
+1.52 × 10–2
+2.40 × 1017
+HS 6.40 × 10–4
+9.59 × 10–4
+2.60 × 10–2
+2.91 × 10–2
+1.54 × 1017
+a,b All processed films were prepared in C6H5Cl at 110o
+overnight and spin-coated at 1000 rpm for
+1 min, and the film thicknesses (50 ‒ 100 nm) were measured via profilometry. b Multicomponent
+films: direct mixing of organic-soluble tetrabutylammonium (TBAX) salt analogues (1 equiv.
+relative to CS) with the PDVT-CS (20 wt%) solution.
+27
+Figure S19. a,b) PDVT-TBAP and c,d) PDVT-TBAN transfer characteristics to test for polymeranalyte interactions in the absence of receptors. The new profiles show significant degradation in
+FET performance which did not occur when CS was present. These results suggest receptoranalyte host‒guest complexation predominates in the three-component film studies.
+28
+Figure S20. Variable-angle ellipsometry model fittings of a) PDVT, b) CS, c) PDVT-CS, and d)
+PDVT-CS•TBAP films. e) Thickness profile showing PDVT-CS swelling by less than 1 nm over
+1 hour of exposure to deionized water. The concentration of CS was fitted from the dry film and
+held constant during the water measurement. Only 10 variables (thickness and amplitude of PDVT
+and CS gaussian oscillators) were allowed to vary during the swelling experiment. f) The
+uniqueness test shows that the modeled thickness gives the best fit and is reliable. These findings
+are relevant to distinguish the mode of operation, which we found to be based on the field-effect
+rather than volumetric like in organic electrochemical transistors (OECTs).
+29
+Figure S21. Active layer responsiveness to pH fluctuation (4, 7, and 10). There were no significant
+changes in the tested pH range.
+30
+Figure S22. a) EGOFET device and b) transient responses based on sequential exposure to HEPES
+baseline solution. The devices displayed stable electrochemical performance with consistent
+DS I
+output and
+GS I
+leakage, revealing no dramatic changes to the film properties during the
+experimental run. c) The
+GS I
+in response to spiked phosphate in HEPES solution.
+31
+Figure S23. HEPES buffer analyte solution: pH as a function of anion concentration for a)
+H2PO4
+‒
+/HPO4
+2‒, b) NO3
+‒
+, c) SiO3
+2‒, d) Br‒
+, e) HCO3
+‒
+, f) CO3
+2‒
+, g) SO4
+2‒
+, and h) Cl‒
+.
+32
+Figure S24. PDVT-CS EGOFET transient responses towards a) H2PO4
+‒
+/HPO4
+2‒, b) NO3
+‒
+, c)
+SiO3
+2‒, d) Br‒
+, e) HCO3
+‒
+, f) CO3
+2‒
+, g) SO4
+2‒
+, and h) Cl‒
+dissolved in HEPES buffer.
+33
+Figure S25. PDVT-CS EGOFET calibration plots towards a) H2PO4
+‒
+/HPO4
+2‒, b) NO3
+‒
+, c)
+SiO3
+2‒, d) Br‒
+, e) HCO3
+‒
+, f) CO3
+2‒, g) SO4
+2‒, and h) Cl‒
+dissolved in HEPES buffer and the
+standard error across 5 devices.
+34
+Figure S26. a) PDVT-CS EGOFET transient response summary and b) corresponding LOD
+versus analyte thermionic diameter for anions tested in HEPES buffer. Referencing to the CS
+cavity (vertical teal line), the size effects towards anion recognition were exemplified. Low LOD
+and peak preference was found for H2PO4
+‒
+/HPO4
+2‒, NO3
+‒
+, SiO3
+2‒, Br‒
+, and HCO3
+‒
+ranging from
+3.8 – 4.26 Ǻ in size. Other anions such as Cl‒
+(dion ≈ 3.4 Ǻ), CO3
+2‒ (dion ≈ 3.78 Ǻ), and SO4
+2‒ (dion
+≈ 4.36 Ǻ), did not show any significant response.
+35
+Figure S27. IsoCS preparation for NMR titration experiments.
+36
+Figure S28. In-situ 1H NMR of IsoCS.
+37
+Figure S29. In-situ 1H NMR (6 – 9.5 ppm) of IsoCS.
+38
+Figure S30. In-situ 1H NMR of IsoCS with PF6
+− anion titration.
+39
+Figure S31. In-situ 1H NMR (6.5 – 9.5 ppm) of IsoCS with PF6
+− anion titration.
+40
+Figure S32. In-situ 1H NMR (8.10 – 8.6 ppm) of IsoCS with PF6
+− anion titration.
+41
+Figure S33. PDVT-IsoCS EGOFET transient responses towards a) H2PO4
+‒
+/HPO4
+2‒, b) NO3
+‒
+, c)
+SiO3
+2‒, d) Br‒
+, e) HCO3
+‒
+, f) CO3
+2‒, g) SO4
+2‒, and h) Cl‒
+dissolved in HEPES buffer.
+42
+Figure S34. PDVT-CS EGOFET transient responses towards a) H2PO4
+‒
+/HPO4
+2‒ dissolved in
+artificial seawater electrolyte and b) the corresponding calibration plot for H2PO4
+‒
+/HPO4
+2‒
+detection and the standard error across 5 devices.
+43
+Figure S35. Crystal structure of the 4:3:3 stack of tetrameric CS with a trianionic tri-phosphate
+(H2PO4···H2PO4···H2PO4)
+3‒ and TBA+
+cations stacking around the tetrameric stack.
+Table S7. Crystal parameters[5]
+Parameter
+Crystal Structure
+[CS4(H2PO4)3(TBA)3]
+CCDC 1588590
+Formula
+M / g mol‒1
+Temperature / K
+λ / Ǻ
+Crystal System
+Space Group
+Crystal Color
+Crystal Size / mm
+a
+b
+c
+α
+β
+γ
+V/Ǻ3
+F000
+Z
+Calculated Density / g cm‒3
+Absorption Coefficient (mm)
+Reflections Collected
+Reflections Observed
+Data/Restraints/Parameters
+GOOF
+Final R Indices / %
+R Indices (all data) / %
+Largest Diff Peak and Hole
+e Ǻ‒3
+C308H374N23O12P3
+4683.19
+230(2)
+0.71073
+Triclinic
+P‒1
+Colorless
+0.21×0.19×0.16 mm3
+21.138(2)
+21.616(2)
+21.948(2)
+118.123(5)
+106.659(6)
+99.169(6)
+7942.5(14)
+2524
+1
+0.979
+0.074
+27892
+9529
+27892/5061/1898
+1.343
+13.99
+43.07
+0.556/‒0.364
+44
+Figure S36. a) OFET output (
+DS I
+vs
+VDS
+), b) transfer (
+DS I
+vs
+VGS
+), and c) gate leakage (
+GS I
+vs
+VGS
+) characteristics of CS films using a BGBC device configuration and d) 2-point probe roomtemperature I‒V plot (without a gate electrode).
+45
+Figure S37. OFET transfer a)
+DS I
+vs
+VGS
+and b,c)
+DS I
+vs
+VGS
+characteristics of PDVT films
+with 1–20 wt% CS loading.
+46
+Figure S38. A comparison of high performing PDVT-CS films benchmarked against capacitive,
+lap-on-chip, colorimetric, ion-selective electrodes, FETs, and commercialized phosphate sensors.
+PDVT-CS demonstrates a low LOD of 178 pM (17.3 parts per trillion) in HEPES and 65.4 nM
+(6.54 ppb) in Instant Ocean® Sea Salt Electrolyte.
+47
+Table S8. Summary of state-of-the-art phosphate sensing platforms.
+Receptor Platform LOD
+(M)
+Chemical Interferants Year Ref
+Cu(II)Pc-PAA C‒V 1 x 10‒9 Cl‒
+, SO4
+2‒, CO3
+2‒
+, ClO4
+‒
+2017 [6]
+Molybdenum Blue Lab-On-Chip 3 x 10‒8 Si(OH)4 2017 [7]
+Molybdenum Blue Colorimetric 2.9 x 10‒6
+‒ 2020 [8]
+Silver Salt-Based
+Membranes
+ISE 1 x 10‒6
+‒ 2018 [9]
+Cobalt Electrodes ISE 1 x 10‒5 HCO3
+‒
+, Cl‒
+, Br‒
+, NO3
+‒
+, Ac‒
+, F‒
+2007 [10]
+MIP FET 2.0 x 10‒8 SO4
+2‒, MnO4
+‒
+2016 [11]
+Ferritin/Graphene
+Oxide
+FET 1.1 x 10‒7 SO4
+2‒, CO3
+2‒, NO3
+‒
+2020 [12]
+Ferritin/Graphene
+Oxide
+FET 2.6 x 10‒8 SO4
+2‒, CO3
+2‒, Cl‒
+2017 [13]
+Ag Graphene Oxide FET 1.2 x 10‒6 SO4
+2‒, Mg2+
+, K+
+, HCO3
+‒
+,
+Ca2+, TPP
+2019 [14]
+Receptor Platform LOD
+(M)
+Link Ref
+Cycle ‒ PO4 Optics 5.0 x 10‒8 https://www.planetocean.co.uk/PDF/CYCLE-PO4.pdf
+[15]
+HydroCycle PO4
+(Sea-Bird Scientific)
+Wet-Chemistry
+Sensor
+2.4 x 10‒8 https://www.seabird.com/hydrocyclepo/product?id=54721314201
+[16]
+48
+3. Supporting References
+[1] H. Chen, Y. Guo, G. Yu, Y. Zhao, J. Zhang, D. Gao, H. Liu, Y. Liu, Adv. Mater. 2012, 24,
+4618.
+[2] S. Lee, C.-H. Chen, A. H. Flood, Nat. Chem. 2013, 5, 704.
+[3] Y. Ito, A. A. Virkar, S. Mannsfeld, J. H. Oh, M. Toney, J. Locklin, Z. Bao, J. Am. Chem.
+Soc. 2009, 131, 9396.
+[4] C. Liu, K. Huang, W.-T. Park, M. Li, T. Yang, X. Liu, L. Liang, T. Minari, Y.-Y. Noh,
+Mater. Horiz. 2017, 4, 608.
+[5] E. M. Fatila, M. Pink, E. B. Twum, J. A. Karty, A. H. Flood, Chem. Sci. 2018, 9, 2863.
+[6] L. Barhoumi, A. Baraket, N. M. Nooredeen, M. B. Ali, M. N. Abbas, J. Bausells, A.
+Errachid, Electroanalysis 2017, 29, 1586.
+[7] M. M. Grand, G. S. Clinton-Bailey, A. D. Beaton, A. M. Schaap, T. H. Johengen, M. N.
+Tamburri, D. P. Connelly, M. C. Mowlem, E. P. Achterberg, Front. Mar. Sci. 2017, 4.
+[8] J. M. Racicot, T. L. Mako, A. Olivelli, M. Levine, Sensors 2020, 20.
+[9] M. Bralić, Int. J. Electrochem. Sci. 2018, 13, 1390.
+[10] H. J. Kim, J. W. Hummel, K. A. Sudduth, S. J. Birrell, Trans. ASABE 2007, 50, 415.
+[11] X. Jia, D. Chen, L. Bin, H. Lu, R. Zhang, Y. Zheng, Sci. Rep. 2016, 6, 27728.
+[12] G. Zhou, B. Jin, Y. Wang, Q. Dong, A. Maity, J. Chang, R. Ren, H. Pu, X. Sui, S. Mao, J.
+Chen, Mol. Syst. Des. Eng. 2020, 5, 936.
+[13] S. Mao, H. Pu, J. Chang, X. Sui, G. Zhou, R. Ren, Y. Chen, J. Chen, Environ. Sci. Nano
+2017, 4, 856.
+[14] K. S. Bhat, U. T. Nakate, J. Y. Yoo, Y. Wang, T. Mahmoudi, Y. B. Hahn, ACS Omega
+2019, 4, 8373.
+

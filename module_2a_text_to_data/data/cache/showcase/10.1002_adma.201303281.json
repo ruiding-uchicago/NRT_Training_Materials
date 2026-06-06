@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adma.201303281",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Na+",
+      "lower_detection_limit": "1e-6 M",
+      "upper_detection_limit": "1e-1 M",
+      "probe_material": "polyvinyl chloride/2-nitrophenyl octyl ether/potassium tetrakis(4-chlorophenyl)borate/sodium ionophore X",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

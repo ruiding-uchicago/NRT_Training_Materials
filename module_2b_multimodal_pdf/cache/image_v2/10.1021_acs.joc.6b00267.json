@@ -1,0 +1,382 @@
+{
+ "records": [
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "moderate",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "medium",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "very low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "PA",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "strong",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "TNT",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "moderate",
+   "interferent_value": "medium",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "TNT",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "moderate",
+   "interferent_value": "low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "TNT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "moderate",
+   "interferent_value": "very low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "TNT",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "moderate",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "TNT",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "moderate",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "DNP",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "medium",
+   "interferent_value": "low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "DNP",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "medium",
+   "interferent_value": "very low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "DNP",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "medium",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "DNP",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "medium",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NP",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "low",
+   "interferent_value": "very low",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NP",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "low",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NP",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "low",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NB",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "very low",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NB",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "very low",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  },
+  {
+   "receptor": "TPEP",
+   "target": "NM",
+   "interferent": "Blank",
+   "condition": {
+    "solvent": "THF/water (10:90)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "relative fluorescence quenching",
+   "label_basis": "relative fluorescence quenching (%)",
+   "target_value": "negligible",
+   "interferent_value": "none",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": "3601"
+   }
+  }
+ ]
+}

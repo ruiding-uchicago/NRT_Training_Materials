@@ -1,0 +1,365 @@
+Nanoneedle Transistor-Based Sensors for the Selective Detection of Intracellular Calcium Ions
+Donghee Son†¶Sung Young Park†‡¶Byeongju Kim‡¶Jun Tae Koh‡Tae Hyun Kim∥Sangmin An‡Doyoung Jang§Gyu Tae Kim§Wonho Jhe‡Seunghun Hong†‡⊥*
+View Author InformationView Author Information
+Open PDF
+Supporting Information (1)
+OpenURL UNIV OF CHICAGO
+ACS Nano
+Cite this: ACS Nano 2011, 5, 5, 3888–3895
+https://doi.org/10.1021/nn200262u
+Published April 15, 2011
+Copyright © 2011 American Chemical Society
+Request reuse permissions
+Article Views
+2974
+Altmetric
+9
+Citations
+50
+Learn about these metrics
+Abstract
+
+We developed a nanoneedle transistor-based sensor (NTS) for the selective detection of calcium ions inside a living cell. In this work, a single-walled carbon nanotube-based field effect transistor (swCNT-FET) was first fabricated at the end of a glass nanopipette and functionalized with Fluo-4-AM probe dye. The selective binding of calcium ions onto the dye molecules altered the charge state of the dye molecules, resulting in the change of the source-drain current of the swCNT-FET as well as the fluorescence intensity from the dye. We demonstrated the electrical and fluorescence detection of the concentration change of intracellular calcium ions inside a HeLa cell using the NTS.
+
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+
+Copyright © 2011 American Chemical Society
+Subjects
+what are subjects
+Calcium
+Carbon nanotubes
+Ions
+Molecules
+Sensors
+Keywords
+what are keywords
+carbon nanotube
+field effect transistor
+nanoneedle transistor-based sensor
+real-time sensor
+intracellular calcium ion
+Fluo-4-AM dye
+Recently, field effect transistor (FET)-type biosensors based on single-walled carbon nanotubes (swCNTs) and nanowires have attracted much attention because of their excellent selectivity and real-time response for the detection of bio- and chemical molecules. (1-6) However, most of these biosensors have a rather large size compared with that of individual cells and could not be placed inside a cell for the selective detection of intracellular biomolecular species. On the other hand, nanoscale probes such as patch clamps have been extensively utilized to detect the signals inside a cell for various applications such as the clinical test and the dynamic study of neural systems. (7-13) For example, several research groups utilized fluorophore-labeled atomic force microscopy (AFM) tips or quantum dots to acquire information inside of a living cell via fluorescence imaging. (7, 8) Also, other researchers successfully monitored the intracellular electric potential using nanowire-based transistor devices. (13) However, previous nanoprobe devices still exhibited rather low performance in detecting specific intracellular molecules in terms of its selectivity and sensitivity. Herein, we report the development of a nanoneedle-shape transistor-based sensor (NTS) for the selective detection of intracellular biomolecular species. In this work, we fabricated a swCNT-based FET at the end of a nanoneedle with a submicrometer diameter and functionalized it with a Fluo-4-AM fluorescence probe so that the FET device generated both electrical and fluorescence signals in response to calcium ions. We demonstrated the detection of calcium ion (Ca2+) concentration change inside a HeLa cell activated by ionomycin in the form of real-time electrical current and fluorescence changes using an NTS. Considering that FET-type transducers have been utilized to build sensors for the selective detection of various molecular species, this work should open up many new applications such as clinical testing, pharmaceutical studies, and cell dynamics studies.
+Results and Discussion
+Figure 1A illustrates the fabrication scheme of a NTS. First, a micropipette puller was utilized to fabricate a nanopipette with a diameter of submicrometer at its end from thin-walled borosilicate capillaries (Figure 1A-i). (14) After eliminating hydrocarbon materials via piranha cleaning, (15-17) metal electrodes were formed by thermally depositing 10-nm-thick Ti layer followed by 30-nm Au deposition on this tapered glass nanopipette under high-vacuum condition. In this process, the metal was deposited separately onto both sides of the clean nanopipette surface by rotating the nanopipette by 180° around the axis (Figure 1A-ii and detailed experimental procedure in Supporting Information). (18) The tip-end of the nanopipette was immersed in swCNT solution (0.5 mg/mL in 1,2-dichlorobenzene) for 1 min and dried at room temperature for 1 day, where swCNTs were adsorbed onto the glass surface at the end of the nanopipette, connecting the two electrodes (1Figure 1A-iii). (8) Previous reports show that CNTs in nonpolar solvent were physisorbed onto a polar surface (e.g., glass) via weak interaction forces such as van der Waals and dipole induced dipole interactions. (19-21) Then, the swCNT-connected network junction was immersed in the solution of 100 μM Fluo-4-AM in dimethyl sulfoxide (DMSO) for 30 min (Figure 1A-iv), where Fluo-4-AM dye molecules strongly bound to the swCNTs on the probe by π–π stacking between the surface of swCNTs and the benzene ring of Fluo-4-AM. (22, 23) Previously, Fluo-4-AM dye molecules have been utilized as a fluorescence indicator for calcium ions because they reversibly bind to calcium ions and emit a fluorescence light. (24) This swCNT-based sensor probe was utilized to selectively detect the Ca2+ in living cells (Figure 1A-v).
+Figure 1
+
+Figure 1. Schematic diagram depicting the preparation method of nanoneedle transistor-based sensors (NTSs). (A) (i) Pulling a glass tube into a nanopipette; (ii) deposition of titanium and gold contact via thermal evaporation; (iii) coating swCNTs at the end of the electrodes on a pulled nanopipette; (iv) functionalization of the swCNTs with Fluo-4-AM; (v) measurement of intracellular calcium ions using the NTS. (B) Mechanism of calcium ion detection using a NTS: Fluo-4-AM molecules without calcium ions were negatively charged with 4e– and acted as a negative gate bias onto swCNT channels, which increased the hole currents in the swCNT channels. When Ca2+ bound to the Fluo-4-AM molecules, the charges on it changed to 2e–, which reduced the hole currents in the swCNT channels.
+
+Figure 1B describes the detection mechanism of a NTS, a swCNT-FET functionalized with Fluo-4-AM. In aqueous solution, the four carboxyl groups of Fluo-4-AM became ionized to carboxyl ion and had the electric charge of 4e–. Therefore, Fluo-4-AM molecules without calcium ions acted as a negatively charged gate on swCNTs and increased the hole currents in swCNT-FETs because the swCNT network under ambient conditions acts as a p-type semiconductor. (19, 25, 26) However, when the calcium ions bound to Fluo-4-AM molecules, (27) their individual electric charges changed to 2e–, and thus the electrical currents in swCNT-FETs were reduced.
+The image taken by a scanning electron microscope (SEM) confirms a well-defined narrow gap between source–drain electrodes (Figure 2A). The length and the width of the swCNT network channel were about 250 nm and 3 μm, respectively. We could reproducibly fabricate NTS devices with their channel lengths of a few hundred nanometers using our fabrication method.
+Figure 2
+
+Figure 2. Scanning electron microscopy (SEM) images and electrical properties of swCNT-FET probes fabricated at the end of a nanopipette. (A) (i) SEM image of the probe; (ii) SEM image of the swCNT-bridged junction at the end of the probe. (B) Gating effect of the probe via the liquid gate method using a Pt gate electrode. The gate bias was swept from −1 to 1 V under source-drain bias of 0.1 V. The threshold voltage was estimated to be 2.52 V, and the transconductance was 12.5 μA/V. (C) Scaling graph of noise amplitude (A) of swCNT-FETs with different resistance R in air and DI water. The fitting curves represent (red line) A = 6.58 × 10–11R0.87 and (black line) A = 8.11 × 10–12R1.04. The insert shows the noise power spectrum (SI) of the probe exposed to air and DI water. The estimated frequency exponents and the noise amplitudes according to the Hooge’s formula were γ = 0.94 and A = 1.03 × 10–8 in DI water and γ = 0.96 and A = 1.26 × 10–8 in air, respectively.
+
+Figure 2B shows the gating effect of a swCNT-FET at the end of a nanoneedle in deionized (DI) water using a platinum electrode as a liquid gate. The bias between drain and source electrodes was 0.1 V, and the gate bias was swept from −1 to 1 V. It exhibited typical p-type FET characteristics like other swCNT-FETs under ambient conditions. The threshold voltage was estimated to be 2.52 V, and the transconductance was 12.5 μA/V, indicating the possible application as a sensor transducer.
+We also measured the noise characteristics of the swCNT-FET at the end of the nanoneedle exposed to air and DI water and analyzed the result using Hooge’s noise model as following.
+(1)
+where SI, A, I, and f represent current power spectral density, noise amplitude, dc bias current through the channel of the FET, and frequency, respectively. Using this model, we estimated γ = 0.96 and A = 1.26 × 10–8 for the junction in air, and γ = 0.94 and A = 1.03 × 10–8 for that in DI water. It indicates a typical 1/f noise in the NTS. The correlation between resistance R and noise amplitude A can be represented as A = 6.58 × 10–11R0.87 for bare device and A = 8.11 × 10–12R1.04 for the device exposed to DI water, which is comparable to the values of A ≈ 10–11R for typical swCNT-FETs on flat substrates. (28) The small resistance exponent of the noise amplitude close to 1 indicates the formation of the well-dispersed networks of the carbon nanotubes with intertube contacts. (29)
+The optical and electrical responses of NTSs were tested under the exposure to calcium ions (Figure 3). Figure 3 panels A and B show the laser scanning confocal microscopy (LSM) image of the sharp end of a NTS. When the NTS was treated with 5 μM Ca2+, the normalized fluorescence intensity (arbitrary unit) was increased from 1.5 × 102 (Figure 3B-i) to 2.0 × 102 (Figure 3B-ii), which is comparable with the previously reported response of Fluo-4-AM molecules to calcium ion concentration change. (30-33) It shows that the Fluo-4-AM molecules on the NTS maintained its specific binding capability toward Ca2+ and can be used as an optical indicator for calcium concentration change.
+Figure 3
+
+Figure 3. Optical and electrical detection of calcium ions using NTSs. (A) Confocal microscopy image of a NTS. (B) Confocal fluorescence image of a NTS before (i) and after (ii) the treatment of 5 μM calcium ion solution. The fluorescence intensity before and after calcium ion treatment was about 1.5 × 102 and 2.0 × 102 (arbitrary unit), respectively. (C) Real-time current change of a Fluo-4-AM-functionalized NTS in response to calcium concentration change. Source-drain bias was maintained at 0.1 V. In a real-time detection, source-drain current decreased from 10.5 to 4.2 μA as the concentration of Ca2+ was increased from 1 nM to 1 mM. (D) Real-time current change of a Fluo-4-AM-functionalized swCNT-FET with insulating layer on electrodes in response to calcium concentration change. Source-drain bias was maintained at 0.1 V. In a real-time detection, source-drain current decreased from 620 to 20 nA as the concentration of Ca2+ was increased from 100 pM to 100 mM. (E) Relative conductance change of NTS and four different swCNT-FETs on flat silicon oxide substrates in response to the change of calcium ion concentration: our NTS device (marked by “NTS”), bare swCNT-FET (marked by “Bare”), bare swCNT-FET with insulating coating on electrodes (marked by “Insul.”), Fluo-4-AM-functionalized swCNT-FET (marked by “Func”), and Fluo-4-AM-functionalized swCNT-FET with insulating coating on electrodes (marked by “Func. & Insul.”).
+
+Our NTS device can be also utilized as an FET-type sensor (Figure 3C). For the sensing experiments, the sharp end of the functionalized NTS was first dipped in the buffer solution while maintaining the source-drain voltage of 0.1 V. In this case, low source-drain bias was preferred to minimize electrochemical reactions in solution and thus to achieve stable sensor signals over a long time period without degradation of sensor devices. After the electric signal stabilized, the calcium ion was injected into the buffer solution resulting in the final calcium concentrations ranging from 1 nM to 1 mM, while monitoring the source-drain currents. The real-time sensor response data in Figure 3C clearly shows that our Fluo-4-AM-functionalized NTS can be used as an FET-type sensor for real-time calcium ion detection.
+The electrical sensing mechanism of our devices was studied using swCNT-FETs with four different structures on flat silicon oxide substrates (Figure 3D and 3E): bare swCNT-FET, bare swCNT-FET with insulating coating on electrodes, Fluo-4-AM-functionalized swCNT-FET, and Fluo-4-AM-functionalized swCNT-FET with insulating coating on electrodes (Figure S1 and S2 in Supporting Information). We utilized flat swCNT-FETs for the study of sensor mechanisms because it allowed us to easily change various device structures such as insulating coating and device size. For the sensing experiments, phosphate buffer solution (PBS) of pH 7.4 was first dropped onto a swCNT sensor, while maintaining source-drain bias of 0.1 V. Then, the calcium ion was injected into the buffer solution in the range of calcium concentration from 100 pM to 100 mM, while monitoring the source-drain current using a semiconductor parameter analyzer (Keithley 4200). When the calcium ions were applied to a functionalized swCNT-FET with insulating coating on electrodes, the conductance of the swCNT-FET decreased significantly (Figure 3D). The electrical currents of the swCNT decreased from 620 to 20 nA as the concentration of Ca2+ increased from 100 pM to 100 mM. These results show the quick response and wide detection range of our sensors.
+The sensor response to calcium ions can be quantified using the relative conductance change ΔG/G0, where G0 and ΔG represent the initial conductance of the swCNT-FET without calcium ions and its conductance change after calcium ion injection, respectively (Figure 3E). Our sensors began to exhibit sensor responses larger than noise levels from ∼100 pM concentration of calcium ions. The dynamic range, which is the linear response region for the varying calcium concentration, of the sensor is approximately from 100 nM to 1 mM. Note that the response curves of Fluo-4-AM-functionalized swCNT-FETs with or without insulating coating on the electrodes were very similar (Figure 3E). In addition, the sensors based on nanoneedle-shape FETs also exhibited a similar sensor response except for slightly sharper slope. On the other hand, the FETs without Fluo-4-AM dye exhibited little response (marked by “Bare” and “Insul.” in Figure 3E) to the calcium ions compared with those with the dye molecules. The results clearly indicate that the sensor response came from the Fluo-4-AM-functionalized swCNT channels as depicted in Figure 1B.
+This sensor response curves can be modeled using a simple equilibrium model as following. If we assume calcium ions in solution bound to Fluo-4-AM molecules on swCNT-FET channels following the Langmuir isotherm, the surface density Cs of Fluo-4-AM molecules with bound calcium ions can be described as (34-36)
+
+where Csmax, [Ca2+] and Kds represent the total surface density of Fluo-4-AM molecules on the swCNT suface, the concentration of calcium ions in solution, and the dissociation constant between Fluo-4-AM and calcium ions, respectively. After some calculation, we can induce the formula (Supporting Information) as following:
+
+where α is a modifying parameter, and Kds is a dissociation constant of calcium ion for Fluo-4-AM.
+Using this model and the response curve of Fluo-4-AM-functionazlied swCNT-FET with insulating coating on electrodes, we estimated the dissociation constant Kd of 21.6 μM for the binding between calcium ions and Fluo-4-AM molecules. This value is similar to the previously reported dissociation constant value of Kds = 22 μM, (24) which also confirms the validity of our model. We checked the nonspecific response of our sensors to other ions such as Mg2+ (Figure S3 in Supporting Information). The results show that our sensors responded specifically to calcium ions.
+Previous reports show various mechanisms of swCNT sensors such as electrostatic gating, changes in gate coupling, carrier mobility changes, and Schottky barrier effects. (37-40) The results in Figure 3E show that functionalized swCNT-FETs with or without insulating coating on the electrodes responded to the calcium ions just like our NTS device. It indicates chemical gating effect on swCNT channels should be the main reason for the electrical conductance decrease in our case.
+We demonstrated the detection of calcium ion concentration change in a living HeLa cell, a well-known cancer cell, using our NTS (Figure 4). Here, HeLa cells were first cultured following the procedure described in Supporting Information. Then, a NTS was inserted into a HeLa cell using a nanomanipulator while monitoring it via an inverted microscope (Figure S4 in Supporting Information). Ionomycin is a powerful ionophore which makes cellular and intracellular membranes highly permeable to calcium ions and thus increases the intracellular calcium level. (41, 42) The electrical and optical signals from the NTS were monitored after adding ionomycin into the cell culture media.
+Figure 4
+
+Figure 4. Detection of intracellular calcium concentration change using NTSs. (A) (i) Optical image of a NTS inserted into a HeLa cell; (ii) fluorescence image of the NTS after adding 2 μM ionomycin into the extracellular media. (B) Real-time response of a NTS to the change of intracellular calcium concentration in a HeLa cell without cell staining. The concentrations of the ionomycin in the extracellular media of the HeLa cells at the injection points of A and B were 2 and 4 μM, respectively. The relative conductance level was decreased by 5.1% and 6.3% after the injection of A and B, respectively. (C) (i) Real-time response of a NTS to the change of intracellular calcium concentration in a HeLa cell with cell staining using Fluo-4-AM. The concentrations of the ionomycin in the extracellular media of the HeLa cells at the injection points of A, B, and C were 2, 4, and 6 μM, respectively. The relative conductance level was decreased by 5.3%, 6.1%, and 7.2% by the injection of A, B, and C, respectively. Fluorescence image of the HeLa cell before (ii) and after (iii) the addition of 6 μM ionomycin. The black dot in the cell marked by the dotted red circle represents the end of the NTS.
+
+Figure 4A-i shows the optical image of the HeLa cell impenetrated by a NTS. We performed the fluorescence detection of Ca2+ increase in a HeLa cell which was activated by 2 μM ionomycin (Figure 4A-ii). After the addition of ionomycin, the NTS exhibited bright fluorescence at its end, which matched well with the fluorescence result in Figure 3B. The result shows that Fluo-4-AM molecules on the NTS are still functional and can be used for fluorescence detection of calcium ions inside a living cell.
+We also measured electrical current changes in a NTS to monitor intracellular calcium concentration change in a HeLa cell (Figure 4B). In this work, the probe was inserted into the HeLa cell through the cell membrane, and ionomycin was added to the cell culture media while monitoring the source-drain current of the probe. When 2 μM (marked by A) and 4 μM (marked by B) of ionomycin was added into the extracellular media, the relative current level of the NTS in the HeLa cell was decreased by 5.1% and 6.3%, respectively. The decrease of conductance level in the absence of extracellular Ca2+ reflects that Ca2+ is released from intracellular stores. Previous reports show that when the intracellular stores are activated by the addition of ionomycin, the calcium concentration inside a HeLa cell increased by 100 μM. (43-45) The conductance change of the NTS by the addition of ionomycin corresponds to the chemical sensing data from 10 to 100 μM in Figure 3E, which is consistent with previous works. This result shows that we can use NTS devices for the monitoring of calcium ion concentration inside a HeLa cell.
+We also carried out fluorescence imaging of HeLa cells while monitoring the electrical measurement to confirm that the electric signal change was induced by Ca2+ inside the cell. Details on the process are described in the Supporting Information. Briefly, cells were labeled with 2.5 μM Fluo-4-AM for 30 min before the impenetration of the NTS. (46, 47) Then, we inserted the probe into the HeLa cell through the cell membrane, and then we added ionomycin into the extracellular media of the HeLa cells with the final concentration of 2 μM. After the first addition of ionomycin, the conductance level decreased by 5.3% compared with that before the injection, indicating the increase of calcium ion concentration in solution (Figure 4C-i). We added ionomycin two more times after the current signal was stabilized. The concentration of ionomycin in the media after each injection step was 4 and 6 μM, respectively. And the current level was also decreased by 6.1% and 7.2% in each injection process. This is also consistent with previous works. (43-47) Figure 4 panels C-ii and C-iii show the fluorescence image of the cell before and after the addition of ionomycin. The cell image inside the red circle in 4Figure 4C-iii is much brighter than that of Figure 4C-ii, which means that the concentration of Ca2+ ion was increased and bound to Fluo-4-AM dye after the ionomycin addition. Previous reports show that individual cells may have slightly different cell functions and respond differently to the same amount of ionomyosin. (48-50) The calcium concentration changes measured by our sensors (Figure 4B,C) are within the range of previously reported results, and the concentration variation can be explained by the different cell functions of individual cells as reported previously.
+In summary, we report NTS devices for the selective monitoring of intracellular calcium ions. Here, a swCNT-FET was fabricated at the end of a nanopipette and functionalized with Fluo-4-AM fluorescent probe molecules so that the swCNT-FET responded to the calcium ions via conductance and fluorescence signals. The NTS had a low detection limit of 100 pM and a wide dynamic range of 100 nM to 1 mM. We successfully demonstrated the electrical and fluorescence detection of calcium ion concentration change in HeLa cells using our NTS devices. Considering that swCNT-FET-based sensors have been previously utilized for the detection of wide range of biomolecules, our NTS devices should be able to be utilized for the detection of various other intracellular or intercellular molecular species. Furthermore, since our FET-based sensor was fabricated on a nanopipette, it can be combined with patch clamps and provide a completely new capability of selective chemical analysis of living cells.
+Experimental Methods
+Preparation of Tapered Nanopipette
+Borosilicate glass capillaries no. 20 with an initial inner diameter of 1.2 mm and outer diameter of 1.5 mm (World Precision Instruments, Inc.) were used as starting materials for the fabrication of tapered nanopipettes. A laser-based micropipette puller P-2000 (Sutter, Novato, CA) was used for pulling the capillary with the parameters of “Heat=400”, “Fil=4”, “Vel=50”, “PVL=150”. After pulling the capillaries, the surfaces of the capillaries were cleaned by piranha solution (H2SO4/H2O2 = 4:1).
+Fabrication of Electrodes on Nanopipette
+A 10-nm-thick Ti layer and a 30-nm-thick Au layer were first deposited onto one side of a nanopipette by thermal evaporation under high-vacuum condition (∼10–6 Torr). Then, the nanopipette was rotated by 180° around its axis so that the opposite surface faced the evaporation source. We deposited the same Ti/Au layer on the other side of the nanopipette. In this process, nanometer sized gaps were formed because shadow regions existed perpendicular to the depositing direction. Some faultiness of the electrodes such as the short circuit between the electrodes was corrected via focused ion beam milling.
+Preparation of HeLa cell
+HeLa cells were cultured in Dubecco’s Modified Eagle Medium (Gibco) with 10% fetal bovine serum. After the cells were seeded on the culture dish, they were washed gently with PBS, and the media was changed to calcium free media (Hanks’ Balanced Salt Solution, Gibco).
+Fluorescence Imaging
+HeLa cells were cultured on fibronectin (10 μg/mL) coated coverglass for 1 day. The cells were loaded with Fluo-4-AM dye (2.5 μM) in culture media for 30 min at room temperature following the further washing for 30 min at room temperature. Fluorescent imaging was performed using 40× oil lens (N.A. 1.30) by inverted fluorescence microscopy (TE2000, Nikon) with an electron multiplying charge-coupled device (EM-CCD) monochrome digital camera (DQC-FS, Nikon).
+Supporting InformationClick to copy section link
+Detailed experimental procedure, derivation of fitting equation, nonspecific response of swCNT-based sensor probe without Fluo-4-AM to calcium and magnesium ion. Nanoinjection procedures into a HeLa cell. This material is available free of charge via the Internet at http://pubs.acs.org.
+1
+[Supporting Information]
+Nano-Needle Transistor-Based Sensors for the Selective
+Detection of Intracellular Calcium Ions
+Donghee Son1+, Sung Young Park1+, Byeongju Kim2+, Jun Tae Koh2
+, Tae Hyun Kim2
+, Sangmin Ahn2
+,
+Doyoung Jang3
+, Gyu Tae Kim3
+, Wonho Jhe2
+ and Seunghun Hong1,2,4*
+1
+Interdisciplinary Program in Nano-Science and Technology, Seoul National University, Seoul 151-748,
+Korea
+2Department of Physics and Astronomy, Seoul National University, Seoul 151-747, Korea
+3
+School of Electrical Engineering, Korea University, Seoul 136-713, Korea
+4Department of Biophysics and Chemical Biology, Seoul National University, Seoul 151-748, Korea
++ equally contributed
+*To whom correspondence should be addressed. E-mail: seunghun@snu.ac.kr
+2
+1. Detailed Experimental Procedure
+a) Preparation of tapered nanopipette
+Borosilicate glass capillaries # 20 with an initial inner diameter of 1.2 mm and outer diameter of 1.5
+mm (World Precision Instruments, Inc.) were used as starting materials for the fabrication of tapered
+nanopipettes. A laser-based pipette puller P-2000 (Sutter, Novato, CA) was used for pulling the capillary
+with the parameters of “Heat=400”, “Fil=4”, “Vel=50”, “PVL=150”. After pulling the capillaries, its
+surface was cleaned by piranha solution (H2SO4 : H2O2 = 4:1).
+b) Fabrication of electrodes on nanopipette
+10-nm-thick Ti layer and 30-nm-thick Au layer were first deposited onto one side of a nanopipette
+by thermal evaporation under high-vacuum condition (~10-6 torr). Then, the nanopipette was rotated by
+180° around its axis so that the opposite surface faces the evaporation source. We deposited the same Ti
+/ Au layer on the other side of the nanopipette. In this process, nanometer sized gaps were formed
+because shadow regions existed perpendicular to the depositing direction. When the metal electrodes
+were connected resulting in short circuit, it was corrected via focused ion beam milling.
+c) Preparation of calcium solutions with various concentrations
+First, we purchased 0.1 M solution of calcium chloride from Sigma-Aldrich. We put 0.1 ml of 0.1
+M CaCl2 solution into a test tube and then added 9.9 ml purified deionized water into it. After mixing
+them, we sterilized the solution by filtration through 0.2 µm filter. Then we could have Ca2+ stock
+solution of 1 mM concentration. For serial dilution, a labeled series of test tubes were prepared and 9 ml
+of deionized water placed inside them. Using the fresh pipette, 1 ml of stock solution was removed and
+added to the first test tube which was labeled with 100 µM. This test tube was mixed and 1 ml of aliquot
+3
+from it was transferred to the second test tube labeled with 10 µM in like manner. The process was
+continued until 1 nM concentration was achieved.
+d) Fabrication of swCNT-FET and insulating coating of metal electrodes
+First, a methyl-terminated octadecyltrichlorosilane (OTS) self-assembled monolayer (SAM) was
+patterned on a SiO2 surface using photolithography. To form a OTS SAM, the AZ5214 photoresist
+patterned SiO2 substrate was dipped in OTS solution (OTS : hexane = 1 : 500 v/v) for 10 min at room
+temperature. Then, a single layer of swCNTs was selectively adsorbed onto bare SiO2 regions by
+dipping the patterned substrate in the solution of swCNTs (usually 0.1 mg/ml in o-dichlorobenzene) for
+30 sec. Afterwards, electrodes (30 nm Au on 10 nm Pd) were fabricated by photolithography and
+thermal deposition followed by lift-off process. Finally, the electrodes were selectively passivated with
+an AZ5214 photoresist layer using conventional photolithography.
+e) Preparation of HeLa cell
+HeLa cells were cultured in Dubecco’s Modified Eagle Medium (Gibco) with 10% fetal bovine
+serum (FBS). For experiments, HeLa cells were seeded on fibronectin (10 µg/ml, Sigma, USA) coated
+coverglass for one day.
+f) Fluorescence Imaging
+The Hela cells cultured on the fibronectin-coated coverglass were washed gently with PBS (Gibco,
+USA), and the cells were loaded with Fluo-4-AM dye (2.5 µM, Invitrogen, USA) in culture media
+without FBS for 30 min at room temperature following a further washing step for 30 min at room
+temperature according to the manufacture’s protocol. All the experiments for measurements were
+conducted in room temperature within one hour after the media change to calcium-free media (Hanks'
+4
+Balanced Salt Solution, Gibco, USA) not to induce any undesirable events such as unstabilization of cell
+membranes, and cell detachment or death. Fluorescent imaging was performed using 40x oil lens
+(N.A.1.30) by inverted fluorescence microscopy (Nikon, TE2000, Japan) with Electron Multiplying
+Charge-Coupled device (EM-CCD) monochrome digital camera (DQC-FS, Nikon, Japan).
+5
+2. Derivation of Fitting Equation.
+If we assume the reaction between calcium and Fluo-4-AM is second order reaction, then the
+reaction between them will be as following.1
++ → +
++
+2 2 Ca Fluo4AM Fluo4AM :Ca
+Then we can find the fraction of calcium combined Fluo-4-AM as following using dissociation
+constant Kds of Fluo-4-AM.
+[ 2 ]
+[ 2 ]
+[ 2 ][ 4 ]
+[ 4 : ]
+[ 2 ]
+1
+[ 2 ][ 4 ]
+[ 4 : ]
+[ 4 ] [ 4 : ]
+[ 4 : ]
+2
+2
+2
+2
+[ 4 : ]
+2
++ +
++
+=
++
++
++
++
+=
++
+=
++
++
++
++
++
+K Ca
+Ca
+Ca Fluo AM
+Fluo AM Ca
+Ca
+Ca Fluo AM
+Fluo AM Ca
+Fluo AM Fluo AM Ca
+Fluo AM Ca
+n
+ds
+Fluo AM Ca
+The dissociation constant between Fluo-4-AM and calcium ion is defined as following.
+[ 4 : ]
+[ 2 ][ 4 ]
+2+
++
+=
+Fluo AM Ca
+Ca Fluo AM Kds .
+From this formula we can estimate the total charge difference between Fluo-4-AM and Fluo-4-
+AM:Ca2+ as following.
+1( [ 2 ])
+2 [ 2 ]
+1
+4
+1
+4
++ +
++
+∆ = −
+−
+M K Ca
+eN m K Ca Q
+Fluo AM ds
+A Fluo AM ds
+If we assume all combined calcium ion affect the hole current through swCNT, and the swCNTbased sensor probe act in the unsaturated region, then the relative conductance change can be defined as
+following.2
+6
+[ 2 ])
+[ 2 ]
+)
+1( [ 2 ])
+2 [ 2 ]
+(
+( )
+( )
+1
+4
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
++ +
++
+=
++ +
++
+=
+∆
+=
+∆
+=
+−
+=
+∆
+−
+−
+K Ca
+Ca
+V
+M k Ca
+eN m k Ca
+LCI
+Z C
+I
+V
+C
+Q
+L
+Z C
+I
+V V
+L
+Z C
+I
+I I
+G
+G
+ds
+ds
+Fluo AM ds
+A Fluo AM ds
+ds
+p
+ds
+ds
+p
+ds
+gs ds
+p
+ds
+ds ds
+α
+µ
+µ
+µ
+In this formula, α can be defined as followings.
+ds Fluo AM ds
+p A Fluo AM ds
+LCI M k
+eZ C N m V
+0 4
+0 4
+2 µ
+α =
+In this formula, e is the charge of electron, Z and L are the width and length of channel, µp is the
+mobility of hole, C and C0 are the capacitance and capacitance per unit area of sensor probe, NA is
+Avogadro’s number,
+Fluo AM
+Fluo AM
+M
+m
+4
+4
+ is total mole number of Fluo-4-AM, Vds is the bias between source and
+drain, Ids0 is the initial current of device, and ∆Vth is the change of threshold voltage of sensor probe in
+response to the change of calcium concentration, respectively.
+7
+Figure S1. Schematic diagram depicting the fabrication method of swCNT-FETs on flat SiO2 substrate.
+a) Photoresist patterning via photolithography process. b) Adsorption of octadecyltrichlorosilane (OTS)
+onto bare SiO2 regions. c) Removal of photoresist by rinsing with acetone. d) Adsorption of swCNTs
+onto bare SiO2 regions. e) Fabrication of Au/Ti electrodes via conventional microfabrication methods. f)
+Coating insulating photoresist layer on the electrodes. g) Functionalization of Fluo-4-AM onto CNT
+surface.
+8
+Figure S2. swCNT-FETs with four different structures on flat SiO2 substrates.
+9
+Figure S3. Response of our NTS device to various ions: lithium (Li+
+), potassium (K+
+), sodium (Na+
+),
+lead (Pb2+), zinc (Zn2+), copper (Cu2+), magnesium (Mg2+), and calcium ions (Ca2+). The arrows
+represent the time of injection. The graph shows a significant current change only by the injection of
+Ca2+
+.
+10
+Figure S4. Optical micrograph images taken sequentially during the injection process of our NTS
+device into a HeLa cell adhered on the culture dish (left). A NTS device was injected into a cell (middle),
+and the cell was picked up by the NTS (right).
+11
+References
+(1) Hirase, H.; Qian, L. F.; Bartho, P.; Buzsaki, G. PLos Biol. 2004, 2, (4), 494-499.
+(2) Leinders-Zufall, T.; Lane, A. P.; Puche, A. C.; Ma, W. D.; Novotny, M. V.; Shipley, M. T.; Zufall,
+F. Nature 2000, 405, 792-796. 

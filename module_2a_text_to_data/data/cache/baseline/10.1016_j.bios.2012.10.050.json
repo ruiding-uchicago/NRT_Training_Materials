@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.bios.2012.10.050",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Hg2+ ions",
+      "lower_detection_limit": "0.40 μM",
+      "upper_detection_limit": "350 μM",
+      "probe_material": "thymine",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "cysteine",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "thymine",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "water"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1016/j.talanta.2016.03.026",
+  "paper_metadata": {
+    "title": "Calix[4]arene coated QCM sensors for detection of VOC emissions: Methylene chloride sensing studies",
+    "authors": [
+      "Farabi Temel",
+      "Mustafa Tabakci"
+    ],
+    "journal": "Talanta",
+    "year": 2016,
+    "primary_pdf": "/Users/ruiding/mac_python_folder/2026_april_icml_rapids_writeup/wet_validation_collections/batch_1_papers/10.1016-j.talanta.2016.03.026/main",
+    "si_pdf": "/Users/ruiding/mac_python_folder/2026_april_icml_rapids_writeup/wet_validation_collections/batch_1_papers/10.1016-j.talanta.2016.03.026/1-s2.0-S0039914016301527-mmc1.docx"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "calix-7",
+      "name": "Calix[4]arene derivative 7 bearing amino and imidazole groups",
+      "description": "p-tert-butylcalix[4]arene functionalized with amino and imidazole groups; paper-highlighted best-performing sensor coating for MC; coated on QCM gold electrode by drop-casting from 1.0 mM chloroform solution",
+      "charge_class": "neutral",
+      "structure_known": "yes",
+      "smiles_or_structure_text": "p-tert-butylcalix[4]arene scaffold (all 4 para-tert-butyl) with 1,3-distal lower-rim -O-CH2-CH2-NH-CH2-CH2-(1H-imidazol-1-yl) pendant arms (secondary amine + N-alkylimidazole); the other 1,3-distal pair of lower-rim oxygens are methylated (-O-CH3). Verified directly from Fig. 1 of the paper: R1 = CH2CH2NHCH2CH2-imidazolyl, R2 = Me.",
+      "smiles": "C(C)(C)(C)c1cc2cc(c1OCCNCCn3ccnc3)Cc4cc(C(C)(C)C)cc(c4OC)Cc5cc(C(C)(C)C)cc(c5OCCNCCn6ccnc6)Cc7cc(C(C)(C)C)cc(c7OC)C2",
+      "smiles_basis": "from_figure",
+      "smiles_verified": true,
+      "smiles_corrected": true,
+      "original_smiles": "CC(C)(C)c1cc2Cc3cc(C(C)(C)C)cc(Cc4cc(C(C)(C)C)cc(Cc5cc(C(C)(C)C)cc(Cc(c1OCC(=O)NCCn1ccnc1)2)c5OCC(=O)NCCn1ccnc1)c4O)c3O",
+      "correction_reason": "Original SMILES was invalid (could not be kekulized by RDKit) AND used incorrect pendant chemistry. Direct inspection of Fig. 1 in the PDF shows: Calix-7 R1 = -CH2CH2-NH-CH2CH2-(N1-imidazolyl) (a secondary amine arm, NOT an amide -OCH2C(=O)NH- arm). Also R2 = Me, meaning the other 1,3-distal lower-rim oxygens are methylated (-OMe), NOT free OH. The figure shows all four para positions bearing tert-butyl. Reconstructed canonical SMILES (C60H82N6O4, MW 950.64) parses cleanly in RDKit and matches Fig. 1 connectivity exactly.",
+      "notes": "Exact structure shown in Fig. 1. Pendant arm verified verbatim from figure: R1 = -CH2CH2-NH-CH2CH2-imidazol-1-yl; R2 = Me; calix scaffold has 4 p-tert-butyl groups and 1,3-distal di-O-alkylation/di-O-methylation. Cone vs partial-cone conformation not specified by the figure (drawn flat); SMILES omits stereochemistry. Reference [29] (Tabakci 2012, Tetrahedron 68, 4182-4186) cited for synthesis."
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "MC",
+      "name": "Methylene chloride (dichloromethane)",
+      "role": "target",
+      "charge_class": "neutral",
+      "smiles": "ClCCl",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "acetone",
+      "name": "Acetone",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CC(C)=O",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "acetonitrile",
+      "name": "Acetonitrile",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CC#N",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "CTC",
+      "name": "Carbon tetrachloride",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "ClC(Cl)(Cl)Cl",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "chloroform",
+      "name": "Chloroform",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "ClC(Cl)Cl",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "DMF",
+      "name": "N,N-dimethylformamide",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CN(C)C=O",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "dioxane",
+      "name": "1,4-Dioxane",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "C1COCCO1",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "ethanol",
+      "name": "Ethanol",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CCO",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "ethylacetate",
+      "name": "Ethyl acetate",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CCOC(C)=O",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "xylene",
+      "name": "Xylene",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "Cc1ccccc1C",
+      "smiles_basis": "isomer_unspecified_using_ortho_as_representative",
+      "smiles_notes": "Paper does not specify xylene isomer; o-xylene used as representative. m-xylene SMILES: Cc1cccc(C)c1; p-xylene SMILES: Cc1ccc(C)cc1.",
+      "smiles_verified": false,
+      "verification_notes": "Paper does not specify xylene isomer; o-xylene SMILES (Cc1ccccc1C) used as representative. RDKit parses; formula C8H10 correct for any xylene isomer, but the specific isomer remains unverified."
+    },
+    {
+      "analyte_id": "methanol",
+      "name": "Methanol",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CO",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "n-hexane",
+      "name": "n-Hexane",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "CCCCCC",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "toluene",
+      "name": "Toluene",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles": "Cc1ccccc1",
+      "smiles_basis": "exact",
+      "smiles_verified": true
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "QCM_VOC_initial",
+      "description": "QCM sensor coated with 1.0 mM calix-7 solution (drop-cast, dried 60 C/30 min); 2 mL VOC in volumetric flask; sensor exposed to VOC vapor for 1.5 min; 7.995 MHz fundamental frequency crystal; readout = absolute frequency change |Delta f| (Hz)",
+      "temperature": "room temperature (not specified)",
+      "solvent": "vapor phase (initial VOC screening, neat liquid in flask)",
+      "notes": "Table 1 (initial VOC screening) data; comparable conditions across all 13 VOCs with the same calix-7 coating"
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "calix7_MC_vs_acetone",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "acetone",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 314 Hz",
+      "normalized_direction": "larger |Delta f| = stronger sorption/response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC ... Calix-7 1047 ... Acetone ... Calix-7 314"
+      },
+      "notes": "Both neutral; QCM frequency change in same coating, same exposure protocol."
+    },
+    {
+      "label_id": "calix7_MC_vs_acetonitrile",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "acetonitrile",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 195 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Acetonitrile Calix-7 195"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_CTC",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "CTC",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 410 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... CTC Calix-7 410"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_chloroform",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "chloroform",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 798 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Chloroform Calix-7 798"
+      },
+      "notes": "Closest competitor; both are chlorinated solvents. Difference ~250 Hz; still target-favored."
+    },
+    {
+      "label_id": "calix7_MC_vs_DMF",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "DMF",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 62 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... DMF Calix-7 62"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_dioxane",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "dioxane",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 142 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Dioxane Calix-7 142"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_ethanol",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "ethanol",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 61.5 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Ethanol Calix-7 61.5"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_ethylacetate",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "ethylacetate",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 258 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Ethylacetate Calix-7 258"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_xylene",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "xylene",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 100 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Xylene Calix-7 100"
+      },
+      "notes": "Xylene isomer not specified in paper."
+    },
+    {
+      "label_id": "calix7_MC_vs_methanol",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "methanol",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 56 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Methanol Calix-7 56"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_n-hexane",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "n-hexane",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 144 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... n-Hexane Calix-7 144"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "calix7_MC_vs_toluene",
+      "receptor_id": "calix-7",
+      "target_id": "MC",
+      "interferent_id": "toluene",
+      "condition_id": "QCM_VOC_initial",
+      "readout_type": "other",
+      "label_basis": "delta_I",
+      "target_value": "|Delta f| = 1047 Hz",
+      "interferent_value": "|Delta f| = 85 Hz",
+      "normalized_direction": "larger |Delta f| = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "223",
+        "figure_or_table": "Table 1",
+        "quote": "MC Calix-7 1047 ... Toluene Calix-7 85"
+      },
+      "notes": ""
+    }
+  ],
+  "rapids_results": []
+}

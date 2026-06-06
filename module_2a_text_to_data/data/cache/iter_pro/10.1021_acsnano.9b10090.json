@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.9b10090",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydrogen peroxide",
+      "lower_detection_limit": "1e-7 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "9,10-dihydroxyanthracene/9,10-anthraquinone",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.45",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

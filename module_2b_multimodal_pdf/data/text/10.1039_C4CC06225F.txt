@@ -1,0 +1,370 @@
+ChemComm
+View Article Online
+
+Published on 23 October 2014. Downloaded by Argonne Research Library on 5/23/2026 5:58:34 PM.
+
+COMMUNICATION
+
+Cite this: Chem. Commun., 2014,
+50, 15788
+
+View Journal | View Issue
+
+A fluorescent organic cage for picric acid
+detection†
+Koushik Acharyya and Partha Sarathi Mukherjee*
+
+Received 8th August 2014,
+Accepted 21st October 2014
+DOI: 10.1039/c4cc06225f
+www.rsc.org/chemcomm
+
+Dynamic covalent imine chemistry has been utilized to synthesize a
+fluorescent [3+2] self-assembled nanoscopic organic cage. The
+fluorescent nature of the reduced analogue of the cage was further
+exploited for the highly selective detection of the explosive picric
+acid (PA).
+
+In recent times, the development of cheap and eﬃcient sensory
+materials for the detection of explosives has undoubtedly been one
+of the most attractive fields of research around the globe due to the
+continuous increase in terrorist activities. The common principal
+constituents of many land mines are nitroaromatic compounds
+(NACs) such as trinitrotoluene (TNT), 2,4,6-trinitrophenol (TNP/
+picric acid), dinitrophenol (DNP), etc.1 Various techniques such as
+gas chromatography, Raman spectroscopy, ion-mobility spectrometry and fluorescence spectroscopy have so far been employed to
+track down NAC explosives.2 Among these diﬀerent techniques,
+fluorescence based sensing methodologies are the first choice
+owing to their high sensitivity, specificity and fast response times.3
+In past few years, many diﬀerent fluorescent polymers,4 MOFs5
+and small molecule-based sensors6 have been developed for the
+detection of NACs, especially TNT. Surprisingly, little attention has
+been given toward the selective and sensitive detection of picric
+acid (PA), even though it is as strong an explosive as TNT.7 In
+addition to this, PA can cause various health problems including
+damage to respiratory organs, skin irritation, nausea and skin
+allergies.8 Furthermore, it is widely used in the pharmaceutical
+industry, dye industry, chemical laboratories and for the manufacture of rocket fuel, fireworks and so on.9 Owing to its widespread
+use it can easily contaminate ground water and soil. Therefore, the
+development of new materials for the selective and eﬃcient detection of PA for the purpose of preventing environmental pollution and
+terrorist attacks is in high demand.
+Department of Inorganic and Physical Chemistry, Indian Institute of Science,
+Bangalore 560012, India. E-mail: psm@ipc.iisc.ernet.in; Fax: +91-80-2360-1552;
+Tel: +91-80-2293-3352
+† Electronic supplementary information (ESI) available: For experimental procedures
+and spectroscopic and crystallographic data. CCDC number 1018380. For ESI and
+crystallographic data in CIF or other electronic format see DOI: 10.1039/c4cc06225f
+
+15788 | Chem. Commun., 2014, 50, 15788--15791
+
+The first calorimetric and fluorescent receptor for PA based
+on hydrogen-bonding and p–p interactions was reported in
+2011.10 Later, Kumar, Zheng and others published work on
+PA sensors,11 but many of these systems have limitations which
+do not allow them to achieve high selectivity for PA over other
+nitro phenolic explosives, especially DNP.
+In a continuation to our earlier endeavour12 in this direction,
+herein we report a nanoscopic fluorescent organic cage derived
+from a dialdehyde and a triamine synthesised by utilizing
+dynamic covalent imine chemistry13 followed by an imine bond
+reduction, which results in very high selectivity towards PA.
+In our recent publications14 we have demonstrated that the
+dynamic nature of the imine bond can be exploited to selectively
+synthesize one cage from a random reaction mixture of two dialdehydes and one triamine and that such a process can be controlled by
+non-covalent interactions, especially hydrogen-bonding. Moreover,
+the imine bond allows cage to cage conversion.
+Covalent organic cages have attracted considerable attention
+in recently due to their potential applications in anion sensing,
+catalysis, gas storage and separation.15 However, to the best of
+our knowledge, they are yet to be explored as a sensor for
+nitroaromatic explosives.
+Cage 4 was synthesized by employing a one-pot Schiﬀ base
+condensation of 1,3,5-tris(aminomethyl)-2,4,6-trimethylbenzene
+(2) with 4,4 0 -diformyltriphenylamine (1) followed by sodium
+borohydride reduction of the imine bonds (Scheme 1). The
+formation and purity of the synthesized cage 4 were fully
+examined on the basis of 1H NMR, 13C NMR, FTIR, ESI-HRMS
+and X-ray crystallography. These results unambiguously corroborate the formation of a [3+2] self-assembled cage (Fig. 1).
+Single crystals of the cage molecule were obtained by slow
+vapour diﬀusion of n-pentane into a chloroform solution of cage 4.
+The cage crystallized in a monoclinic crystal system with a C2/c
+space group. The asymmetric unit is comprised of a half of cage 4
+along with several disordered solvent molecules. Solid state structural examination revealed that the benzene rings of amine 2 are
+in an almost eclipsed conformation and B13 Å apart, which can
+be considered to be the length of the cage. The distance between
+
+This journal is © The Royal Society of Chemistry 2014
+
+View Article Online
+
+Published on 23 October 2014. Downloaded by Argonne Research Library on 5/23/2026 5:58:34 PM.
+
+Communication
+
+Scheme 1
+
+ChemComm
+
+Synthesis of cage 4 via dynamic covalent imine chemistry followed by imine bond reduction.
+
+Fig. 1 A ball and stick diagram superimposed onto the space filling representation of the X-ray crystal structure of cage 4. The inset shows a digital
+photograph of the highly emissive cage powder viewed under UV light.
+
+the nitrogen atoms of aldehyde 1 forms an isosceles triangle
+(Fig. S9, ESI†). As expected, due to the reduction of the imine
+bonds, the C–N bond distances were slightly increased at B1.46 Å.
+Solid state structural analysis further showed the presence of strong
+intermolecular C–H  p interactions between the phenyl rings of
+two neighbouring cage molecules, which in turn leads to the
+formation of a 1D supramolecular chain of cages (Fig. S10, ESI†).
+The UV-vis spectrum of cage 4 in dichloromethane exhibited
+an absorption from 260 nm to 360 nm with an absorption
+maxima at 305 nm. Upon excitation at 305 nm it showed a very
+high Stokes shift of 130 nm with an emission maxima at
+435 nm.
+The emissive nature of cage 4 both in solution (F = 0.28 in
+DCM) and as a solid (F = 0.20) encouraged us to investigate its
+potential application as chemosensor for the detection of
+nitroaromatics. Thus, we carried out a fluorescence titration
+of cage 4 with various nitroaromatics such as picric acid
+(PA), 2,4-dinitrophenol (2,4-DNP), 4-nitrophenol (4-NP), TNT,
+2,4-dinitrotoluene (2,4-DNT), 3,4-dinitrotoluene (3,4-DNT),
+4-nitrotoluene (4-NT), 4-nitrobenzoic acid (4-NBA), 1,3-dinitrobenzene (1,3-DNB) and nitrobenzene (NB). Among these nitroexplosives, notably only PA exhibited a substantial quenching
+eﬃciency. As shown in Fig. 2, with gradual addition of PA to a
+1  105 M solution of cage 4 in dichloromethane, the fluorescence intensity dramatically attenuated. Only 2 eq. of PA reduced
+the initial fluorescence intensity of cage 4 by B96%. By contrast,
+the other nitroaromatics exhibited negligible eﬀects on the fluorescence intensity of cage 4 (Fig. 3). This result clearly demonstrates
+the high selectivity and sensitivity (detection limit = 6.4 ppb) of
+cage 4 towards PA over other nitroaromatics.
+
+This journal is © The Royal Society of Chemistry 2014
+
+Fig. 2 The change in fluorescence intensity of cage 4 in DCM with
+incremental addition of PA. The inset shows the change in fluorescence
+of the cage in the presence of 2 eq. PA, viewed under UV light.
+
+Fig. 3 The fluorescence quenching eﬃciencies of diﬀerent nitroaromatic
+analytes. The inset shows the visual change in fluorescence intensity of
+cage 4 only in presence of PA (extreme right), viewed under UV light.
+
+In order to determine the quenching constant of cage 4 with
+PA, the fluorescence intensity ratio (I0/I) was plotted against the
+concentration of PA, which resulted in a non-linear curve
+(Fig. 4). Therefore, we applied an exponential quenching equation I0/I = Aek[Q] + B.16 From this non-linear curve fitting, the
+quenching constant was calculated to be 2.2  105 M1. This
+high value for the quenching constant indicates the superquenching ability of PA towards cage 4.
+It is worth mentioning here that deviation of the Stern–Volmer
+plot from linearity indicates that quenching is either static or a
+combination of static and dynamic. One way to determine whether a
+dynamic mechanism is involved or not, is to measure the fluorescence life time of the sensor in both the presence and absence of the
+quencher. In the case of static quenching, the quencher binds with
+
+Chem. Commun., 2014, 50, 15788--15791 | 15789
+
+View Article Online
+
+Published on 23 October 2014. Downloaded by Argonne Research Library on 5/23/2026 5:58:34 PM.
+
+ChemComm
+
+Fig. 4 Stern–Volmer plot I0/I versus [PA] in DCM. The inset shows the
+visual colour change of the cage solution in the presence of PA, viewed
+under normal light.
+
+the sensor in the ground state forming a non-fluorescent complex or
+‘dark state’ and the unbound molecules exhibit their inherent
+lifetimes.
+In the case of dynamic quenching, the fluorescence lifetime
+of the sensor decreases via the diﬀusion controlled collision
+between the excited sensor and the quencher. As portrayed in
+Fig. S11 (ESI†), the fluorescence lifetime of cage 4 remains
+unchanged in the presence of PA, which suggests that fluorescence
+quenching occurs through a static mechanism. Perturbation in the
+UV-vis spectrum of the cage with the appearance of a new band at
+B420 nm upon gradual addition of PA also shows good agreement
+with ground state charge transfer complex formation (Fig. S12,
+ESI†). Moreover, there was a sharp colour change from colourless
+to pale yellow observed with the naked eye upon the addition of PA
+to the solution of cage 4. In the presence of other nitrophenolic
+compounds such as 2,4-DNP and 4-NP we did not observe any
+considerable change in UV-vis spectral pattern or the colour
+of the cage solution (Fig. S13 and S14, ESI†). These experimental results clearly indicate that there is a strong interaction
+between PA and the cage compared to other nitro analytes in
+the ground state.
+In order to gain valuable insight into the mode of interaction
+between cage 4 and PA in solution, the 1H NMR spectrum of cage
+4 was recorded in the presence of PA. The NMR spectrum
+revealed a change in the spectral pattern of the aromatic protons
+along with a downfield shift and broadening of the signals
+corresponds to the –CH2 moieties of the cage (Fig. S15, ESI†).
+We believe that the bare secondary amine moieties in cage 4
+interact with PA, which is corroborated by the downfield shift of
+the –CH2 protons adjacent to the amine functionalities. PA,
+being highly acidic in nature, has a tendency to transfer its
+acidic phenolic –OH proton to the basic amino group to form a
+strong ion pair (a protonated cage and picrate) complex. 1H NMR
+spectral analysis of the cage–PA adduct revealed that up to 6 PA
+can form a complex with each cage molecule (Fig. S17, ESI†).
+This strong complex formation may further facilitate ground
+state charge transfer between the picrate and the protonated
+cage. Gas phase DFT calculations revealed that ground state
+charge transfer is feasible from the highest occupied molecular
+
+15790 | Chem. Commun., 2014, 50, 15788--15791
+
+Communication
+
+orbital (HOMO) of the picrate to the lowest unoccupied molecular
+orbital (LUMO) of the protonated cage (Fig. S16, ESI†). We also
+investigated if protonation of the cage rather than PA was the
+decisive factor behind the fluorescence quenching of the cage.
+To this end, the fluorescence of the cage was recorded in the
+presence of 2 eq. of trifluoroacetic acid (TFA) (which is slightly
+more acidic than PA), which showed a negligible eﬀect on the
+fluorescence intensity of the cage compared to PA (Fig. S18
+and S28, ESI†). In a competitive environment PA also induces
+higher quenching of the fluorescence of the cage than other
+nitroaromatics (Fig. S29, ESI†).
+However, the high sensitivity of the cage towards PA
+indicates that ground state charge transfer complex formation
+is not the sole mechanism behind the fluorescence quenching.
+UV-vis spectra of the nitroaromatics (including PA) and the
+emission spectrum of the cage do not show any significant
+overlap (Fig. S30, ESI†), which rules out the possibility of an
+energy transfer process. However, there is large spectral overlap
+when picric acid exists as picrate in the presence of the amine
+(Fig. S31, ESI†). Therefore, in the presence of the cage, which is
+furnished with amine moieties, there is a high possibility of
+resonance energy transfer (RET)17 from the protonated cage to
+the picrate (Fig. S33, ESI†). Close proximity due to ion-pair
+complex formation increases the energy transfer process.
+As such, it is quite clear that PA can eﬃciently quench the
+fluorescence of the cage via both ground state charge transfer
+as well as an energy transfer process unlike the other nitro
+aromatics, where fluorescence quenching is only due to an
+electron transfer process.
+In addition to solution phase detection we also performed
+contact mode analysis, which is particularly useful in the field
+of forensic and analytical sciences. For this purpose, we prepared test strips by dip coating a solution of cage 4 in DCM onto
+Whatman filter paper. A small spot of PA solution (10 mL, 1 mM)
+was applied onto the dried filter paper strip, which left a dark
+spot under a portable UV light. Moreover, black patches could
+be observed on the paper strip under UV light upon rubbing a
+small amount of a solid PA sample onto it (Fig. S38, ESI†). We
+also checked the possibility of aqueous phase detection of PA by
+using a filter paper strip methodology. For this purpose, a filter
+paper coated with cage 4 was dipped into an aqueous solution
+(tap water, 1 mM) of PA, which completely quenched the initial
+fluorescence intensity, whereas in presence of only tap water it
+remained unchanged (Fig. S39, ESI†).
+In conclusion, a fluorescent triphenyl amine-based covalent
+organic cage has been synthesized utilizing dynamic covalent
+imine chemistry followed by imine bond reduction. This cage
+displayed high sensitivity and selectivity towards picric acid
+over a number of other nitroaromatic explosives. Moreover,
+it has the potential to discriminate between highly explosive PA
+and other nitrophenolic compounds. In addition to solution
+phase sensing, this cage compound also showed an excellent
+ability to detect PA in the solid phase. The experimental results
+demonstrated that the high quenching ability of the picric acid
+was due to the formation of a ground state complex with the
+cage as well as an excited state energy transfer process.
+
+This journal is © The Royal Society of Chemistry 2014
+
+View Article Online
+
+Communication
+
+Published on 23 October 2014. Downloaded by Argonne Research Library on 5/23/2026 5:58:34 PM.
+
+K.A. gratefully acknowledges the CSIR, New Delhi, for the
+award of a Research Fellowship. We are thankful to Mr Sanjoy
+Mukherjee for his generous help on theoretical calculations
+and Mr Samya Banerjee for mass spectral analysis. P.S.M.
+thanks the DST for a research grant (Swarnajayanti Fellowship
+Grant) and the ESI-MS facility in the Inorganic and Physical
+Chemistry Department.
+
+Notes and references
+1 J. S. Yang and T. M. Swager, J. Am. Chem. Soc., 1998, 120, 11864.
+2 (a) Y. Salinas, R. Martı́nez-Máñez, M. D. Marcos, F. Sancenón,
+A. M. Costero, M. Parra and S. Gil, Chem. Soc. Rev., 2012, 41, 1261;
+(b) J. A. Caulfield, T. J. Bruno and K. E. Miller, J. Chem. Eng. Data,
+2009, 54, 1814.
+3 (a) M. E. Germain and M. J. Knapp, Chem. Soc. Rev., 2009, 38, 2543;
+(b) T. H. Liu, L. P. Ding, K. R. Zhao, W. L. Wang and Y. Fang,
+J. Mater. Chem., 2012, 22, 1069; (c) S. J. Toal and W. C. Trogler,
+J. Mater. Chem., 2006, 16, 2871.
+4 (a) D. C. Apodaca, R. B. Pernites, F. R. D. Mundo and R. C.
+Advincula, Langmuir, 2011, 27, 6768; (b) A. Narayanan, O. P.
+Varnavski, T. M. Swager and T. Goodson, J. Phys. Chem. C, 2008,
+112, 881; (c) X. Wang, Y. Guo, D. Li, H. Chen and R.-C. Sun, Chem.
+Commun., 2012, 48, 5569; (d) L. Feng, H. Li, Y. Qu and C. Lu, Chem.
+Commun., 2012, 48, 4633.
+5 (a) D. Tian, Y. Li, R.-Y. Chen, Z. Chang, G.-Y. Wang and X.-H. Bu,
+J. Mater. Chem. A, 2014, 2, 1465; (b) Y.-N. Gong, L. Jiang and T.-B. Lu,
+Chem. Commun., 2013, 49, 11113; (c) L. Li, S. Zhang, L. Xu, L. Han,
+Z.-N. Chen and J. Luo, Inorg. Chem., 2013, 52, 12323.
+6 (a) T. Naddo, Y. Che, W. Zhang, K. Balakrishnan, X. Yang, M. Yen,
+J. Zhao, J. S. Moore and L. Zang, J. Am. Chem. Soc., 2007, 129, 6978;
+(b) K. K. Kartha, S. S. Babu, S. Srinivasan and A. Ajayaghosh, J. Am.
+Chem. Soc., 2012, 134, 4834; (c) M. Wang, V. Vajpayee, S. Shanmugaraju,
+Y.-R. Zheng, Z. Zhao, H. Kim, P. S. Mukherjee, K. W. Chi and P. J. Stang,
+Inorg. Chem., 2011, 50, 1506.
+7 J. Akhavan, Chemistry of Explosives, Royal Society of Chemistry,
+London, 2nd edn, 2004.
+8 Safety Data Sheet for Picric Acid, Resource of National Institute of
+Health.; J. F. Wyman, M. P. Serve, D. W. Hobson, L. H. Lee and
+J. Uddin, J. Toxicol. Environ. Health, Part A, 1992, 37, 313.
+
+This journal is © The Royal Society of Chemistry 2014
+
+ChemComm
+9 G. He, H. Peng, T. Liu, M. Yang, Y. Zhang and Y. Fang, J. Mater.
+Chem., 2009, 19, 7347.
+10 Y. Peng, A.-J. Zhang, M. Dong and Y.-W. Wang, Chem. Commun.,
+2011, 47, 4505.
+11 (a) V. Bhalla, A. Gupta and M. Kumar, Org. Lett., 2012, 14, 3112;
+(b) H.-T. Feng and Y.-S. Zheng, Chem. – Eur. J., 2014, 20, 195;
+(c) N. Venkatramaiah, S. Kumar and S. Patil, Chem. Commun., 2012,
+48, 5007; (d) A. Kundu, R. K. Layek and A. K. Nandi, J. Mater. Chem.,
+2012, 22, 8139.
+12 (a) B. Gole, S. Shanmugaraju, A. K. Bar and P. S. Mukherjee, Chem.
+Commun., 2011, 47, 10046; (b) B. Gole, A. K. Bar and P. S. Mukherjee,
+Chem. Commun., 2011, 47, 12137; (c) B. Roy, A. K. Bar, B. Gole and
+P. S. Mukherjee, J. Org. Chem., 2013, 78, 1306; (d) B. Gole, A. K. Bar
+and P. S. Mukherjee, Chem. – Eur. J., 2014, 20, 2276; (e) D. Samanta
+and P. S. Mukherjee, Dalton Trans., 2013, 42, 16784; ( f ) B. Gole,
+W. Song, M. Lackinger and P. S. Mukherjee, Chem. – Eur. J., 2014,
+20, 13662; ( g) B. Gole, A. K. Bar and P. S. Mukherjee, Chem. – Eur. J.,
+2014, 20, 13321; (h) S. Shanmugaraju, H. Jadhav, Y. Patil and
+P. S. Mukherjee, Inorg. Chem., 2012, 51, 13072; (i) S. Shanmugaraju,
+S. A. Joshi and P. S. Mukherjee, J. Mater. Chem., 2011, 21, 9130;
+( j) S. Mukherjee and P. S. Mukherjee, Chem. Commun., 2014, 50, 2239.
+13 (a) F. B. L. Cougnon and J. K. M. Sanders, Acc. Chem. Res., 2012,
+45, 2211; (b) S. J. Rowan, S. J. Cantrill, G. R. L. Cousins, J. K. M. Sanders
+and J. F. Stoddart, Angew. Chem., Int. Ed., 2002, 41, 898.
+14 (a) K. Acharyya, S. Mukherjee and P. S. Mukherjee, J. Am. Chem. Soc.,
+2013, 135, 554; (b) K. Acharyya and P. S. Mukherjee, Chem. – Eur. J.,
+2014, 20, 1646.
+15 (a) O. Francesconi, A. Ienco, G. Moneti, C. Nativi and S. Roelens,
+Angew. Chem., Int. Ed., 2006, 45, 6693; (b) P. Mateus, R. Delgado,
+P. Brandão and V. Félix, J. Org. Chem., 2012, 77, 4611; (c) O. Perraud,
+A. B. Sorokin, J.-P. Dutasta and A. Martinez, Chem. Commun., 2013,
+49, 1288; (d) M. Mastalerz, W. Schneider, I. M. Oppel and O. Presly,
+Angew. Chem., Int. Ed., 2011, 50, 1046; (e) T. Mitra, K. E. Jelfs,
+M. Schmidtman, A. ahemed, S. Y. Chong, D. J. Adams and A. I.
+Cooper, Nat. Chem., 2013, 5, 276; ( f ) M. Brutschy, M. W. Schneider,
+M. Mastalerz and S. R. Waldvogel, Adv. Mater., 2012, 24, 6049;
+(g) S. Jiang, K. E. Jelfs, D. Holden, T. Hasell, S. Y. Chong, M. Haranczyk,
+A. Trewin and A. I. Cooper, J. Am. Chem. Soc., 2013, 135, 17818.
+16 J. Liu, Y. Zhong, P. Lu, Y. Hong, J. W. Y. Lam, M. Faisal, Y. Yu,
+K. S. Wong and B. Z. Tang, Polym. Chem., 2010, 1, 426.
+17 (a) S. S. Nagarkar, A. V. Desai and S. K. Ghosh, Chem. Commun.,
+2014, 50, 8915; (b) D. Li, J. Liu, R. T. K. Kwok, Z. Liang, B. Z. Tang
+and J. Yu, Chem. Commun., 2012, 48, 7167.
+
+Chem. Commun., 2014, 50, 15788--15791 | 15791
+
+

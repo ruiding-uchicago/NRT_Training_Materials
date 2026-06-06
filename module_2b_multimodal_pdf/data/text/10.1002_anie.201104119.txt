@@ -1,0 +1,581 @@
+Communications
+DOI: 10.1002/anie.201104119
+
+Supramolecular Chemistry
+
+Strong Binding of Hydrocarbons to Cucurbituril Probed by Fluorescent
+Dye Displacement: A Supramolecular Gas-Sensing Ensemble**
+Mara Florea and Werner M. Nau*
+The inclusion of small hydrocarbons into molecular container
+compounds in solution has received considerable attention.[1–9] It allows for a puristic understanding of the solvophobic driving force for the formation of discrete host–guest
+complexes[10] and has additional potential for gas storage,
+uptake, and separation, thus complementing solid-state
+applications of porous materials[11, 12] or surface-immobilized
+macrocycles.[13] Studies on the precipitation of complexes
+between the smallest alkanes with a-cyclodextrin date back to
+the 1950s.[14] Subsequently, synthetic hosts such as cryptophanes,[1] self-assembling capsules,[2–5] and hemicarcerands[6, 7]
+have been investigated for their potential to entrap small
+hydrocarbons. Herein, we describe a highly sensitive fluorescence-based method for the quantification of volatile hydrocarbons binding with cucurbituril. We observe exceptionally
+strong, highly selective, and reversible binding in aqueous
+solution.
+Cucurbit[n]urils (CBn) are water-soluble, highly symmetric pumpkin-shaped synthetic macrocycles,[15, 16] and their
+unique supramolecular chemistry is presently unfolding.[17, 18]
+They are well-established to bind organic ammonium ions
+through a combination of hydrophobic interactions inside the
+nonpolar inner cavity and ion–dipole interactions with the
+carbonyl portals. While a CB5 derivative has been reported to
+bind very small guests such as methane and acetylene,[12, 19] the
+homologue which holds most promise for hydrocarbon binding is CB6,[20] the original cucurbituril, which possesses an
+
+[*] M. Florea, Prof. Dr. W. M. Nau
+School of Engineering and Science, Jacobs University Bremen
+Campus Ring 1, 28759 Bremen (Germany)
+E-mail: w.nau@jacobs-university.de
+[**] This work was supported by the Deutsche Forschungsgemeinschaft
+(DFG grant number NA-686/5-1), the COST Action CM1005
+“Supramolecular Chemistry in Water”, and the Fonds der Chemischen Industrie (doctoral stipend for M.F.). We thank Prof. D.
+Klapstein and K. I. Assaf for preliminary calculations, and Dr. H.-J.
+Buschmann for providing us with an independently prepared
+reference sample of CB6.
+Supporting information for this article is available on the WWW
+under http://dx.doi.org/10.1002/anie.201104119.
+
+9338
+
+intermediary size to allow inclusion of guests with up to seven
+heavy atoms into its inner cavity.[18, 21] Unfortunately, CB6 has
+an intrinsically low water solubility of about 30 mm, which
+complicates the determination of actual binding constants.[21, 22] In particular, it prevents 1H NMR titrations,
+which have been routinely employed in all previous studies
+on solution-phase gas binding by molecular containers.[1–9]
+The binding of xenon with CB6 has been studied by 129Xe
+NMR spectroscopy in the presence of 0.2 m Na2SO4,[23] where
+the solubility is increased (but where also the binding strength
+suffers). Alternatively, an alkylated CB6 derivative with
+higher water solubility has been employed, which was also
+investigated by isothermal titration calorimetry, to afford a
+binding constant of 3400 m 1 with xenon.[24] The binding
+constants, which we report herein for several simple hydrocarbons, are much larger than those observed for xenon, and,
+in fact, the largest ones reported for neutral guests with
+CB6.[18] In several cases, they exceed those previously
+observed for any molecular container.[1–9]
+In the quest for a convenient method to monitor volatile
+hydrocarbon binding to CB6, we selected an indicator
+displacement strategy[25] based on our recently developed
+anchor dye approach.[26] In detail, compound 1 possesses a
+putrescine anchor for strong binding with CB6,[27] and a
+microenvironmentally highly sensitive 1-naphtylamine-5-sulfonic acid chromophore to ensure a robust fluorescence
+response upon binding. Complexation of 1 by CB6 increases
+its locally excited fluorescence band (lexc = 283 nm, lobs =
+334 nm) by a factor of 50–1000, depending on pH. The
+binding constants were extracted from direct host–dye
+fluorescence titrations (see the Supporting Information) to
+afford values of 4.3  107 m 1 in 1 mm HCl (pH 3.0) and 2.5 
+103 m 1 in 50 mm NaOAc (pH 5.5).
+The working principle for gas sensing is depicted in
+Figure 1. Starting from the pre-assembled highly fluorescent
+host–dye complex (4 mm CB6 and 1), the addition of gas
+results (with an immediate onset signaling fast exchange on
+the time scale of the experiment) in a continuous displacement of the dye until the saturation limit has been achieved.
+As can be seen from Figures 1 and 2, the different hydrocarbons showed sizable effects and markedly different
+fluorescence responses. From the final plateau of the fluorescence intensity and the accurately known (owing to their
+importance for fossil energies) aqueous solubility of the
+volatile hydrocarbons, the binding constants were directly
+calculated by assuming a 1:1 complexation stoichiometry (see
+the Supporting Information), akin to competition experiments carried out, for example, by 1H NMR spectroscopy.[28]
+Higher-order complexes were not expected in the solution
+phase on the basis of packing arguments and even xenon
+
+ 2011 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Angew. Chem. Int. Ed. 2011, 50, 9338 –9342
+
+Table 1: Binding constants of hydrocarbons with CB6.
+
+C1
+C2
+Figure 1. Fluorescence-based approach for gas sensing in aqueous
+solution. The trace refers to actual experiments with sequential uptake
+and release of n-butane and isobutane.
+
+C3
+
+C4
+
+C5
+
+ C6
+
+Hydrocarbon
+[Volume/3][b]
+
+PC[c]
+[%]
+
+K [103 m 1][a]
+Water
+NaOAc
+pH 3.0[d]
+pH 5.5
+
+methane [29]
+ethane [45]
+ethene [41]
+acetylene [35]
+propane [63]
+[D8]propane [63]
+propene [58]
+n-butane [80]
+1-butene [75]
+cis-butene [74]
+trans-butene [74]
+isobutane [79]
+[D10]isobutane [79]
+isobutene [75]
+n-pentane [96]
+isopentane [96]
+neopentane [96]
+cyclopentane [86]
+higher alkanes[g] [> 102]
+
+20
+32
+29
+25
+44
+44
+41
+56
+53
+52
+52
+56
+56
+53
+68
+68
+68
+61
+> 72
+
+<2
+24[e]
+3.9
+0.11[e]
+180[e]
+160[f ]
+25[e]
+280
+79
+150
+21
+850
+910[f ]
+84
+94
+15  5
+<2
+1300  300
+<2
+
+< 0.05
+2.6  0.7
+0.25[e]
+0.047[e]
+10
+–
+1.4
+4.4
+1.3
+2.1
+0.32
+23
+–
+1.9
+0.14
+0.30
+< 0.05
+25  10
+< 0.05
+
+[a] Determined by competitive fluorescence displacement with the 1·CB6
+reporter pair at 298 K; the error in data is 20 % unless specified
+differently. [b] Obtained from AM1-optimized geometries. [c] Packing
+coefficient, obtained by dividing the guest volume by the inner cavity
+volume of CB6 (142 3, from ref. [18]). [d] Adjusted with 1 mm HCl.
+[e] 10 % error. [f] Measurement relative to protiated form. [g] n-Hexane,
+isohexane, 2,3-dimethylbutane, cyclohexane, and n-heptane.
+
+Figure 2. Displacement of dye 1 (4 mm) from CB6 (4 mm) monitored by
+fluorescence after saturation of aqueous solutions with different
+gaseous a) alkanes and b) alkenes and acetylene. Measurements in
+water at pH 3.0, lexc = 283 nm. Note that hydrocarbons showing
+similar displacements may exhibit different binding constants because
+of varying solubilities (see the Supporting Information).
+
+(volume 43 3) shows only 1:1 binding with CB6.[23, 29] Moreover, representative titrations at different gas pressures (and
+assuming Henrys law, Supporting Information) showed 1:1
+binding isotherms and afforded the same binding constants,
+within error, as those obtained from repeated end-point
+measurements of the fluorescence intensity of gas-saturated
+solutions. The accuracy of the fluorescence-based method for
+measuring binding constants was also cross-checked for other
+neutral guests such as Xe, SF6, tetrahydrofuran, furan,
+cyclopentanone, and benzene (see the Supporting Information), which had been previously studied by NMR spectroscopy in saline solution. Finally, the deep inclusion of the
+Angew. Chem. Int. Ed. 2011, 50, 9338 –9342
+
+(0.1–4 mm), well below its solubility limit, measurements could
+not only be performed in 50 mm NaOAc (pH 5.5), but also in
+salt-free solution at pH 3.0 (1 mm HCl was employed to
+exclude pH fluctuations in the course of the measurements).
+The first surprise from the data in Table 1 is that the affinity of
+simple hydrocarbons to CB6 in water is exceptionally high,
+contrasting the common conception of CBs as cation–
+receptor macrocycles.[30] The selectivity of CB6 towards
+hydrocarbon binding stands out also when compared to
+previously investigated molecular containers.[1, 2, 4, 9] Figure 3
+shows DFT-optimized structures of the corresponding inclusion complexes, which nicely illustrate the hole-size and
+cavity-height matching of some representative gases.
+Gases, which were known to bind—although with
+unknown affinity—to CB5,[12] (CH4 but also Ar, Kr, N2, and
+O2) did not show any detectable binding with CB6. Isobutane
+and cyclopentane are bound strongest, with bindings constants close to 106 m 1. Different hexanes and larger alkanes
+caused no fluorescence displacement at all, suggesting a more
+than two orders of magnitude lower affinity, which is
+consistent with the previously measured very low binding of
+
+ 2011 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+www.angewandte.org
+
+9339
+
+15213773, 2011, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201104119 by Argonne National Laboratory, Wiley Online Library on [23/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+guests inside the CB6 cavity was established by 1H NMR upfield shifts (in the presence of salts to achieve sufficient
+solubility of CB6; see the Supporting Information).
+The binding constants for the different hydrocarbons are
+shown in Table 1. Most important, because the fluorescencebased method allows the use of very low CB6 concentrations
+
+Figure 3. Optimized geometries of the CB6 complexes with
+a) n-butane, b) 1-butene, c) isobutane (side view), and d) isobutane
+(top view) at the B3LYP/6-31G** level of theory (gas phase).
+
+a neutral cyclohexane derivative (10 m 1).[21] As might be
+expected from the spherical void, CB6 preferentially includes
+branched and cyclic hydrocarbons (isobutane > n-butane and
+cyclopentane @ n-pentane), which reveals an interesting constitutional selectivity.
+The size selectivity can be illustrated by considering the
+packing coefficients (PCs) of the different gases (Table 1).[18]
+As can be seen, a maximum is reached for isobutane and
+cyclopentane with guest volumes of 79–86 3, corresponding
+to a packing coefficient of 56–61 %, in good agreement with
+Rebek’s 55 % solution.[2, 3, 31] The affinity drops expectedly for
+smaller and larger guests, corresponding to a too loose or too
+tight packing. CB6 also differentiates well between saturated
+and unsaturated hydrocarbons: alkenes show a four–ten times
+weaker binding. This drop is unlikely to be due to the minimal
+size variation (5–10 %, Table 1), but rather to the three–five
+times higher water solubility of alkenes, which reduces the
+driving force for inclusion. The same trend applies for
+acetylene, which has not only a factor of nine higher water
+solubility than ethylene, but also a more than a factor of 30
+lower affinity to CB6. Stereoselective binding is also
+observed, as revealed by the seven times larger binding of
+cis-butene versus its trans form, a stereochemical effect, which
+manifests itself on the larger-molecule scale in the preferential binding of a cis-azobenzene with the homologous
+CB7.[32] The comparison of the four butene isomers is
+particularly intriguing. They display virtually the same water
+solubilities and volumes, and are consequently capable of
+displacing the same number of very-high-energy water
+molecules from the cavity of CB6.[18] Also attractive van der
+Waals interactions are expected to be comparable because of
+their comparable polarizability, which leaves the observed
+order
+(cis-butene > isobutene  1-butene > trans-butene)
+presently unaccounted for.
+Neopentane is equally large as isopentane and 2,3diazabicyclo[2.2.1]hept-2-ene (all 96 3) and shows additionally an essentially perfect shape fitting. Nevertheless, only the
+last two guests show sizable binding with CB6 (Table 1 and
+Ref. [21]). The absence of binding of neopentane must
+
+9340
+
+www.angewandte.org
+
+consequently be due to a kinetic effect, that is, the tight
+cucurbituril portals block the ingression of the most bulky
+guest (constrictive binding).[6, 21, 33] Indeed, already Mock and
+Shih have shown that neopentylammonium does not form
+inclusion complexes with CB6.[34]
+Alkali cations affect the thermodynamics and kinetics of
+binding of guest molecules to cation–receptor macrocycles in
+an adverse fashion.[22, 27, 35, 36] Nevertheless, the addition of salts
+is routinely applied when working with CB6 to increase
+solubility and enable NMR measurements.[15, 21, 28, 35] Even
+though salts are not expected to interact with the inert
+nonpolar hydrocarbons investigated herein, they destabilize
+the resulting host–guest complexes. In detail, the binding
+constants dropped by one–two orders of magnitude in the
+presence of 50 mm Na+ ions, which are known to bind to the
+carbonyl portals, and thereby compete with the binding of
+guests. Our data also reveal a guest-size dependence: The C4
+and C5 hydrocarbons show the most pronounced drop in
+binding constant in the presence of salt. This is well in line
+with a steric hindrance, where the sodium ions bound to the
+portals interfere strongly with the binding of large guests
+(Figure 3), and only weakly with smaller ones such as the C2
+hydrocarbons. From a conceptual viewpoint, the differential
+salt effects set precedent that cations do not only lead to much
+smaller absolute binding constants, but that they also
+adulterate the intrinsic selectivity of CB6. For example, in
+the presence of sodium, ethane, cis-butene, and isobutene
+appear to have the same affinity for CB6, while in its absence
+the true selectivity order emerges, with cis-butene > isobutene > ethane. The different gases do therefore not only show
+different absolute fluorescence responses, but also exhibit
+characteristic salt effects towards the fluorescent sensing
+ensemble. The possibility to modulate the binding constant by
+simple addition of salts (or other competitors for CB6 such as
+cadaverine) offers, on the other hand, the possibility to
+effectively trigger the release of an encapsulated analyte.[21, 26]
+The apparent isotope effects for complexation of perdeuterated propane and perdeuterated isobutane with CB6 were
+determined by relative measurements. The resulting values
+(K’H/K’D, assuming identical solubilities of the isotopomers)[37]
+were 1.1  0.1 and 0.9  0.1 (Table 1) and are therefore
+negligible within experimental error. Significant deuterium
+isotope effects have been occasionally observed on host–guest
+complexation equilibria (0.98–0.58),[38] but in all previously
+investigated cases the binding was driven by C H···p interactions between the aromatic guest and aromatic host, which
+respond sensitively, through variations of the partition
+function caused by changes of the C H versus C D vibrational energies, to deuterium isotope effects. The complexation of hydrocarbons by CB6 does not involve specific
+interactions of the C H and C D bonds, such that the
+observed absence of a sizable deuterium isotope effect can be
+well accounted for.
+In conclusion, we have applied for the first time a
+fluorescent dye displacement approach to the real-time
+monitoring of gas binding. Volatile hydrocarbons bind very
+tightly and selectively to cucurbituril in water. The set of
+binding constants is the most extensive one so far obtained for
+the binding of nonpolar neutral guests with cucurbiturils, and
+
+ 2011 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Angew. Chem. Int. Ed. 2011, 50, 9338 –9342
+
+15213773, 2011, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201104119 by Argonne National Laboratory, Wiley Online Library on [23/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Communications
+
+Figure 4. 1H NMR spectra of neopentane-saturated D2O before and
+after addition of CB6.
+
+Experimental Section
+Gases of highest commercial purity ( 99 %) were purchased from
+Air Liquide, Germany, except for cis- and trans-butene (Sigma–
+Aldrich, Germany), neopentane (ChemSampCo, USA), [D8]propane
+(ISOTEC, USA), and [D10]2-methylpropane (CDN Isotopes,
+Canada). Liquid hydrocarbons were from Sigma–Aldrich, Germany.
+CB6 was synthesized as reported[15, 16] and an independently prepared
+sample (which afforded the same results) was kindly provided by Dr.
+H.-J. Buschmann. Fluorescence measurements were done with a
+Varian Eclipse fluorometer at 25.0  0.1 8C (using an external Peltier
+thermostat). Experiments for the sensing of gaseous hydrocarbons
+and noble gases were performed in a rubber-sealed long-neck quartz
+cuvette. The different gases were administered to the aqueous
+mixture containing the 1·CB6 complex by slowly purging (ca. 1
+bubble per second) with a needle. For the online monitoring of the
+uptake of volatile liquid analytes, we employed N2 as carrier gas for
+transferring the hydrocarbons of interest through the gas phase into
+the aqueous solution containing the reporter pair until the solubility
+limit was reached. Experiments at varying gas pressures were
+performed by deaerating a home-built cuvette by three freeze–
+pump–thaw cycles and subsequently dosing different gas pressures on
+a vacuum manifold, as detailed in our previous gas-phase work.[39]
+Acetylene was also dosed in this manner (instead of bubbling) to
+Angew. Chem. Int. Ed. 2011, 50, 9338 –9342
+
+avoid the accumulation of acetone, an ubiquitous stabilizer in
+acetylene samples. For those hydrocarbons, which showed no
+immediate effect on the fluorescence signal, the solutions were
+exposed for a prolonged time (several hours) to exclude the
+possibility of a slower guest exchange kinetics being responsible for
+the absence of binding.
+Received: June 15, 2011
+Published online: August 30, 2011
+
+.
+
+Keywords: cucurbiturils · fluorescence · gas sensing · host–
+guest systems · hydrocarbons · supramolecular chemistry
+
+[1] L. Garel, J.-P. Dutasta, A. Collet, Angew. Chem. 1993, 105,
+1249 – 1251; Angew. Chem. Int. Ed. Engl. 1993, 32, 1169 – 1171.
+[2] N. Branda, R. Wyler, J. Rebek, Jr., Science 1994, 263, 1267 –
+1268.
+[3] A. Shivanyuk, A. Scarso, J. Rebek, Jr., Chem. Commun. 2003,
+1230 – 1231.
+[4] C. L. D. Gibb, B. C. Gibb, J. Am. Chem. Soc. 2006, 128, 16498 –
+16499.
+[5] D. Ajami, J. Rebek, Jr., Angew. Chem. 2008, 120, 6148 – 6150;
+Angew. Chem. Int. Ed. 2008, 47, 6059 – 6061.
+[6] D. J. Cram, M. E. Tanner, C. B. Knobler, J. Am. Chem. Soc. 1991,
+113, 7717 – 7727.
+[7] A. V. Leontiev, A. W. Saleh, D. M. Rudkevich, Org. Lett. 2007, 9,
+1753 – 1755.
+[8] D. M. Rudkevich, Angew. Chem. 2004, 116, 568 – 581; Angew.
+Chem. Int. Ed. 2004, 43, 558 – 571; J. Nakazawa, Y. Sakae, M.
+Aida, Y. Naruta, J. Org. Chem. 2007, 72, 9448 – 9455.
+[9] a) S. Tartaggia, A. Scarso, P. Padovan, O. De Lucchi, F. Fabris,
+Org. Lett. 2009, 11, 3926 – 3929; b) J. Nakazawa, J. Hagiwara, M.
+Mizuki, Y. Shimazaki, F. Tani, Y. Naruta, Angew. Chem. 2005,
+117, 3810 – 3812; Angew. Chem. Int. Ed. 2005, 44, 3744 – 3746.
+[10] H.-J. Schneider, Angew. Chem. 2009, 121, 3982 – 4036; Angew.
+Chem. Int. Ed. 2009, 48, 3924 – 3977.
+[11] a) J. L. Atwood, L. J. Barbour, A. Jerga, Science 2002, 296, 2367 –
+2369; b) S. Lim, H. Kim, N. Selvapalam, K. J. Kim, S. J. Cho, G.
+Seo, K. Kim, Angew. Chem. 2008, 120, 3400 – 3403; Angew.
+Chem. Int. Ed. 2008, 47, 3352 – 3355; c) H. Kim, Y. Kim, M.
+Yoon, S. Lim, S. M. Park, G. Seo, K. Kim, J. Am. Chem. Soc.
+2010, 132, 12200 – 12202.
+[12] Y. Miyahara, K. Abe, T. Inazu, Angew. Chem. 2002, 114, 3146 –
+3149; Angew. Chem. Int. Ed. 2002, 41, 3020 – 3023.
+[13] L. Pirondini, E. Dalcanale, Chem. Soc. Rev. 2007, 36, 695 – 706.
+[14] F. Cramer, F. M. Henglein, Chem. Ber. 1957, 90, 2572 – 2575.
+[15] R. Behrend, E. Meyer, F. Rusche, Justus Liebigs Ann. Chem.
+1905, 339, 1 – 37.
+[16] W. A. Freeman, W. L. Mock, N. Y. Shih, J. Am. Chem. Soc. 1981,
+103, 7367 – 7368.
+[17] a) K. Kim, N. Selvapalam, D. H. Oh, J. Inclusion Phenom.
+Macrocyclic Chem. 2004, 50, 31 – 36; b) N. J. Wheate, A. I. Day,
+R. J. Blanch, A. P. Arnold, C. Cullinane, J. G. Collins, Chem.
+Commun. 2004, 1424 – 1425; c) J. Lagona, P. Mukhopadhyay, S.
+Chakrabarti, L. Isaacs, Angew. Chem. 2005, 117, 4922 – 4949;
+Angew. Chem. Int. Ed. 2005, 44, 4844 – 4870; d) M. V. Rekharsky,
+T. Mori, C. Yang, Y. H. Ko, N. Selvapalam, H. Kim, D.
+Sobransingh, A. E. Kaifer, S. Liu, L. Isaacs, W. Chen, S.
+Moghaddam, M. K. Gilson, K. Kim, Y. Inoue, Proc. Natl.
+Acad. Sci. USA 2007, 104, 20737 – 20742; e) R. Wang, L. Yuan,
+H. Ihmels, D. H. Macartney, Chem. Eur. J. 2007, 13, 6468 – 6473;
+f) L. Liu, N. Nouvel, O. A. Scherman, Chem. Commun. 2009,
+3243 – 3245; g) M. K. Sinha, O. Reany, G. Parvari, A. Karmakar,
+E. Keinan, Chem. Eur. J. 2010, 16, 9056 – 9067; h) A. L. Koner, C.
+Mrquez, M. H. Dickman, W. M. Nau, Angew. Chem. 2011, 123,
+567 – 571; Angew. Chem. Int. Ed. 2011, 50, 545 – 548; i) D. W.
+
+ 2011 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+www.angewandte.org
+
+9341
+
+15213773, 2011, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201104119 by Argonne National Laboratory, Wiley Online Library on [23/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+the largest one for complexation of gaseous hydrocarbons to
+macrocycles in general. It will serve as a benchmark, in
+particular since the measurements refer to aqueous solution,
+for the choice of force fields and solvation models in MD
+simulations in an effort to reproduce hydrophobic effects in
+supramolecular host–guest binding phenomena. The affinity
+data provide the thermodynamic foundation for patented
+claims,[20] and practical applications of the differential binding
+of CB6 towards different gases are indeed not far-fetched. For
+example, even though commercial neopentane is already
+highly pure (99 %), it contained traces of an unknown
+impurity at approximately 1.66 ppm (Figure 4), which accumulated upon prolonged bubbling. Addition of solid CB6 to a
+D2O solution of neopentane resulted in the selective removal
+of the impurity. Neopentane is too large to be encapsulated
+and, hence, very effectively purified.
+
+Lee, K. M. Park, M. Banerjee, S. H. Ha, T. Lee, K. Suh, S. Paul,
+H. Jung, J. Kim, N. Selvapalam, S. H. Ryu, K. Kim, Nat. Chem.
+2011, 3, 154 – 159; j) Y. Chen, Y.-M. Zhang, Y. Liu, Isr. J. Chem.
+2011, 51, 515 – 524; k) D. Das, O. A. Scherman, Isr. J. Chem.
+2011, 51, 537 – 550; l) D. H. Macartney, Isr. J. Chem. 2011, 51,
+600 – 615; m) L. Biczk, V. Wintgens, Z. Miskolczy, M. Megyesi,
+Isr. J. Chem. 2011, 51, 625 – 633; n) G. Parvari, O. Reany, E.
+Keinan, Isr. J. Chem. 2011, 51, 646 – 663; o) A. R. Urbach, V.
+Ramalingam, Isr. J. Chem. 2011, 51, 664 – 678; p) A. C. Bhasikuttan, H. Pal, J. Mohanty, Chem. Commun. 2011, DOI: 10.1039/
+c1cc12091c.
+[18] W. M. Nau, M. Florea, K. I. Assaf, Isr. J. Chem. 2011, 51, 559 –
+577.
+[19] a) K. A. Kellersberger, J. D. Anderson, S. M. Ward, K. E.
+Krakowiak, D. V. Dearden, J. Am. Chem. Soc. 2001, 123,
+11316 – 11317; b) Even if a crystal structure of decamethyl-CB5
+with methane has been previously reported (Ref. [12]), the
+corresponding solution binding constants of CB5 and decamethyl-CB5, as determined by 1H NMR spectroscopy in D2O, were
+only on the order of 103 m 1 for methane, 102 m 1 for ethylene,
+and 101m 1 for ethane (R. Dsouza, W. M. Nau, unpublished
+results).
+[20] In CsCl solution, qualitative evidence for binding of hydrocarbons to CB6 (1H NMR shifts and precipitation of complexes)
+has been obtained; see A. I. Day, A. P. Arnold, R. J. Blanch, US
+Patent 2003/0140787A1, 2003.
+[21] C. Mrquez, R. R. Hudgins, W. M. Nau, J. Am. Chem. Soc. 2004,
+126, 5806 – 5816.
+[22] H.-J. Buschmann, K. Jansen, C. Meschke, E. Schollmeyer, J.
+Solution Chem. 1998, 27, 135 – 140.
+[23] a) M. El Haouaj, M. Luhmer, Y. H. Ko, K. Kim, K. Bartik, J.
+Chem. Soc. Perkin Trans. 2 2001, 804 – 807; b) M. El Haouaj,
+Y. H. Ko, M. Luhmer, K. Kim, K. Bartik, J. Chem. Soc. Perkin
+Trans. 2 2001, 2104 – 2107.
+[24] B. S. Kim, Y. H. Ko, Y. Kim, H. J. Lee, N. Selvapalam, H. C. Lee,
+K. Kim, Chem. Commun. 2008, 2756 – 2758.
+[25] a) S. L. Wiskur, H. Ait-Haddou, J. J. Lavigne, E. V. Anslyn, Acc.
+Chem. Res. 2001, 34, 963 – 972; b) T. Zhang, E. V. Anslyn, Org.
+Lett. 2007, 9, 1627 – 1629.
+[26] a) A. Praetorius, D. M. Bailey, T. Schwarzlose, W. M. Nau, Org.
+Lett. 2008, 10, 4089 – 4092; b) J. Rohacova, A. I. Lazar, W. M.
+Nau, unpublished results.
+
+9342
+
+www.angewandte.org
+
+[27] M. V. Rekharsky, Y. H. Ko, N. Selvapalam, K. Kim, Y. Inoue,
+Supramol. Chem. 2007, 19, 39 – 46.
+[28] S. Liu, C. Ruspic, P. Mukhopadhyay, S. Chakrabarti, P. Y. Zavalij,
+L. Isaacs, J. Am. Chem. Soc. 2005, 127, 15959 – 15967.
+[29] Two CO2 molecules have been shown to be included in a slippedparallel fashion inside porous CB6, see Ref. [11c], which can be
+rationalized with the very small molecular volume of CO2
+(31 3).
+[30] A. G. Grechin, H.-J. Buschmann, E. Schollmeyer, Angew. Chem.
+2007, 119, 6619 – 6621; Angew. Chem. Int. Ed. 2007, 46, 6499 –
+6501.
+[31] a) S. Mecozzi, J. Rebek, Jr., Chem. Eur. J. 1998, 4, 1016 – 1022;
+b) B. W. Purse, J. Rebek, Jr., Proc. Natl. Acad. Sci. USA 2006,
+103, 2530 – 2534.
+[32] J. Wu, L. Isaacs, Chem. Eur. J. 2009, 15, 11675 – 11680.
+[33] D. J. Cram, M. T. Blanda, K. Paek, C. B. Knobler, J. Am. Chem.
+Soc. 1992, 114, 7765 – 7773.
+[34] a) W. L. Mock, N. Y. Shih, J. Org. Chem. 1983, 48, 3618 – 3619;
+b) W. L. Mock, N. Y. Shih, J. Org. Chem. 1986, 51, 4440 – 4446.
+[35] a) Y. M. Jeon, J. Kim, D. Whang, K. Kim, J. Am. Chem. Soc.
+1996, 118, 9790 – 9791; b) Y. Kim, H. Kim, Y. H. Ko, N.
+Selvapalam, M. V. Rekharsky, Y. Inoue, K. Kim, Chem. Eur. J.
+2009, 15, 6143 – 6151.
+[36] W. Ong, A. E. Kaifer, J. Org. Chem. 2004, 69, 1383 – 1385.
+[37] The solubility isotope effects of the particular alkanes in aqueous
+solution are unknown, but knowledge of the reported value for
+methane (CH4 has a 1.016 times higher water solubility than
+CD4 ; see M. F. Costa Gomes, J.-P. Grolier, Phys. Chem. Chem.
+Phys. 2001, 3, 1047 – 1052) suggests that such a correction would
+fall within the error.
+[38] a) D. Wade, Chem.-Biol. Interact. 1999, 117, 191 – 217; b) T.
+Felder, C. A. Schalley, Angew. Chem. 2003, 115, 2360 – 2363;
+Angew. Chem. Int. Ed. 2003, 42, 2258 – 2260; c) Y. L. Zhao, K. N.
+Houk, D. Rechavi, A. Scarso, J. Rebek, Jr., J. Am. Chem. Soc.
+2004, 126, 11428 – 11429; d) Y. Liu, R. Warmuth, Org. Lett. 2007,
+9, 2883 – 2886; e) T. Haino, K. Fukuta, H. Iwamoto, S. Iwata,
+Chem. Eur. J. 2009, 15, 13 286 – 13 290; f) J. S. Mugridge, R. G.
+Bergman, K. N. Raymond, Angew. Chem. 2010, 122, 3717 – 3719;
+Angew. Chem. Int. Ed. 2010, 49, 3635 – 3637.
+[39] D. Klapstein, U. Pischel, W. M. Nau, J. Am. Chem. Soc. 2002,
+124, 11349 – 11357.
+
+ 2011 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+
+Angew. Chem. Int. Ed. 2011, 50, 9338 –9342
+
+15213773, 2011, 40, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/anie.201104119 by Argonne National Laboratory, Wiley Online Library on [23/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Communications
+
+

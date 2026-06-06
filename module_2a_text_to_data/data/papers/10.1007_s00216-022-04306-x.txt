@@ -1,0 +1,218 @@
+Construction of cellulose-based highly sensitive extended-gate field effect chiral sensor
+Research Paper
+Published: 14 September 2022
+Volume 415, pages 4245–4254, (2023)
+Cite this article
+Download PDF
+Access provided by Argonne Research Library
+
+
+Analytical and Bioanalytical Chemistry
+Aims and scope
+Submit manuscript
+Construction of cellulose-based highly sensitive extended-gate field effect chiral sensor
+Download PDF
+Jing-Jing Zhang, Si-Ying Wang, Hai-Tao Dai, Hai-Chao Li & Yong Wang 
+466 Accesses
+
+1 Altmetric
+
+Explore all metrics 
+
+Abstract
+Chiral recognition is an emerging field of modern chemical analysis, and the development of health-related fields depends on the production of enantiomers. Cellulose is a kind of natural polymer material with certain chiral recognition ability. Limited by the chiral recognition ability of natural cellulose itself, more cellulose derivatives have been gradually developed for chiral recognition and separation. Based on the difference in action between cellulose derivatives and enantiomers, this work synthesized cellulose-tris(4-methylphenylcarbamate) (CMPC) chiral recognition mediators and a CMPC-functionalized extended-gate organic field effect transistor (EG-OFET) was constructed for the first time. Three chiral molecules were selected as model analytes to evaluate the enantiomeric recognition ability of the platform, including threonine (Thr), 2-chloromandelic acid (CA), and 1,2-diphenylethylenediamine (DPEA). The detection limit for 1,2-diphenylethylenediamine (DPEA) is down to 10−13 M. Through the amplification effect of the EG-OFET platform, the difference in the interaction between CMPC and three chiral molecules with different structures is converted into a current signal output. At the same time, the enantiomer discrimination mechanism of CMPC was further studied by means of spectroscopy and nuclear magnetic resonance.
+
+Graphical abstract
+
+Similar content being viewed by others
+
+Electrochemical chiral sensor based on cellulose nanocrystals and multiwall carbon nanotubes for discrimination of tryptophan enantiomers
+Article 11 May 2018
+
+Application of chiral materials in electrochemical sensors
+Article 27 November 2020
+
+Novel potential type electrochemical chiral recognition biosensor for amino acid
+Article 07 August 2017
+Introduction
+Chiral analysis is an emerging field of modern chemical analysis, and the development of health-related fields depends on the production of enantiomers. Qualitative and quantitative detection of chiral molecules is of great significance in the fields of analytical science, chemical biology, pharmaceuticals, and pesticides [1]. However, traditional spectroscopic and chromatographic methods are limited in the field of chiral molecule detection due to low universality, difficult operation, and expensive equipment [2,3,4]. Among them, circular dichroism spectrum cannot achieve chirality distinction due to the lack of chromophore groups in amino acid molecules [5]. For chromatography, derivatization of natural amino acid (NAS) is often required to enhance its interaction with the chiral stationary phase to provide a chromophore for detection by UV detectors [6, 7]. Therefore, finding new chiral detection techniques remains a challenge. Among the numerous electronic sensors, field effect transistor sensors have become one of the most promising sensing platforms due to their advantages of rapidity, low cost, and signal amplification [8].
+
+Organic field effect transistors (OFETs) have extremely strong sensitivity and online analysis capabilities and are currently a powerful carrier for building high-performance sensors. It has been widely used in ion, antibody, and DNA detection, etc. [9, 10], while the field of chiral sensing is still in the research stage. The sensing mechanism of OFETs is based on the change of charge [11, 12], and the chiral enantiomers have the same charge. The way to solve this problem is generally to use a chiral selector to modify the semiconductor layer [13] or modify the gate [14]. The response is derived from the change of the carrier concentration in the semiconductor layer or the induced potential change after capturing the analyte. The extended-gate FET (EG-FET) was first proposed by Van der Spiegel in 1983 [15], and a highly sensitive EG-OFET sensor can be designed and fabricated by using the signal amplification mechanism. It avoids complicated and cumbersome instruments, reduces the use and waste of chemical reagents, and greatly saves costs.
+
+Cellulose is a kind of natural polymer material with a certain chiral recognition ability. It is a highly ordered chain polysaccharide composed of β-D-glucopyranose units connected by β-1,4-glycosidic bonds. Each structural unit contains one primary hydroxyl group and two secondary hydroxyl groups, which are located on the -C6, -C2, and -C3 atoms, respectively, and have high chemical activity [16] and are widely used in the field of chiral sensing [17, 18]. Limited by the chiral recognition ability of natural cellulose itself, more cellulose derivatives have been gradually developed for chiral recognition and separation [19]. It is mostly used in chromatography, electrochemistry, etc. in the field of chiral analysis [20, 21]. Enantiomers such as amides and imidazole antifungals are often used as chiral analytes. It is generally believed that the ability to distinguish enantiomers comes from the chiral nanocavities formed by the cellulose backbone and the side chains [22]. The primary and secondary hydroxyl groups contained in the sugar ring of cellulose have different reactivity, and derivatization reagents with different structures or functions can be used to design and synthesize cellulose derivatives with different substituent groups, positions, and numbers of derivative [23,24,25]. Functionalization of cellulose with benzene isocyanate is a commonly used derivatization method [13]. Among them, the chiral recognition ability of derivatives is closely related to the substituents on the phenyl group [16, 17, 26, 27].
+
+Based on the difference in action between cellulose derivatives and enantiomers, this work synthesized cellulose-tris(4-methylphenylcarbamate) (CMPC) chiral recognition mediators and a CMPC-functionalized EG-OFET was constructed. Three amino acid chiral molecules were selected as model analytes to evaluate the enantiomeric recognition ability of the platform, including threonine (Thr), 2-chloromandelic acid (CA), and 1,2-diphenylethylenediamine (DPEA). Through the amplification effect of the EG-OFET platform, the difference in the interaction between CMPC and three chiral molecules with different structures is converted into a current signal output. Meanwhile, the enantiomer discrimination mechanism of CMPC was further studied by means of spectroscopy and nuclear magnetic resonance. This work contributes a direct and low-cost sensing approach for highly sensitive enantiomeric discrimination.
+
+Materials and methods
+Materials
+All chemicals are of analytical reagent grade unless stated otherwise. Microcrystalline cellulose was purchased from Sahn Chemical Technology (Shanghai, China). Chiral compounds including D-CA (J&K, Beijing; 99%), L-CA (J&K, Beijing; 99%), (S, S)-1,2-diphenylethylenediamine (S, S-DPEA) (J&K, Beijing; 99%), (R, R)-1,2-diphenylethylenediamine (R, R-DPEA) (Aladdin, Shanghai; 99%) (J&K, Beijing; 99%), D-threonine (D-Thr) (Aladdin, Shanghai; 99%), and L-threonine (L-Thr) (J&K, Beijing; > 98%) were used without further purification. The gold wire used for the electrode was obtained from Zhongnuo Advanced Material Beijing CO., LTD (China). The poly(3-hexylthiophene) P3HT (regioregularity > 90%, weight-average molecular weight, Mn ≈ 50 ~ 100 K) was purchased from Rieke Metals (America). The octadecyl trichlorosilane (OTS) was provided by J&K (Beijing, China; > 95%). Acetone, methanol, anhydrous ethanol, chloroform, cyclohexane, and isopropanol were purchased from Rainton (Tianjin, China; AR). Chlorobenzene was provided by Alfa Aesar (the UK; 99.9%).
+
+Preparation of cellulose-tris(4-methylphenylcarbamate) (CMPC)
+The preparation route of cellulose-tris (4-methylphenylcarbamate) (CMPC) (Fig. S1) [1]. Briefly described as follows: microcrystalline cellulose (0.5 g) was uniformly dispersed in anhydrous pyridine (10 mL); then, 4-methylphenylisocyanate (2.5 mL) was added. Under nitrogen protection, the reaction system was refluxed at 110 °C for 24 h. After cooling to 60 °C, the mixture was poured into methanol (100 mL) with vigorous stirring, and a white solid precipitated out. The resulting precipitate was collected by suction filtration and washed with methanol. The precipitate was then redissolved in CH2Cl2 (10 mL) and precipitated in methanol (100 mL). After filtration, the precipitate was dried under a vacuum at 40 °C for 48 h to give the product a white solid.
+
+Characterization
+Proton nuclear magnetic resonance (1H NMR) spectra were collected on a Bruker ACF400 (400 MHz) supplied by Bruker Bio spin (Fällanden, Switzerland) using acetone-d6 and tetramethyl silane as internal standard. Circular dichroism spectra and ultraviolet (UV–vis) spectra were collected on a Jasco J-810 (Japan). Pure methanol was used as blank control. Fourier transform infrared spectra (FTIR) were collected on a Bruker ALPHA supplied by Bruker (German). The water contact angles were measured by a JC2000D1 contact angle measuring instrument (POWEREACH, Shanghai, China). The optical rotation data were collected on a P850 automatic polarimeter supplied by Hanon (Shandong, China). The electrical characteristics of the EG-OFET were measured by an electronic probe station with two Keithley 2400 sources in ambient conditions at room temperature. The cellulose-tris(4-methylphenylcarbamate) (CMPC) film image was measured by a AFM5500 atom force microscopy (AFM) (Agilent, America).
+
+Preparation of the EG-OFET
+A top contact/EG P3HT OFET was fabricated [28]. CMPC assembled on the Au EG via spin-coating using ethyl acetate as the solvent. To get the needed sensing layer on EG, the optimal CMPC concentration was evaluated initially to be 0.125 mg/mL, according to membrane morphology (Fig. S2). EG modification was proved by water contact angle measurement, which showed reduced surface hydrophilicity after treatment with CMPC. After being functionalized by CMPCs, the surface was rinsed with deionized water and dried with N2 before electrical characteristic measurements (Fig. S3a, b). And the AFM results showed that the roughness and thickness of CMPC film were 1.301 nm and 25 nm, respectively (Fig. S3c).
+
+FET sensing procedure
+Characterization of the EG-OFET and sensing
+The electrical properties of the EG-OFETs were measured by Keithley 2400. The EG electrode and OFET were connected by a wire clip and the gate voltage was applied through the calomel electrode (Fig. S4). Before detecting NAs, the output current of the EG-OFET device was characterized at a gate voltage (VG) of 50 V and drain-source (VDS) voltage of 0–50 V. After ensuring that the device performance is stable, it is used for subsequent experiments. The as-prepared EG-OFET with P3HT as the active layer exhibits typical p-channel device characteristics. After modification of CMPC, a slight decrease in the saturated drain current is observed, but it can still work normally and has stable electrical properties (Fig. S5a, b). The mobility is stable at 0.003 cm2/(V·s). The results show that the EG-OFET displayed typical p-channel behaviors, showing a field effect before and after CMPC modification.
+
+Results and discussion
+Structural characterization of the CMPC
+The structure of the prepared CMPC was identified and verified by infrared spectroscopy (FTIR) (Fig. S6). In the range of 3250–3500 cm−1, microcrystalline cellulose has a stretching vibration peak of C-O of hydroxyl groups on cellulose sugar chains. Due to the existence of hydrogen bonds, the association between hydroxyl groups occurs, and the peak shape is blunt. After functionalization, it can be observed that the envelope peak basically disappeared, and new infrared peaks appeared, including amino peak (3388–3306 cm−1), carbon–carbon double bond peak (3034 cm−1), and carbonyl peak (1739 cm−1). According to the nuclear magnetic 1H NMR (Fig. S7) spectrum to calculate the degree of substitution of CMPC. After calculation, the substitution degree DS of the synthesized CMC is 2.9, and the hydroxyl groups of the cellulose chain are basically replaced by 4-methylphenylcarbamoyl groups.
+
+Interaction investigation between CMPC and NAS enantiomers
+The selective interaction of selectors and chiral enantiomers is a prerequisite for realizing chiral sensing. Through UV–vis, circular dichroism spectroscopy, optical rotation test, and other optical methods and 1H NMR nuclear magnetic analysis, the enantioselective interaction mode between CMPC and chiral molecules was studied. In the experiment, four optically pure molecules (D-CA, L-CA, R, R-DPEA, and S, S-DPEA) were selected as model analytes for the study. Without Thr, Thr and CMPC are difficult to dissolve in the same solvent.
+
+Dichloromethane was used as a solvent to prepare a cellulose derivative solution with a concentration of 0.125 mg/mL, and UV and circular dichroism tests were carried out. The concentration of enantiomers was determined according to a 3:1 molar ratio of CMPC repeat units to chiral molecules. Due to the absence of unsaturated bonds in natural cellulose molecules and the lack of chromophores such as benzene rings and carbonyl groups, π-π* transitions cannot be generated, and its ultraviolet absorption intensity is small and the wavelength is short, generally around 195 nm. After functionalization with p-toluene isocyanate, the aromatic substituents of CMPC can undergo dipole transition, and conjugation can also be formed between adjacent substituents, so that the cellulose derivatives have strong ultraviolet absorption, and the absorption range is 210–300 nm (Fig. 1a). The strong peak at 250 nm and the broad and weak UV absorption peak around 280 nm correspond to the π-π* transition of the benzene ring. An incompletely resolved shoulder can be observed around 230 nm, probably from the n-π* transition of the carbonyl group. The UV absorption peaks of the four enantiomers are all at 225 nm, and due to the low concentration, the intensities are all below 0.4 (Fig. 1b, c). After mixing CMPC and chiral analytes separately, the UV spectra of the complexes increased compared to pure CMPC (Fig. 1d, e). On the one hand, it is because the UV absorption is additive, and the newly added substance contributes part of the absorption intensity; on the other hand, more chromophores are exposed because the structure of CMPC is relatively looser (Fig. S8a, b) and the interaction with chiral molecules is more pronounced. The intensity changes brought by the two configurations of analytes are not consistent, and D-CA is more obvious than L-CA, indicating that “additivity” is not the only factor affecting the intensity change. In addition, the peak shape and peak position of CMPC have also changed (Fig. 1d, e), and the changes of different enantiomers are the same, which proves that the binding of CMPC and chiral molecules has chiral selectivity. For example, the main peak of CMPC and S, S-DPEA complex is higher than that of CMPC-R, R-DPEA complex, but the shoulder peak is lower, the ratio of the main peak to shoulder peak is 2.86 and 2.10, respectively; The position of the main peak of CMPC-S, S-DPEA is slightly blue-shifted, while that of CMPC-R, R-DPEA is slightly red-shifted.
+
+Fig. 1
+figure 1
+UV–vis spectra of a CMPC, b CA, and c DPEA; UV–vis spectra of CMPC and its complexes with d CA and e DPEA
+
+Full size image
+Circular dichroism involves the differential absorption of left-handed and right-handed light by matter. When two circularly polarized lights with opposite directions pass through the active medium, the amplitudes of the two beams of light vary inconsistently due to the different degrees of absorption of the different polarized lights by the active medium. Circular dichroism, on the other hand, measures this change as a function of wavelength. Due to the diversity of chromophore types, spatial orientations, and sugar ring connection modes, the circular dichroism of sugar compounds is very complex. For polysaccharides like cellulose, in the solution state, their spatial conformation cannot be simply summarized, and they often exist in various forms such as helical, stretched, folded, or disordered coils, which further increases the complexity of the spectrum. Underivatized cellulose is formed by connecting D-glucopyranose units through 1,4-β-glycosidic bonds, and the regular chain structure makes it exhibit a helical chiral conformation. However, due to the small absorption wavelength of natural cellulose, its circular dichroism signal can only be observed in the vacuum ultraviolet region. After the cellulose chain was modified with p-toly carbamoyl group, the UV absorption peak shifted to red, and the circular dichroism signal also shifted to about 250 nm, showing a negative peak (Fig. 2a). It shows that CMPC has a regular high-level structure, and combined with the SEM results (Fig. S8b), it is speculated that it may be a helical conformation. The circular dichroism peak position of the chiral analyte is at 225 nm, and the two configurations of the isomers are in opposite directions (Fig. 2b, c). The circular dichroism signal changes differently after CMPC forms complexes with the enantiomers. First, the peak position changed slightly (Fig. 2d, e), which can be attributed to the target analyte affecting the energy level arrangement of the CMPC molecule, and the electronic transition has changed, which is consistent with the results of the UV spectrum. In addition, the intensity of the circular dichroism signal is also enhanced to different degrees, indicating that molecules with different chiral configurations have different effects on the higher-order structure of the CMPC chain.
+
+Fig. 2
+figure 2
+Circular dichroism spectra of a CMPC, b CA, and c DPEA; circular dichroism spectra of CMPC and its complexes with d CA and e DPEA
+
+Full size image
+At the same time, the optical activity of CMPC and its complexes with target molecules was also studied (Table 1). The sample solution required for the test was prepared with acetone as the solvent, the concentration of CMPC was 1.25 mg/mL, and the molar ratio of CMPC repeating units to chiral molecules was 100:1. Under this concentration condition, no obvious optical rotation signal can be detected in the solution of pure chiral analyte. The synthesized cellulose derivatives have detectable optical activity with a specific optical rotation of − 85 at 25 °C. After forming complexes with different chiral guests, the specific rotation of CMPC increased to different degrees in the positive direction, and the change caused by DPEA was higher than that of CA. Possibly because there are two benzene rings in the structure of DPEA, the molecule shows stronger rigidity than CA, and the change of the CMPC chain conformation is also more obvious.
+
+Table 1 Specific optical rotation of CMPC as well as the complex of CMPC and enantiomers
+Full size table
+In order to further study the spatial relationship between CMPC and enantiomers, the formation of complexes with a molar ratio of CMPC repeating units to chiral molecules equal to 3 to 1 was analyzed by 1H NMR spectroscopy. Proton signal assignments for cellulose derivatives have been detailed in Fig. S7. After binding with chiral molecules, the proton peak of -NH- of the modified group on C of cellulose 2, 3, and 6 shifts to the lower field. The NMR peak positions of the 2,6-position hydrogen atoms of the benzene ring also shifted slightly. The changes in the NMR spectrum of the cellulose sugar ring are complex (Fig. 3c), with multiple emerging signals and changes in peak shape. This may be because the CMPC molecular chain is flexible, and the binding of enantiomers has a greater impact on the conformation of the sugar ring, resulting in complicated NMR signal changes.
+
+Fig. 3
+figure 3
+1H NMR spectra of pure CMPC and CMPC-enantiomer complexes
+
+Full size image
+Practical chiral sensing application
+For EG-OFET platform fabrication, CMPC was used as the sensing medium to provide chiral resolution. Because cellulose is a polysaccharide with a larger molecular weight, it can be immobilized on the gold epitaxial gate by a simple spin-coating operation. The bias voltage is transmitted to the semiconductor layer through the analysis liquid, and the chirality sensing capability of the platform is investigated through the output characteristic curve of the transistor. As shown in Fig. 4a, b, and c, the output current values of the constructed platforms L-Thr, D-CA, and R, R-DPEA were lower than those of D-Thr, L-CA, and S, S-DPEA, respectively, indicating that the constructed platforms Enantiomer differentiation can be achieved. And as the concentration of chiral analyte increases, the output curve gradually decreases (Fig. 4d, e, f), indicating that the platform has a concentration-dependent response to chiral molecules. To conveniently measure the size of the current response value, the saturation current change value ΔI = (I-I0) is used to represent the response signal of the EG-OFET. Among them, I0 is the saturated output current value of the platform to 1% PBS solution, and I is the saturated output current value of the platform to the analysis solution. After linear fitting with -ΔI as the ordinate and lgC as the abscissa, a quantitative response curve with a linear correlation coefficient above 0.9 was obtained (Fig. 4g, h, i). It is proved that the prepared sensor can not only distinguish chiral molecules sensitively and effectively, but also has the potential to be applied to the quantitative chiral analysis. The limit of detection (LOD) of D-Thr, L-Thr, D-CA, L-CA, R, R-DPEA, and S, S-DPEA respectively is 10−8, 10−10, 10−10, 10−8, 10−9, and 10−12 M. However, when the unmodified extended gate was used for detection (Fig. S9), the current response values of the six chiral isomers were basically at 3σ (σ is the standard deviation, calculated from ten times the response of the EG-OFET platform to the blank substrate) in the concentration range of 10 nM–100 μM. And since the difference between the different chiral configurations is extremely small, it is impossible to distinguish any pair of analytes.
+
+Fig. 4
+figure 4
+Chiral sensing responses of the EG-OFET upon detecting a Thr, b CA, c DPEA; concentration dependences responses of the EG-OFET upon detecting d L-Thr, e D-CA, f R, R-DPEA; g, h, i the current responses of the EG-OFET with CMPC modification upon detecting enantiomers in 1% PBS solution
+
+Full size image
+Furthermore, the sensing repeatability of the EG-OFET was investigated by using the same extended gate for five consecutive sensing detections. During the five cycles, the platform exhibited stable output current values for 1% PBS, as well as 10 nM R, R-DPEA, and S, S-DPEA (Fig. 5a, b), indicating that cellulose derivative–modified EG-OFETs can be stably used to achieve enantiomeric resolution of diphenyl ethylenediamine. In addition, the established EG-OFET sensor can realize excesses enantiomeric recognition of different amino acid molecules. In the experiment, three chiral analytes were used for detection (Fig. 5c, d, e). The total concentration of the Thr (or CA, or DPEA) enantiomer was fixed at 10 nM, and an increase in the current response signal was observed with a significant increase in the molar percentage of L-Thr (or D-CA, or R, R-DPEA). This indicates that CMPC exhibits selective affinity for chiral molecules with different configurations. The relationship between the current response value and the Thr (or CA, or DPEA) concentration component is plotted, and a good linear relationship can be found between the two. Using the obtained relationship, a further quantitative analysis of the three enantiomeric mixtures was carried out. The mixture of enantiomers was determined three times, and the concentration ratio of L-Thr was determined to be 0.57, which was very small from the actual value (actual value of 0.60). The detection result of the D-CA mixed sample was 0.54 (actual value 0.60), and the detection result of R, R-DPEA mixed sample was 0.69 (actual value 0.60).
+
+Fig. 5
+figure 5
+The current signal of a 10 nM S, S-DPEA and 1% PBS, b 10 nM R, R-DPEA and 1% PBS; the quantitative sensing response to c Thr, d CA, and e DPEA mixtures (total concentration is fixed at 10 nM)
+
+Full size image
+Transduction mechanism of EG-OFET
+To further deepen the understanding of the CMPC-functionalized EG-OFET sensor, the transduction mechanism of this platform is analyzed and discussed in detail. The EG-OFET platform has three electrode contacts, source, drain, and gate, and can operate normally by applying VDS and VG bias voltages to it (Fig. S10a). Among them, the gate voltage VG is applied to the analysis solution through the calomel electrode, and then passes through the extended gate to regulate the semiconductor channel carriers. The negative potential applied to the analysis solution was recorded as V0. The presence of V0 forces the ions in the electrolyte to redistribute so that the cations (H+, Na+, K+) face the negatively biased calomel electrode, while the anions (Cl−, HPO42−, H2PO4−, OH−) face the gate near the gate orderly arrangement at the solid–liquid interface with the analytical liquid. In the initial state of the unmodified CMPC on the surface of the gold gate, the anions in the solution are arranged on the surface of Au, and the free electrons in the metal approach the direction of the active layer, so that the negative bias can be transmitted to the semiconductor channel. At this time, V0 can basically be effectively applied to the channel, the effective voltage VC = V0, the negative potential induces a certain concentration of holes in the channel, and the field effect device can work normally. It should be mentioned that after replacing the PBS solution with pure water, the normal output curve could not be obtained, which can confirm the above conclusion. Because pure water lacks a sufficient number of anions and cations, the negative potential V0 cannot be effectively transferred to the semiconductor layer, and thus cannot induce holes.
+
+When the Au gate is functionalized by CMPC, the cellulose chains are arranged to form a film, and the modified phenyl isocyanate side groups are stacked in an orderly manner by π-π and H-bonding interactions (Fig. S11). After the negative potential V0 is applied, the anions in the solution are arranged on the surface of the cellulose film, which induces the polarization of the CMPC film, and the π electrons of the cellulose chain delocalize in the direction of the active layer, inducing holes in the channel (Fig. S10b). However, due to the surface defects of the cellulose derivative film and the energy loss in the polarization process, the negative potential V0 cannot be effectively transferred to the channel through the π-electron delocalization process, resulting in a change in the effective voltage VC applied to the semiconductor layer, VC < V0. On the macroscopic level, it can be observed that the output current decreases after the functionalization of CMPC. After the addition of the analyte, the chiral molecules entered the nanocavities of the CMPC chains, changing their conformation and disrupting the order of the cellulose membrane. This results in a greater loss of negative potential V0 during transfer. At the same time, the different binding modes of the two natural chiral molecules with CMPC result in its distinct conformational changes. Therefore, enantiomers can have different current signal outputs in the EG-OFET platform.
+
+Conclusion
+In this work, a phenyl isocyanate group-modified cellulose derivative was successfully synthesized and used for the functionalization of epitaxial gate field effect transistors to achieve chiral recognition of three pairs of enantiomers with different structures. The results show that the constructed sensing platform has good chiral resolution ability, can achieve concentration-dependent responses to enantiomers of different structures, and has the potential to measure enantiomeric excess. Ultraviolet, circular dichroism, optical rotation, and 1H NMR results revealed subtle binding differences between CMPC and optical isomers. Based on the transduction mechanism of the cellulose material-functionalized EG-OFET platform, the weak steric interaction between molecules can be converted into a current-changing signal output. The constructed EG-OFET platform is a preliminary exploration of chiral isomer sensing.
+Construction of Cellulose-Based Highly Sensitive Extended-gate Field Effect Chiral Sensor
+Jing-Jing Zhang a, c, Si-Ying Wang a, Hai-Tao Dai b, *, Hai-Chao Li c, Yong Wang a, *
+a School of Science, Tianjin Key Laboratory of Molecular Optoelectronic Science, Department of Chemistry, Collaborative Innovation Center of Chemical Science and Engineering, Tianjin University, Tianjin 300072, China
+b School of Science, Tianjin Key Laboratory of Low Dimensional Materials Physics and Preparing Technology, Tianjin University, Tianjin 300072, China
+c School of Chemical Engineering and Technology, Key Laboratory of Applied Physical Chemistry of Qinghai Province, Qinghai Minzu University, Xining 810007, China
+*Correspondence to: htdai@tju.edu.cn (H T. Dai); wangyongtju@tju.edu.cn (Y. Wang).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fig. S1 Schematic illustration of CMPC synthesis process
+
+
+
+
+
+
+ 
+Fig. S2 The surface morphology of the extended-gate after spin-coating CMPC solution in ethyl acetate with different concentration
+Different concentrations of CMPC ethyl acetate solutions were prepared, and a spin-coating process was used to form chiral-sensitive units of cellulose derivative films on the surface of the gold gate. In order to achieve better sensing effect, the surface morphology of the sensitive film was investigated with an optical microscope to preliminarily evaluate the optimal spin coating concentration of CMPC. As shown in Fig. S2, because cellulose is a polysaccharide substance with a large molecular weight, it exhibits good film-forming properties under all concentration conditions. However, when the concentration of CMPC was high (20 mg/mL-25 mg/mL), the surface of the formed film was relatively rough, and a large number of black granular crystals were precipitated, which were discretely distributed on the surface of the CMPC film. When the concentration was lower than 1 mg/mL, the black particles were significantly reduced, and the particle size was also reduced. Under the condition of 0.125 mg/mL, the CMPC film was smooth and dense without any particle precipitation. Therefore, 0.125 mg/mL was determined as the optimal spin coating concentration.
+Fig. S3 The water contact angle measurements of extended electrodes (a) before and (b) after functionalized by CMPC; (c) The AFM characterization spectra of CMPC film
+
+Characterization of surface polarity of extended-gates by water contact angle measurement after CMPC sensitive films were prepared at a concentration of 0.125 mg/mL (Fig. S3). Before the functionalization of cellulose derivatives, the water contact angle of the gold gate surface was 62°, but after the modification of CMPC, the water contact angle increased to 87°, and the surface hydrophobicity was significantly increased. This is due to the fact that the cellulose derivatives have a large number of non-polar functional groups, which reduce the surface polarity of the gate. The CMPC sensitive film was studied by means of AFM characterization. The results are shown in Fig. S3. The surface of the CMPC film is relatively flat and smooth, with a roughness of 1.301 nm and a film thickness of 25 nm.
+
+
+
+
+
+
+
+ 
+Fig. S4 Schematic illustration of the EG-OFET architecture during the sensing process
+
+
+
+ 
+Fig. S5 Output characteristic curves and (b) transfer characteristic curves of the fabricated sensing platform before and after CMPC modification
+
+
+
+
+
+
+
+ 
+Fig. S6 IR characterization spectra of CMPC
+
+
+
+
+
+
+
+
+
+
+
+ 
+Fig. S7 1H NMR characterization spectra of CMPC
+Nuclear magnetic characterization of CMPC 1H NMR (400 MHz, acetone-d6) δ: 8.2-10.6 (3H), 6.5-7.8 (12H), 3.2-5.3 (7H), 1.7-2.7 (9H).
+According to the nuclear magnetic spectrum of CMPC to calculate the degree of substitution of CMPC, the formula used is:
+
+DS=I_phenyl/(nI_AGU )                           （1）
+where I phenyl is the peak integral of phenyl protons; IAGU is the peak integral of anhydro glucose unit protons; n is the number of protons of phenyl isocyanate on the benzene ring. After calculation, the substitution degree DS of the synthesized CMPC is 2.9, and the hydroxyl groups of the cellulose chain are basically replaced by 4-methylphenylcarbamoyl groups.
+
+
+
+
+
+
+
+
+
+
+
+ 
+Fig.S8 SEM with different magnifications a) and b) CMPC；c) and d) cellulose
+
+
+
+
+
+
+ 
+Fig.S9 The current responses of the EG-OFET without CMPC modification upon detecting enantiomers in 1% PBS solution
+
+ 
+Fig. S10 Schematic illustration of transduction mechanism of the EG-OFET
+ 
+Fig. S11 XRD patterns of CMPC and DPEA
+

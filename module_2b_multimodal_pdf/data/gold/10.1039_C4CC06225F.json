@@ -1,0 +1,296 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1039/C4CC06225F",
+  "paper_metadata": {
+    "title": "A fluorescent organic cage for picric acid detection",
+    "authors": ["Koushik Acharyya", "Partha Sarathi Mukherjee"],
+    "journal": "Chemical Communications",
+    "year": 2014,
+    "volume": "50",
+    "pages": "15788-15791"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R1",
+      "name": "Cage 4 (reduced [3+2] organic cage from 4,4'-diformyltriphenylamine and 1,3,5-tris(aminomethyl)-2,4,6-trimethylbenzene)",
+      "structure_notes": "Nanoscopic [3+2] self-assembled organic cage synthesized via Schiff base condensation followed by NaBH4 reduction of imine bonds. Contains two 1,3,5-tris(aminomethyl)-2,4,6-trimethylbenzene caps connected by three 4,4'-diformyltriphenylamine struts, with secondary amine (CH2-NH-CH2) linkages after reduction. Empirical formula C84H87N9, MW 1222.63. X-ray crystal structure (CCDC 1018380) confirms cage geometry.",
+      "smiles_or_structure_available": true,
+      "smiles": "Cc1c2c(C)c3c(C)c1CNCc1ccc(cc1)N(c1ccccc1)c1ccc(cc1)CNCc1c(C)c(c(C)c(c1C)CNCc1ccc(cc1)N(c1ccccc1)c1ccc(cc1)CNC3)CNCc1ccc(cc1)N(c1ccccc1)c1ccc(cc1)CNC2",
+      "charge_class": "neutral"
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "A_PA",
+      "name": "picric acid (2,4,6-trinitrophenol, TNP)",
+      "smiles_or_structure": "Oc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_24DNP",
+      "name": "2,4-dinitrophenol",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_4NP",
+      "name": "4-nitrophenol",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_4NT",
+      "name": "4-nitrotoluene",
+      "smiles_or_structure": "Cc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_34DNT",
+      "name": "3,4-dinitrotoluene",
+      "smiles_or_structure": "Cc1ccc([N+](=O)[O-])c(c1)[N+](=O)[O-]",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_4NBA",
+      "name": "4-nitrobenzoic acid",
+      "smiles_or_structure": "OC(=O)c1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_24DNT",
+      "name": "2,4-dinitrotoluene",
+      "smiles_or_structure": "Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_TNT",
+      "name": "2,4,6-trinitrotoluene",
+      "smiles_or_structure": "Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_13DNB",
+      "name": "1,3-dinitrobenzene",
+      "smiles_or_structure": "[O-][N+](=O)c1cccc([N+](=O)[O-])c1",
+      "charge_class": "neutral"
+    },
+    {
+      "analyte_id": "A_NB",
+      "name": "nitrobenzene",
+      "smiles_or_structure": "[O-][N+](=O)c1ccccc1",
+      "charge_class": "neutral"
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C1",
+      "solvent": "dichloromethane (DCM)",
+      "temperature": "ambient (room temperature)",
+      "method": "fluorescence quenching, lambda_ex = 305 nm (304 nm in SI), emission 340-550 nm; cage 4 at 1x10^-5 M, 2 mL; analyte added as 2 eq. (40 uL of 1x10^-3 M); eta = (I0-I)/I0 x 100%",
+      "notes": "Selectivity panel in Fig. 3 of main text and Figs. S18-S27 of SI compares quenching efficiency at 2 eq. of each nitroaromatic. Quenching constant K (PA) = 2.2x10^5 M^-1 from non-linear fit. PA quenches ~96% at 2 eq; other NACs are reported as negligible."
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "L1",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_24DNP",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (2,4-DNP, 2 eq.) per Fig. 3 bar chart; small intensity decrease in Fig. S19",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S19 (SI)",
+        "quote": "Only 2 eq. of PA reduced the initial fluorescence intensity of cage 4 by ~96%. By contrast, the other nitroaromatics exhibited negligible effects on the fluorescence intensity of cage 4 (Fig. 3)."
+      },
+      "notes": "DNP is the most discriminating interferent emphasized by the paper as a difficult selectivity case for PA sensors."
+    },
+    {
+      "label_id": "L2",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_4NP",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (4-NP, 2 eq.) per Fig. 3; minor intensity decrease in Fig. S20",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S20 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency...the other nitroaromatics exhibited negligible effects"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L3",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_4NT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (4-NT, 2 eq.) per Fig. 3; minor decrease in Fig. S21",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S21 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L4",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_34DNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (3,4-DNT, 2 eq.) per Fig. 3; minor decrease in Fig. S22",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S22 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L5",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_4NBA",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (4-NBA, 2 eq.) per Fig. 3; minor decrease in Fig. S24",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S24 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L6",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_24DNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (2,4-DNT, 2 eq.) per Fig. 3; minor decrease in Fig. S23",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S23 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L7",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_TNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (TNT, 2 eq.) per Fig. 3; minor decrease in Fig. S25",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S25 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": "Notable PA-over-TNT selectivity, despite TNT being electron-poorer in terms of nitro count balance."
+    },
+    {
+      "label_id": "L8",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_13DNB",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (1,3-DNB, 2 eq.) per Fig. 3; ~no change in Fig. S26",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S26 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L9",
+      "receptor_id": "R1",
+      "target_id": "A_PA",
+      "interferent_id": "A_NB",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_percent_at_2eq",
+      "target_value": "~96% (PA, 2 eq.)",
+      "interferent_value": "negligible (NB, 2 eq.) per Fig. 3; essentially no change in Fig. S27",
+      "normalized_direction": "higher_is_stronger_binding",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": "15789",
+        "figure_or_table": "Fig. 3 (main text); Fig. S27 (SI)",
+        "quote": "only PA exhibited a substantial quenching efficiency"
+      },
+      "notes": ""
+    }
+  ],
+  "rapids_results": []
+}

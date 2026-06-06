@@ -1,0 +1,326 @@
+Highly Sensitive and Selective Biosensors Based on Organic Transistors Functionalized with Cucurbit[6]uril Derivatives
+Moonjeong Jang, Hyoeun Kim, Sunri Lee, Hyun Woo Kim, Jayshree K. Khedkar, Young Min Rhee, Ilha Hwang, Kimoon Kim, Joon Hak Oh
+First published: 19 June 2015 https://doi.org/10.1002/adfm.201501587Citations: 68
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+Biosensors based on a field-effect transistor platform allow continuous monitoring of biologically active species with high sensitivity due to the amplification capability of detected signals. To date, a large number of sensors for biogenic substances have used high-cost enzyme immobilization methods. Here, highly sensitive organic field-effect transistor (OFET)-based sensors functionalized with synthetic receptors are reported that can selectively detect acetylcholine (ACh+), a critical ion related to the delivery of neural stimulation. A cucurbit[6]uril (CB[6]) derivative, perallyloxyCB[6] ((allyloxy)12CB[6], AOCB[6]), which is soluble in methanol but insoluble in water, has been solution-deposited as a selective sensing layer onto a water-stable p-channel semiconductor, 5,5′-bis-(7-dodecyl-9H-fluoren-2-yl)-2,2′-bithiophene layer. The OFET-based sensors exhibit a detection limit down to 1 × 10–12 m of ACh+, which is six orders of magnitude lower than that of ion-selective electrode-based sensors. Moreover, these OFET-based sensors show highly selective discrimination of ACh+ over choline (Ch+). The findings demonstrate a viable method for the fabrication of OFET-based biosensors with high sensitivity and selectivity, and allow for practical applications of OFETs as high-performance sensors for biogenic substances.
+
+1 Introduction
+Sensors based on organic field-effect transistor (OFET) platforms show great promise for use in chemical and biological sensors, as they have many advantages including high sensitivity, ultra-low cost, simple fabrication, and flexible applications.1 In particular, OFET-type sensors can amplify electrical signals obtained from binding events with analytes by tuning the applied gate voltage, leading to higher sensitivity compared to conventional sensors with two electrodes.2 OFET-based sensors have been applied in various fields, such as environmental monitoring,3 drug delivery,4 food safety tests,5 and homeland security.6 One of our research groups has recently reported highly sensitive chemical sensors using highly crystalline pentacene layers with macroporous structures, which are helpful for the diffusion of analytes into the channel region.7 However, pristine OFET-based sensors without additional functionalization often exhibit low selectivity for target analytes because all elements, including analytes and impurities that typically diffuse into the channel region through grain boundaries, can contribute to changes in the detected signal. Therefore, highly selective detection with OFET-based sensors requires chemical modification or immobilization of specific receptors to capture target analytes on a device surface.8
+
+In particular, sensors for biogenic substances have received great interest for use in early diagnosis and consultation, and thereby for treating a disease during the initial stages. Acetylcholine (ACh+) is a prominent neurotransmitter in the human central nervous system, and choline (Ch+) is an important constituent of ACh+. They are involved in various functions such as learning, memory, and muscle contraction.9 More importantly, a deficiency in ACh+ is associated with Alzheimer's disease, which is considered the most common neurodegenerative disease in the elderly. Therefore, the detection of ACh+ concentration is of great importance for perceiving pathological conditions. Many amperometric sensors for the detection of ACh+ have utilized enzyme immobilization by acetylcholine esterase (AChE) for enhanced selectivity of metabolic processes.[9],10 The detection limits of these methods are typically in the range of μm to nm. Among them, ACh+ sensors based on carbon nanotube FETs have shown outstanding performance with the detection limit of sub-nm (100 × 10−12 m) due to their current-amplifying characteristics.[10] Despite their high sensitivity, these systems still require enzyme immobilization and have shortcomings such as high cost, lack of long-term stability, and complicated fabrication processes.
+
+Recently, synthetic receptor-functionalized ion-selective electrodes (ISEs) have been reported as a reliable alternative to classical methods employing enzyme immobilization for making low-cost and high-performance electronic ACh+ sensors.11 However, the two-electrode-system ISE sensors exhibit detection limits in the μM range for ACh+, which is not sufficient for early-stage disease diagnosis. To date, there has been no report concerning synthetic receptor-functionalized FET-type sensors for the sensitive and selective detection of ACh+ without any enzymatic reactions.
+
+Here, we demonstrate highly sensitive and selective OFET-based ACh+ sensors that function in the absence of AChE. A water-stable p-channel semiconductor, 5,5′-bis-(7-dodecyl-9H-fluoren-2-yl)-2,2′-bithiophene (DDFTTF) layer, was chosen as the active layer due to its relatively high mobility and operational stability in water.12 In addition, a cucurbit[6]uril (CB[6]) derivative, perallyloxyCB[6] ((allyloxy)12CB[6], AOCB[6]), was utilized as the receptor molecule to functionalize the semiconductor film.13 CB[6] has a carbonyl group-fringed hydrophobic cavity (≈5.5 Å diameter) which can encapsulate small organic molecules and ions.14 Particularly, AOCB[6] shows high affinity and selectivity toward ACh+,[11] and it is freely soluble in alcohol, but insoluble in water. Therefore, the AOCB[6] layer can easily be deposited using the spin coating method with an alcoholic solution of AOCB[6] on top of the DDFTTF semiconducting layer, and the deposited film acts as a stable and selective sensing layer for ACh+ in the aqueous phase. Compared to previous highly sensitive ion-selective biosensors, our OFET-based sensors show remarkably enhanced sensitivity with the much lower detection limit, down to 1 × 10−12 m of ACh+, which is six orders of magnitude lower than that of ISE-based sensors. Moreover, these OFET-based sensors show highly selective discrimination of ACh+ over Ch+. Our findings demonstrate the high effectiveness of a synthetic receptor-­functionalized OFET platform for ACh+ sensing. In addition, the developed OFET-based sensing platform provides a low-cost, simple, and viable approach for the fabrication of highly sensitive and selective water-stable OFET-based sensors for biogenic substances.
+
+2 Results and Discussion
+2.1 Device Fabrication and Characterization
+OFET-based sensors with AOCB[6] were prepared with bottom-gate top-contact configuration. The DDFTTF thin film (≈15 nm thickness) was thermally evaporated onto n-octadecyltrimethoxysilane (OTS)-treated SiO2/Si substrates at an optimal ­substrate temperature of 105 °C. Source and drain electrodes (≈40 nm thickness) were formed by evaporating gold through a shadow mask. In addition, the source and drain electrodes in the channel area were covered with a SiO passivation layer (≈20 nm thickness). The SiO layer acts as an electrical insulator and chemical barrier to prevent the source–drain electrodes from peeling off during the OFET sensor operation in liquid solutions.[8],12,15 An AOCB[6] solution (≈5 mg mL−1) in methanol was spin-coated to form a stable and homogeneous receptor layer on the semiconductor film for selective analyte adsorption. Further details on the fabrication of OFET-based sensors are described in the Experimental Section. The corresponding device structure and AOCB[6] are shown in Figure 1a,b, respectively. The electrical characteristics of OFETs with and without AOCB[6] were measured in the saturation regime as shown in Figure 2. The DDFTTF OFETs without AOCB[6] had an average field-effect mobility (μFET) of 0.053 cm2 V−1 s−1, with an on/off current ratio (Ion/Ioff) of more than 106. After functionalization with the AOCB[6] layer, the DDFTTF OFETs showed an average μFET of 0.028 cm2 V−1 s−1 and Ion/Ioff larger than 105. The electrical performances of DDFTTF OFETs fabricated with and without AOCB[6] are summarized in Table 1. The mobility degradation after functionalization with AOCB[6] may arise from the electron-donating effect of AOCB[6] molecules that decreases the density of holes (charge carriers of p-channel devices), as well as from the trapped impurities generated during solution processing.16 The off-current increased by one order of magnitude most likely due to the effect of doping by oxygen, leading to the decreased Ion/Ioff under ambient conditions.17 The threshold voltage (VTH) was changed from −26.3 to −5.6 V, indicative of the easier turn-on after functionalization with AOCB[6]. Despite the minor degradation in the charge carrier mobility of the OFET devices, they showed ample device performance for sensing analytes in the aqueous phase (vide infra).
+
+Table 1. Summary of OFET performance obtained from DDFTTF thin films with and without AOCB[6] layers
+Functionalization	μmaxb) [cm2 V−1 s−1]	μavgc) [cm2 V−1 s−1]	Ion/Ioff	VTH [V]
+N/Fa)	0.076	0.053 ( ± 0.038)d)	>106	−26.3
+AOCB[6]	0.042	0.028 ( ± 0.029)	>105	−5.6
+a)The surface of DDFTTF thin films was not functionalized with AOCB[6];
+b)The maximum and
+c)the average mobility measured from more than 10 OFET devices (L = 50 μm and W = 9000 μm);
+d)The standard deviation.
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a) Schematic illustration of the top-contact OFET-based sensors with a synthetic receptor, AOCB[6], and b) the molecular structure of AOCB[6]. In the device structure, only monolayer of AOCB[6] is shown for clarity.
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Current–voltage (I−V) characteristics of DDFTTF OFETs with and without AOCB[6]. a) Transfer characteristics for DDFTTF OFETs in p-channel operation mode and a source–drain electrode geometry of W/L = 180. b) Output characteristics for DDFTTF OFETs with AOCB[6].
+2.2 Thin-Film Microstructure Analysis
+We investigated the morphological characteristics of organic thin films using atomic force microscopy (AFM) analysis (see Figure S1, Supporting Information). The DDFTTF thin films showed various grain sizes and distinct grain boundaries with a relatively large surface roughness (a root-mean-square (RMS) roughness of 7.5 nm) (Figure S1a,b, Supporting Information). The thin films became smoother with a RMS roughness of 1.8 nm after thermal annealing at 150 °C (Figure S1c,d, Supporting Information). The AOCB[6] layer spin-coated on DDFTTF film was annealed at 150 °C in a nitrogen atmosphere to remove the residual solvent. The thermogravimetric analysis (TGA) of AOCB[6] revealed that it was stable up to ≈310 °C. The AOCB[6] layer covered the DDFTTF device uniformly and completely with a RMS roughness of 2.5 nm (Figure S1e,f, Supporting Information), and the cross-sectional AFM analysis revealed that the thickness of the AOCB[6] layer was 17.0 nm. As the height and diameter of AOCB[6] was about 0.9 and 2.2 nm, respectively, it is considered that approximately 10 or more layers of AOCB[6] were deposited with a high density on the semiconductor film.
+
+2.3 Sensitivity and Selectivity of OFET-Based Sensors
+In OFET-based sensors, chemical or physical adsorption of target analytes leads to a change in the channel current, which depends on the analyte composition, concentration, and OFET operating conditions.[8],18 In addition, the OFET-based sensors have excellent current-amplifying properties induced by an external gate field. A sensing platform was prepared by placing a polydimethylsiloxane (PDMS) mold reservoir onto the OFET sensor device, and sensing experiments were performed under ambient conditions. Prior to detecting the analytes, a baseline current was estimated with deionized (DI) water. The DDFTTF OFET-based sensors exhibited minimal sensing signals upon continuous exposure to DI water, as shown in Figure 3a. After stabilizing the drain current, solutions (≈15 μL) containing analytes were injected into the PDMS reservoir. The sensitivity of sensors was calculated by dividing the measured data by the baseline current.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+a) Real-time responses of DDFTTF OFET-based sensors with AOCB[6] toward various concentrations (from 1 × 10−12 m to 100 × 10−3 m) of ACh+ and Ch+, and pure DI water under typical operation conditions (VDS = −2 V and VGS = −60 V). b) Statistical comparisons of the sensing results for ACh+ and Ch+ (S indicates ID/ID-BASE).
+Figure 3a shows the liquid-phase sensing behaviors of DDFTTF OFET-based sensors functionalized with AOCB[6] toward ACh+ and Ch+. The sensors showed positive sensing behaviors, in which the drain current was enhanced after injection of the analytes. Surprisingly, the detection limit (1 × 10−12 m) of the DDFTTF sensors with AOCB[6] toward ACh+ was six orders of magnitude lower than that (≈μm) of ISE-based sensors[11] and two orders of magnitude lower than that (100 × 10−12 m) of AChE-based biosensors,[10] respectively. We also monitored changes in the drain current of the sensors with and without the AOCB[6] layer, while the devices were exposed to 1 × 10−12 m of ACh+ (Figure S2, Supporting Information). The sensors with AOCB[6] showed much higher sensitivity for ACh+ compared to the sensors without AOCB[6]. The OFET-based sensors without AOCB[6] exhibited low sensitivity because the grain boundary defects in organic semiconductors could solely provide pathways for the diffusion of analytes into the channel region. These results indicate that introduction of the AOCB[6] layer significantly improves the sensitivity of the sensors through selective binding of ACh+ on the device surface.
+
+In addition, responses of the sensors with AOCB[6] toward sodium ion (Na+), which is also known as interfering ­species for the detection of ACh+, were monitored (Figure S3a, ­Supporting Information). Interestingly, the sensing signals of Ch+ and Na+ were very different from ACh+. For Ch+, almost no signals were detected at concentrations lower than μM. Moreover, no signals were detected for Na+ at μM concentrations. Figure 3b shows the statistical comparison of the sensing data for the concentration of ACh+ and Ch+. The change in the drain current for ACh+ was observed at a wide concentration range (from 1 × 10−12 m to 100 × 10−3 m), whereas the sensors for Ch+ and Na+ (Figure S3b, Supporting Information) exhibited no detectable signals at concentrations lower than 1 × 10−6 m. These results support the excellence of our sensor devices for the selective and sensitive detection of ACh+. Such superior sensing ability of our sensor devices originates from the commendable combination of highly selective synthetic receptors and highly sensitive OFET devices. We also monitored sensing signals of ACh+ by using a baseline buffer solution, instead of DI water (Figure S4, Supporting Information). For the sensing test, acetylcholine chloride solutions were prepared in a phosphate-buffered saline (PBS) solution (pH 7.4, 0.01 m) ­containing sodium chloride (137 × 10−3 m) and potassium chloride (2.7 × 10−3 m). This sensing condition was close to the normal physiological conditions found in blood. The AOCB[6]-functionalized OFET ­sensors could also detect ACh+ with the ­detection limit down to 1 × 10−12 m in the PBS solution, although they exhibited relatively lower sensitivity compared with that in DI water due to the interfering effects of cations.
+
+To understand the superior selective sensing nature of our sensor devices, we performed density functional theory (DFT) calculations of AOCB[6] with these three analytes. In these calculations, CB[6] was used as a host material because the guest binding nature of AOCB[6] is essentially the same as CB[6]. Note that the allyloxy group is only introduced for solvent orthogonality. DFT optimized structures of ACh+ and Ch+ interacting with the CB[6] host are shown in Figure 4. In the energy-minimized configuration, ACh+ is parallel to the cavity axis and the acetyloxy end group was penetrated inside the cavity with its methyl group interacting with one of the carbonyl portals. The positively charged trimethylammonium group was located over the opposite carbonyl portal. Thus, complexation between CB[6] and ACh+ showed a strong binding energy of −86.5 kcal mol−1, which is attributed to the strong charge–dipole interactions and hydrogen bonding between CB[6] and ACh+. When AOCB[6] forms a complex with ACh+, the carbonyl group of AOCB[6] would partially donate electrons to the positively charged ammonium group of ACh+, and these charge–dipole interactions tend to increase the electron-withdrawing characteristics into the channel region, thereby leading to an increase in the hole current of the p-channel OFET sensor devices. For complexation between CB[6] and Ch+, the ammonium group of Ch+ weakly interacts with the portal of the host and the hydroxyethyl group of Ch+ does not enter the host cavity. Thus, AOCB[6] forms a weak host-guest complex with Ch+, which showed a lower binding energy of −69.5 kcal mol−1 than that of CB[6]-ACh+. The calculated structures were well matched with the 1H-NMR spectra of each complex.11 In 1H-NMR, protons of trimethylammonium groups of ACh+ show small downfield shifts and protons of the acetyl group show large upfield shifts upon complexation with AOCB[6], which indicate the formation of strong host–guest complexes as shown in Figure 4a. However, all protons of Ch+ show very small downfield shifts upon addition of AOCB[6], which indicates that the ammonium group of Ch+ interacts weakly with the portals of the host and the hydroxyethyl of the molecule exists outside the cavity, as shown in Figure 4b. For complexation between CB[6] and Na+, Na+ interacts weakly at the portal of the host (Figure S5, Supporting Information).
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+DFT optimized structures of the complexes between CB[6] and analytes: a) CB[6]-ACh+ and b) CB[6]-Ch+. Hydrogens of CB[6] are omitted for clarity.
+Since DDFTTF OFET-based sensors are p-channel devices, complexation of the host molecule with cationic guest mole­cules would increase the signals by increasing the hole carrier density in the channel region owing to the overall electron-withdrawing characteristics toward the active layer. Because all three analytes have the same +1 charge, we assume that the differences between sensing behaviors of guest molecules should be related to their binding constants to the host molecule. In addition to this, the partial charge change differences of the host molecule upon complexation with each guest molecule would also affect the differences in the sensing signals. Therefore, we calculated the partial charge changes in the host molecule upon complexation with each guest molecule (Figure S6, Supporting Information). As in the case of sensing signals, complexation with ACh+ shows the largest charge changes on CB[6] (0.063 ± 0.008), Na+ shows the smallest charge changes (0.020 ± 0.005), and Ch+ shows moderate changes (0.052 ± 0.009). Considering the sensing results of each molecule, the difference in charge changes between ACh+ and Ch+ should be larger than the value shown in Figure S6, Supporting Information. The reason for the difference between calculated and experimental results may originate from the differences in binding probabilities (i.e., binding constant) of each guest molecule to the host molecule on the device surface. In contrast to ACh+, which strongly binds to the host, Ch+ has a very weak interaction with the host. These large differences in the binding probability and accumulation of each binding event on the device surface may cause such a large difference in the sensing signals.
+
+For ACh+ sensors, a significant analytical challenge is the detection of ACh+ with high sensitivity and selectivity in the presence of Ch+. Thus, the signal intensities of the sensors for analyte blend systems were investigated using a mixture solution of two analytes (Figure 5). Mixed solutions containing 1 × 10–6 m ACh+ and Ch+ analytes were prepared with various volume ratios (1:1, 2:1, and 3:1) of ACh+ relative to Ch+. The sensors with AOCB[6] showed enhanced signal intensities with an increasing volume ratio of ACh+ in the mixed solutions, indicative of the high selectivity toward ACh+ compared to Ch+. This was due to the relatively higher binding affinity of AOCB[6] toward ACh+ compared to Ch+.
+
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Signal changes of the sensors with AOCB[6] for the mixing systems of analytes containing both ACh+ and Ch+ at VDS = −2 V and VGS = −60 V. The lower line indicates the rate of the signal change.
+In addition to amplification of the detected signals, OFET-based sensors are suitable for applications in low-cost and flexible electronics. To explore the possibility of using a flexible sensor platform, our sensors were also fabricated with indium tin oxide (ITO)-coated polyethylene naphthalate (PEN) as the polymer substrate and aluminum oxide (Al2O3) as the transparent dielectric (Figure 6a). A 100 nm thick Al2O3 gate dielectric layer was deposited on the PEN substrate via a radio frequency (RF) magnetron sputtering technique, and a photograph of the resulting flexible sensor is shown in Figure 6b. The transfer and output characteristics of the DDFTTF OFET-based sensor with AOCB[6] are shown in Figure S7a,b, Supporting Information. The results of the sensing experiments for ACh+ exhibited performances similar to SiO2 dielectric-based sensors. The flexible sensors could also detect ACh+ with a detection limit of 1 × 10−12 m under low-voltage operation conditions (VDS = −0.5 V and VGS = −10 V) (Figure 6c). These results describe the first demonstration of ACh+ sensing without any enzymatic reactions using synthetic receptor-functionalized flexible FET-type sensors. In addition, our findings expand the range of practical applications of OFET-based sensors.
+
+Details are in the caption following the image
+Figure 6
+Open in figure viewer
+PowerPoint
+a) Schematic illustration of flexible DDFTTF OFET-based sensors with AOCB[6]. b) Photograph of a flexible sensor prepared with an Al2O3 gate dielectric on an ITO-coated PEN substrate. c) Real-time responses of the sensors with AOCB[6] toward 1 × 10−12 m ACh+ under a low-voltage operation condition.
+3 Conclusion
+We demonstrated highly sensitive OFET-based sensors that can selectively detect a neurotransmitter in the human central nervous system, ACh+, without enzyme immobilization processes. AOCB[6], a synthetic receptor molecule with selective recognition sites for ACh+, could effectively be functionalized on top of the water-stable organic semiconductor DDFTTF layer due to solvent orthogonality. All OFET-based sensors prepared on a rigid Si wafer and a flexible plastic substrate showed a detection limit for ACh+ down to 1 × 10−12 m, which was six orders of magnitude lower than the detection limit (≈μm) of ISE-based sensors and two orders of magnitude lower than that (100 × 10−12 m) of AChE-based biosensors, respectively. Furthermore, the sensors could detect ACh+ with high sensitivity and selectivity even in the presence of Ch+, due to the higher binding affinity of AOCB[6] toward ACh+ compared to Ch+. These results describe the first demonstration of ACh+ sensing without any enzymatic reactions using a synthetic receptor-functionalized OFET-platform. This work also describes a low-cost, simple, and viable methodology for the fabrication of highly sensitive and selective water-stable OFET-based sensors for biogenic substances, and opens up the possibilities of replacing current enzyme-based biosensors.
+
+4 Experimental Section
+Fabrication of DDFTTF-Based OFET Sensors: Heavily n-doped Si wafers (<0.004 Ω cm) with a thermally grown 300 nm-thick oxide layer (SiO2, Cg = 10 nF cm−2) were cleaned with Piranha (H2SO4 and H2O2 with volume ratio of 7:3) solution. The SiO2/Si substrates were sequentially modified by UV-ozone treatment. The SiO2 surface was treated with OTS as self-assembled monolayer. The OTS solution (3 × 10−3 m) prepared in trichloroethylene was spin-coated onto the wafers at 3000 rpm for 30 s, and then the wafers were placed overnight in a vacuum desiccator with ammonia vapor. The wafers were sequentially washed with toluene, acetone, and isopropyl alcohol, followed by drying under the gentle flow of nitrogen gas. The contact angle of DI water on the OTS-treated wafer was approximately 110°. The DDFTTF films (≈15 nm thickness) were deposited by thermal evaporation at a rate of 0.1–0.2 Å s−1 under a base pressure of 5.0 × 10−6 Torr. During the evaporation, the optimal substrate temperature for DDFTTF deposition was 105 °C. The films were annealed at 150 °C for 30 min in a nitrogen atmosphere. The top-contact bottom-gate devices were completed by depositing gold layer (≈40 nm thickness) through a shadow mask with a channel width (W) and a channel length (L) of 9000 and 50 μm, respectively. A silicon monoxide (SiO, ≈20 nm thickness) layer was thermally deposited onto the electrodes except for the gold contacts. The SiO layer was used as a passivation layer for the liquid-phase sensing. Then, the solution-processable AOCB[6] (≈5 mg mL−1 in methanol) was spin-coated onto the underlying film at 5000 rpm for 30 s. The films were dried in a vacuum oven at 60 °C for ≈12 h and annealed at 150 °C for 30 min to remove the residual solvent.
+
+Sensing Tests and Characterizations: For the sensing test, DDFTTF OFET-based sensors were exposed to solutions containing three analytes (acetylcholine chloride, choline chloride, and sodium chloride) in DI water or PBS buffer. The electrical performance and sensing tests of OFETs were measured using a Keithley 4200 semiconductor parametric analyzer. The field-effect mobility (μFET) was calculated in the saturated regime with the following equation
+urn:x-wiley:dummy:media:adfm201501587:adfm201501587-math-0001
+(1)
+where ID is the drain current, Cg is the capacitance per unit area of the gate dielectric layer, and VGS and VTH are the gate voltage and threshold voltage, respectively.
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2015.
+Supporting Information
+for Adv. Funct. Mater., DOI: 10.1002/adfm.201501587
+Highly Sensitive and Selective Biosensors Based on Organic
+Transistors Functionalized with Cucurbit[6]uril Derivatives
+Moonjeong Jang, Hyoeun Kim, Sunri Lee, Hyun Woo Kim,
+Jayshree K. Khedkar, Young Min Rhee, Ilha Hwang,* Kimoon
+Kim,* and Joon Hak Oh*
+S1
+Supplementary Information for:
+Highly Sensitive and Selective Biosensors Based on Organic Transistors Functionalized
+with Cucurbit[6]uril Derivatives
+Moonjeong Jang, Hyoeun Kim, Sunri Lee, Hyun Woo Kim, Jayshree K. Khedkar, Young Min
+Rhee, Ilha Hwang,
+* Kimoon Kim,*
+and Joon Hak Oh*
+M. Jang, H. Kim, Prof. J. H. Oh
+Department of Chemical Engineering, Pohang University of Science and Technology
+(POSTECH), Pohang, Gyeongbuk 790-784, South Korea
+E-mail: joonhoh@postech.ac.kr
+M. Jang
+School of Energy and Chemical Engineering, Ulsan National Institute of Science and Technology
+(UNIST), Ulsan 689-798, South Korea
+S. Lee, Prof. K. Kim
+Division of Advanced Materials Science, Pohang University of Science and Technology
+(POSTECH), Pohang, Gyeongbuk 790-784, South Korea
+Dr. H. W. Kim, Dr. J. K. Khedkar, Prof. Y. M. Rhee, Dr. I. Hwang, Prof. K. Kim
+Center for Self-assembly and Complexity, Institute for Basic Science (IBS), Pohang,
+Gyeongbuk 790-784, South Korea
+E-mail: ihwang1@ibs.re.kr, kkim@postech.ac.kr
+Prof. Y. M. Rhee, Prof. K. Kim
+Department of Chemistry, Pohang University of Science and Technology (POSTECH), Pohang,
+Gyeongbuk 790-784, South Korea
+Table of Contents Page number
+• Materials and methods S2
+• AFM analysis of DDFTTF with and without AOCB[6] S4
+• Comparison of responses of the sensors with and without AOCB[6] toward ACh+
+S5
+• Sensing responses of OFET-based sensor with AOCB[6] toward Na+
+S6
+• Real-time responses of the sensors with AOCB[6] toward ACh+
+under PBS conditions S7
+• DFT optimized structures of CB[6]-Na+
+S8
+• Charge changes on CB[6] after complexation with three guest molecules S9
+• Flexible OFET-based sensor with AOCB[6] S10
+• References S11
+S2
+Materials: Acetylcholine chloride, and choline chloride were used as received from Aldrich.
+DDFTTF was obtained from Lumtech (Taiwan). AOCB[6] was prepared according to he
+synthetic procedure reported in the literature.
+[S1]
+AFM characterization: AFM images were recorded with Agilent 5500 scanning probe
+microscope (SPM) running with a Nanoscope V controller. The film morphologies were
+characterized by high-resolution tapping mode under ambient conditions.
+Density Functional Theory (DFT) Calculations: Since the guest binding of AOCB[6] is
+essentially the same as CB[6], we did the following calculations with CB[6]. To delineate the
+features of acetylcholine (ACh+
+), choline (Ch+
+) and Na+
+bound CB[6], we derived the gas phase
+structures of their 1:1 complexes in the regime of density functional theory (DFT). Hybrid meta
+exchange-correlation functional M06-2X, a member from family of Minnesota functional[S2] was
+employed incorporating the 6-31G(d) basis set using Q-Chem software package.[S3] All molecular
+structures in this work were built using the program Avogadro.[S4]
+The binding energy ΔEbind was
+obtained by subtracting the sum of the electronic energies of the unbound CB[6] and ACh+
+, Ch+
+,
+Na+
+from that of their corresponding complexes.
+Molecular Dynamics (MD) Simulations and Natural Population Analysis (NPA): We
+parameterized atomic partial charges with the RESP approach[S5]
+and adopted other parameters
+from the GAFF force field[S6]
+for three guest molecules and CB[6]. In all cases, we solvated the
+complex of CB[6] and a guest molecule with TIP3P water[S7]
+in a cubic box with each side of 35
+Å, and a chloride ion is added to neutralize the system. For each complex, we conducted an
+equilibrium MD simulation for 3.5 ns after carrying out the energy minimization on initial
+structures. We propagated a MD trajectory for 1 ns for each given complex. The integration time
+step was 1 fs with constraints on hydrogen atoms with the LINCS algorithm.[S8]
+Temperature was
+maintained at 300 K with the velocity rescaling thermostat proposed by Bussi et al.[S9]
+and
+S3
+pressure was controlled to 1 atm with the Berendsen’s weak coupling scheme.[S10] Non-covalent
+interactions in the range of 1012 Å were gradually modified to zero at 12 Å. We sampled 500
+structures from MD trajectories with 2 ps interval, and subsequently performed the natural
+population analysis (NPA)[S11]
+on these sampled structures at M06-2X/6-31G(d) level with QChem software package.[S3]
+Specifically, we computed natural populations of CB[6] and guest
+molecules by treating water molecules and a chloride ion as point charges. The GROMACS
+software package[S12] was used to carry out all MD simulations.
+S4
+Figure S1. AFM images of OTS-modified SiO2/Si substrates with a scan size of 2 µm  2 µm;
+(a), (c) Height and (b), (d) phase images of DDFTTF film before and after thermal annealing at
+150 C for 30 min in nitrogen conditions. (e) Height, (f) phase images of AOCB[6]/DDFTTF
+film after annealing at 150 C for 30 min under nitrogen conditions.
+50 nm
+(a)
+50 nm
+(c)
+30 nm
+(e)
+(b)
+(d)
+(f)
+RMS = 7.5 nm
+500 nm 500 nm
+500 nm
+500 nm
+500 nm
+500 nm
+RMS = 1.8 nm
+RMS = 2.5 nm
+S5
+Figure S2. Comparison of responses of the DDFTTF OFET-based sensors with and without
+AOCB[6] toward 1 pM of ACh+
+at VDS = 2 V and VGS = 60 V.
+10 15 20 25 30 35 40 45 50
+100
+101 Normalized current
+Time (sec)
+DI water
+1 pM ACh+ sensing
+With AOCB[6]
+Without AOCB[6]
+S6
+Figure S3. (a) Real-time responses of DDFTTF OFET-based sensors with AOCB[6] toward
+various Na+
+concentrations (1 µM  100 mM) at VDS = 2 V and VGS = 60 V. (b) Statistical
+results for sensing Na+
+(S indicates ID/ID-BASE).
+(b)
+1 mM
+100 mM
+1 µM
+10-6 10-5 10-4 10-3 10-2 10-1 100 100
+101
+102 S Concentration (M) 0 20 40 60 80 100 120
+10-1
+100
+101
+Time (sec) Normalized current
+-5
+0
+5
+10 d(ID
+/ID-BASE
+)/dt (s-1)
+(a)
+Na+ sensing
+S7
+Figure S4. Real-time responses of the sensors with AOCB[6] toward pristine PBS and various
+concentrations (1 pM  1 µM) of ACh+
+in a PBS solution at VDS = 2 V and VGS = 60 V.
+Acetylcholine chloride solutions were prepared in a PBS solution (pH 7.4, 0.01 M) containing
+sodium chloride (137 mM) and potassium chloride (2.7 mM).
+0 50 100 150 200
+10-2 10-1 100 101 102
+0
+10
+20
+30
+Time (sec)
+d(ID
+/ID-BASE
+)/dt (s-1) Normalized current ACh+
+PBS
+1 pM 1 nM
+1 µM
+S8
+Figure S5. DFT optimized structures of the complexation of CB[6]-Na+
+. Hydrogens of CB[6] are
+omitted for clarity. Color code: C, gray; O, red; N, blue; H, white; Na, purple.
+CB[6]-Na+
+S9
+Figure S6. Charge changes on CB[6] after complexation with three guest molecules (ACh+
+, Ch+
+,
+and Na+
+). For structures obtained from molecular dynamics simulations, charges of CB[6] are
+obtained from the natural population analysis at the M06-2X/6-31G(d) level.
+q (CB[6]) 0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+S10
+Figure S7. (a) Transfer and (b) output characteristics for flexible DDFTTF OFET-based sensors
+with AOCB[6] in p-channel operation mode.
+-25-20-15-10 -5 0 5 10-11 10-10 10-9 10-8 10-7
+VGS (V) -ID (A) VDS= -0.5V
+(a) (b)
+-0.5-0.4-0.3-0.2-0.1 0.0
+0
+10
+20
+30
+40
+-ID (nA) VDS (V)
+VGS = 0V
+ -5V
+ -10V
+ -15V
+S11
+References
+[S1] S. Y. Jon, N. Selvapalam, D. H. Oh, J.-K. Kang, S.-Y. Kim, Y. J. Jeon, J. W. Lee, K.
+Kim, J. Am. Chem. Soc. 2003, 125, 10186.
+[S2] Y. Zhao, D. Truhlar, Theor. Chem. Acc. 2008, 120, 215.
+[S3] Y. Shao, L. F. Molnar, Y. Jung, J. Kussmann, C. Ochsenfeld, S. T. Brown, A. T. B.
+Gilbert, L. V. Slipchenko, S. V. Levchenko, D. P. O'Neill, R. A. DiStasio Jr, R. C. Lochan, T.
+Wang, G. J. O. Beran, N. A. Besley, J. M. Herbert, C. Yeh Lin, T. Van Voorhis, S. Hung Chien,
+A. Sodt, R. P. Steele, V. A. Rassolov, P. E. Maslen, P. P. Korambath, R. D. Adamson, B. Austin,
+J. Baker, E. F. C. Byrd, H. Dachsel, R. J. Doerksen, A. Dreuw, B. D. Dunietz, A. D. Dutoi, T. R.
+Furlani, S. R. Gwaltney, A. Heyden, S. Hirata, C.-P. Hsu, G. Kedziora, R. Z. Khalliulin, P.
+Klunzinger, A. M. Lee, M. S. Lee, W. Liang, I. Lotan, N. Nair, B. Peters, E. I. Proynov, P. A.
+Pieniazek, Y. Min Rhee, J. Ritchie, E. Rosta, C. David Sherrill, A. C. Simmonett, J. E. Subotnik,
+H. Lee Woodcock Iii, W. Zhang, A. T. Bell, A. K. Chakraborty, D. M. Chipman, F. J. Keil, A.
+Warshel, W. J. Hehre, H. F. Schaefer Iii, J. Kong, A. I. Krylov, P. M. W. Gill, M. Head-Gordon,
+Phys. Chem. Chem. Phys. 2006, 8, 3172.
+[S4] M. D. Hanwell, D. E. Curtis, D. C. Lonie, T. Vandermeersch, E. Zurek, G. R. Hutchison,
+J. Cheminformatics 2012, 4, 17.
+[S5] J. Wang, P. Cieplak, P. A. Kollman, J. Comput. Chem. 2000, 21, 1049.
+[S6] J. Wang, R. M. Wolf, J. W. Caldwell, P. A. Kollman, D. A. Case, J. Comput. Chem.
+2004, 25, 1157.
+[S7] W. L. Jorgensen, J. Chandrasekhar, J. D. Madura, R. W. Impey, M. L. Klein, J. Chem.
+Phys. 1983, 79, 926.
+[S8] B. Hess, H. Bekker, H. J. Berendsen, J. G. Fraaije, J. Comput. Chem. 1997, 18, 1463.
+[S9] G. Bussi, D. Donadio, M. Parrinello, J. Chem. Phys. 2007, 126, 014101.
+[S10] H. J. C. Berendsen, J. P. M. Postma, W. F. van Gunsteren, A. DiNola, J. R. Haak, J.
+Chem. Phys. 1984, 81, 3684.
+[S11] E. Glendening, J. Badenhoop, A. Reed, J. Carpenter, J. Bohmann, C. Morales, F.
+Weinhold, Theoretical Chemistry Institute, University of Wisconsin: Madison, WI 2001; A. E.
+Reed, L. A. Curtiss, F. Weinhold, Chem. Rev. 1988, 88, 899.
+[S12] D. Van Der Spoel, E. Lindahl, B. Hess, G. Groenhof, A. E. Mark, H. J. C. Berendsen, J.
+Comput. Chem. 2005, 26, 1701.

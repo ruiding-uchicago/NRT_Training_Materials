@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11664-022-09468-z",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "undoped silicon carbide (SiC) nanowire",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "2-13",
+      "test_medium": "aqueous solutions (diluted HCl and KOH in deionized water)"
+    }
+  ]
+}

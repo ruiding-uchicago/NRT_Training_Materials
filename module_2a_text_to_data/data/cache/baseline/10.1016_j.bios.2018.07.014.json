@@ -1,0 +1,45 @@
+{
+  "stem": "10.1016_j.bios.2018.07.014",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine (DA)",
+      "lower_detection_limit": "40 nM",
+      "upper_detection_limit": "20 μM",
+      "probe_material": "dopamine-templated molecularly imprinted polymer (DA-MIP) containing vinylphenylboronic acid (VPBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS buffer)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "L-dopa (LD)",
+      "lower_detection_limit": "150 nM",
+      "upper_detection_limit": "20 μM",
+      "probe_material": "dopamine-templated molecularly imprinted polymer (DA-MIP) containing vinylphenylboronic acid (VPBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS buffer)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "norepinephrine (NE)",
+      "lower_detection_limit": "179 nM",
+      "upper_detection_limit": "20 μM",
+      "probe_material": "dopamine-templated molecularly imprinted polymer (DA-MIP) containing vinylphenylboronic acid (VPBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS buffer)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine (EP)",
+      "lower_detection_limit": "355 nM",
+      "upper_detection_limit": "20 μM",
+      "probe_material": "dopamine-templated molecularly imprinted polymer (DA-MIP) containing vinylphenylboronic acid (VPBA)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS buffer)"
+    }
+  ]
+}

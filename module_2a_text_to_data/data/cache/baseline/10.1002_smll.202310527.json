@@ -1,0 +1,45 @@
+{
+  "stem": "10.1002_smll.202310527",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "Hydrogen sulfite functionalized carbon particles (SCPs)",
+      "lower_detection_limit": "0.25 mg/mL (in suspension)",
+      "upper_detection_limit": "5 mg/mL (in suspension)",
+      "probe_material": "PDPP4T, P3HT, PQT12, PT-COOH",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": -1,
+      "test_medium": "air (after ethanol evaporation)"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Carboxylic acid functionalized carbon particles (CCPs)",
+      "lower_detection_limit": "1 mg/mL (in suspension)",
+      "upper_detection_limit": "5 mg/mL (in suspension)",
+      "probe_material": "PDPP4T, P3HT, PQT12, PT-COOH",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": -1,
+      "test_medium": "air (after ethanol evaporation)"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Amine functionalized carbon particles (ACPs)",
+      "lower_detection_limit": "0.25 mg/mL (in suspension)",
+      "upper_detection_limit": "5 mg/mL (in suspension)",
+      "probe_material": "PDPP4T, P3HT, PQT12, PT-COOH",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": -1,
+      "test_medium": "air (after ethanol evaporation)"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Sulfonic acid functionalized silicon particles (Si-SO3H)",
+      "lower_detection_limit": "0.5 mg/mL (in suspension)",
+      "upper_detection_limit": "5 mg/mL (in suspension)",
+      "probe_material": "P3HT",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": -1,
+      "test_medium": "air (after ethanol evaporation)"
+    }
+  ]
+}

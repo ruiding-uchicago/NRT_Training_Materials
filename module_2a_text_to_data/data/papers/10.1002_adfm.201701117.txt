@@ -1,0 +1,771 @@
+Solution-Processed Nanoporous Organic Semiconductor Thin Films: Toward Health and Environmental Monitoring of Volatile Markers
+Fengjiao Zhang, Ge Qu, Erfan Mohammadi, Jianguo Mei, Ying Diao
+First published: 02 May 2017 https://doi.org/10.1002/adfm.201701117Citations: 137
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+Porous materials are ubiquitous in nature and have found a wide range of applications because of their unique absorption, optical, mechanical, and catalytic properties. Large surface-area-to-volume ratio is deemed a key factor contributing to their catalytic properties. Here, it is shown that introducing tunable nanopores (50–700 nm) to organic semiconductor thin films enhances their reactivity with volatile organic compounds by up to an order of magnitude, while the surface-area-to-volume ratio is almost unchanged. Mechanistic investigations show that nanopores grant direct access to the highly reactive sites otherwise buried in the conductive channel of the transistor. The high reactivity of nanoporous organic field-effect transistors leads to unprecedented ultrasensitive, ultrafast, selective chemical sensing below the 1 ppb level on a hundred millisecond time scale, enabling a wide range of health and environmental applications. Flexible sensor chip for monitoring breath ammonia is further demonstrated; this is a potential biomarker for chronic kidney disease.
+
+1 Introduction
+Organic semiconductors (OSC) have emerged as a new class of electronic materials promising a wide range of applications from organic field-effect transistors (OFET), solar cells, thermoelectrics, electronic skins, chemical and mechanical sensors by virtue of their chemical versatility, solution processability, and mechanical flexibility.1-11 Controlled fabrication of nanoporous OSCs over large area can open up a new avenue to tune the (opto)electronic properties, and may even lead to new functions not imagined before, given the wide utility of nanoporous materials for energy storage, chemical separation, catalysis, drug delivery, and beyond. Recent work by Cho and co-workers. has elegantly demonstrated the fabrication of large-domain porous pentacene thin films by vapor deposition on a small molecule template.3 Follow-up works have also shown fabrication of porous OSC thin films exhibiting enhanced gas sensing performance.12-14 However, solution-coated/printed nanoporous OSCs have not been reported before. In addition, the methods demonstrated thus far are not material-agnostic and do not offer wide tunability of pore sizes. Pore structure tunability is particularly important for controlling the pore-imparted properties, such as sensitivity and response time of OFET-based chemical sensors.
+
+In this work, we demonstrate a generic method to fabricate nanoporous thin films, applicable to both polymer and small molecule OSCs. We introduce nanopores with tunable pore sizes (50–700 nm) into the semiconductor thin film via simple solution processing methods such as meniscus-guided coating/printing and spin-coating. We further fabricate nanoporous OFET sensors for detection of volatile organic compounds (VOCs) such as ammonia and formaldehyde. Sensitive and rapid VOC detection using printed low-cost sensor chips has potential applications in personalized health and environmental monitoring.15, 16 However, it remains a challenge for OFET-based sensors to attain the high sensitivity (ppb level), fast response (subsecond), and resilience to confounding factors (moisture, temperature) required for these applications. We show that introducing nanopores to OFET sensors enhanced the response at low concentration and reduced the response time to VOCs, while retaining the resilience to confounding factors. Furthermore, thanks to tunable pore dimensions, we are able to investigate pore-size-dependent sensing performance and establish a reaction-diffusion model to elucidate nanopore-enhanced sensing mechanism. Our proposed mechanism is against the conventional wisdom that attributes enhanced sensing performance to high specific surface area and/or enhanced diffusion.3, 13, 17-20 The high sensing performance obtained using our method could further enable potential applications in breath sensing and environmental monitoring.
+
+2 Results and Discussion
+2.1 Templating Nanoporous OSC Thin Films
+We demonstrate a simple, additive approach to fabricate nanoporous semiconductor thin films in solution processing. The solution processing methods we used include spin-coating and meniscus-guided unidirectional coating; the latter shares the same fundamental physics as large-scale roll-to-roll printing (Figure 1a). The simplicity and generality of this approach for fabricating nanoporous thin films stand in contrast to the conventional subtractive approaches based on lithography and etching, which involve complex procedures and corrosive chemicals.21-23
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Nanoporous semiconductor thin film fabrication via simple solution processing. a) Schematic of nanoporous semiconductor layer formation templated by a nanoporous PVP:HDA layer via meniscus-guided coating and spin-coating. Also shown is the corresponding nanoporous field-effect transistor device with DPP2T-TT or C8-BTBT as the active layer, SiO2 as the dielectric layer, and doped Si as the gate electrode. Atomic force microscopy (AFM) height images of porous PVP:HDA templates, with average pore diameter of b) 0, c) 80, d) 360, and e) 640 nm. The scale bars are 1 µm in all images.
+The key to our method is to direct the semiconductor deposition using a nanoporous insulating layer serving as the template, which can be fabricated over a large area via one-step microphase separation during spin-coating. The nanoporous template was prepared from poly(4-vinylphenol) (PVP)/tetrahydrofuran (THF) solution with 4,4′-(hexafluoroisopropylidene)diphthalic anhydride (HDA) added as the cross-linking agent for PVP (Figure S1, Supporting Information). Nanopores ranging from 50 to 700 nm in pore diameters were obtained by systematically increasing the HDA:PVP ratio in the solution (Figure 1b–e and Figure S2a, Supporting Information). Through Hansen solubility parameter24, 25 calculations (Table S1, Supporting Information), we infer that addition of HDA decreases the miscibility of PVP with THF, which was experimentally validated by the miscibility test (Figure S3, Supporting Information). Furthermore, AFM characterizations revealed that the nanopores extend through the entire thickness of the PVP:HDA film (Figure S2b, Supporting Information). Combining the miscibility test with morphology characterizations of the nanoporous thin film, we hypothesize that elevated HDA concentration induces microphase separation in-plane, between a continuous PVP-rich phase and a discrete THF-rich phase by the mechanism of nucleation and growth. Subsequent THF evaporation leaves nanopores in the film. We further propose that increasing HDA concentration expedited THF domain nucleation, thereby prolonging domain growth to result in larger pore formation (Note S1, Supporting Information, and Figure S4, Supporting Information).
+
+With the nanoporous PVP:HDA template prepared, we next deposited organic semiconductor thin film on the template layer using either spin-coating or meniscus-guided coating (Figure 1a). We first deposited poly(diketopyrrolopyrrole-thiophene-thieno[3,2,b]thiophene-thiophene) (DPP2T-TT), a recently reported high-performance donor–acceptor conjugated polymer.26-28 Before deposition, we grafted a monolayer of octadecyl tricholorosilane (OTS) on the template layer to passivate the charge traps.29 After DPP2T-TT deposition, we observed a faithful pattern transfer from the template layer (Figure 1b–e) to the semiconductor layer (Figure 2a–c and Figure S5a–c, Supporting Information) using both solution processing methods. The DPP2T-TT polymer formed a continuous thin film with isolated nanopores decorating the entire surface. The continuity of the thin film is important for providing percolation pathways for the charge carriers in a transistor device. From AFM height images, we measured that the pore diameter and pore depth in the semiconductor layer remain almost the same as those in the template layer, across the entire range of pore sizes tested (Table S2, Supporting Information). From unchanged pore depth, we infer that the template pore floors are coated with DPP2T-TT of the same thickness as that on the top surface. The almost identical pore diameter before and after DPP2T-TT deposition indicates that the pore walls are not coated by the polymer film, particularly considering that the DPP2T-TT film thickness is by no means negligible (≈23 nm). We later show that this morphology feature is important for enhancing chemical response by exposing the conductive channel of the transistor device.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Morphology characteristics of printed DPP2T-TT thin films. a–c) AFM images and d–f) GIXD diffraction patterns of printed DPP2T-TT film on the PVP:HDA template layer with pore size of a,d) 0, b,e) 100, and c,f) 400 nm. The scale bars are 1 µm in all AFM images. Films were printed at 0.5 mm s−1 from 3 mg mL−1 chloroform solution at room temperature. Arrows indicate the printing direction. GIXD was taken with the printing direction is parallel to the incident beam (shown here) as well as perpendicular to the incident beam (Figure S6, Supporting Information). The GIXD images are not geometrically corrected to show the lamella peaks clearly. g) Comparison of geometrically corrected orientation distribution for printed DPP2T-TT film with various pore sizes. The plot at polar angle χ = 0° indicates face-on orientation and χ = 90° represents edge-on orientation. The normalized diffraction intensities scale with the population of the crystallites with orientation characterized by the polar angle χ. The error bars were standard errors of calculated (010) peak areas from multipeak fitting. h) Schematic illustrating the cross-sectional morphology of porous DPP2T-TT film (top layer, darker gray on top) printed on the porous PVP:HDA template. The magnified image shows the edge-on molecular packing in the DPP2T-TT layer.
+We further characterized the molecular packing in the nanoporous semiconductor films by grazing-incidence X-ray diffraction (GIXD) (Figure 2d–f, and Figures S5 and S6, Supporting Information). The detailed molecular packing analysis is summarized in Tables S3 and S4 (Supporting Information). Not surprisingly, the presence of nanopores did not noticeably alter the molecular packing in the DPP2T-TT thin film. Figure 2g shows the geometrically corrected orientation distribution of crystallites in coated DPP2T-TT films obtained from pole-figure analysis on the π–π stacking ring.30-33 The analysis unveiled a predominant edge-on orientation of the π stacks (Figure 2h) in all cases tested regardless of the processing methods and the pore sizes. We expect this preferred orientation to promote the charge-transfer reaction with the analyte by maximizing the exposure of the π orbitals of the conjugated core at the pore wall.
+
+How does the nanoporous template direct the semiconductor deposition process to yield the observed morphology? First, we determined that the polymer ink solution is in the Wenzel state when in contact with the nanoporous template (Figure S7, Supporting Information), indicating that the ink wets the entire contour of the template layer. Therefore, we expect the polymer deposition on the pore floor to occur in the same fashion as on the top surface, both driven by solvent evaporation at the triple-phase contact line. When the meniscus sweeps over the vertical pore wall, however, deposition does not have time to occur due to the constant meniscus speed along the coating direction. The consistently low contact angle between the ink and the entire porous template may also have prevented contact line pinning and therefore no deposition occurred at the pore wall (Figure S8, Supporting Information). The same mechanism applies to the deposition of 2,7-dioctyl benzothieno[3,2-b]benzothiophene (C8-BTBT)1, a small molecule semiconductor as shown later.
+
+2.2 Nanoporous Polymer OFET for Ammonia Sensing
+To characterize the charge transport properties and sensing performance of the nanoporous semiconductor thin films, we fabricated top contact bottom gate transistor devices and performed electrical measurements under ambient conditions (Figure 3). Typical transfer curves of DPP2T-TT OFETs with and without pores are shown in Figure 3a. Both devices exhibited predominant hole transport with an on/off ratio of ≈105. The DPP2T-TT based nanoporous OFETs had comparable mobility (0.30 ± 0.05 cm2 V−1 s−1) but slightly lower on-current compared to the nonporous devices, due to a slight decrease in capacitance when the nanostructured template layer was introduced (Figure S9, Supporting Information). This observation confirms that introducing nanopores did not adversely influence the device performance. Notably, the transistor devices remained stable after repeated measurements in air, which is ideal for sensing applications (Figure S10, Supporting Information).
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+Nanoporous OFET-based ammonia sensor. a) Comparison of transfer curves from porous versus nonporous OFET. The devices were fabricated with a channel length of 65 µm and width of 4500 µm. b) Current responses of DPP2T-TT-based sensing device to a series of ammonia gas concentrations at constant voltage (VGS = −10 V, VDS = −20 V). The current response (ΔI/I0) is reflected by the percent change in current ΔI with respect to the initial current I0. The devices were fabricated with DPP2T-TT film without (w/o) or with (w/) pores (with a diameter of ≈700 nm). c) Read-out signals showing percentage current change as a function of time responding to 1 ppb NH3. The lines show the simulated response based on the reaction model. d) Schematic diagram of the nanoporous OFET-based ammonia sensor. The magnified cartoon illustrates the charge transport reaction occurring at the conductive channel with ammonia. e) Current response of DPP2T-TT devices to ammonia with concentrations ranging from 1 ppb to 100 ppm. Dependence of ΔI/I0 on pore sizes is shown. f) Dependence of ΔI/I0 on the area fraction of the exposed pore wall. As is the total surface area of the pore wall calculated from the film thickness, pore diameter, and pore area density. At is the total surface area of the semiconductor layer. Error bars were calculated from 6 to 8 measurements on 3–4 independent samples at each condition.
+We next measured the sensing performance of DPP2T-TT transistor to NH3 in real time. To this end, the gas sensing experiments were performed in a polydimethylsiloxane (PDMS) microfluidic system that enclosed the transistor devices. When NH3 molecules are carried into the PDMS channel, they diffuse into the conductive channel of the transistor device and donate electrons to DPP2T-TT via a charge transfer reaction, thereby reducing the hole concentration and resulting in a decrease in the current. The device response to the analyte is presented as ΔI/I0 = (Ig − I0)/I0, where I0 and Ig denote the initial drain current and the current after exposure to the analyte respectively, and ΔI is the net current change. Figure 3b shows the dynamic sensing performance of DPP2T-TT based sensor for detecting NH3 ranging from 1 ppb to 100 ppm in dry air. Importantly, at the low concentration of 1 ppb, the presence of 700 nm nanopores enhanced the ΔI/I0 by up to 2.5 times to 27.8% and reduced the response time by an order of magnitude from seconds to hundred millisecond time scale (Figure 3c and Figure S11, Supporting Information). In comparison, previously reported detection limit is frequently in the hundred ppb range with response time on the order of seconds to minutes (Table S5, Supporting Information).10, 12, 19, 34, 35 We note that the lowest gas concentration used in this study is not equivalent to the detection limit. The detection limit can be extrapolated from the linear calibration curve when the signal equals three times the root-mean-square (rms) deviation of the noise level.36 The noise level in our system is <0.12% in terms of the rms deviation from the ΔI/I0 baseline, while the signal at 1 ppb gas concentration is two orders of magnitude higher than the noise level. Therefore, the detection limit of our nanoporous sensors will be significantly lower than 1 ppb. Our low detection limit and sensitive and ultrafast response are unprecedented among OFET-based NH3 sensors. The ultrasensitive and ultrafast sensing performance can enable even the most demanding health and environmental applications as demonstrated later.
+
+2.3 Sensing Mechanism and Reaction Model
+What is the mechanism by which nanopores promote sensitive response and shorten the response time? We hypothesize that introducing through-pores in the thin film exposes the highly reactive sites originally buried in the conducting channel to the pore wall (Figure 3d). Their high reactivity comes from two aspects: first, the DPP2T-TT molecules in the conducting channel are positively charged serving as hole carriers; second, the backbone of DPP2T-TT is oriented edge-on with respect to the substrate (Figure 2h), thereby favorably exposing the π-electrons to the pore wall. Both factors are expected to promote charge transfer reactions between NH3 and DPP2T-TT at the pore wall. To test our hypothesis, we systematically varied the pore size and correspondingly the area fraction of the pore wall out of the total surface area (As/At), and measured the pore-size-dependent sensing performance (Figure 3e). We observed that ΔI/I0 of the device was linearly proportional to the pore wall area fraction As/At (Figure 3f). This observation is consistent with our hypothesis since the area density of highly reactive sites scales with the area fraction of the conductive channel exposed to the pore wall and therefore As/At. We further verified that the sensing performance was insensitive to the through-pore thickness when varied between 50 and 12 nm (Figure S12, Supporting Information), but further reducing the thickness to 8 nm started to decrease the response. This result suggests that the conducting channel likely has a thickness between 8 and 12 nm within which the highly reactive sites reside.
+
+To quantify the extent to which the charge transfer reaction rate is modulated by nanopores, we established a simple analytical model detailed in Note S2 (Supporting Information) and Figure S13 (Supporting Information). One important assumption of the model is negligible diffusional resistance in a low Damköhler number (Da) regime. This assumption is justified since the estimated diffusion time scale is 10−4 s in nanoscopic thin films, which is at least three orders of magnitude shorter than the response time. Therefore, the response time is determined by the charge-transfer reaction alone. Considering a first-order charge-transfer reaction between the hole carrier (DPP2T-TT+) and the analyte (NH3), as described by the following first-order reaction
+urn:x-wiley:dummy:media:adfm201701117:adfm201701117-math-0001
+(1)
+we derived that device response follows the equation below
+urn:x-wiley:dummy:media:adfm201701117:adfm201701117-math-0002
+(2)
+where CNH3 represents the concentration of NH3, k1 and k−1 are the forward and backward reaction rate constant, respectively, and t is the reaction time. It is evident that the sensing performance is highly dependent on the reaction rate constants.
+To compare the reaction kinetics for sensors with and without nanopores, we fitted Equation 1 to the experimentally obtained dynamic monitoring curves and regressed the forward and backward reaction rate constants as a function of pore size and As/At (Figure 3f and Table S6, Supporting Information). We found that k1 was enhanced by an order of magnitude when the pore size increased from 0 to 720 nm and correspondingly As/At increased from 0 to ≈1.2%. On the other hand, k−1 was not much affected, exhibiting a moderate twofold increase. This result is consistent with our hypothesis that nanopores enhance the reactivity of the semiconductor layer by exposing highly reactive sites to the pore wall, resulting in ultrasensitive and ultrafast sensing performance of nanoporous devices. (Figure 3d and Figure S13, Supporting Information). It is worth noting that recent studies on OFET gas sensors have reported improved current response by decreasing the film thickness. The observed enhancement was frequently attributed to lowered analyte diffusion barrier.19, 35, 37 Our work indicates that enhanced reactivity is key to attaining sensitive response for the device, not removing diffusion barriers in the case of thin film transistor based gas sensors. We emphasize that introducing nanopores dramatically enhanced reactivity with only negligible increase in the specific surface area. This observation is in stark contrast to the mechanism proposed in previous studies on nanostructured OFET sensors.13, 17, 20 We believe the highly anisotropic nature of the transistor thin film in terms of both molecular orientations and electronic states is the fundamental reason why nanopores are so effective in enhancing the reactivity toward analyte without substantially increasing the specific surface area. We note that the devices fabricated via meniscus-guided coating and spin-coating methods yielded almost the same sensing performance, showing the robustness of our nanoporous approach for attaining high sensing performance (Figure S14, Supporting Information).
+
+2.4 Nanoporous Small Molecule OFET for Formaldehyde Sensing
+To demonstrate the generality of our approach, we fabricated nanoporous OFET sensors using a small molecule semiconductor C8-BTBT via both meniscus-guided coating and spin-coating following a similar procedure (see the Experimental Section). Strikingly, we obtained large yet nanoporous single-crystalline domains with well-defined terraces (Figure 4a). The structural integrity of these large crystalline domains was not affected by introducing a high area density of nanopores. The high crystallinity is manifested in the formation of micrometer-sized nanoporous terraces of 2.6–2.8 nm in height, indicating that the terraces are comprised of a single molecular layer of C8-BTBT.38 The high crystallinity is also evident from the appearance of high index peaks in the GIXD patterns (Figure S15, Supporting Information). In addition, only a few Bragg rods were observed due to the large size of crystalline domains well beyond the X-ray beam width, and therefore only very few grains were sampled by the X-ray. Interestingly, coating on nanoporous templates resulted in narrower diffraction peaks compared to the case of nonporous substrate (Figure S15 and Table S7, Supporting Information). Correspondingly, we measured higher hole mobility in the nanoporous transistor devices (Table S8, Supporting Information). The mechanism by which nanopores improve molecular ordering in C8-BTBT thin film is unclear. Nonetheless, high charge carrier mobilities obtained verify the continuity and charge percolation in the nanoporous thin films despite high pore densities.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Nanoporous C8-BTBT OFET sensor. a) Schematic of the device configuration. The top-contact, bottom-gate transistor device has a nanoporous semiconductor layer templated by the porous PVP:HDA layer, and covered by the PEI sensory layer. The AFM image and cross-sectional profile of the nanoporous C8-BTBT semiconductor layer are shown. How formaldehyde molecules interact with the device is further illustrated. b) Current response of C8-BTBT/PEI transistor device with (inverted triangle) and without (triangle) pores as compared to C8-BTBT transistor device with (circle) and without (square) pores to a wide range of formaldehyde gas concentration (VGS = −40 V, VDS = −40 V). The inset shows the magnified current responses at 1 ppb formaldehyde concentration. The nanopore size was ≈500 nm on average.
+We next tested the sensing performance of C8-BTBT OFET for trace formaldehyde detection. Formaldehyde sensing is important and relevant for both environmental and health monitoring. Formaldehyde is a common carcinogenic indoor air pollutant with a recommended long-term exposure of only 16 ppb.39, 40 In addition, formaldehyde in human breath is a biomarker for breast cancer. A breath formaldehyde concentration exceeding 1.2 ppm is strongly correlated with the disease condition, compared to the healthy level of 0.3 ppm on average.41 However, it remains challenging to detect formaldehyde (CH2O) at such low concentration due to its weak electron donating and withdrawing abilities and therefore low reactivity with most organic semiconductors,17, 42 including C8-BTBT (squares in Figure 4b). Hence, we added a sensory layer to the C8-BTBT OFET comprised of polyethyleneimine (PEI) rich in primary amine groups to enhance reactivity with CH2O (Figure 4a). The nanoporous structure was maintained after PEI coating atop the C8-BTBT layer (Figure S16, Supporting Information). The as-fabricated nanoporous C8-BTBT/PEI OFET exhibited excellent CH2O sensing performance in air reaching an unprecedented detection limit below 1 ppb. In particular, introducing nanopores increased the ΔI/I0 of nonporous devices by an order of magnitude from 0.6% to 5.8%. Without PEI, nanopores also enhanced the current change for device, but to a lesser extent (Figure 4b). From the opposite current responses of devices with versus without PEI, we infer a doping-dedoping sensing mechanism as the following (Note S3 and Table S9, Supporting Information). First, PEI acts as an electron donor doping the hole-conducting C8-BTBT, which brings a decrease in current; when the carbonyl groups of CH2O reacts with the amine groups of PEI, the C8-BTBT layer is dedoped and the current rises back. The PEI layer enhances the reactivity with CH2O while nanopores expose the reactive conducting channel originally buried in the C8-BTBT layer. Both factors combined lead to the ultrasensitivity and fast response time for CH2O sensing (Figure S17, Supporting Information). As far as we know, this is the best sensing performance among OFET-based formaldehyde sensors reported so far. Previous studies typically reported detection limits between 1 and 1000 ppm.17 We further show that the nanoporous C8-BTBT sensors exhibit good selectivity for CH2O among major reactive VOCs (Figure S18, Supporting Information), enabling potential applications in ultrasensitive environmental and health monitoring.
+
+2.5 Flexible Nanoporous OFETs for Breath Sensing
+The ultralow detection limit and ultrafast response of nanoporous OFET sensors open avenues for a wide range of applications in health and environmental monitoring. In particular, sensing concentration change of breath VOCs could serve as a powerful and low-cost platform for personalized health monitoring and disease prevention by alerting individuals potential onset of a disease condition at a very early stage.43, 44 Here, we demonstrate low-voltage DPP2T-TT OFET sensor chip fabricated on flexible substrate and its application in sensing breath ammonia (Figure 5). Ammonia is a common volatile organic compound found in human breath, which was identified as a key biomarker for end-stage renal failure. Previous studies observed significantly increased breath ammonia concentration at the diseased stage, rising from hundred ppb (healthy) to ppm level (diseased) on average (Table S10, Supporting Information).45-48 Elevated level of ammonia was also found in exhaled breath of patients suffering from liver failure and Alzheimer's.16, 49
+
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Flexible sensor chip. a) Photograph of a flexible gas sensor. The devices were fabricated with a structure PET/ITO/PVP:HDA/porous PVP:HDA/DPP2T-TT/electrodes. DPP2T-TT were deposited via the printing method. b) Transfer curve of the transparent OFET. c) Current response of the porous DPP2T-TT devices for NH3. The average pore diameter is 600 nm. d) Current responses of printed and spin-coated devices toward various VOCs at a concentration of 1 ppm. e) Dynamic-sensing response curve of porous DPP2T-TT devices. Healthy breath sample (collected from a health female) was injected first. Subsequently, breath samples dosed with additional NH3 at concentration of 10 ppb, 100 ppb, 1 ppm, and 10 ppm were tested, to simulate the disease condition. f) Comparison of current responses between healthy breath (without dosing NH3) and simulated breath gas with additional NH3 dosed at various concentrations.
+To fabricate the flexible OFET sensor chip, we adopted high capacitance PVP:HDA as the dielectric layer to reduce the operation voltage, and the ITO-coated polyethylene terephthalate (PET) as the flexible substrate in OFET fabrication (Figure 5a). The transistor devices exhibited excellent transfer and output characteristics operating at low voltage (Figure 5b and Figure S19, Supporting Information). Moreover, the ammonia sensing performance of low-voltage flexible devices (Figure 5c) was comparable to that of OFETs fabricated on SiO2/Si substrates (Figure 3e). To demonstrate a clear path toward practical application in breath sensing, the effects of temperature and humidity fluctuations as well as mechanical bending on device response were further investigated. The porous DPP2T-TT devices exhibit excellent temperature stability within the range of breath temperature fluctuations (Figure S20, Supporting Information).50 The sensing performance is also stable against large fluctuations of environment temperature between 20 and 50 °C (Figure S21, Supporting Information). In terms of humidity effect, human breath usually exhibits >80% relative humidity (RH),51 which does significantly impact the device performance (Figure S22a, Supporting Information). However, such humidity effect can be fully compensated following an established procedure (Figure S22b,c, Supporting Information).51 In other words, the current change to humidity and VOC is additive. Alternatively, the humidity effect can be eliminated via sample dehumidification (Figure S23, Supporting Information).52 For further discussions on the humidity effect, see Note S4 (Supporting Information).
+
+We next investigated the selectivity of the flexible OFETs. Shown in Figure 5d, the nanoporous DPP2T-TT sensors exhibited high selectivity for ammonia among several major VOCs in breath tested at 1 ppm. On the other hand, we acknowledge that our selectivity test is not comprehensive as the human breath contains thousands of VOCs, mostly present at ppb levels. Moreover, multiple VOCs are expected to vary in concentrations with the onset of a disease, which further complicates the selectivity evaluation of a single component. Toward addressing this challenge, we performed preliminary studies on the impact of common confounding factors on selectivity towards ammonia, including multi-VOC background (Table S11 and Figure S24, Supporting Information) and high sample humidity (Figure S24, Supporting Information). We found that the selectivity for ammonia is neither significantly altered by the presence of the VOC mixtures studied, nor by the high sample humidity within the range tested. We also studied the effect of substrate bending on charge carrier mobility and ΔI/I0 shown in Figure S25 (Supporting Information).
+
+To test feasibility for breath sensing, we collected breath samples from a healthy female (age of 27) and simulated disease conditions by adding ammonia at a series of concentrations (10 ppb to 10 ppm). In the case of renal failure, the breath ammonia concentration of an individual increases by ≈5–10 times relative to the healthy level; the extent of increase ranges from hundreds of ppb to several ppm, which varies from subject to subject (Table S10, Supporting Information). Accordingly, we designed our experiments to cover this entire range when simulating the ammonia concentration change in diseased patients. First, we established a baseline using health breath carrier gas. The exhaled breath sample contains a mixture of water vapor, carbon oxide, oxygen, and thousands of VOCs.16, 49, 53 For the as-collected breath sample, the DPP2T-TT OFET sensors showed a positive response with an increase in current (Figure 5e). Repeated tests over a period of two weeks (sample collected at the same hour of the day) established a stable baseline and range of fluctuations of current responses to healthy breath for this individual (Figure 5f and Figure S26, Supporting Information). We note that such stable response is attributed to the excellent stability of the fabricated DPP2T-TT transistor devices. For the simulated disease condition with elevated ammonia concentrations, we observed current responses clearly distinguishable from the baseline fluctuations, even when the ammonia concentration is increased by only 10 ppb (Figure 5e and Figure S27, Supporting Information). Specifically, when the ammonia concentration increases by 1 ppm from the healthy level—a disease relevant condition, we observed an ≈50% current change compared to the healthy condition (Figure 5f), which was well beyond the baseline fluctuations (Figure S26, Supporting Information). In addition, across the wide range of concentrations tested, the magnitude of current response was fully consistent with the case when air was used as the carrier gas as opposed to the healthy breath sample (Figures S28 and S29, Supporting Information).
+
+We note that to realize breath sensing based health diagnosis, generally it is necessary to detect multiple VOCs in the presence of confounding factors using sensor arrays to yield a “breath fingerprint.” Combined with powerful statistical analysis algorithms (e.g., principle component analysis, or PCA; discriminant factor analysis, or DFA), pattern recognition of the breath fingerprint can be carried out to differentiate healthy from diseased states. This approach has been developed and elegantly demonstrated employing nanomaterial-based sensing platforms43, 44, 54, 55 and comprehensively summarized in recent review papers.15, 16, 56 We expect that these methods for multi-VOC detection are transferrable to printed electronics. Sensor arrays have been extensively demonstrated using the printed electronics platform.57 Compared to nanomaterial-based chemresistor sensors, OFET-based sensors have their own advantages, such as chemical versatility, material synthesis directly through low-cost, high-throughput printing methods, diverse form factors and compatibility with the human body, as well as the capability to achieve self-powered multipurpose sensing (chemical, pressure, temperature, strain, etc.) on the same platform.
+
+3 Conclusions
+In this work, we demonstrate, for the first time, tunable nanoporous organic semiconductor thin films fabricated using simple solution processing methods applicable to both polymer and small molecule semiconductors. Templated by the nanostructured PVP:HDA layer, the pore sizes in the semiconductor layer were widely tunable from 50 to 700 nm. Introducing nanopores to DPP2T-TT-based OFET sensors enhanced its reactivity toward ammonia by an order of magnitude, revealed by the reaction model we established. As a result, the nanopores enabled ultrasensitive, ultrafast response to ammonia below 1 ppb at hundred millisecond time scale, which is the best sensing performance reported so far.12, 34, 35 We further validated the generality of this strategy by fabricating nanoporous C8-BTBT OFET for formaldehyde sensing—a far more challenging sensing target as compared to ammonia due to its low reactivity. Again, we observed a tenfold current-change enhancement with unprecedented sensitive response to analyte concentration below 1 ppb, which is three orders of magnitude improvement over the previously reported OFET formaldehyde sensors.17 We infer the following features to be critical for enhanced signal response of nanoporous OFETs: (1) the pores are through-pores to grant access to the highly reactive conducting channel at the semiconductor–dielectric interface; (2) the conjugated core of the semiconductor is oriented parallel to the pore wall to facilitate charge-transfer reaction with the analyte. Enabled by ultrasensitive chemical sensing, we demonstrated solution-processed flexible nanoporous sensor chip for real-time monitoring of breath ammonia concentration variations. The excellent performance, simple fabrication, and diverse form factors of nanoporous transistors may open up a wide range of applications in personalized health and environmental monitoring, frequently demanding sensitivity on the ppb level with fast response. Our approach of printing nanoporous thin films could be extended to other material systems and various solution processing methods. Furthermore, the concept of nanoporous organic electronics can bring novel properties beyond chemical sensitivity, such as enhanced mechanical stretchability, new optical properties, and even application in controlled drug release.
+
+4 Experimental Section
+Nanoporous Device Fabrication: Heavily doped silicon wafer (n-type) with a thermally grown SiO2 (300 nm) were used as bottom-gate electrode and the dielectric layer, respectively. The substrates were rinsed with toluene, acetone, and isopropyl alcohol, and dried with nitrogen before deposition of the organic materials. PVP (Mw = 25 000 mg mL−1, Sigma-Aldrich) solution was spin-coated on the substrate at a rotation speed of 7000 rpm for fabricating the porous template. The solutions of PVP were prepared with HDA (Sigma-Aldrich) in a series PVP:HDA ratio of 10:1 to 1:1 by weight in THF (Sigma-Aldrich). The concentrations of PVP range from 2.5 to 20 mg mL−1. Prior to spin-coating, the substrates were treated with plasma (Plasma Etch Inc., PE-25) for 6 min at 150 W. In order to obtain the porous structure, the humidity needs to be kept at 50% during the preparing process. Subsequently, the modified layer was cured at 100 °C in air for 1 h. For the nanoporous sensors fabrication, the templates were fabricated following the procedure above with PVP at a concentration of 5.5 mg mL−1. After plasma treatment for 12 s, the substrates were modified to an OTS (Sigma-Aldrich) assembly layer via vapor method.18
+
+OSC layers were deposited via meniscus-guided printing and spin-coating. The printing conditions were as follows: a silicon wafer with 300 nm SiO2 treated with a monolayer of OTS was used as the printing blade; the gap distance between the substrate and the blade was set as 100 µm; the blade was titled by 7°; the substrate was kept at 25 °C. A 3 mg mL−1 DPP2T-TT/chloroform solution was used to deposit OSC films on the OTS-modified template substrates, at printing speed of 0.5 mm s−1. For C8-BTBT, the thin film was deposited on the PVP: HDA template layer (without OTS) from 7.5 mg mL−1 chloroform solution at printing speed of 1 mm s−1. In the spin-coating process, a DPP2T-TT/chlorobenzene solution (5 mg mL−1) was dispensed on the substrate when the spin-coater motor was operating at a speed of 4000 rpm.18 The resulting DPP2T-TT film thickness was ≈23 nm. C8-BTBT/o-dichlorobenzene solution (5 mg mL−1) was utilized to fabricate thin films by an off-center spin-coating method, wherein the substrate was offset from the center of the spin-coater.58
+
+Finally, gold source and drain electrodes (35 nm) were deposited on the DPP2T-TT thin film by vacuum evaporation through a shadow mask with a channel width of 65 and 4500 µm respectively, while silver (35 nm) was thermally evaporated on C8-BTBT surface as source and drain electrodes with the same pattern structure. The deposition rate was 0.5 Å s−1. For formaldehyde sensor, PEI/water solution (Sigma-Aldrich, 0.2 mg mL−1) was spin-coated on the top of C8-BTBT devices when the spin coater was rotated at a speed of 5000 rpm.
+
+Fabrication of Flexible Devices: For flexible-sensor fabrication, the indium tin oxide (ITO) coated PET substrate (0.127 mm in thickness, Sigma-Aldrich) was cleaned with toluene, acetone, and isopropyl alcohol. The substrate was treated with plasma for 6 min at 150 W, and the PVP:HDA solution (with a weight ratio of 10:1 in propylene glycol monomethyl ether acetate) was then utilized to fabricate the dielectric layer as previous reported.59 Following heat treatment at 100 °C for 1 h on the hot plate in air, the porous PVP:HDA template layer was spin-coated as described above. After the deposition of an OTS monolayer, DPP2T-TT (5 mg mL−1, chloroform) solution was then printed onto the substrate at a speed of 0.5 mm s−1. The patterned Au source–drain electrodes were finally thermally deposited onto the film with a thickness of 35 nm.
+
+Film Characterizations: The surface morphology and thickness of the modified layer and semiconducting layer were characterized with Asylum Research Cypher (Asylum Research) under the tapping mode. Synchrotron-based GIXD were performed at the small-wide-angle X-ray scattering beamline 8ID-E at the Argonne National Laboratory. For GIXD measurement, DPP2T-TT and C8-BTBT were deposited on the precoated PVP:HDA template layer (with and without pores) via spin-coating and printing method. The substrate used for the samples was silicon wafers with 300 nm SiO2. During the measurement, the samples were placed in a helium chamber. The sample to the Pilatus 1M detector distance was 208 mm, and the incidence angle was 0.2°. The X-ray beam energy was 7.35 keV, corresponding to a wavelength of 1.6868 Å. Integration of the diffraction peak areas was performed with the software GIXSGUI. To analyze the domain orientation, pole figures were constructed by extracting (010) π–π stacking peak intensities as a function of the pole angle χ, which are shown in Figure 2g and Figure S5g (Supporting Information). The χ range was divided into 5° segments between 12.5° and 87.5°. To remove the strong background scattering from the underlying template layer, careful peak deconvolution was performed to extract the π–π stacking peak intensity. Multipeak fitting was performed on intensity versus q curve of each segments to deconvolute the π–π stacking peak from the amorphous ring and the background scattering. The peak area was further normalized by film thickness and exposure time. The normalized intensity was further geometrically corrected to plot Figure 2g.
+
+Electrical Characterization of Transistor Devices: The OFET measurements were carried out in ambient air using a Keysight B1500A semiconductor parameter analyzer (Keysight Technologies) at room temperature. The mobilities were calculated from the equation IDS = (μWCeq/2L)(VGS − VT)2, where IDS represent the source–drain current, μ is the mobility, W and L are the channel width and length, Ceq is the capacitance per unit area of the substrate, and VGS and VT are the gate voltage and threshold voltage, respectively. In order to measure Ceq, a metal–dielectric layer–metal structure devices were constructed. The Keysight B1500A was used to carry out the quasistatic capacitance voltage (QSCV) measurement.
+
+A PDMS microflow cell was laminated on the surface of the OFET to serve as a gas chamber above the channel region of the device with a size of 1.5 × 1.5 × 2 mm3. A two-syringe push-pull syringe pump was connected to the flow cell with inlet and outlet polytetrafluoroethylene tubing. The sensing performance was monitored with the air-diluted analytes (by controlling volume ratio) at a constant flow rate of 5 mL min−1. The dynamic sensing curves were collected using Keysight B1500A in real time. In the experiment, the humidity was controlled by humidifier and measured with a commercial humidity detector with an accuracy of 0.1%. It is noted that the sensor response time does not take into account the vapor delivery time.
+
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2017.
+Supporting Information
+for Adv. Funct. Mater., DOI: 10.1002/adfm.201701117
+Solution-Processed Nanoporous Organic Semiconductor
+Thin Films: Toward Health and Environmental Monitoring of
+Volatile Markers
+Fengjiao Zhang, Ge Qu, Erfan Mohammadi, Jianguo Mei, and
+Ying Diao*
+1
+Supporting Information
+Solution-Processed Nanoporous Organic Semiconductor Thin Films: Towards
+Health and Environmental Monitoring of Volatile Markers
+Fengjiao Zhang1
+, Ge Qu1
+, Erfan Mohammadi1
+, Jianguo Mei2
+, Ying Diao1*
+1
+Department of Chemical & Biomolecular Engineering, University of Illinois at
+Urbana−Champaign, 600 South Mathews Avenue, Urbana, Illinois 61801, United States.
+2
+Department of Chemistry, Purdue University, 560 Oval Drive, West Lafayette, Indiana 47907,
+United States.
+*E-mail: yingdiao@illinois.edu
+Figure S1. Molecular structures. Chemical structure of cross-linked poly(4-vinylphenol) (PVP) -
+4,4’-(Hexafluoroisopropylidene)diphthalic anhydride (HDA) and polyethyleneimine (PEI).
+2
+Figure S2. Structure characteristics of the nanoporous PVP:HDA modified template. (a)
+PVP:HDA weight ratio dependent pore diameter, with the PVP concentration of 5.5 mg/mL. These
+data were obtained from AFM height images, some of which shown in Figure 1. (b) Thickness and
+pore depth as a function of PVP concentration. The PVP:HDA weight ratio is 20:4. The error bars
+represent the standard deviation from at least five independent measurements.
+3
+Table S1. Hansen solubility parameters for various materials and calculated molecular distance.
+The distance between different molecules is calculated by the equation
+ " = 4 d%& − d%"
+" + d)& − d)"
+" + d*& − d*"
+"          ( 1)
+Materials
+Hansen solubility parameter
+Dispersion
+(dD)
+Polarity
+(dP)
+H-bond
+(dH)
+PVP 20.33 29.26 14.47
+HDA 20.52 13.82 6.32
+PVP-HDA (stoichiometry ratio=2.6:1) 20.77 0.92 14.41
+THF 16.75 5.69 7.98
+ We infer that addition of HDA decreases the miscibility of PVP with THF. This inference is made
+on the following basis: 1) HDA interacts with THF more favorably as compared to PVP with THF,
+as evidenced by the much smaller HDA-THF distance as compared to the PVP-THF distance. 2)
+HDA interacts with THF more favorably as compared to with PVP:HDA, as evidenced by smaller
+HDA-THF distance compared to the HDA – PVP:HAD distance. These conditions suggest
+THF/HDA solution to be phase separated from the crosslinked PVP:HDA phase with increasing
+HDA concentration.
+4
+Figure S3. Photograph of PVP-THF solution with increasing levels of HDA concentration for
+studying the effects of HDA on miscibility. The prepared clear PVP-THF solution is at a high PVP
+concentration of 300 mg/ml close to but below the solubility limit. The other prepared solutions
+are at the same PVP concentration, but with HDA crystalline powders added from 5 to 35 wt%
+with respect to PVP. After shaking for 24 hours, fluffy white precipitates can be observed in
+solutions with HDA concentration of 15-35 wt%. The amount of precipitates increases with
+increasing HDA concentration.
+5
+Supplementary Note 1. Proposed mechanism of nanopore formation in PVP:HDA
+Combining the miscibility test with nanopore morphology characterizations, we propose the
+following mechanism to explain the HDA-controlled pore formation during spin coating (Figure
+S4): (1-2) first solvent evaporation occurs which increases the solution concentration to surpass
+the miscibility limit, at which point THF-rich domains nucleate as discrete islands embedded in
+the continuous PVP-rich domains. (2-3) Subsequently the phase-separated domains continue to
+grow while THF continues to evaporate until the entire film solidifies. Due to THF evaporation,
+the THF-rich domains are converted into pores in the polymer film. When a very small amount of
+HDA is added, the miscibility between the solvent and the solute is high and the driving force for
+microphase separation is low. In this case, the microphase separation is inhibited, or in other words,
+its induction time is too long relative to the spin coating time scale. With increasing amount of
+HDA, the miscibility decreases, thus increasing the driving force for microphase separation. When
+the induction time for microphase separation is lower than the processing time scale, microphase
+separation can occur during spin coating. Further increases the amount of HDA causes the
+microphase separation to occur earlier. This allows more time for the domains to grow, leading to
+formation of larger pores.
+Figure S4. Schematic illustration of HDA-controlled pore formation process. (1) Solvent THF
+evaporation concentrates the solution to the miscibility limit; (2) Initiation of microphase
+separation triggered by the nucleation of THF-rich domains; (3) Growth of the phase-separated
+domains, and complete solvent removal to leave pores in the solidified films. Increasing HDA
+concentration causes the phase separation to occur earlier, prolonging the growth period and
+inducing larger pores.
+6
+Figure S5. Characterization of spin-coated DPP2T-TT film. (a-c) AFM images and (d-f) GIXD
+images of spin-coated DPP2T-TT films on PVP:HDA with (a, d) 0 nm, (b, e) 100 nm and (c, f)
+400 nm pores. The scale bars are 1 µm in all images. (g) Comparison of geometrically corrected
+orientation distribution for spin-coated DPP2T-TT film with various pore structure. The error bars
+were standard errors of calculated (010) peaks areas from multipeak fitting.
+7
+Figure S6. GIXD investigations of printed DPP2T-TT film. DPP2T-TT films on PVP:HDA with
+(a) 0 nm, (b) 100 nm and (c) 400 nm pores. The diffraction patterns were obtained with the printing
+direction perpendicular to the incident beam, complementing Fig. 2d-f wherein the diffraction
+pattern corresponds to parallel scans.
+8
+Table S2. Comparison of pore structures before and after the deposition of DPP2T-TT. The
+concentration of PVP is 5.5 mg/mL for template layer fabrication, while DPP2T-TT was deposited
+on the template layer from chlorobenzene solution (5 mg/mL) via spin coating. The corresponding
+thickness of the DPP2T-TT layer was measured to be 23 nm on average. The figures compare the
+AFM height images before and after DPP2T-TT deposition. Depth profile is shown along the red
+horizontal line.
+Before the deposition of DPP2T-TT After the deposition of DPP2T-TT
+Diameter (nm) Depth (nm) Diameter (nm) Depth (nm)
+89.0±10.3 20.1±3.7 90.5±8.5 18.9±2.5
+140.4±15.0 22.1±8.5 130.8±14.2 21.7±3.8
+254.5±12.2 31.5±7.6 239.6±9.2 32.0±8.5
+300.0±16.6 33.5±9.5 312.0±13.4 31.7±6.2
+500.0±6.8 35.0±5.6 482.0±10.8 33.7±11.4
+714.0±15.0 38.9±6.8 719.2±13.30 34.1±12.8
+9
+Figure S7. Contact angle of DPP2T-TT/chlorobenzene drop on substrate which is (a) nonporous
+and (b) with pore diameter of ~400 nm and pore depth of ~30 nm. For the liquid droplet on a
+porous surface in the Wenzel state, the apparent contact angle is modified and relates to the
+intrinsic contact angle by the following equation:
+1 +    q = f 1 +    q:          ( 2)
+where q and q0 are the apparent contact angle and the intrinsic contact angle respectively; f is the
+dimensionless parameter, denoting the surface area ratio Aporous/Anonporous.
+[1] To validate that the
+DPP2T-TT ink drop is in the Wenzel state when in contact with the porous surface, we calculated
+the apparent contact to compare with the measured one. The surface area ratio is estimated to be
+1.014 and the intrinsic contact angle is 11.9°, which is comparable to the measured contact angle
+~12°. This simple calculation validates that the ink drop wets the entire contour of the porous
+substrate.
+Figure S8. Mechanism of OSC deposition on the porous template. Schematic illustrating the
+inferred molecule deposition process during the meniscus-guided coating.
+10
+Table S3. Molecular packing in printed DPP2T-TT films analyzed from GIXD images. Twodimensional diffraction patterns were integrated along the polar angle c to obtain a onedimensional plot of intensity vs q. The one-dimensional diffraction pattern was subsequently
+deconvoluted with background subtraction to accurately determine the peak positions and the
+corresponding peak widths represented by the full width at half maximum (FWHM).
+Organic thin films Printing
+direction Without pores 100 nm pores 400 nm pores
+Lamella spacing
+(Å)
+par 23.35±0.01 23.22±0.02 23.07±0.02
+perp 23.18±0.02 23.38±0.02 23.28±0.02
+p-p Stacking
+distance (Å)
+par 3.57±0.05 3.55±0.05 3.56±0.03
+perp 3.56±0.04 3.58±0.07 3.57±0.04
+FWHM of p-p
+stacking peak (Å-1
+)
+par 0.16±0.01 0.14±0.03 0.16±0.02
+perp 0.15±0.02 0.15±0.01 0.15±0.01
+Table S4. Molecular packing in spin-coated DPP2T-TT films analyzed from GIXD images.
+Organic thin films Without
+pores 100 nm pores 400 nm pores
+Lamella spacing (Å) 23.20±0.05 23.35±0.09 23.21±0.06
+p-p stacking distance (Å) 3.69±0.07 3.68±0.02 3.68±0.02
+FWHM of p-p stacking peak
+(Å-1
+) 0.22±0.06 0.27±0.03 0.26±0.02
+11
+Figure S9. Capacitance of template modified dielectric. (a) The plots represent the capacitance of
+the 300 nm SiO2 dielectric layer combined with the PVP:HDA template layer as a function of pore
+sizes. (b) Capacitance of template modified dielectric layer under various ammonia concentrations.
+The thickness of the modified layer is kept at 30±8 nm.
+Figure S10. Stability measurements (5 sweeps) under ambient conditions for DPP2T-TT OFETs
+(a) without and (b) with pores.
+12
+Figure S11. Response time of DPP2T-TT sensors to NH3 gas. (a) Response time as a function of
+pore size in DPP2T-TT sensors. (b) Response time of DPP2T-TT as a function of NH3
+concentration, comparing devices without pores and with 700 nm pores. Error bars were calculated
+from 6-8 measurements on 3-4 independent samples at each condition.
+13
+Table S5. Recently reported sensing performance of OFET based NH3 sensors.
+Organic thin films Limit of
+detection
+Sensitivity
+(DI/I0)
+Response
+time
+Fabrication of the
+active layer Ref.
+Nanoporous DPP2TTT
+<1 ppb 27.8% (1 ppb)
+51% (100 ppb)
+0.4 s-1s Spin-coating/printing This
+work
+pDPPCOOH-BT 10 ppb 12.5% (1 ppm) >5 s Spin-coating [2]
+HTEB ultrathin film 100 ppb 41% (100 ppb)
+57% (500 ppb)
+5-32 s Solution shearing [3]
+CuPc-TPFB
+CoPc-TPFB
+ultrathin film
+450 ppb
+CuPc-TPFB
+26% (450 ppb)
+CoPC-TPFB
+28% (450 ppb)
+9-120
+s/>300s Thermal evaporation [4]
+Pentacene 500 ppb 23% (3 ppm) ~100 s Thermal evaporation [5]
+Graphene 500 ppb 10% (10 ppm) >3600 s Chemical vapor
+deposition [6]
+DPPT-TT - 50% (10 ppm) ~5 s Bar-coating [7]
+14
+Figure S12. Film thickness dependent sensing performance of DPP2T-TT sensors to NH3 gas.
+Sensitivity of DPP2T-TT devices with various film thicknesses as a function of ammonia
+concentration. The devices were constructed with a pores diameter of 400 nm. The error bars were
+calculated from more than five devices.
+15
+Supplementary Note 2. Sensing mechanism and reaction model
+In OFET, the charge carriers accumulate and transport in the conducting channel at the
+semiconductor-dielectric interface. When the device is exposed to ammonia, a change in the charge
+carrier density takes place due to charge transfer reaction between ammonia and polymer resulting
+in a current change. Specifically, ammonia molecules act as electron donors to the p-channel,
+leading to a decrease of the source-drain current. Previous studies on the transduction mechanism
+of resistive gas sensors show that the sensing performance is determined by two processes: gas
+diffusion and surface reaction.
+[8,9]
+ In thin film devices employed in this work, we estimated that the diffusion time scale is much
+smaller than the device response time scale. Considering ammonia diffusion in a solid film of 20-
+30 nm thick (h) and a diffusion coefficient (D) of 10-9 cm2
+/s, the time scale for diffusion is on the
+order of 10-4 s estimated from equation t=h2
+/D, which is at least three orders of magnitude shorter
+than the measured response time. Therefore, we infer that the sensing process is in the reactionlimited regime with the Damköhler number (Da) much less than 1 (Da= reaction rate/ diffusion
+rate). This simplifies the reaction-diffusion problem into a simple reaction problem. We assume
+the reaction is a first-order homogenous reaction as the following:
+   2  −   ? + NHB DPP2TTT ∙   B
+?
+IJK
+IK
+with the gate induced hole carriers DPP2T-TT+ ( %))"MMMN ) homogenously distributed in the
+conductive channel, and analyte NH3 ( O*B) uniformly distributed through the film and inside the
+pores. The evolution of the DPP2TTT ∙   B
+? (C) can be formulated as[8,10]
+  
+   =   Equation (S3)
+R =  & O*] %))"MMMN −  ^&  Equation (S4)
+where t is the time, R is the charge-transfer reaction rate, k1 and k-1 represent the forward and
+backward reaction rate coefficients respectively. Combining equation S3 and S4 gives
+  
+   =  & O*] %))"MMMN −  ^&  =  &  : −    O*] −  ^&  Equation (S5)
+where C0 is the gate voltage induced hole concentration,  O*] is the ammonia concentration.
+Solving equation S5 yields
+  =  :
+1 + `JK
+`Kabc]
+(1 −   ^ `Kabc]?`JK e Equation (S6)
+ In this case, C corresponds to the reduced hole concentration directly. The source-drain current
+(I) is proportional to the charge carrier concentration (n) in the conductive channel following
+I∝s=nqµ, wherein, q is the elementary charge and the mobility µ is constant. Therefore, the
+sensitivity relates to C as the following
+∆ / : =  k −  :
+ :
+= − 
+ :
+= − 1
+1 + `JK
+`Kabc]
+(1 −   ^ `Kabc]?`JK e ) Equation (S7)
+16
+where n0 and n’ are hole concentrations in the conductive channel before and after reaction with
+NH3. Equation S7 informs that the response time and sensitivity are controlled by the reaction rate
+constants (k1 and k-1) and ammonia concentration ( O*]). Specifically, a higher forward reaction
+rate constant and higher ammonia concentration lead to faster response and better sensitivity. This
+relationship is illustrated in Figure S13.
+Figure S13. Sensing mechanism of nanoporous DPP2T-TT OFET devices. Cross-section view
+comparing OFET devices (a) without and (b) with pores. (c) Dynamics responses comparing
+nonporous (blue) and nanoporous (red) cases respectively. S1 and S2 are the sensitivities of
+nanoporous and nonporous OFET sensors, t1 and t2 represent the corresponding response time. (d)
+Schematic illustrating the reaction sites in the semiconductor layer.
+Table S6. Calculated reaction constants as a function of pore sizes obtained from fitting the
+dynamic monitoring curves with Equation S7.
+Pore
+diameter 0 nm 170 nm 260 nm 410 nm 550 nm 670 nm 720 nm
+As/At (×10-2
+) 0 0.34±0.1 0.52±0.2 0.83±0.1 1.09±0.2 1.27±0.1 1.19±0.1
+k1 (×108 s
+-1
+) 0.798 1.81 3.04 3.30 4.32 6.27 6.10
+k-1 (s-1
+) 0.64 1.18 1.53 1.27 1.37 1.74 1.42
+17
+Figure S14. Comparison of sensing performance of solution-processed DPP2T-TT sensors. The
+current response shown are DPP2T-TT based OFET devices in the presence of NH3. The DPP2TTT films were fabricated via the printing method (navy squares) and the spin-coating method (red
+points), respectively.
+Figure S15. GIXD images of C8-BTBT thin films. GIXD images of (a-c) spin-coat and (d-f)
+printed C8-BTBT films on PVP:HDA with (a, d) 0 nm, (b, e) 100 nm and (c, f) 400 nm pores. The
+printing direction is parallel to the incident beam, which is also the charge transport direction in
+the transistor devices.
+18
+Table S7. Molecular packing in C8-BTBT films characterized by GIXD.
+Organic thin
+films
+Spin-coated film Printed film
+Without
+pores 100 nm pores 400 nm pores Without
+pores
+100 nm
+pores 400 nm pores
+Lamella
+spacing (Å) 26.54±0.02 26.50±0.02 26.50±0.02 26.65±0.02
+27.84±0.01
+26.47±0.02
+26.95±0.02
+FWHM of
+(002) peak (Å1
+)
+0.057±0.002 0.047±0.001 0.049±0.001 0.046±0.001
+0.006±0.000
+0.028±0.001
+0.047±0.001
+Stacking
+distance of
+peak at Qxy= 2
+(Å-1
+)
+3.20±0.001
+3.11±0.000
+3.17±0.001 3.14±0.001 3.16±0.001
+3.81±0.000
+3.16±0.001
+3.17±0.002
+FWHM of
+peak at Qxy= 2
+(Å-1
+)
+0.045±0.002
+0.031±0.000
+0.024±0.001 0.024±0.002 0.074±0.001
+0.025±0.002
+0.011±0.001
+0.053±0.003
+Table S8. Charge transport characteristics of C8-BTBT based OFET devices.
+Pore size Treated
+conditionsa
+Mobilityb
+(cm2
+V-1
+s
+-1
+)
+Avg(Max)
+Vth
+(V)
+Avg(Min)
+Log (Ion/Ioff)
+Avg(Max)
+0 nm
+Without PEI 1.49 (1.83) -22.4 (-20.2) 6.3(6.8)
+With PEI 1.22 (1.26) -26.2 (-24.3) 5.9 (6.2)
+300 nm
+Without PEI 2.53 (2.8) -13.2 (-3.0) 4.6 (5.5)
+With PEI 2.20 (2.7) -33.0 (-30.0) 5.3 (6.0)
+a The devices were fabricated with Ag as source-drain electrodes and measured in the air.
+b Porosity in the device is not accounted for when calculating the mobility, which may lead to
+an underestimation of mobility in nanoporous devices.
+19
+Figure S16. AFM image for C8-BTBT film (a) before and (b) after PEI coated. The device was
+deposited with pores. Scale bar: 1 µm.
+Supplementary Note 3. Sensing mechanism for C8-BTBT/PEI based formaldehyde sensor.
+ After spin-coated on the top of C8-BTBT devices, PEI reduces the organic semiconductor through
+a redox reaction (instead of a charge-transfer reaction)[11, 12]
+, which leads to formation of electroncarriers in the semiconducting layer while leaving positively changed amine groups (e.g. –NR2
++
+)
+in the PEI layer, as listed in Table S9. These electron-carriers diffuse from the top surface into the
+bottom conductive channel to neutralize the holes and reduce the on-current. When the device is
+exposed to CH2O, CH2O reacts with PEI to form salt, releasing the positive charge into the
+semiconducting layer. The hole carriers then diffuse from the top surface into the buried
+conductive channel to increase the on-current.
+ Comparing with and without nanopores, the initial reaction rate (differential) is significantly
+enhanced in nanopore devices, corresponding to a shortened total response time (integrated)
+(Figure S17). How does the presence of nanopores enhance the reaction rate between CH2O and
+PEI-coated devices? We hypothesize that, in the nanopores, the fastest reaction occurs at the
+bottom of the pore wall in direct contact with the conductive channel (Table S9). In contrast,
+without nanopores, the reaction takes place at the top surface. There are two key differences
+between the reactions at the nanopore wall and that at the top surface. At the bottom of the
+nanopore wall, 1) positively charged C8-BTBT in the conductive channel is engaged in the reaction,
+instead of neutral C8-BTBT at the top surface; 2) the π electrons of C8-BTBT is exposed at the
+pore wall to the reactants, whereas at the top surface, the reactants ‘see’ the alkyl chains instead
+due to edge-on stacking (GIXD images in Figure S15). Both factors are key to enhanced reaction
+rates with the presence of nanopores.
+20
+Table S9. Proposed formaldehyde sensing mechanism of C8-BTBT/PEI OFET sensors
+Device structure Reaction mechanism
+Devices without pores
+Step 1:
+ m     +     ∙   " ↔  m    ^ +     ∙   "
+?
+ m    ? +  m    ^ →  m    
+Step 2:
+ m     +     ∙   "
+? +   "  ↔  m    ? +     
+Device with pores
+Step 1:
+ m    ? +     ∙   " ↔  m     +     ∙   "
+?
+Step 2:
+ m     +     ∙   "
+? +   "  ↔  m    ? +     
+21
+Figure S17. Sensitivity and response time for formaldehyde sensing. (a) Integrated response times
+of corresponding devices to 1 ppm formaldehyde of C8-BTBT/PEI transistor devices with (red)
+and without (blue) pores as compared to C8-BTBT transistor device with (magenta) and without
+(black) pores over a wide range of formaldehyde gas concentration. (b) Initial response rate of C8-
+BTBT devices upon exposure to 1 ppm formaldehyde. These data were calculated from the slopes
+of the dynamic monitoring curves.
+Figure S18. Selectivity of PEI coated nanoporous C8-BTBT sensors. Figure shows current
+response of nanoporous C8-BTBT OFETs to various gases with a concentration of 10 ppb. The
+sensing measurements were carried out with a gate voltage of -40 V and drain voltage of -40 V.
+22
+Table S10. Reported concentrations of ammonia in breath of healthy and diseased subjects
+Volunteers
+Controls (ppbv) Diseased (ppbv)
+Reference
+Mean range Mean range
+Subjects of various
+age and gender 422-2389 a 13
+Subjects of various
+age and gender 833 248-2935a 14
+End-stage renal
+disease 960 425-1800b 4800 820-14700 15
+Renal failure 250 2800-5700 16
+End-stage renal
+disease 280±120
+914.5±301.4c
+or
+964.4±402.4d
+17
+End-stage renal
+disease
+120-300b (10%
+error)
+920-1700 (10%
+error) 18
+a
+The data was calculated with samples from different age/gender;
+b
+The data was measured with dialyzed sample
+c by cavity ring-down spectroscopy
+d by ion mobility spectrometry
+ We note that the wide distribution of breath ammonia concentrations in each state is largely due
+to subject-to-subject variation. Specifically, the studies referenced below show that subjects of
+different age groups and gender exhibit very different level of breath ammonia concentration.
+However, for each subject at a particular health state, the standard deviation of the breath ammonia
+concentration is significantly less, ranging from 10-50% of the mean within the period of the study
+(months). This necessitates the development of low-cost sensing technologies for personalized
+health monitoring, in which case the baseline of sensor response can be established for each
+individual for long term health monitoring. Our study shows the first step towards achieving this
+goal using low-cost, solution-processed flexible electronic chips.
+23
+Figure S19. Output characteristics of flexible OFET with DPP2T-TT as the semiconductor layer.
+Figure S20. Effect of temperature fluctuations on sensing performance. (a) Dynamic current
+response of nanoporous DPP2T-TT sensors at constant 35°C and with varying temperatures
+between 33-37°C. (b) Sensitivity of nanoporous DPP2T-TT devices to temperature fluctuations vs.
+to 1ppm NH3. The temperature of end-expired breath varies by ~2°C, ranging from 33.3-35.5°C,
+with a mean of 34.5°C both men and women considered19. When the temperature varies between
+33-37°C. Only very slight current fluctuation of ~0.2% were observed as a result of the 4°C
+temperature fluctuations around a mean of 35°C. Furthermore, the small changes caused by 2°C
+and 5°C temperature fluctuations are insignificant compared to the response to 1ppm ammonia.
+24
+Figure S21. Effect of environment temperature to sensitivity. Dynamic-sensing response curve of
+nanoporous DPP2T-TT FET devices to 1 ppb ammonia under various environment temperatures.
+The pore size is ~ 600 nm. The sensitivity DI/I0% to ammonia was found independent of
+environment temperature. This result is not surprising, because both the current change DI and the
+baseline I0 vary with respect to environment temperature and the effects cancel out.
+Supplementary Note 4. Effect of humidity on sensitivity and selectivity.
+ Here, we will discuss the humidity calibration curve, the effect of humidity on sensitivity and
+selectivity, and the impact of breath humidity fluctuations on sensing performance. We will further
+demonstrate two separate methods to eliminate the humidity effect: humidity compensation and
+sample de-humidification. We note that these methods have been successfully developed and
+demonstrated in previous works using nanomaterial sensing platforms.
+[20-22] Here we show that
+these methods can also apply to the flexible electronics sensing platform.
+ Human breath usually exhibits >80% relative humidity20,21. Correspondingly, we prepared
+samples with relative humidity (RH) ranging from 60% to 100% using air as the carrier gas and
+measured current responses using nanoporous DPP2T-TT field-effect transistors. We chose to
+perform these measurements in ambient air to mimic practical applications. In contrast, previous
+studies frequently used vacuum or inert environment (e.g. N2) for measuring sensing performance
+or studying sample humidity effect. In these studies, the impact of ambient humidity and oxygen
+was neglected. In our study, the sensors were first equilibrated in ambient air prior to
+measurements, and then subjected to sample gas to measure the current response. We measured
+both control samples with only moisture in air to obtain the humidity calibration curve (Figure
+S22a), and the samples with various ammonia concentrations in the presence of high sample
+humidity (Figure S22b and S22c). We can see that sample relative humidity alone does
+significantly alter the current response, and follows a linear trend to yield a humidity calibration
+25
+curve. The current response to ammonia systematically shifts positive with increasing RH, a trend
+consistent with the humidity calibration curve (Figure S22). The humidity effect can be fully
+compensated following an established procedure20. In other words, the sensitivity to humidity and
+VOC is additive. The compensated data falls on the same curve regardless of the sample RH%
+levels prior to compensation (open circles in Figure S22c). The compensated data corresponds to
+the current response of samples prepared without water moisture added (Figure S22b), measured
+at the lab ambient conditions (Both of the sample and ambient are at a RH=56%, at 25°C). We
+note that the ambient humidity alone (sensing of carrier gas in ambient air) also impacts the sensing
+response. This can be addressed by simply measuring calibration curves (for sample humidity) at
+the corresponding ambient humidity to perform humidity compensation. Alternatively, the
+ambient humidity can be tightly controlled, as most laboratories do.
+ Now we discuss the impact of humidity fluctuations. The humidity calibration curve (Figure S22)
+yields 0.54% current change (DI/I0%) per 1% variation in sample relative humidity (RH). This is
+equivalent to 1.7×10-3
+% change in DI/I0% per 1 ppm change of water concentration in the sample.
+Therefore, 2% fluctuations in breath humidity from person to person will only cause ~1% variation
+in the current response. In comparison, we measured 7.1% change in DI/I0% per decade change in
+ammonia concentration, or DI/I0% / log(ppmv) = 7.1% independent of the sample relative humidity
+(Figure S22). We can see that when ammonia concentration changes by close to an order of
+magnitude as in the case of renal failure, the impact of small humidity fluctuations will be
+insignificant. In addition, we note that humidity sensors can be used simultaneously with the breath
+sensors to analyze breath humidity of a particular subject at the time of breath measurement.
+Humidity compensation can be performed subsequently to eliminate the humidity effect.
+ We also tested an alternative method – sample de-humidification to eliminate the humidity effect
+prior to sensing. Desiccation has been demonstrated as an effective method for breath sample dehumidification, without interfering with certain VOCs of interest.
+[23] Previous studies identified
+sodium hydroxide (NaOH) as a very effective dehumidifying agent without removing ammonia.
+[24-
+26] We applied NaOH as desiccants to dry ammonia samples spanning a wide concentration range
+prior to sensing. The sensing measurements were carried out in dry N2 environment. Figure S23
+shows that the current response to dried ammonia overlaps with those of humid samples after
+humidity compensation. This result verifies that in both cases, the current responses are only
+attributed to ammonia, and not to other compounding factors such as sample humidity and test
+environment. We further tested the sensitivity to ammonia in the presence of dried healthy breath
+gas. For samples with and without ammonia, both current response curves shifted, but by the same
+extent. In summary, we show that both humidity compensation and sample de-humidification are
+effective strategies to eliminate sample humidity effect in the case of ammonia sensing. Under the
+background of complex VOC mixtures, humidity compensation is likely to be a more suitable
+approach, so long as the humidity effect is additive.
+[20-22,27,28]
+ Above, we discussed the effect of sample humidity on sensitivity. With regards to selectivity,
+Table S11 and Figure S24 demonstrates that the sample humidity does not negatively impact
+selectivity to ammonia in a VOC mixture background. In addition, the humidity effect can also be
+compensated using the humidity calibration curve in this case.
+26
+Figure S22. Effect of sample humidity on sensitivity to NH3 gas. (a) Current response of the
+porous DPP2T-TT devices to air samples of various RH only. To mimic the conditions during
+practical applications, we employed air as the carrier gas and performed the measurements in the
+ambient condition, at RH=56%. The humidity calibration curve yields 0.54% current change
+(DI/I0%) per 1% variation in sample RH. This is equivalent to 1.7×10-3
+% change in DI/I0% per 1
+ppm change of water concentration in the sample. (b) Current response of the porous DPP2T-TT
+devices to air samples with various concentrations of ammonia only. (c) Uncompensated (closed
+symbols) and compensated (open circles) current response of the porous DPP2T-TT devices to
+mixture of ammonia and moisture with air carrier gas. The error bars were calculated from more
+than 5 devices. The average pore diameter is ~600 nm.
+27
+Figure S23. Effectiveness of sample de-humidification using sodium hydroxide desiccants.
+Current responses of dried ammonia (red dots) is compared with those of compensated humid
+samples (dark cyan) from Figure S22. The NH3 was pre-treated with desiccant for 3h and measured
+in the glovebox (RH~0).
+28
+Table S11. Vapor pressure and concentration of analytes in the control sample (mixture A)
+VOCs
+P0 in atm
+(at 25 °C)
+Pa/P0 in mixture A
+109 Pa/1atm
+(ppb)
+Ammonia 9.76 0 0
+Acetone 0.303 10-6 303
+Acetonitrile 0.117 10-6 117
+Ethanol 0.065 10-6 65
+Formaldehyde 5.12 10-6 5120
+Hexane 0.178 10-6 178
+Isopropanol 0.058 10-6 58
+Toluene 0.037 10-6 37
+ The VOCs in the control mixture A are among the prominent VOCs found in human breath. We
+also diversified the VOCs chosen, spanning from highly polar to non-polar molecules, carrying
+different functional groups. We use this control sample as the background for studying sensor
+selectivity with respect to ammonia. In the table, we list for each component the saturated vapor
+pressure at 1 atm and 25°C, its composition expressed in Pa/P0, and the corresponding
+concentration in ppb (109 Pa/1atm which is equivalent to ppbv typically reported in the literature).
+29
+Figure S24. Selectivity to ammonia in VOC mixture of high sample humidity. Mixture A is the
+control sample (Table S11) - a gas mixture containing acetone, formaldehyde, acetonitrile, hexanes,
+ethanol, isopropanol and toluene with Pa/P0=1×10-6
+. Sample humidity calibration was performed
+using only humid carrier gas (red dots). All measurements were performed in ambient conditions,
+with ambient temperature of 25 °C and ambient RH=60%. Compared with the control sample
+(mixture A), the samples with 2×10-7 Pa/P0 ammonia led to a significantly increased the response
+of the nanoporous sensors. In addition, increasing the ammonia concentration by five times further
+increases the current response that is clearly distinguishable and consistent throughout the trials.
+These results show that the selectivity is not undermined by the VOC background studied. When
+ammonia level rises by several times as reported in the case of renal failure, we observed clearly
+discernable changes in the current response in the VOC mixture background. Furthermore, the
+sample humidity is varied between 60% to 100%, containing the range of breath humidity (>80%).
+The current responses systematically vary with sample humidity, without influencing the
+selectivity (as selectivity is relative to the background).
+30
+Figure S25. Effect of bending on mobility and sensitivity to ammonia. (a) Impact of bending
+radius on charge carrier mobility of the flexible DPP2T-TT devices during outward bending. The
+insert shows the illustration of a bent OFET. (b) Sensitivity of nanoporous DPP2T-TT sensors with
+various bending radius. In these studies, the substrate used for flexible device fabrication is PET
+coated with 0.127 mm thick ITO. Gold electrodes were deposited on the semiconducting layer to
+fabrication top contact bottom gate devices. At a bending radius of 10 mm, charge carrier mobility
+and ammonia sensitivity hardly changed. For wearable electronics applications, the bending radius
+is typically on the order of tens of millimeters. Therefore, we expect our sensor chip to be fully
+compatible with wearable electronics applications. When we continue to decrease the bending
+radius to down to 2 mm, the charge carrier mobility and the sensitivity start to shift systematically
+across the entire ammonia concentration range tested. In case if such small bending radius is
+needed in practical applications, bending calibration curve can be collected to compensate the
+sensitivity drift, DI/I0%. When the bending radius is further decreased down to 1mm, the charge
+carrier mobility drops by ~ two orders of magnitude, indicating that the OFET devices were
+damaged under high mechanical strain. This is not surprising as high bending strain was shown to
+be detrimental to electrode-semiconductor and semiconductor-substrate interfaces29. Therefore,
+below 2mm bending radius, the sensor devices no longer function properly.
+31
+Figure S26. Baseline for the current response of DPP2T-TT based breath sensors to health breath
+of an individual over a 15-day period. The devices were fabricated on flexible porous substrate
+and the breath gases were collected from the same volunteer at the same time of the day.
+32
+Figure S27. Dynamic monitoring curve of nanoporous flexible breath sensor to healthy breath and
+simulated breath with higher than unusual ammonia concentrations. For the simulated breath
+sample, 100 ppb, 1 ppm and 10 ppm NH3 were added to the health breath gas respectively.
+33
+Figure S28. Current response to dried healthy breath samples with various NH3. All of the samples
+were pre-treated with desiccant for 3h and measured in the glovebox (RH~0). The dark cyan circles
+represent the compensated data with RH calculated in Figure S22.
+34
+Figure S29. Comparison of current responses to ammonia compensated with air (dark cyan circle),
+dried health breath (red squares) and untreated healthy breath gas (blue triangle) as the carrier gas,
+over a wide range of ammonia concentration from 10 ppb to 100 ppm. The error bars were
+calculated with more than 5 devices.
+35
+References
+[1] Israelachvili, J. N. Adhesion and Wetting Phenomena. Academic Press, Massachusetts, 2011,
+17, 415-467.
+[2] Y. Yang, G. Zhang, H. Luo, J. Yao, Z. Liu, D. Zhang, ACS Appl. Mater. Interfaces 2016, 8,
+3635.
+[3] Q. Meng, F. Zhang, Y. Zang, D. Huang, Y. Zou, J. Liu, G. Zhao, Z. Wang, D. Ji, C.-a. Di, W.
+Hu, D. Zhu, J. Mater. Chem. C 2014, 2, 1264.
+[4] W. Huang, K. Besar, R. LeCover, A. M. Rule, P. N. Breysse, H. E. Katz, J. Am. Chem. Soc.
+2012, 134, 14650.
+[5] H.-W. Zan, M.-Z. Dai, T.-Y. Hsu, H.-C. Lin, H.-F. Meng, Y.-S. Yang, IEEE Electron Device
+Lett. 2011, 32, 1143.
+[6] F. Yavari, E. Castillo, H. Gullapalli, P. M. Ajayan, N. Koratkar, Appl. Phys. Lett. 2012, 100,
+203120.
+[7] D. Khim, G. S. Ryu, W. T. Park, H. Kim, M. Lee, Y. Y. Noh, Adv. Mater. 2016, 28, 2752.
+[8] G. Sakaia, N. Matsunagab, K. Shimanoea, N. Yamazoea, Sens. and Acuators B 2001, 80, 125.
+[9] Yampolskii, Y., Pinnau, I. & Freman, B. D. Materials science of membranes for gas and vapor
+separation. Wiley-VCH, Germany, 2012.
+[10] Bănică, F.-G. Chemical sensors and biosensors: Fundamentals and applications. WileyVCH, Germany, 2012.
+[11] S. Fabiano, S. Braun, X. Liu, E. Weverberghs, P. Gerbaux, M. Fahlman, M. Berggren, X.
+Crispin, Adv. Mater. 2014, 26, 6000.
+[12] X. Wang, F. Cui, J. Lin, B. Ding, J. Yu, S. S. Al-Deyab, Sens. and Actuators B-Chem. 2012,
+171-172, 658.
+[13] A. M. Diskin, P. S. el, D. Smith, Physiol. Meas. 2003, 24, 107.
+[14] C. Turner, P. Spanel, D. Smith, Physiol. Meas. 2006, 27, 321.
+[15] S. Davies, P. Spanel, D. Smith, Kidney Int. 1997, 52, 223.
+[16] C. Popa, D. C. A. Dutu, R. Cernat, C. Matei, A. M. Bratu, S. Banita, D. C. Dumitras, Appl.
+Phys. B 2011, 105, 669.
+[17] G. Neri, A. Lacquaniti, G. Rizzo, N. Donato, M. Latino, M. Buemi, Nephrol. Dial.
+Transplant. 2012, 27, 2945.
+[18] L. R. Narasimhan, W. Goodman, C. K. Patel, Proc. Natl. Acad. Sci. U S A 2001, 98, 4617.
+[19] J. M. Cowan, J. M. Burris, J. R. Hughes, M. P. Cunningham, J. Anal. Toxicol. 2010, 34,
+238.
+[20] E. Dovgolevsky, G. Konvalina, U. Tisch, H. Haick, J. Phys. Chem. C 2010, 114, 14042.
+[21] G. Konvalina, H. Haick, ACS Appl. Mater. Interfaces 2012, 4, 317.
+[22] G. Chen, J. Qiu, Y. Liu, R. Jiang, S. Cai, Y. Liu, F. Zhu, F. Zeng, T. Luan, G. Ouyang, Sci.
+Rep. 2015, 5, 15682.
+36
+[23] A. Prabhakar, R. A. Iglesias, X. Shan, X. Xian, L. Zhang, F. Tsow, E. S. Forzani, N. Tao,
+Anal. Chem. 2012, 84, 7172.
+[24] K. Toda, J. Li, P. K. Dasgupta, Anal Chem 2006, 78, 7284.
+[25] X. Huang, N. Hu, R. Gao, Y. Yu, Y. Wang, Z. Yang, E. Siu-Wai Kong, H. Wei, Y. Zhang,
+J. Mater. Chem. 2012, 22, 22488.
+[26] L. Sun, Z. Zhang, H. Dang, Mater. Lett. 2003, 57, 3874.
+[27] G. Konvalina, H. Haick, Acc. Chem. Res. 2014, 47, 66.
+[28] H. Haick, Y. Y. Broza, P. Mochalski, V. Ruzsanyi, A. Amann, Chem. Soc. Rev. 2014, 43,
+1423.
+[29] T. Sekitani, U. Zschieschang, H. Klauk, T. Someya, Nat. Mater. 2010, 9, 1015.

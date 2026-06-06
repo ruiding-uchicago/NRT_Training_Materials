@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.5b05211",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-8 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "polypyrrole",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "5",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

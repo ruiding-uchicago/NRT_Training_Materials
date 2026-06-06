@@ -1,0 +1,223 @@
+Highly Sensitive Chemical-Vapor Sensor Based on Thin-Film Organic Field-Effect Transistors with Benzothiadiazole-Fused-Tetrathiafulvalene
+Ge Yang, Chong-an Di, Guanxin Zhang, Jing Zhang, Junfeng Xiang, Deqing Zhang, Daoben Zhu
+First published: 26 October 2012 https://doi.org/10.1002/adfm.201202473Citations: 51
+Find It at UChicago
+SectionsPDFTools Share
+Abstract
+The synthesis of a new tetrathiafulvalene derivative with an electron-withdrawing benzothiadiazole moiety and its use in thin-film organic field-effect transistors (OFETs) are reported. Compared to reported OFETs with other TTF derivatives, a high hole mobility up to 0.73 cm2 V−1 s−1, low off-current and high on/off ratio up to 105 are demonstrated. In addition, the developed OFETs show fast responsiveness toward chemical vapors of DECP (diethyl chlorophosphate) or POCl3 which are simulants of phosphate-based nerve agents. In contrast to previously reported OFET-based sensors, off-current is used as the output signal, which increases quickly upon exposure to either DECP or POCl3 vapors. High sensitivity is demonstrated toward DECP and POCl3 vapors, with concentrations as low as 10 ppb being detected. These OFETs are also responsive to TNT vapor. The sensing mechanisms for the new type of OFET are discussed.
+
+1. Introduction
+In recent years, organic field-effect transistors (OFETs) have received increasing attention, and their performance has been improved significantly, becoming comparable to those of amorphous silicon transistors.1-8 OFETs have demonstrated promising applications in various areas including electronic paper and radio frequency identification tags (RFID).9-11 One of the potential applications of OFETs is chemical sensing which is crucially important for early-diagnosis of human diseases and environmental monitoring.12-14 OFET-based sensing has attracted more and more attention in recent years.12, 13 In fact, OFET-sensors have been described for oxygen, humidity, nitrogen dioxide, ammonia, carbon monoxide, hydrogen sulfide, and phosphonate vapor.14-18 Bao and co-workers have successfully constructed biosensors with OFETs for detection of cysteine and glucose as well as DNA.12, 19 For these OFETs sensors, the analyte-receptor (organic semiconductor) binding usually leads to effective trapping and/or doping of carriers across the conductive channel and results in obvious change of electrical signals. The sensitivity of these OFETs is encouraging, but the selectivity needs to be improved further. Therefore, exploration of new semiconductors and the respective OFETs is highly desirable for constructing both sensitive and selective sensors with electrical output signals. In this paper, we report a highly sensitive and selective OFET-based sensor for phosphoryl chloride-type molecules with benzothiadiazole-tetrathiafulvalene as the semiconducting layer.
+
+Tetrathiafulvalene (TTF) and its derivatives have played a significant important role in the development of organic conducting materials.20-22 Moreover, TTF and its derivatives are utilized as electroactive building blocks for supramolecules and chemical sensors in solutions.23-27 This is possible because the electron donors, TTF and its derivatives, can interact with electron acceptors and can be transformed into TTF•+ and even TTF2+ after appropriate oxidation.22-27 Thus, the construction of selective OFET-based sensors with TTF derivatives as the active layers is anticipated by taking advantage of the electroactive features of TTF derivatives. In fact, OFETs based on TTF derivatives have been investigated,28-33 and the corresponding single-crystal and thin-film transistors exhibit high mobilities up to 10 and 0.64 cm2 V−1 s−1, respectively.28, 29 However, the strong electron-donating property of TTF derivatives leads to easy doping of their thin films by oxygen,34, 35 resulting in high off-state conductivity (low on/off ratio), and preventing their application in OFET-based sensors with high sensitivity. If appropriate electron-withdrawing groups can be introduced into the TTF skeleton, the off-state conductivity is expected to be low, leading to high on/off ratio. With these considerations in mind, compound 1 (see Scheme 1), in which benzothiadiazole as an electron withdrawing group is introduced to TTF to lower the electron donating ability, is designed and explored for the construction of selective OFET-sensors. The results reveal that thin-film OFETs of 1 with hole-mobility up to 0.73 cm2 V−1 s−1 can be fabricated; importantly, the on/off ratio of these OFETs can reach 105. Moreover, these OFETs can be utilized as highly sensitive and selective sensors for vapors of POCl3 and diethyl chlorophosphate (DECP), which are regarded as simulants for phosphonate nerve agents.36 Needless to say, the sensitive detection of nerve agents is highly desirable.
+
+Details are in the caption following the image
+Scheme 1
+Open in figure viewer
+PowerPoint
+Synthetic approach to compound 1: i) N, N′-carbonyl diimidazole/CH2Cl2, RT; ii) P(OEt)3, under reflux.
+
+2. Results and Discussion
+2.1. Synthesis and Characterization
+The synthesis of compound 1 is shown in Scheme 1. Compound 2, which was synthesized according to a previously reported procedure,37 was reacted with N, N′-carbonyl diimidazole leading to compound 3 in 81% yield. Compound 1 was obtained by the reaction between 3 and 4 in the presence of triethyl phosphite in 37% yield after separation. The molecular structure of 1 was characterized with NMR and MS data (see the Experimental Section) and the purity was confirmed with elemental analysis.
+
+Two quasi-reversible redox waves (see Supporting Information Figure S1) were observed for 1 with Eox11/2 = 0.83 V (vs Ag/AgCl) and Eox21/2 = 1.28 V (vs Ag/AgCl). For comparison, the oxidation potentials of DB-TTF (dibenzotetrathiafulvalene) were determined to be Eox11/2 = 0.67 V (vs Ag/AgCl) and Eox21/2 = 1.02 V (vs Ag/AgCl) under the same conditions. Obviously, oxidation potentials of 1 become more positive compared to those of DB-TTF; as a result 1 becomes less easily oxidized. This is due to the introduction of electron-withdrawing benzothiadiazole group. The HOMO energy of 1 was estimated to be −5.19 eV from the onset oxidation potential of the first redox wave according to the equation: EHOMO = –(Eoxonset + 4.4 eV).
+
+Figure S2 (Supporting Information) shows the absorption spectra of 1 in solution and thin-film state. A broad absorption around 485 nm was detected for 1 in solution; this is likely owing to the intramolecular charge-transfer between TTF core and benzothiadiazole moiety within 1. Compared to that of 1 in solution, the absorption spectrum of the thin-film of 1 is obviously red-shifted. According to previous reports,32, 38 such spectral shift can be attributed to the intermolecular interactions within thin-film of 1. The optical energy gap (Egopt) for 1 was estimated to be 1.9 eV based on the onset of absorption of the film. Accordingly, the LUMO energy of 1 was estimated to be −3.29 eV.
+
+Density functional theory (DFT) calculations were performed for 1. Figure 1 depicts the calculated molecular structure of 1 and the HOMO/LUMO orbitals. Except the 2CH2CH2 end group molecule of 1 is planar, which is beneficial for intermolecular π–π interactions and thus transporting charge-carriers. The HOMO orbital is mainly distributed on the TTF core, whereas the LUMO orbital resides mainly on the benzothiadiazole moiety. The calculated HOMO and LUMO energies are −5.13 and −2.46 eV, respectively. These are different from those obtained with cyclic voltammetric and absorption spectral data. However, this is understandable as solvent effects and intermolecular interactions are not involved in the theoretical calculations. For comparison, the HOMO and LUMO energies of DB-TTF were also calculated to be −4.70 and −1.12 eV, respectively. It is obvious that 1 possesses low-lying HOMO and LUMO levels after the introduction of the electron-withdrawing benzothiadiazole moiety.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Molecular structure and HOMO/LUMO orbitals of 1 based on DFT calculations.
+
+2.2. Fabrication and Performance of OFETs
+The bottom-gate top-contact (BGTC) OFETs with 1 on Si/SiO2 substrates were fabricated with conventional techniques (see the Supporting Information). Thin-films of 1 of 40–60 nm in thickness were prepared by vapor deposition at different substrate temperatures. OFETs on both bare SiO2/Si and OTS (octadecyltrichlorosilane) modified SiO2/Si substrates were fabricated. The device performances were measured in air and listed in Table 1. As an eample, Figure 2 shows the output and transfer characteristics of the OFET with thin film of 1 (deposited at 30 °C) on OTS modified SiO2/Si. Obviously, IDS increased by applying the negative VGS. Other OFETs of 1 exhibit similar characteristics. Thus, thin-film of 1 behaves as a p-type semiconductor. This is in agreement with the HOMO level of 1 as discussed above.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+a) Device structure of the fabricated bottom-gate, top-contact OFETs based on thin-film of 1, b) output, and c) transfer characteristics for OFET based on thin-film of 1 deposited on OTS-modified SiO2/Si substrate at 30 °C.
+
+Table 1. Mobility (μ), current on/off ratio (Ion/Ioff) and threshold voltage (VT) of OFETs with thin-films of 1 at different substrate temperature.
+Substrate temperature [°C]	Dielectric layer	μ [cm2V−1s−1]	Ion/Ioff	VT [V]
+20	SiO2	0.02–0.06	104–105	12–25
+20	SiO2+OTS	0.12–0.20	104–105	4–9
+30	SiO2+OTS	0.31–0.73	104–105	2–5
+40	SiO2+OTS	0.14–0.19	104–105	5–7
+As listed in Table 1, OFETs of 1 exhibit high mobility, low off-current and, in particular, high on/off ratio under ambient conditions, in comparison with the reported thin-film transistors with TTF derivatives.30 Moreover, OFETs of 1 show higher hole mobility and lower threshold voltage on OTS modified SiO2/Si substrate than on bare SiO2/Si substrate. The hole mobility of OFETs with 1 can reach as high as 0.73 cm2 V−1 S−1 with on/off ratio up to 105. Note that these device performance data are the highest reported so far among the thin film OFETs with TTF derivatives.29-33 For instance, the hole mobility of thin-film OFETs with DB-TTF was reported to be 0.06 cm2 V−1 S−1.29, 39
+
+Moreover, the hole mobility is varied with the substrate temperature; it increases by increasing the substrate temperature from 20 to 30 °C, but it decreases by further increasing the substrate temperature to 40 °C (see Table 1). According to previous studies,29-33 the carrier mobility of OFETs is influenced by thin film-morphology and intermolecular packing. Figure 3 depicts the AFM images of thin films of 1 deposited at different temperatures and the respective XRD patterns. Clearly, the grain size increases by increasing the substrate temperature; the grain size is in the range of 200–300 nm for thin film of 1 on OTS modified substrate deposited at 20 °C, and it becomes 600–1000 and 1200–2500 nm, respectively, after increasing the substrate temperatures to 30 and 40 °C. The boundary areas decrease simultaneously after increasing the substrate temperatures. Such thin-film morphological alteration is favorable for improving carrier mobility based on previous reports.29 However, defect sites emerge and thus the grains become non-continuous for the thin film deposited on modified substrate at 40 °C (see Figure 3d).
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+AFM images of thin films of 1 evaporated a) on bare SiO2/Si at room temperature, b) on the OTS-modofied SiO2/Si at room temperature, c) on the OTS-modified SiO2/Si at 30 °C and d) on the OTS-modified SiO2/Si at 40 °C; e) XRD patterns for thin-films of 1 deposited at different substrate temperatures.
+
+Thin-film of 1 deposited at 20 °C shows weak XRD signals at 5.56°, 11.18°, 16.92°, and 22.60° (see Figure 3). The first d-spacing (15.88 Å) may correspond to the molecular length of 1 (16.17 Å). Interestingly, the intensities of these XRD signals increase significantly after increasing the deposition temperature to 30 °C. The appearance of these strong XRD signals implies that molecules of 1 are more orderly arranged within thin-film of 1. This is in fact in agreement with the observation that thin-film of 1 shows higher hole mobility upon deposition on modified substrate at 30 °C (see Table 1). The first diffraction peak becomes weak after further increasing the deposition temperature to 40 °C. This corresponds well to the decrease of the hole mobility for the thin-film of 1 deposited at 40 °C.
+
+2.3. OFET-Based Chemical Vapor Sensor
+In the following, we demonstrate the variation of device performance for OFETs of 1 upon exposure to different chemical vapors. OFETs for chemical vapor sensing were fabricated with thin-films of 1 deposited on modified substrates at 30 °C. Figure 4a shows the transfer characteristics of OFETs of 1 upon exposure to air. Obviously, the transfer characteristics remained almost unaltered. The variation of ID vs the device operation time was not affected upon sudden airflow at 70 s as depicted in Figure 4b. In comparison, the transfer characteristics of OFETs of 1 varied obviously after exposure to DECP (diethyl chlorophosphate) vapor as depicted in Figure 4c. When the concentration of DECP vapor was lower than 100 ppm, the off-current (ID at VGS = 20 V and VDS = −60 V) was enhanced gradually by increasing the vapor concentration. For instance, the off-current was enhanced by 167% after exposure to 100 ppb of DECP vapor for 10 s. The off-current enhancement was still detectable even when the concentration of DECP vapor was as low as 10 ppb. Figure 4d depicts the variation of ID vs the device operation time. The off-current increased smoothly by prolonging the operation time, but a sudden further enhancement was detected after exposure to DECP vapor at 50 s. The slope of the plot of IDSAT1/2 vs VGS kept almost unchanged after exposure to DECP vapor with low concentration; thus, the hole mobility was not affected under this condition. When OFETs of 1 met DECP vapor with concentration as high as 100 ppm, the saturation current was unaltered; however, the slope of the plot of IDSAT1/2 vs VGS became smaller, as displayed in Figure 4c. This is again probably due to the the change of the off- current. Thus, exposure to high concentration of DECP vapor can induce the decrease of hole mobility of OFETs of 1.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+a) Transfer characteristics (IDS vs VG) and b) ID vs time for OFET of 1 operated under ambient conditions; c) transfer characteristics (IDS vs VG) after exposure to DECP at different concentrations and d) ID vs time for OFET of 1 after exposure to DECP with concentration of 50 ppb; e) transfer characteristics (IDS vs VG) and f) ID SAT vs time for OFET of 1 after exposure to TNT vapor with a concentration of 100 ppb.
+
+Apart from DECP vapor, OFETs of 1 were also exposed to POCl3 vapor. The transfer characteristics of OFETs of 1 were displayed in Figure S3 (Supporting Information) after exposure to POCl3 vapor. Clearly, OFETs of 1 show similar responses to POCl3 vapor as to DECP vapor. The off-current was enhanced upon exposure to low concentration of POCl3 vapor, and the hole mobility was reduced after exposure to high concentration of POCl3 vapor. Additionally, based on the consideration that TNT (2,4,6-trinitrotoluene) as an electron acceptor is expected to interact with 1 (an electron donor), OFETs of 1 were also exposed to TNT vapor (100 ppb) and the resulting transfer characteristics were shown in Figure 4e. Interestingly, the off-current remained almost unaltered upon exposure to TNT vapor. However, the slope of the plot of IDSAT vs VGS was reduced slightly and the IDSAT was suddenly reduced after exposure to TNT vapor (100 ppb) (see Figure 4f at 20 s).
+
+Previous studies on OFET sensors indicate that the adsorbed analytes can diffuse into organic semiconducting layers to induce a portion of mobile charges to be trapped and also slow down the movement of untrapped carriers;15-19 as a result, the carrier mobilities and IDSAT are also reduced. The sensing mechanisms for OFETs of 1 are explained as follows: 1) compound 1 may become easily oxidized in the presence of either DECP or POCl3. This is supported by the variation of the redox waves of 1 after interactions with DECP or POCl3 as shown in Figure S4 (Supporting Information); the first oxidation wave (corresponding to oxidation of 1 into 1•+) became weak obviously after mixing 1 with DECP, whereas the second oxidation wave (due to the transformation 1•+ into 12+) was enhanced. This result reveals that the partial amount of 1 is transformed into 1•+ after interactions with either DECP or POCl3. Consequently, after exposure to DECP or POCl3 vapors, more hole carriers may be generated in the semiconducting layer, resulting in the enhancement of off-current. However, the thin-film OFETs with pentacene that can be also oxidized show different sensing behavior toward either DECP or POCl3 (see below). Therefore, other factors like film morphology might be playing an important role for sensing DECP and POCl3 with OFETs of 1; 2) at high concentration of DECP or POCl3 vapors, molecules of DECP or POCl3 may diffuse into the semiconducting layer and trap the hole carriers, and as a result the hole mobility will be reduced; 3) charge-transfer interaction between 1 and TNT can be neglected based on the absorption spectral studies both in solution and solid states. Thus, it is anticipated that TNT cannot induce the formation of more hole carriers, but it may trap the carriers and slow down the movements of hole carriers, leading to the reduction of hole mobility.
+
+For comparison, OFETs with pentacene were also fabricated and exposed to DECP and POCl3 vapors under the same conditions, and the resulting transfer characteristics are depicted in Figure S5 (Supporting Information). At low concentration of DECP or POCl3 vapors the transfer characteristics including off-current remained almost unchanged. However, the hole mobility decreased after increasing the vapor concentration to 100 ppm. These results reveal that OFETs of 1 display much higher sensitivity toward DECP or POCl3 than pentacene-based OFETs.
+
+To conclude briefly, OFETs of 1 show responses toward chemical vapors in two different ways: 1) off-current is enhanced upon exposure to either DECP or POCl3 vapors with concentrations lower than 100 ppm. Note that OFET-based sensors with off-current enhancement have rarely been reported; 2) hole mobility of OFETs with thin-films of 1 is reduced when the device is exposed to DECP or POCl3 at concentrations higher than 100 ppm, as well as TNT vapor at a concentration of 100 ppb.
+
+3. Conclusions
+A new TTF derivative (1) with an electron-withdrawing benzothiadiazole moiety was synthesized and characterized. Thin-film OFETs of 1 with BGTC (bottom-gate top-contact) configuration were successfully fabricated on both bare and OTS modified Si/SiO2 substrates. OFETs of 1 exhibit high hole mobility up to 0.73 cm2 V−1 s−1, low off-current, and high on/off ratio up to 105. Compared to the reported OFETs with other TTF derivatives, OFETs of 1 show rather good performances in terms of mobility and on/off ratio. This should be attributed to the presence of benzothiadiazole moiety in 1 and as a result the electron-donating ability of 1 is lowered.
+
+OFETs of 1 can be utilized for sensing chemical vapors of DECP or POCl3 which are simulants of phosphate-based nerve agents. In contrast to previously reported OFET-based sensors,14-18 off-current was used as the output signal. This increased quickly upon exposure of OFETs of 1 to either DECP or POCl3 vapors with concentrations lower than 100 ppm. DECP or POCl3 vapors with concentrations as low as 10 ppb can be effectively detected with OFETs of 1. The hole mobility of the OFETs based on 1 decreases when the devices interact with the chemical vapors of DECP or POCl3 at concentrations higher than 100 ppm. Similarly, the saturation current (IDSAT) and the hole mobility decrease when the devices interact with TNT vapor. These results reveal that the performances of OFET-based chemical sensors can be improved by choosing appropriate organic semiconductors. Development of new organic semiconductors with selective binding moieties is underway for constructing both sensitive and selective OFET-based sensors.
+
+4. Experimental Section
+Materials and Characterization Techniques: Chemicals, which were purchased from Aldrich, Alfa Aesar, JKChemical were used as received without further purification. All solvents were purified and dried following standard procedures unless otherwise stated. 2,1,3-Benzothiadiazole-5,6-dithiol (2) and 2,5,7,9-tetrathiabicyclo(4.3.0)non-1(6)-ene-8-thione (4) were synthesized according to the reported procedures.37, 40
+
+Melting point was measured with a BÜCHI B-540 microscope apparatus. 1H-NMR and 13C-NMR spectra were recorded on Bruker Avance 600, Avance 400 and Avance III 400 spectrometers. TOF-MS spectra were determined with a BEFLEX III spectrometer. HRMS data were determined with an FTICR-APEX instrument. Elemental analyses were performed on a Carlo-Erba-1106 instrument. Electronic absorption spectra were determined used a Jasco V570 UV-vis spectrophotometer. Cyclic voltammetric measurements were performed in a standard three-electrode cell, with Pt/C as the working electrode and Pt as auxiliary electrode, and Ag/AgCl electrode (saturated KCl) as the reference electrode; n-Bu4NPF6 (0.1 M) was used as supporting electrolyte. TGA analyses were performed on a Shaimdzu DTG-60 instruments under a dry N2 flow at a heating rate of 10 °C/min, heating from room temperature to 550 °C. X-ray diffraction (XRD) measurements were carried out in the reflection mode using a Rigaku D/max-2500 X-ray diffractometer. AFM was recorded on a Nanoscope III atomic force microscopy (AFM) in trapping mode.
+
+OFETs were fabricated with a bottom-contact configuration. A thin film of 1 (ca. 50 nm in thickness) was vacuum deposited on octadecyltrichlorosilane (OTS)-modified Si/SiO2 substrate at different substrate temperatures. A n-type Si wafer with a SiO2 layer of 300 nm and a capacitance of 11 nF cm−2 was used as the gate and dielectric, and gold source and drain contacts (20 nm) were deposited on the organic layer through a shadow mask. The channel length (L) and width (W) were 0.11 and 5.30 mm, respectively. The measurements were carried out under ambient atmosphere at room temperature using a Keithley 4200 SCS semiconductor parameter analyzer. The mobility was extracted from the following equation:
+equation image
+where μ is the field-effect mobility, L and W are the channel length and width, respectively, Ci is the insulator capacitance per unit area, and VGS and VT are the gate voltage and threshold voltage, respectively.
+Synthesis of Compound 3: To a solution of 2 (2.0 g, 0.01 mol) in dichloromethane (20 mL) was added N, N′-carbonyl diimidazole (1.95 g, 0.012 mol), and the mixture was stirred over night at room temperature. After separation by column chromatography on silica gel with CH2Cl2/petroleum (60–90 °C) (1:1, v/v) as eluant, Compound 3 was obtained as pale yellow solid in 81% yield (1.83 g). M.p. 201.7 °C–202.6 °C; 1H-NMR (600 MHz, CDCl3, δ): 8.17 (s, 2H), 13C-NMR (150 MHz, CDCl3, δ): 188.8, 153.9, 137.7, 115.9; EIMS m/z: 226 [M+], 100%); HRMS (EI) (m/z) [M+]: calcd. for C7H2N2OS3: 225.9329; found: 225.9322.
+
+Synthesis of Compound 1: Compounds 3 (1.83 g, 0.081 mol) and 4 (5.50 g, 0.243 mol) were dissolved in 30 mL of P(OEt)3, and the solution was refluxed for 4.0 h under N2 atmosphere. The mixture was cooled down to room temperature and filtered. The precipitate was recrystallized from chloroform, yielding a purple solid (1.2 g) in 37% yield. M. p. 272.3 °C–273.2 °C; MALDI-TOF (m/z) [M+]: 402; 1H-NMR (400 MHz, CDCl3, δ): 7.81(s, 2H), 3.33 (s, 2H); 13C-NMR (100 MHz, solid-state, δ): 156.3, 112.5, 111.2, 107.5, 27.3; Anal. calcd. for C12H6N2S7: C 35.80, H 1.50, N 6.96, S 55.7; Found: C 35.79, H 1.37, N 7.04, S 55.93.
+
+Supporting Information
+for Adv. Funct. Mater., DOI: 10.1002/adfm.201202473
+Highly Sensitive Chemical-Vapor Sensor Based on Thin-Film
+Organic Field-Effect Transistors with BenzothiadiazoleFused-Tetrathiafulvalene
+Ge Yang, Chong-an Di, Guanxin Zhang, Jing Zhang, Junfeng
+Xiang, Deqing Zhang,* and Daoben Zhu
+ Submitted to
+   S1      1 
+Supporting Information for DOI: 10.1002/adfm.201202473
+Highly sensitive chemical-vapor sensor based on thin-film organic field-effect transistors
+with benzothiadiazole-fused-tetrathiafulvalene
+By Ge Yang, Chong-an Di,*
+ Guanxin Zhang,*
+ Jing Zhang, Junfeng Xiang, Deqing Zhang,*
+Daoben Zhu
+Contents
+1. Cyclic voltammogram of 1……………………………………….. ………………………S2
+2. UV-Vis absorption spectra of 1 and the thin film ………………….. ………………………S2
+3. Transfer characteristics for OFETs with thin-film of 1 after exposure to POCl3 ………… S2
+4. Differential pulse voltammogram of 1 in the absence and presence of DECP…………….S3
+5. Transfer characteristics for OFET with thin-film of pentacene after exposure to DECP and
+POCl3 ……………………….……….….….……….……... ….….……….……...……… S3
+6. TGA analysis of 1………….……….….….……….……... ….….……….……...………. S4
+7. Theoretical calculations for 1….….……………….………….…………….……………… S4
+8. 1HNMR & 13CNMR spectra of 1 and 3….….……………….………….…………….….. S5
+ Submitted to
+   S2      2 
+0.4 0.6 0.8 1.0 1.2 1.4 1.6
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+I(µ
+A)
+E (V vs Ag/AgCl)
+Figure S1 Cyclic voltammogram of 1 (0.001 M in CH2Cl2) containing 0.1M of Bu4NPF; the
+scan rate was 50 mV/s.
+300 400 500 600 700 800
+0.00
+0.05
+0.10
+0.15
+ Wavelength (nm)
+Normailzed intensity(a.u.)
+Black: in CH2Cl2;
+Red: vacuum deposited film
+Figure S2 Absorption spectrum of 1 in solution (5.0 × 10-5 M in CH2Cl2, black) and that of
+the thin-film of 1 (red).
+Figure S3 (a) Transfer characteristics (IDS vs. VG) and (b) ID SAT vs. time for OFET with thinfilm of 1 after exposure to POCl3 at different concentrations.
+ Submitted to
+   S3      3 
+0.4 0.6 0.8 1.0 1.2 1.4 1.6
+0.00000
+0.00002
+0.00004
+0.00006
+0.00008
+E( V vs Ag/AgCl)
+I(A)
+Black:TTF
+Red:TTF+DECP
+Figure S4 Differential pulse voltammogram of compound 1 in the absence (black) and
+presence of DECP (red).
+Figure S5 Transfer characteristics (IDS vs. VG) for OFET with thin-film of pentacene after
+exposure to (a) DECP and (b) POCl3 vapors with concentration of 100 ppm; ID SAT vs. time for
+OFET with thin-film of pentacene after exposure to (c) DECP and (d) POCl3 vapors with
+concentration of 100 ppm.
+ Submitted to
+   S4      4 
+TGA analysis of 1
+100 200 300 400 500 600
+50
+60
+70
+80
+90
+100
+Temperature (
+oC)
+o
+Weight (%)
+DFT calculation for compound 1
+Calculation method: B3LYP/6-31G (d, p) with Gaussian 09
+ X Y Z
+1 C 3.611774 0.695226 0.227807
+2 C 3.620607 -0.65323 0.177906
+3 S 2.19898 -1.4403 -0.557
+4 C 1.208571 0.040675 -0.52743
+5 S 2.187217 1.525509 -0.44826
+6 C -0.13961 0.034818 -0.60525
+7 S -1.11088 1.523199 -0.65194
+8 C -2.65218 0.735594 -0.27354
+9 C -2.64516 -0.70966 -0.31918
+10 S -1.09673 -1.45675 -0.74795
+11 C -3.79232 1.443452 0.008442
+12 C -4.98999 0.711096 0.245832
+13 C -4.9828 -0.74059 0.200726
+14 C -3.7781 -1.44492 -0.08183
+15 N -6.18644 1.234804 0.530212
+16 S -7.21251 -0.04127 0.721626
+17 N -6.17391 -1.29272 0.451821
+18 S 4.995951 1.667475 0.723243
+19 C 6.274925 0.635318 -0.11193
+20 C 6.451195 -0.73158 0.533317
+21 S 4.898052 -1.74502 0.713279
+22 H -3.80414 2.526854 0.057674
+23 H -3.77935 -2.52934 -0.10033
+24 H 7.213945 1.192737 -0.03218
+25 H 6.007211 0.55444 -1.16842
+26 H 7.139123 -1.33642 -0.06756
+27 H 6.862853 -0.62567 1.539371
+Total energy: -3357.6555051 Hatree
+ Submitted to
+   S5      5 
+The
+1
+H-NMR and
+13
+C-NMR spectra of 1 and 3
+ Submitted to
+   S6      6

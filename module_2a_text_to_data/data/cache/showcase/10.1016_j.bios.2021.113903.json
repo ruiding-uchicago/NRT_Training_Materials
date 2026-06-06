@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2021.113903",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "GABA",
+      "lower_detection_limit": "1 aM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "GABAA receptor",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

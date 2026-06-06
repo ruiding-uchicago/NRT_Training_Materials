@@ -1,0 +1,45 @@
+{
+  "stem": "10.1016_j.aca.2017.07.066",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+ (calcium ion)",
+      "lower_detection_limit": "1e-8 M (10^-8 M)",
+      "upper_detection_limit": "1e-2 M (10^-2 M)",
+      "probe_material": "Ca2+ selective membrane (calcium ionophore IV/ETH 5234, potassium tetrakis(4-chlorophenyl)borate, 2-nitrophenyl octyl ether, high molecular weight poly(vinyl chloride))",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.01 M KCl ionic buffer solution"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+ (calcium ion)",
+      "lower_detection_limit": "1e-7 M (10^-7 M)",
+      "upper_detection_limit": "1e-2 M (10^-2 M)",
+      "probe_material": "Ca2+ selective membrane (calcium ionophore IV/ETH 5234)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.01 M NaCl ionic buffer solution"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+ (calcium ion)",
+      "lower_detection_limit": "1e-6 M (10^-6 M)",
+      "upper_detection_limit": "1e-2 M (10^-2 M)",
+      "probe_material": "Ca2+ selective membrane (calcium ionophore IV/ETH 5234)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.01 M MgCl2 ionic buffer solution"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+ (calcium ion)",
+      "lower_detection_limit": "1e-6 M (10^-6 M)",
+      "upper_detection_limit": "1e-2 M (10^-2 M)",
+      "probe_material": "Ca2+ selective membrane (calcium ionophore IV/ETH 5234)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.01 M LiCl ionic buffer solution"
+    }
+  ]
+}

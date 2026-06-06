@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s11664-022-09526-6",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ions)",
+      "lower_detection_limit": "pH 6",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "Bismuth oxide (Bi2O3) nanostructured film",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "6-12",
+      "test_medium": "buffer solutions (pH 6: citric acid/sodium hydroxide; pH 7: disodium hydrogen phosphate/potassium dihydrogen phosphate; pH 10: boric acid/potassium chloride/sodium hydroxide; pH 12: disodium hydrogen phosphate/sodium hydroxide)"
+    }
+  ]
+}

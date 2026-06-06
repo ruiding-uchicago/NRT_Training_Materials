@@ -1,0 +1,468 @@
+SCIENCE CHINA
+Technological Sciences
+© Science China Press and Springer-Verlag Berlin Heidelberg 2014 tech.scichina.com link.springer.com
+
+*Corresponding author (email: taitai1980@uestc.edu.cn)
+• Article • June 2014 Vol.57 No.6: 1101–1108
+doi: 10.1007/s11431-014-5539-8
+The effect of MWCNTs on the performance of α-sexithiophene
+OTFT device and its gas-sensing property
+TAI HuiLing*
+, ZHANG Bo, DUAN ChengLi, XIE GuangZhong & JIANG YaDong
+State Key Laboratory of Electronic Thin Films and Integrated Devices, School of Optoelectronic Information, University of Electronic Science
+and Technology of China, Chengdu 610054, China
+Received November 21, 2013; accepted April 2, 2014; published online May 13, 2014
+In this paper, bottom contact organic thin-film transistor (OTFT) gas sensors were prepared. Silicon dioxide (SiO2) and titanium/aurum (Ti/Au) were used as the insulating layer and the electrode for the device, respectively. The multi-walled carbon
+nanotubes (MWCNTs)/α-sexithiophene (α-6T) bilayer films were used as the active layer, and α-6T single layer sensitive film
+was also prepared for comparison purpose. The electrical and trace NO2-sening properties of these two OTFT gas sensors were
+tested and analyzed. The results showed that, the OTFT device based on MWCNTs/α-6T bilayer had obviously better electrical
+properties, better stabilities and higher NO2-sening response values than the device with α-6T single layer, in which both the
+carrier mobility (μ) and on/off current ratio enhanced two order of magnitude. The improved performance of bilayer OTFT can
+be explained that MWCNTs acted as highly conducting bridges connecting the crystalline terraces in the α-6T film. Threshold
+voltage (VT), carrier mobility, on/off current ratio and grid current which showed extremely similar variation trend as
+source-drain current, were optional parameters to reveal the gas-sensing characteristic of OTFT gas sensors. Morphology
+analysis showed that the special feature of MWCNTs had certain influence on the gas-sensing properties.
+MWCNTs, -6T, organic thin-film transistor (OTFT), gas sensors, NO2
+Citation: Tai H L, Zhang B, Duan C L, et al. The effect of MWCNTs on the performance of α-sexithiophene OTFT device and its gas-sensing property. Sci
+China Tech Sci, 2014, 57: 11011108, doi: 10.1007/s11431-014-5539-8
+1 Introduction
+In recent years, organic thin-film transistors (OTFTs) have
+received extensive attention as basic electronic elements,
+used for items such as display backplane, radio frequency
+identification tags, and smart cards et al. Variety of inexpensive, widely used consumer goods [1–3] are the potential application of OTFTs. Laurs and Heiland [4] first proposed to take the OTFT as a gas sensor in the study of electrical and optical properties of phthalocyanine films. Much
+research efforts to use OTFT as chemical sensing platforms
+for vapor and liquid phase detection of explosives, toxins
+and biochemicals have been devoted in pursuit of good levels of selectivity, reliability, and reproducibility at low cost
+[5,6]. Vapor sensing in OTFTs relies on the charge transferring in the channel region. The diffusion of gaseous molecules through the grain boundaries of the organic active
+layer into the channel region is critical. Therefore, the sensitive materials and film process are the core of the OTFT
+sensors. Until now, organic semiconductor materials such as
+phthalocyanines, oligothiophenes, pentacene, α-sexithiophene (α-6T) etc. [7–9], are mainly used for the active layer,
+in which α-6T single layer film OTFTs has been studied to
+detect trace NO2 and volatile organic compounds [10,11].
+Despite ongoing advancements in material functionality
+and processing technologies, OTFTs are somewhat limited
+in terms of mobility and lifetime of devices, which hinder
+1102 Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6
+their application on a wider scale [12,13]. A number of
+methods have been developed to improve the electrical
+conductivity and practical use of OTFTs, such as doping
+carbon nanotubes (CNTs) or metal oxide materials, etc
+[13,14]. CNTs have attracted a lot of attention in many areas, because of their unique structure and electrical properties [15]. In the field of gas sensors, the sensing mechanisms
+of NO2 and O2 gases have been reported when CNTs are
+used as sensitive layers of chemical sensors [16,17]. However, for all we know, the OTFTs based on CNTs and small
+organic molecule bilayer films and their gas-sensing properties have not been reported.
+In this manuscript, OTFT sensors based on multi-walled
+carbon nanotubes (MWCNTs)/α-6T bilayer films and α-6T
+single layer film were fabricated, respectively. The surface
+morphologies of MWCNTs single layer, α-6T single layer
+and MWCNTs/α-6T bilayer were characterized by scanning
+electron microscope (SEM). The electrical properties, stabilities and NO2-sensing properties of sensors were tested
+and compared. Threshold voltage, carrier mobility, on/off
+current ratio and grid current of OTFT sensors were taken
+as the parameters to reveal the gas sensing results.
+2 Experiment
+Typically, OTFT devices have two structures: top contact
+and bottom contact device configuration, where source/
+drain electrodes are located above or below the organic
+semiconductor layer, respectively [18]. In this paper, bottom
+contact OTFT devices with MWCNTs/α-6T bilayer and
+α-6T single layer were adopted as shown in Figures 1(a)
+and (b), respectively, as they could provide a more efficient
+contact for analysis. Highly doped n-type monocrystalline
+silicon was used as substrate with the thickness of 450 μm,
+then 195 nm SiO2 was thermally oxidized as insulating layer on the substrate. The 20 nm titanium and 50 nm aurum
+thin films were orderly prepared as the source/drain electrodes with the ratio of channel width to length as 640.
+MWCNTs alcohol dispersant (purchased from Chengdu
+Organic Chemicals Co. Ltd, Chinese Academy of Sciences,
+Wt=2.0%) was diluted with alcohol as the concentration of
+1.8 mg/mL, and ultrasonicated (KQ-250 digital controlled
+ultrasonic machine, KunShan Province ultrasonic instrument factory) for 20 min. In view of the good electrical
+conductivity of MWCNTs, depositing too much of
+MWCNTs would influence the field effect characteristics of
+OTFT devices, so the amount of MWCNTs should be controlled strictly. In our experiment, three different groups of
+sensitive films, single α-6T film, single MWCNTs film and
+MWCNTs/α-6T bilayer film, were developed, in which the
+single α-6T and MWCNTs films were prepared for the
+comparison purpose. First, 0.02, 0.04 and 0.06 mL
+MWCNTs solution were spray-deposited [19,20] onto SiO2
+layer using an airbrush (HOLDER180, Taiwan HD corp.)
+α-6T
+n+-Si
+n+-Si
+SiO2
+Au
+Drain
+(a)
+(b)
+Gate
+Source
+Ti MWCNTs Ti
+Au
+Analytes
+α-6T monolayer
+SiO2
+Au
+Drain
+Gate
+Source
+Ti Ti
+Au
+Analytes
+Figure 1 (Color online) The structure of (a) MWCNTs/α-6T bilayer
+OTFT gas sensor and (b) α-6T single layer OTFT gas sensor.
+for the MWCNTs film preparation respectively, and then
+baked at 60℃ for 5 hours. α-6T (purchased from TCI Development Co.Ltd) was simultaneously deposited onto the
+OTFT devices prepared with MWCNTs and without
+MWCNTs by vacuum evaporation at pressure below
+2.5 ×104
+ Pa. The evaporator source temperature was maintained at 110°C during the α-6T layer growth at an average
+deposition rate of 0.33 Å/s. The thickness of the α-6T layer
+was about 90 nm, monitored by a quartz oscillator.
+In the experiment, the morphologies of thin films were
+observed by scanning electrical microscope (SEM, Inspect
+F50, FEI Co. Ltd). The current-voltage characteristics and
+NO2 gas sensing properties of sensors were measured
+through a Keithley 4200-SCS testing device, as shown in
+Figure 2. Gas concentration and flow rate (0.2 cm3
+/s) were
+controlled by a mass flow controls (MT50-4J, Beijing Metron Instruments Co. Ltd, China). The volume of test
+chamber was about 2 cm3
+. All the measurement results were
+obtained at room temperature in dry air atmosphere.
+3 Results and discussion
+3.1 The contrast of OTFT devices with the different
+MWCNTs amount
+The output characteristic curves of devices with 0.02, 0.04
+and 0.06 mL MWCNTs were shown in Figure 3. It was easily observed that neither single 0.02 nor 0.04 mL MWCNTs
+device has any electrical characteristics of TFT. When the
+amount of MWCNTs was increased to 0.06 mL, the device
+Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6 1103
+Figure 2 (Color online) The Characteristic testing system of OTFT gas sensors.
+Figure 3 (Color online) The output characteristic contrast curves of
+OTFT devices with the different MWCNTs amount.
+acted as a resistance-type device because of the good conductive characteristic of MWCNTs layer, and α-6T layer
+had little influence on it. However, the MWCNTs/α-6T bilayer devices with the 0.02 and 0.04 mL MWCNTs showed
+good electrical characteristics of TFT, and the latter one
+(0.04 mL MWCNTs) performed better. Therefore, it was
+concluded that the single MWCNTs layer would form a
+continuous conducting channel and had no characteristics of
+TFT when the amount of MWCNTs was 0.06 mL, but the
+MWCNTs would be dispersed on the surface discontinuously if the amount of MWCNTs was 0.04 mL or less. So
+the optimal amount of MWCNTs was 0.04 mL to prepare
+MWCNTs/α-6T bilayer device, where MWCNTs acted as
+highly conducting bridges to improve conducting characteristics of OTFT.
+3.2 The contrast between MWCNTs/α-6T bilayer and
+α-6T single layer OTFTs
+3.2.1 The surface morphology characterizations of films
+Sensitive films were the core of film-typed gas sensors. The
+surface morphology of films had direct influence on electrical properties and gas-sensing characteristics of OTFT
+sensors. The surface morphologies of MWCNTs single layer film, α-6T single layer film and MWCNTs/α-6T bilayer
+films were observed by SEM with the magnification of
+80000, as shown in Figures 4(a), (b) and (c), respectively.
+From Figure 4(a), it was obviously seen that MWCNTs
+are strewn and stratified discontinuously at random because
+of its special shape and structure, which provided more
+contact sites. And α-6T single layer film (Figure 4(b))
+showed smooth surface, uniform grains and smaller grain
+clearance, which played an important role to avoid hindering the lateral transport of injected carriers, resulting in excellent characteristics of α-6T. When α-6T molecules were
+deposited on the MWCNTs film, the molecules reunion was
+only just around the branches of MWCNTs as Figure 4(c).
+It was postulated that some MWCNTs would be immersed
+in α-6T molecules fully if the height of the tubes was lower
+than the α-6T film, and others would surrounded with α-6T
+molecules, as shown in Figure 4(c), indicating more adsorption sites than the single α-6T film.
+3.2.2 Electrical characteristics of MWCNTs/α-6T bilayer
+and α-6T single layer OTFTs
+Figure 5(a) showed the contrast of output characteristic
+curves between MWCNTs/α-6T bilayer OTFT and α-6T
+single layer OTFT. It was obviously seen that both of the
+OTFTs exhibited well linear and saturated regions, and the
+order of magnitude of the drain saturation current (Isat) produced by MWCNTs/α-6T bilayer OTFT was significantly
+larger than that of α-6T single layer OTFT at the same
+grid-source voltage (VGS).
+Figures 5(b) and (c) depicted the comparison of the
+square root of IDS and log(-IDS) as a function of VGS, respectively. Threshold voltage (VTH) and on/off current ratio were
+easily calculated from the two figures. VTH was the intersection of the linear curves with the horizontal axis in Figure
+5(b). Carrier mobility μ in the saturation region could be
+simultaneously calculated from the following equation [13]: 2 1/2
+DS
+GS
+2 ( ) , ( ) i
+L I
+WC V 
+        
+ (1)
+1104 Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6
+Figure 4 SEM micrographs of (a) MWCNTs single layer film, (b) α-6T
+single layer film and (c) MWCNTs/α-6T bilayer films.
+where W and L are the channel width and length, respectively. Ci is the capacitance per unit area of the insulator,
+with the value of 16.8 nF/cm2
+.
+Therefore, the characteristic parameters of the OTFTs
+were figured out and are shown in Table 1. From Table 1, it
+could be seen that the electrical characteristics of the bilayer
+Figure 5 (Color online) The contrast of (a) output characteristic curves,
+(b) the square root of IDS as a function of VGS, and (c) log(IDS) as a function
+of VGS between MWCNTs/α-6T bilayer OTFT and α-6T single layer OTFT.
+OTFT were significantly improved, compared to the single
+layer device, especially for Isat, μ and on/off current ratio,
+the values of which are magnified two orders of magnitude.
+Creation of effective OTFT sensors required simultaneous
+optimization for several criteria. One of them was that the
+total currents must be high enough so that changes could be
+distinguished from noise [21]. Therefore, the superiority of
+electrical performance for the bilayer OTFT is beneficial to
+the sensor application. From the difference between the
+bilayer and the single layer, it demonstrates that the improved electrical characteristics were ascribed to the
+MWCNTs layer. Combined with Figure 3, this remarkable
+Table 1 Comparison of parameters between MWCNTs/α-6T bilayer and α-6T single layer OTFT sensors
+OTFT types Isat (A) VTH (V)  (cm2
+/V s) On/off current ratio
+MWCNTs/α-6T bilayer OTFT 1.0×104 17.5 3.2×102 6.0×105
+α-6T single layer OTFT 7.8×107 15.0 3.0×104 2.5×103
+Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6 1105
+enhancement in field effect mobility upon the addition of
+percolating MWCNTs is probably due to the superior electrical properties of the MWCNTs, whereby they act as
+highly conducting bridges connecting the crystalline terraces in the α-6T film and thus serving to increase the overall
+charge carrier concentration in the active channel. However,
+MWCNTs would increase the α-6T grain clearance and
+hinder the lateral transport of injected carriers. When the
+bias voltage hadn’t yet reached threshold voltage, the influence of hindering was much more obvious, so that the current was much smaller in low bias voltage, and the threshold voltage should be little higher to get rid of the hindering.
+The factors would be ignored under higher bias, for the high
+conductivity.
+3.2.3 Comparison of NO2 sensing properties between
+bilayer and single layer
+It has been confirmed that OTFTs are sensitive to gases
+through multiple mechanisms, making them ideal candidates for gaseous sensing. Analytes can bind to the receptor,
+in which noncovalent bonds such as hydrogen bonds or 
+interactions may cause attractions between analytes and
+organic semiconductor layer [21], and influence the current
+flowing across the transistor channel. The response is a
+change in the source-drain current for a given drain and gate
+voltage [22]. The comparison of response values between
+MWCNTs/α-6T bilayer OTFT and α-6T single layer OTFT
+when exposed to 1 ppm NO2 , was shown in Figure 6. Response value (Res) was defined as the following equation.
+DS DS
+DS
+(response) (base) Res , (base)
+I I
+I
+  (2)
+where IDS (response) and IDS (base) are the steady
+drain-source current of the OTFT gas sensor in the measuring gas and pure air, respectively.
+From Figure 6, it is easily observed that both of the
+OTFT sensors show certain response and recovery characteristics, which could be ascribed to the adsorption effect
+Figure 6 (Color online) The contrast of gas-sensing curves between
+MWCNTs/α-6T bilayer and α-6T single layer OTFTs.
+between NO2 gas molecules and the polar bonding of α-6T
+thin film [10]. The bilayer takes little more time to reach the
+stable value. It also demonstrates that the MWCNTs/α-6T
+bilayer OTFT exhibits the higher response value than
+the single layer one. The main reason for the improved
+response value should be that, on the one hand, according
+to the surface morphology analysis, the MWCNTs/α-6T
+films deposited on MWCNTs could provide more adsorption sites, which result in adsorbing more gas molecules,
+and requiring more time to absorb and desorb gas molecules,
+too. On the other hand, the valence band and carbon
+core-level spectra research showed reversible decrease of
+the density of states at the top of the valence band when
+NO2 molecules are adsorbed on the CNTs [15], so
+MWCNTs itself also is sensitive to NO2 gas. Meanwhile,
+from the response results of two devices, it could conclude
+that α-6T plays a much more important role to influence the
+gas-sensing properties.
+3.2.4 Comparison of stability between bilayer and single
+layer OTFT
+Stability is one of important elements to estimate the practical properties of gas sensors. Figures 7 (a) and (b) show
+the electrical stability researches of MWCNTs/α-6T bilayer
+and α-6T single layer OTFT sensors in 30 days, respectively.
+The testing interval was 10 days.
+From Figures 7(a) and (b), it is obvious that the values of
+IDS were declining when the time went on for the first 20
+days, while the values kept unchanged after 20 days. The
+phenomenon illustrates that the sensitive films of OTFTs
+are largely influenced by some factors in atmosphere, such
+as O2, water vapour, dust or others, and the influence
+reached saturate condition in 20 days. However, MWCNTs/
+α-6T bilayer OTFT whose current value became one fifth of
+the initial value showed relatively better stability, compared
+to the single layer one whose current value had become
+1/250 of initial value in 30 days. The main reason was ascribed to both the good stability of MWCNTs and the coverage of α-6T. MWCNTs mainly decided the conductivity
+of the bilayer films, which themselves performed good stability, and most of MWCNTs were located under the α-6T
+layer and avoided some influence of external environment,
+so the good conductivity was kept. The α-6T single layer
+OTFT suffered severe impact from its pure active layer
+which was completely exposed to environment. Figure 7(c)
+shows the response values of MWCNTs/α-6T bilayer device
+when exposed to 1 ppm NO2 within 30 days, while the single layer one was ignored because of its worse electrical
+properties. Overall, the bilayer device had extremely similar
+response values in 30 days. Although the current of device
+was influenced by other factors, response value was almost
+kept as consistent as the initial value. From the results, it
+was found that the MWCNTs/α-6T bilayer OTFT showed
+better stability and had a longer lifetime.
+1106 Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6
+Figure 7 (Color online) (a) electrical characteristics of MWCNTs/α-6T
+bilayer OTFT, (b) electrical characteristics of α-6T single layer OTFT, and
+(c) gas-sensing characteristics of MWCNTs/α-6T bilayer OTFT in 1 day
+later, 10 days later, 20 days later and 30 days later.
+3.3 The NO2-sensing properties of MWCNTs/α-6T
+bilayer OTFTs
+3.3.1 Trace NO2 sensing properties based on MWCNTs/
+α-6T OTFT
+The trace NO2-sensing properties of MWCNTs/α-6T bilayer
+OTFT sensors were further measured and discussed. Figure
+8 displayed the real-time response curve of the bilayer
+OTFT sensor exposed to 0.2–1 ppm NO2 gas atmosphere
+with dry air when the carrier gas at room temperature. The
+working point (VDS=40 V, VGS=40 V) had been chosen in
+the saturated region of the I-V characteristics.
+It could be clearly seen that MWCNTs/α-6T bilayer
+OTFT sensor behaved in its response to trace NO2 ranging
+from 0.2 to 1 ppm at room temperature. IDS increased dramatically when the device was exposed to NO2, which
+might be ascribed to the adsorption effect between NO2 gas
+molecules and the polar-bonding of MWCNTs/α-6T bilayer
+films. And the effect was reversible. Also, the excellent
+reproducibility and reversibility were indicated. Therefore,
+it is very promising to take the MWCNTs/α-6T bilayer
+OTFT as gas sensors to detect trace NO2.
+The relationship of response values vs. NO2 concentration was fitted using the quadratic polynomial fitting, and
+the curve was included in Figure 8. As shown in Figure 8, it
+can be supposed that the absorption of NO2 gas molecules
+on the surface of sensitive films can be explained by the
+Langmiur adsorption theory to a certain extent. That was,
+the IDS varied in a non-linear way with NO2 gas concentration. The interaction between the gas molecules and the
+surface of the active layer is an extremely complex phenomenon, and the structure and morphology of the thin film
+are the determinant parameters of this interaction [23].
+Since α-6T in the MWCNTs/α-6T bilayer films were polycrystalline with uniform grains based on the results of SEM
+images, it is reasonable to believe that NO2 may diffuse
+along uniform grain boundaries, but not appreciably within
+grains. Therefore the interaction is limited to the surface and
+near-surface region [24].
+3.3.2 NO2 detection based on multi-parameters of bilayer
+OTFT
+Multi-parameters gas sensors based on OTFT were provided to be the novel sensors [16]. Figure 9 showed electrical
+characteristic curves of MWCNTs/α-6T bilayer OTFT when
+the device was exposed to 1 ppm NO2. The measuring interval was about 500 seconds, which was summarized from
+the real-time response curves. From the Figure 9, the value
+of Isat, VTH, μ and on/off current ratio could be calculated,
+just as shown in Table 2.
+Figure 8 (Color online) The response curve as a function of time and
+response value’s quadratic polynomial fitting as a function of concentration
+of MWCNTs/ α-6T bilayer OTFT sensor exposed to 0.2–1 ppm NO2 .
+Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6 1107
+Table 2 Multi-parameters of MWCNTs/α-6T OTFT sensor exposed to NO2
+Parameters of OTFT Before exposed to NO2 Exposed to NO2 After recovery
+Current of drain-source Isat (A) 0.96×104
+ 1.44×104
+ 1.02×104
+Carrier mobility （cm2
+/V s） 2.97×102
+ 3.3×102
+ 3.07×102
+Threshold voltage VTH (V) 17.8 12.8 15.5
+On/off current ratio 6.0×105
+ 1.6×105
+ 5.2×105
+Figure 9 (Color online) (a) Output characteristic curves, (b) IDS1/2VGS
+curves and (c) log(IDS)VGS of MWCNTs/α-6T OTFT device exposed to NO2.
+Table 2 illustrates that NO2 gas had certain influence on
+parameters, especially for on/off current ratio, which performed good reversibility, and the rate of variation exceeded 70%. Although VTH and μ presented relative lower response values and worse reversibility, multi-parameters of
+OTFT sensors are potential to characterize more complex
+gas sensing results and analyze sensing mechanism.
+In the experiment, It was novel to find that the grid current (IGS) showed exactly similar variation trend as
+drain-source current (IDS), as shown in Figure 10. From
+Figure 10, it is obvious that the vertical conducting channel
+was formed between source electrode and grid electrode,
+and was dramatically affected by gas molecule. The curve
+of IGS shows good response and recovery characteristics just
+as IDS because of their inherent characteristics in OTFTs. In
+spite of the smaller order of magnitude, the grid current is
+potential to be considered as a new parameter to illustrate
+the response results.
+3.3.3 Selectivity of MWCNTs/α-6T bilayer OTFT sensor
+The selectivity of MWCNTs/α-6T bilayer OTFT sensor was
+studied through detecting other air pollution gases, such as
+O3, CO, CO2, H2S, NH3, SO2, and formaldehyde (CH2O).
+The results are shown in Figure 11. The sensor had no response to other trace gases, and 50 ppm was chose as the
+concentration of analytes. The response values of any other
+analytes, especially for inert gases, were much lower than
+the value to 1 ppm NO2 which had special reaction to bilayer films. In experiment, it was found that the device
+showed poor recovery property when exposed to most of
+the analytes, except for NO2. Therefore, the MWCNTs/α-6T
+bilayer OTFT sensor was promising to detect NO2 in the
+complicated gas mixture in low concentration.
+4 Conclusion
+In this paper, OTFT sensors based on MWCNTs/α-6T
+Figure 10 (Color online) The IDS and IGS of MWCNTs/α-6T bilayer
+OTFT sensors exposed to 1 ppm NO2 versus time.
+1108 Tai H L, et al. Sci China Tech Sci June (2014) Vol.57 No.6
+Figure 11 (Color online) The contrast of response values of sensors
+exposed to NO2, O3, CO, CO2, H2S, NH3, SO2, and CH2O.
+bilayer and α-6T single layer were fabricated. The electrical,
+trace NO2-sening properties and stabilities of these two
+OTFT gas sensors were analyzed and compared. The results
+showed that MWCNTs play an extremely important role in
+OTFTs device for the good conductivity and special structure, and made the bilayer OTFT performed with better
+electrical properties, higher response values and better stabilities than the device with α-6T single layer. Threshold
+voltage, carrier mobility, on/off current ratio and grid current are optional parameters to reveal the gas-sensing characteristics of OTFT gas sensors.
+This work was supported by the Natural Natural Science Foundation of
+China (Grant Nos. 61176066, 61101031).
+1 Drury C J, Mutsaers C M J, Hart C M, et al. Low-cost all-polymer
+integrated circuits. Appl Phys Lett, 1998, 73: 108–110
+2 Klauk H, Gundlach D J, Nichols J A, et al. Pentacene organic
+thin-film transistors for circuit and display plications. IEEE Trans
+Electron Devices, 1999, 46: 1258–1263
+3 Jeong S H, Kim D J, Lee S, et al. Surface modification of novel organic-inorganic hybrid dielectrics using self-assembled monolayers.
+Solid State Phenom, 2007, 295: 124–126
+4 Laurs H, Heiland G. Electrical and optical properties of phthalocyanine films. Thin Solid Films, 1987, 149: 129–142
+5 Mabeck J T, Malliaras G G. Chemical and biological sensors based
+on organic thin-film transistors. Anol Bioanal Chem, 2006, 384:
+343–353
+6 Torsi L, Farinola G M, Marinelli F, et al. A sensitivity-enhanced
+field-effect chiral sensor. Nat Mater, 2008, 7: 412–417
+7 Tanese M C, Fine D, Dodabalapur A, et al. Interface and gate bias
+dependence responses of sensing organic thin-film transistors. Biosens Bioelectron, 2005, 21: 782–788
+8 Chang J B, Liu V, Subramanian V, et al. Printable polythiophene gas
+sensor array for lowcost electronic noses. J Appl Phys, 2006, 100:
+014506-1-7
+9 Zhu Z T, Mason J T, Dieckmann R, et al. Humidity sensors based on
+pentacene thin-film transistors. Appl Phys Lett, 2002, 81: 4643–4645
+10 Jiang Y D, Tai H L, Du X S, et al. Parameter optimization of the
+OTFT gas sensor and its trace NO2-sensing properties. In: Proceedings of 2012 14th International Meeting on Chemical Sensors
+(IMCS). Nuremberg: AMA Service GmbH, 2012. 1126–1129
+11 Fu S Q, Xie G Z, Tai H L, et al. α-sexithiophene based organic thin
+film transistors as gas sensor. In: Proceedings of 2010 International
+Conference on Apperceiving Computing and Intelligence Analysis
+(ICACIA). Chengdu: IEEE, 2010. 105–108
+12 Jones B A, Ahrens M J, Yoon M H, et al. High-Mobility Air-Stable
+n-Type Semiconductors with Processing Versatility: Dicyanoperylene-3,4:9,10-bis(dicarboximides). Angew Chem, 2004, 166:
+6523–6526
+13 Hsieh G W, Li F M, Beecher P, et al. High performance nanocomposite thin film transistors with bilayer carbon nanotube-polythiophene
+active channel by ink-jet printing. J Appl Phys, 2009, 706: 106–123
+14 Crone B, Dodabalapur A, Gelperin A, et al. Electronic sensing of
+vapors with organic transistors. Appl Phys Lett, 2001, 78: 2229–2232
+15 Dresselhaus M S, Avouris P. Introduction to Carbon Materials Research. Heidelberg: Spring, 2001, 80
+16 Kong J, Franklin N R, Zhou C, et al. Nanotube molecular wires as
+chemical sensors. Science, 2000, 287: 622–625
+17 Lozzi L, Picozzi S, Armentano I, et al. Soft-x-ray photoemission
+spectroscopy and ab initio studies on the adsorption of NO2 molecules on defective multi-walled carbon nanotubes. J Chem phys,
+2005, 123: 034702-1-6
+18 Zhu Z T, Mason T, Dieckmann R, et al. Humidity sensors based on
+pentacene thin-film transistors. Appl Phys Lett, 2002, 81: 4643–
+4645
+19 Baibarac M, Lapkowski M, Pron A, et al. SERS spectra of poly(3-
+hexylthiophene) in oxidized and unoxidized states. J Raman Spectrosc, 1998, 29: 825–832
+20 Chan C K, Richter L J, Dinardo B, et al. High performance airbrushed organic thin film transistors. Appl Phys Lett, 2010, 96:
+133304-1-3
+21 Someya T, Dodabalapur A, Huang J, et al. Chemical and physical
+sensing by organic field-effect transistors and related devices. Adv
+Mater, 2010, 22: 3799–3811
+22 Huang J, Miragliotta J, Becknell A, et al. Hydroxy-terminated organic semiconductor-based field-effect transistors for phosphonate vapor
+detection. JACS, 2007, 129: 9366–9376
+23 Rella R, Serra A, Siciliano P, et al. Langmuir-Blodgett multilayers
+based on copper phthalocyanine as gas sensor materials: active layer-gas interaction model and conductivity modulation. Langmuir,
+1997, 13: 6562–6567
+24 Kendrick C, Semancik S. Doping effects and reversibility studies on
+gas-exposed-sexithiophene thin films. J Vac Sci Technol, A, 1998, 16:
+3068–3075 

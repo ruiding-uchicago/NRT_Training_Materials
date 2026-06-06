@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.talanta.2024.126178",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "epinephrine",
+      "lower_detection_limit": "5×10^-8 uM",
+      "upper_detection_limit": "0.1 uM",
+      "probe_material": "InZnSnO sensing film functionalized with 4-formylphenylboronic acid (4-FPBA) and 3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": 7.4,
+      "test_medium": "PBS (phosphate-buffered saline) and human serum"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ions)",
+      "lower_detection_limit": "2 pH",
+      "upper_detection_limit": "12 pH",
+      "probe_material": "InZnSnO sensing film",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": "2-12",
+      "test_medium": "pH buffer solutions"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.201400434",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "NO2",
+      "lower_detection_limit": "0.5 ppm",
+      "upper_detection_limit": "40 ppm",
+      "probe_material": "graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

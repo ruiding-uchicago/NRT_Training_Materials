@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_elan.200900314",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia (NH3)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "single-walled carbon nanotubes (SWNTs)",
+      "test_operating_temperature (celcius)": "room temperature (ambient, not explicitly stated)",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

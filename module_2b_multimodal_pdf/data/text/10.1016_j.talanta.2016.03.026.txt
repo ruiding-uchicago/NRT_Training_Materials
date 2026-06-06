@@ -1,0 +1,628 @@
+Talanta 153 (2016) 221–227
+
+Contents lists available at ScienceDirect
+
+Talanta
+journal homepage: www.elsevier.com/locate/talanta
+
+Calix[4]arene coated QCM sensors for detection of VOC emissions:
+Methylene chloride sensing studies
+Farabi Temel, Mustafa Tabakci n
+Selçuk University, Department of Chemical Engineering, 42075 Konya, Turkey
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 10 January 2016
+Received in revised form
+3 March 2016
+Accepted 5 March 2016
+Available online 9 March 2016
+
+This paper describes the sensing studies of QCM sensors with coated some calixarene derivatives bearing
+different functional groups for some selected Volatile Organic Compounds (VOCs) such as acetone,
+acetonitrile, carbon tetrachloride, chloroform, methylene chloride (MC), N,N-dimethylformamide, 1,4dioxane, ethanol, ethyl acetate, xylene, methanol, n-hexane and toluene. The initial experiments have
+revealed that whole the calix[4]arene modiﬁed QCM sensors exhibited strongest sensing ability to MC
+emissions. Thus, the detailed studies were performed for only MC emissions after the determination of
+relatively more effective calix-coated QCM sensors for MC emissions in aqueous media. The results demonstrated that QCM sensor coated with calix-7 bearing both amino and imidazole groups was most
+useful sensor for MC emissions with 54.1 ppm of detection limit. Moreover, it was understood that cyclic
+structures, H-bonding capabilities and also good preorganization properties of calixarene derivatives
+played an important role in VOC sensing processes.
+& 2016 Elsevier B.V. All rights reserved.
+
+Keywords:
+Calix[4]arene
+QCM
+Sensor
+VOCs
+Methylene chloride
+
+1. Introduction
+Many developments in industry have brought to a plenty of
+new products and services. These advancements cause not only
+producing useful technology but also more usage of chemicals. As
+is known to all, many of processes involved chemical which are
+adequately harmful to the human health and environment when it
+is released. Volatile Organic Compounds (VOCs) have signiﬁcant
+importance in organic contaminant due to their bad health impact
+to human at even low concentrations [1]. VOCs can be released
+easily to the environment via human activities and operating of
+natural resources [2]. Sensor technologies have been developed to
+sense VOCs and eliminate their adverse affect upon healthy [3].
+Macromolecules and polymers can be widely used as a sensor so
+as to sensing of vapor molecules [4–16].
+Calixarenes, well-known macrocyclic molecules which have
+almost unlimited derivatization potential and a unique three-dimensional structure with outstanding shape recognition possibilities [17]. They can be synthesized quite easily by condensation of
+p-tert-butylphenol with formaldehyde under alkaline conditions
+[18]. Calixarenes became promising materials for sensor applications due to their sensing and selectivity abilities. Thin ﬁlms of
+calixarenes have been widely used in chemical sensors [19–21].
+n
+
+Corresponding author.
+E-mail address: mtabakci@selcuk.edu.tr (M. Tabakci).
+
+http://dx.doi.org/10.1016/j.talanta.2016.03.026
+0039-9140/& 2016 Elsevier B.V. All rights reserved.
+
+Many sensor systems have been developed to prevent considerably adverse affect results from VOCs. Among them, Quartz
+Crystal Microbalance (QCM) measurement system which is known
+as sensor system based on acoustic transducers has been used for
+gas and liquid sensing applications. QCM measurement system can
+be used easily due to its simplicity. It cannot be affected adversely
+outside owing to its robust. It can allow taking fast response [22].
+The basis property of QCM measurement techniques is that
+frequency change (Δf) is directly proportional to mass change
+(Δm) onto surface of quartz [23].
+
+∆m=−
+
+A μρ
+2f02
+
+×∆f =−C ×∆f
+(1)
+
+where ρq is the density of quartz (ρq ¼2.648 g cm ) and mq is the
+shear modulus of quartz (mq ¼2.947  1011 dyne cm  2).
+Although some works have been performed about calixarenebased QCM sensors, the studies for sensing of the VOCs are very
+limited. Therefore, aim of the our study was to synthesize the
+various calix[4]arene derivatives as the coating materials onto
+QCM sensor and thus to prepare the calix[4]arene modiﬁed QCM
+sensors for sensing of the some selected VOCs such as acetone,
+acetonitrile, carbon tetrachloride (CTC), chloroform, methylene
+chloride (MC), N,N-dimethylformamide (DMF), 1,4-dioxane, ethanol, ethyl acetate, xylene, methanol, n-hexane and toluene. The
+initial experiments have revealed that whole the calix[4]arene
+modiﬁed QCM sensors exhibited strongest sensing ability to MC
+3
+
+222
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+
+vapors. Thus, the sensing studies were expanded towards MC vapors in aqueous media by most effective calix[4]arene coated QCM
+sensors.
+
+chloride (MC), dimethylformamide (DMF), dioxane, ethanol, ethyl
+acetate, xylene, methanol, n-hexane and toluene.
+
+2.3. QCM measurements
+2. Experimental
+2.1. Materials and equipments
+Calix[4]arene based coating materials (calix-1-9) and noncyclic
+analog a (Fig. 1) were synthesized according to previously published procedures [24–30].
+An Ez-Melt apparatus in a sealed capillary was performed to
+ﬁnd out all melting points of the synthesized compounds. A Varian
+400 MHz NMR spectrometer, a PerkinElmer 100 FTIR spectrometer, and an elemental analysis branded with Leco CHNS-932
+analyzer were used to determine structure of all synthesized
+products. The reactions were monitored by using TLC analyses
+obtained from Merck (Kieselgel 60 F254). All starting materials
+and reagents which are standard analytical grade from Merck or
+Aldrich were used without further puriﬁcation. The calixarene
+imprinted QCM sensor surface was characterized by an atomic
+force microscope (AFM). AFM images were taken by using an AFM
+(NT-MDT, NTEGRA Spectra, Moscow, Russia).
+A time-resolved QCM was used to measure the frequency
+change of quartz crystals between gold electrodes with the model
+of CHI400B Series from CH Instruments (Austin, USA). Using a
+crystal with a 7.995-MHz fundamental frequency, a net change of
+1 Hz corresponds to 1.34 ng of materials adsorbed or desorbed
+onto the crystal surface of an area (A) of 0.196 cm2.
+2.2. Preparation of modiﬁed QCM sensors
+Solutions of coating materials were prepared by dissolving in
+1.0 mM of chloroform for initial experiments. After the crystal
+surface was cleaned by acetone and ethanol, it was subjected to
+ultra pure nitrogen to supply dryness. Then QCM crystal surface
+was coated with the solutions of these calix[4]arenes by dropcasting method ant the solvent evaporated at 60 °C for 30 min in
+drying-oven. Thus the modiﬁed QCM sensors were prepared to use
+in sensing studies of some selected VOCs such as acetone, acetonitrile, carbon tetrachloride (CTC), chloroform, methylene
+
+A home-made measuring system (Fig. 2) was used in this study.
+Working principle of a QCM device can be explained by the mechanical stresses generated while the analyte is sorbed by sensing
+ﬁlm surface are released during sensing. For this way, other
+acoustical modes of the QCM which can be observed by higher
+harmonic of resonant frequency are actuated. The QCM device
+converts the harmonic motion to an electrical signal. The frequency counter measures the frequency which is possessed by
+electrical signal [31]. In this system, the coated crystal was placed
+in QCM cell to gain frequency responses versus time. For initial
+experiments, the volumetric ﬂask was ﬁlled with VOCs. The variation of the QCM frequency was monitored as a function of time
+while the sensor was exposed to dry air for reaching equilibrium
+or it was exposed to VOCs in the volumetric ﬂask for 1.5 min and
+then the sensor was cleaned with dry air at the same interval. In
+preliminary studies, the VOC which had highest response was
+determined, and thus calixarene derivatives giving considerably
+responses towards selected VOC emissions were speciﬁed as best
+coating materials in non-aqueous media. In subsequent experiments, these calixarene derivatives were used as coating materials
+for sensing of VOC emissions in aqueous media. In MC sensing
+studies, the QCM sensors coated with best calixarene based coating materials were exposed to both water and aqueous MC vapors
+with different concentrations such as 5, 100, 500, 1000, 2000 ppm,
+respectively, in order to observe responses of QCM sensors in
+aqueous samples. Here, MC was injected upon water in the ﬂask
+during the experiments. During the exposure of aqueous samples,
+frequency changes took place proportional with the mass of adsorbed molecules in the sensitive layer. The sensor sensitivity
+(S) was found slope of graph which is the frequency change versus
+concentration of VOC solutions (in units of Hz/ppm) [9].
+
+Fig. 1. Coating materials using in current study.
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+
+223
+
+Fig. 2. Representation of a home-made measuring system.
+Fig. 3. Responses of calix-coated QCM sensors towards MC vapors with different
+concentrations in aqueous samples.
+
+3. Results and discussion
+
+for MC vapors as to others. Thus these calixarene derivatives were
+designated as candidates that could be efﬁcient coating materials.
+Their high afﬁnities for MC vapors may be attributed to their high
+H-bonding capabilities (especially due to their amino functionalities) to MC molecules and their good preorganizations for interaction with MC molecules as to others.
+
+3.1. Preparation of coating materials and VOC sensing assays
+Various calix[4]arene derivatives and noncyclic analogs were
+successfully synthesized according to literature procedures [24–
+30] and conﬁrmed their structures by using some spectroscopic
+methods (NMR and FTIR). These materials were coated onto QCM
+sensor surface by drop-casting method and sensing afﬁnities of
+the modiﬁed QCM sensors were determined by exposing directly
+to some selected VOCs in QCM measurement system.
+The results (Table 1) revealed that whole compounds except
+noncyclic-a showed highest afﬁnity towards MC vapors among
+selected VOCs. It is also noticed that frequency changes of noncyclic a for almost all VOCs lower than corresponding cyclic analog
+calix-1. This result implies that cyclic structure of calixarenes plays
+an important role in sensing process.
+
+3.3. Determination of best coating material
+It is known that VOC emissions generally existence in aqueous
+media. So, in order to observe their sensing behaviors by the
+modiﬁed QCM sensors in aqueous media possessing different MC
+contents, the responses of relatively best QCM sensors coated with
+calixarene derivative during the exposing to aqueous samples with
+MC content at different concentrations (up to 2000 ppm) were
+recorded and the results were illustrated in Fig. 3. It was observed
+that the frequency change values generally increased while the
+concentration of MC increased in aqueous samples as expected. It
+should be noticed that QCM sensor coated with calix-7 reached a
+maximum frequency responses value at 2000 ppm.
+Fig. 4 presents the frequency change values of QCM sensors
+coated with calix-1,-7,-8 and -9 for the sensing of MC emissions
+minus water vapors emissions. This approach is useful to understand sensing behaviors of calix-coated QCM sensors towards MC
+vapors in aqueous samples. As shown in Fig. 4, when the responses
+of calix-coated QCM sensors compare with each other, it has been
+revealed that calix-7-coated QCM sensor can be selected as a best
+sensor. Because, there was exhibited that highest sensing ability at
+
+3.2. MC sensing studies
+As a result, we intended to investigate MC sensing properties of
+QCM sensors with coated calix[4]arene derivatives in this stage of
+our work, and so the further experiments were performed for this
+aim. Thereby, the calix[4]arene derivatives possessing relatively
+better sensing properties towards MC vapors were ﬁrstly speciﬁed
+as coating materials. The starting calix[4]arene derivative, calix-1,
+was chosen as a comparison material to determine the functional
+group effect on sensing. Accordingly, the results showed that the
+QCM sensors coated with calix-7,-8 and -9 exhibited relatively
+better sensing behaviors (frequency changes were above 1000 Hz)
+
+Table 1
+Frequency change values of QCM sensors coated with noncyclic-a and calix-(1-9) towards VOCs (  ΔHz).a
+VOCs
+
+Acetone
+Acetonitrile
+CTC
+MC
+Dioxane
+DMF
+Ethanol
+Ethylacetate
+Chloroform
+Xylene
+Methanol
+n-Hexane
+Toluene
+a
+b
+
+Coating material
+Calix-1
+
+Calix-2
+
+Calix-3
+
+Calix-4
+
+Calix-5
+
+Calix-6
+
+Calix-7
+
+Calix-8
+
+Calix-9
+
+noncyclic-a
+
+30.4
+30.1
+80
+170b
+32.1
+15.5
+65.6
+27
+65.6
+14.8
+31
+40.5
+37.2
+
+64
+205
+310
+617b
+89
+43
+68
+275
+400
+135
+42
+140
+59
+
+33
+24.5
+49
+78b
+40
+46
+13.8
+24
+62.4
+18.5
+25
+26
+22
+
+60
+90
+177
+510b
+26
+62.5
+22.4
+74.5
+106
+40
+49
+63.5
+125
+
+255
+100
+287
+472b
+156
+70
+82
+160
+288
+42
+90
+115
+85
+
+121
+42
+79
+219b
+31
+41
+39.5
+38
+114
+35
+40.5
+18.5
+36.5
+
+314
+195
+410
+1047b
+142
+62
+61.5
+258
+798
+100
+56
+144
+85
+
+291
+174
+453
+1190b
+155
+105
+48
+415
+861
+61.5
+75.5
+227
+197
+
+233
+100
+230
+1001b
+114
+92
+102.5
+177
+611
+27.5
+88
+61.5
+133
+
+24.5
+14
+30
+56
+15
+4.5
+8.5
+15
+73b
+12
+10.5
+24.5
+12.5
+
+[Coating material]: 1.0 mM and VVOC: 2 mL were used in tests.
+It signs VOC possessing highest frequency change of QCM sensor coated with related material among all VOCs.
+
+224
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+
+Fig. 4. Frequency change values of calix-coated QCM sensors for different concentrations of MC emissions minus water emissions (fMC-fH2O).
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+
+225
+
+Fig. 5. Sensitivities of best responders (1 mM) towards MC in aqueous samples.
+
+MC concentration, 2000 ppm, in aqueous samples. Moreover, Fig. 5
+illustrates sensitivities (S) of QCM sensors coated with calix-1,-7,8,9 for MC emissions, and it also shows that calix-7-coated QCM
+sensor has highest sensitivity among the others. The results imply
+that the imidazole groups of calix-7 play an important at sensing
+of MC emissions and sensitivity.
+3.4. Detection limit and quantitation
+The detection limit (DL) of QCM sensor coated with calix-7 for
+MC emissions in aqueous media was calculated using calibration
+curve (y ¼16.67xþ 413.86; R2 ¼0.969) with data of Fig. 4 by Eq. (2)
+[32]:
+
+DL=
+
+3×σ
+S
+
+(2)
+
+where s is the standard deviation of the response (300.77), S is the
+slope of the calibration curve (16.68). Linear part (500, 1000, 2000
+ppm) of the calibration curve was used to determine the DL. The
+detection limit of QCM sensor coated with calix-7 for MC emissions was found as 54.1 ppm. This value should be lower than
+immediately dangerous to life or health (IDHL) value which is
+2300 ppm for MC emissions [33]. This indicates that calix-7 coated
+QCM sensor can be used to detect MC even low concentration
+values in aqueous media. Frequency response values of calix-7
+coated QCM crystal have more ability to sense MC in comparison
+literature [34,35]. In addition, LOD and sensitivity values of some
+different chemoreceptors which are different calixarene derivatives and others towards MC in literature were comparable to
+calix-7 coated QCM sensor [36,37].
+
+Fig. 7. The responses of QCM sensors coated with different concentrations of calix7 towards 2000 ppm of MC vapors in aqueous samples.
+
+Mass of adsorbed MC vapor molecules on coated QCM crystals
+(Δm) can be calculated using Eq. (1). Thus, Δm was calculated for
+the calix-7-coated QCM sensor at 2000 ppm and found as 131 ng.
+Number of the adsorbed MC molecules (NA) using Δm was calculated and found as 9.29  1014 molecules. Number of the coated
+calix-7 molecules (NB) on crystal after coating was calculated and
+found as 3.011  1015 molecules. Here, %NA/NB can be calculated as
+adsorption efﬁciency. So, the adsorption efﬁciency of calix-7 at
+2000 ppm was calculated as almost 30%. The results indicated that
+the adsorption between MC and calix-7 molecules took place at
+about 1:3 ratio. Here, the decreasing of adsorption efﬁciency can
+be attributed to untidy distribution of calixarene molecules on
+QCM crystal surface. Fig. 6 illustrates AFM images of the bare gold
+and calix-7 coated gold QCM crystals. As it seen in Fig. 6, bare gold
+crystal surface seems to be almost smooth but after deposition of
+calix-7, there are some peaks on surface. These peaks werenot at
+the same height. This means that calix-7 molecules may be placed
+horizontally, vertically or semi vertical position, etc. In addition,
+these molecules can be overlapped each other.
+3.5. Effect of coating material concentration and linearity
+As the calix-7-coated QCM sensor showed best sensing ability,
+solution of calix-7 at different concentrations such as 1.25, 1.5, 1.75
+and 2.0 mM were also prepared and coated on QCM surface to
+
+Fig. 6. AFM images of bare gold (left), coated gold (right).
+
+226
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+
+observe the effect of calix-7 content on MC sensing. The coated
+calix-7 quantity on QCM crystal surface played an important role
+in sensing process because the responses increased while the calix-7 content in coating increased as expected. When the concentration of calix-7 was 2.0 mM the response almost doubled
+(Fig. 7).
+Data of frequency responses versus various concentrations
+(1 1.25  1.5  1.75  2 mM) for the calix-7 was shown in Fig. S1
+(see Supplementary material). As it seen in Fig. S1, the frequency
+responses increased while the calix-7 concentration increased.
+There are linear relationship (R2 ¼0.991) between frequency responses and concentration of calix-7.
+
+4. Conclusion
+In conclusion, the sensing studies of QCM sensors with coated
+some calixarene derivatives bearing different functional groups for
+some selected Volatile Organic Compounds (VOCs) such as acetone, acetonitrile, carbon tetrachloride, chloroform, methylene
+chloride (MC), N,N-dimethylformamide, 1,4-dioxane, ethanol,
+ethyl acetate, xylene, methanol, n-hexane and toluene were successfully performed. Initial experiments indicated that all QCM
+sensors coated with calix[4]arene derivatives were most favorable
+for MC emissions rather than other VOCs. The next studies demonstrated that QCM sensor coated with calix-7 bearing both
+amino and imidazole groups was most useful sensor for MC
+emissions with 54.1 ppm of detection limit. Consequently, it was
+understood that cyclic structures, H-bonding capabilities and also
+good preorganization properties of calixarene derivatives played
+an important role in VOC sensing processes. On the other hand,
+the random arranging of calix[4]arene molecules on surfaces of
+QCM crystal affected the sensing efﬁciency. Therefore, it is considered that other coating techniques such as Langmuir-Blodgett
+and spin coating can be used to obtain more homogeneous and
+neat coated surfaces. Moreover, the ﬁnding of that new sensors is a
+hopeful development for electronic nose systems.
+
+Acknowledgments
+We thank the Research Foundation of Selçuk University, Konya,
+Turkey for ﬁnancial support (Grant Number: 13101002) of this
+work produced from Farabi Temel's M.Sc. Thesis.
+
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found in
+the online version at http://dx.doi.org/10.1016/j.talanta.2016.03.
+026.
+
+References
+[1] S. Arshad, M.M. Salleh, M. Yahaya, Quartz crystal microbalance gas sensor for
+detection of volatile organic compounds using titanium dioxide coated with
+dye-porphyrin, Solid State Sci. Technol. 16 (2008) 75–84.
+[2] M. Harbeck, D.D. Erbahar, I. Gürol, E. Musluoglu, V. Ahsen, Z.Z. Ozturk,
+Phthalocyanines as sensitive coatings for QCM sensors: comparison of gas and
+liquid sensing properties, Sens. Actuators B: Chem. 155 (2011) 298–303.
+[3] A. Menon, R. Zhou, F. Josse, Coated-quartz crystal resonator (QCR) sensors for
+on-line detection of organic contaminants in water, IEEE Trans. Ultrason.,
+Ferroelectrics Freq. Control. 45 (1998) 1416–1426.
+[4] S.W. Lee, N. Takahara, S. Korposh, D.H. Yang, K. Toko, T. Kunitake, Nanoassembled thin ﬁlm gas sensors. III. Sensitive detection of amine odors
+using TiO2/poly(acrylic acid) ultrathin ﬁlm quartz crystal microbalance sensors, Anal. Chem. 82 (2010) 2228–2236.
+
+[5] S.K. Vashist, P. Vashist, Recent advances in quartz crystal microbalance-based
+sensors, J. Sens. 2011 (2011) 1–13.
+[6] B. Pejcic, C. Barton, E. Crooke, P. Eadington, E. Jee, A. Ross, Hydrocarbon sensing. Part 1: some important aspects about sensitivity of a polymer-coated
+quartz crystal microbalance in the aqueous phase, Sens. Actuators B: Chem.
+135 (2009) 436–443.
+[7] R. Zhou, M. Hairnbodi, D. Everhart, F. Josse, Polymer-coated QCR sensors for
+the detection of organic solvents in water, Sens. Actuators B: Chem. 35–36
+(1996) 176–182.
+[8] A.F. Holloway, A. Nabok, M. Thompson, A.K. Ray, T. Wilkop, Impedance analysis of the thickness shear mode resonator for organic vapour sensing, Sens.
+Actuators B: Chem. 99 (2004) 355–360.
+[9] I.A. Koshets, Z.I. Kazantseva, A.E. Belyaev, V.I. Kalchenko, Sensitivity of resorcinarene ﬁlms towards aliphatic alcohols, Sens. Actuators B: Chem. 140
+(2009) 104–108.
+[10] R. Patel, R. Zhou, K. Zinszer, F. Josse, Real-time detection of organic compounds
+in liquid environments using polymer-coated thickness shear mode quartz
+resonators, Anal. Chem. 72 (2000) 4888–4898.
+[11] D. Tang, Q. Li, J. Tang, B. Su, G. Chen, An enzyme-free quartz crystal microbalance biosensor for sensitive glucose detection in biological ﬂuids based on
+glucose/dextran displacement approach, Anal. Chim. Acta 686 (2011) 144–149.
+[12] X. Fan, B. Du, Selective detection of trace p-xylene by polymer-coated QCM
+sensors, Sens. Actuators B: Chem. 166–167 (2012) 753–760.
+[13] R. Lucklum, S. Rosler, J. Hartmann, P. Hauptmann, On-line detection of organic
+pollutants in water by thickness shear mode resonators, Sens. Actuators B:
+Chem. 35–36 (1996) 103–111.
+[14] E. Dalcanale, J. Hartmann, Selective detection of organic compounds by means
+of cavitand-coated QCM transducers, Sens. Actuators B: Chem. 24–25 (1995)
+39–42.
+[15] J. Auge, P. Hauptmann, J. Hartmann, S. Rosler, R. Lucklum, New design for QCM
+sensors in liquids, Sens. Actuators B: Chem. 24–25 (1995) 43–48.
+[16] H.Y. Yoo, S. Bruckenstein, A novel quartz crystal microbalance gas sensor based
+on porous ﬁlm coatings. A high sensitivity porous poly(methylmethacrylate)
+water vapor sensor, Anal. Chim. Acta 785 (2013) 98–103.
+[17] A. Yilmaz, B. Tabakci, M. Tabakci, New diamino derivatives of p-tert-butylcalix
+[4]arene for oxyanion recognition: synthesis and complexation studies, Supramol. Chem. 21 (2009) 435–441.
+[18] S. Erdemir, M. Tabakci, M. Yilmaz, Synthesis and amino acid extraction abilities
+of chiral calix[4]arene triamides containing amino alcohol units, J. Incl. Phenom. Macrocycl. Chem. 59 (2007) 197–202.
+[19] W. Guo, J. Wang, C. Wang, J.Q. He, X. He, J.P. Cheng, Design, synthesis, and
+enantiomeric recognition of dicyclodipeptide-bearing calix[4]arenes: a promising family for chiral gas sensor coatings, Tetrahedron Lett. 43 (2002)
+5665–5667.
+[20] V.I. Kalchenko, I.A. Koshets, E.P. Matsas, O.N. Kopylov, A. Solovyov, Z.
+I. Kazantseva, Y.M. Shirshov, Calixarene-based QCM sensors array and its response to volatile organic vapours, Mater. Sci. 20 (2002) 73–88.
+[21] C. Wang, F. Chen, X.W. He, Kinetic detection of benzene/chloroform and toluene/chloroform vapors using a single quartz piezoelectric crystal coated
+with calix[6]arene, Anal. Chim. Acta 464 (2002) 57–64.
+[22] M. Harbeck, D.D. Erbahar, I. Gürol, E. Musluoglu, V. Ahsen, Z.Z. Ozturk,
+Phthalocyanines as sensitive coatings for QCM sensors operating in liquids for
+the detection of organic compounds, Sens. Actuators B: Chem. 150 (2010)
+346–354.
+[23] G. Sauerbrey, The use of quartz oscillators for weighing thin layers and for
+micro-weighing, Z. Phys. 155 (1959) 206–222.
+[24] C.D. Gutsche, M. Iqbal, D. Stewart, Calixarenes. 18. Synthesis procedures for
+p-tert -butylcalix[l]arene, J. Org. Chem. 51 (1986) 742–745.
+[25] M. Tabakci, S. Memon, M. Yilmaz, D.M. Roundhill, Synthesis and evaluation of
+extraction ability of calix[4]-crown-6 cone conformer and its oligomeric
+analogue, React. Funct. Polym. 58 (2004) 27–34.
+[26] W. Xu, J.J. Vittal, R.J. Puddephatt, Propargyl calix[4]arenes and their complexes
+with silver(I) and gold(I), Can. J. Chem. 74 (1996) 766–774.
+[27] E.M. Collins, M.A. McKervey, E. Madigan, M.B. Moran, M. Owens, G. Ferguson,
+S.J. Harris, Chemically modiﬁed calix[4]arenes. regioselective synthesis of 1,3(distal) derivatives and related compounds. X-ray crystal structure of a diphenoldinitrile, J. Chem. Soc. Perkin Trans. I. (1991) 3137–3142.
+[28] L.A.J. Chrisstoffels, F. Jong, D.N. Reinhoudt, S. Sivelli, L. Gazzola, A. Casnati,
+R. Ungaro, Facilitated transport of hydrophilic salts by mixtures of anion and
+cation carriers and by ditopic carriers, J. Am. Chem. Soc. 121 (1999)
+10142–10151.
+[29] M. Tabakci, B. Tabakci, A.D. Beduk, Synthesis and application of an efﬁcient
+calix[4]arene-based anion receptor bearing imidazole groups for Cr(VI) anionic species, Tetrahedron 68 (2012) 4182–4186.
+[30] A. Sap, B. Tabakci, A. Yilmaz, Calix[4]arene-based mannich and schiff bases as
+versatile receptors for dichromate anion extraction: synthesis and comparative studies, Tetrahedron 68 (2012) 8739–8745.
+[31] K.S. Breuer, Microscale diagnostic techniques, in: J.W. Bender, J. Krim (Eds.),
+Application of the Piezoelectric Quartz Crystal Microbalance for Microdevice
+Development, Springer, Berlin, 2004, p. 251.
+[32] G.I. Long, J.D. Winefordner, Limit of detection a closer look at the IUPAC deﬁnition, Anal. Chem. 55 (07) (1983) 712A–724A.
+[33] V.C. Goncalves, D.T. Balogh, Optical chemical sensors using polythiophene
+derivatives as active layer for detection of volatile organic compounds, Sens.
+Actuators B: Chem. 162 (2012) 307–312.
+[34] H. Li, Q. Zheng, J. Luo, Z. Cheng, J. Xu, Impacts of meso-structure and organic
+
+F. Temel, M. Tabakci / Talanta 153 (2016) 221–227
+loadings of ﬂuoroalcohol derivatives/SBA-15 hybrids on nerve agent simulant
+sensing, Sens. Actuators B: Chem. 187 (2013) 604–610.
+[35] X. Wang, F. Cui, J. Lin, B. Ding, J. Yu, S.S. Al-Deyab, Functionalized nanoporous
+TiO2 ﬁbers on quartz crystal microbalance platform for formaldehyde sensor,
+Sens. Actuators B: Chem. 171–172 (2012) 658–665.
+[36] A. Bello, F. Bianchi, M. Careri, M. Giannetto, V. Mastria, G. Mori, M. Musci,
+
+227
+
+Potentialities of a modiﬁed QCM sensor for the detection of analytes interacting via H-bonding and application to the determination of ethanol in bread,
+Sens. Actuators B: Chem. 125 (2007) 321–325.
+[37] I.A. Koshets, Z.I. Kazantseva, Yu.M. Shirshov, S.A. Cherenok, V.I. Kalchenko,
+Calixarene ﬁlms as sensitive coatings for QCM-based gas sensors, Sens. Actuators B: Chem. 106 (2005) 177–181.
+
+

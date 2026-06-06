@@ -1,0 +1,199 @@
+Graphene electrochemical transistor incorporated with gel electrolyte for wearable and non-invasive glucose monitoring
+Author links open overlay panel
+Nan Gao a
+, 
+Rui Zhou a
+, 
+Bo Tu a
+, 
+Tian Tao a
+, 
+Yongqiao Song a
+, 
+Zhiwei Cai a
+, 
+Hanping He b
+, Gang Chang a
+, 
+Yuxiang Wu c
+, 
+Yunbin He a
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.aca.2022.340719
+Get rights and content
+Highlights
+•
+A flexible graphene transistor biosensor for glucose was developed based on glycerol gel electrolyte.
+•
+Glycerin gel electrolyte replaces the traditional liquid electrolyte to provide stable test conditions for the sensor.
+•
+The device attaches to the skin and quickly monitors glucose with just a small amount of sweat.
+•
+The sensor performance remains stable after thousands of bending cycles.
+•
+The device exhibits good potential for wearable practical application.
+Abstract
+With the rapid development of wearable electronic devices, health monitoring is undergoing a fundamental shift from hospital-centered treatment to patient-centered diagnosis. Solution-gated graphene transistors provide an effective platform for developing high-sensitivity wearable devices due to their unique signal amplification, low energy consumption, and compatibility for miniaturization. However, it is still a major challenge to perform real-time sweat composition monitoring directly on the dry skin surface. In this work, a skin-based flexible gel electrolyte graphene transistor (GEGT) was successfully designed and fabricated for glucose detection, consisting of a gate electrode decorated with Au nanoparticles modified reduced graphene oxide (AuNPs/RGO) nanocomposites and a monolayer graphene channel. Glycerin gel was used to replace the traditional liquid electrolyte, not only could better fit the human skin, but also play the role of fluid collection, providing stable testing conditions for the sensor. Based on the high electron mobility of graphene channel and the excellent electrocatalytic performance of AuNPs/RGO nanocomposites, the constructed GEGT sensor exhibits excellent sensing performance for glucose with good selectivity, low operating voltage (0.5 V), wide detection range (10 nM - 25 mM), and low detection limit (10 nM). The device maintains stable performance after up to 1000 bending cycles with a bending radius of 4 mm. In addition, the GEGT sensor displays good accuracy in sweat detection and sensitive dynamic response during actual wearing, which provides a guarantee for the construction of wearable transistor devices and real-time health tracking.
+Graphical abstract
+Image 1
+Download: Download high-res image (305KB)
+Download: Download full-size image
+Previous article in issue
+Next article in issue
+Keywords
+GlucoseGel electrolyteGraphene transistorHuman sweatWearable device
+1. Introduction
+Diabetes is a common and serious chronic disease characterized by elevated level of glucose concentration in blood [1]. In addition, abnormal glucose metabolism may cause a series of fatal complications such as hypoglycemia and cardiovascular disease [2]. Although some commercially available hand-held analyzers could realize glucose determination, most of the equipment requires repeated collection of blood samples, which is complicated and prone to cross-infection [3]. Recent studies confirm that other fluids of human body such as tears, sweat, and saliva can also provide abundant valuable information for physiological tests and are more readily available than blood [4,5]. Hence, it is necessary to develop low-cost, rapid and accurate methods for glucose monitoring through sweat analysis. Among various sensing methods (electrochemical sensors, Raman spectroscopy, surface plasmon resonance, colorimetry, mass spectrometry) [6], electrochemical sensors are extremely interesting owing to their simple structure, easy miniaturization, high performance and low cost [7]. However, it is worth noting that electrochemical sensors should be equipped with solution electrolytes [8], which makes the construction of a wearable device still a huge challenge.
+With the continuous improvement of the concept about physiological metabolite monitoring, people's demand for wearable electronic devices is constantly increasing [9]. Due to the excellent mechanical properties, flexible biosensor can better fit with the skin tissues of the human body, which makes it an essential device that can more easily reflect the individual's physiological state [10]. Studies have found that there is a certain correlation between the blood sugar level and the glucose level in sweat. It is feasible to estimate blood glucose level by monitoring the electrochemical signal of glucose in human sweat [11,12]. Meanwhile, the sweat is easier to collect, reducing cross-contamination and pain during blood collection [13]. Therefore, the development of a non-invasive, effective and wearable sweat sensor can realize real-time monitoring of an individual's health states without affecting the user's normal activities.
+The construction of flexible sensors requires not only flexible electrode materials, but also flexible substrates that could be attached to the surface of human skin [14]. Graphene is a two-dimensional crystalline material that has the property of being stretched and even folded. In addition to flexibility, it also has high electron mobility and good surface adsorption energy, which has been widely used in flexible devices [15,16]. In order to effectively improve the sensitivity of sensors, reduced graphene oxide (RGO) is often used as a supporting substrate for nanomaterials [17,18]. Among the metal nanoparticles, gold nanoparticles (AuNPs) have attracted significant attention as potential candidates for electrochemical sensors because of their excellent electrocatalytic activities [19,20]. Therefore, AuNP/RGO nanocomposites are expected to provide excellent conductivity and effective electrochemical active surface area for the adsorption of biomolecules, and accelerate the electron transfer between the electrode and the molecule to be detected, which would greatly enhance the sensitivity, stability and accuracy of the sensor. Among these graphene based biosensors, the solution gated graphene transistors have attracted much attention due to its inherent amplification function, which enables real-time and highly sensitive detection in aqueous medium at low voltages (less than 1 V) [21]. However, the traditional solution gated graphene transistors require sufficient electrolyte to be tested [22], but the skin itself does not provide enough electrolyte to operate it. In order to overcome this obstacle and make it more wearable, an alternative electrolyte must be found [23]. Hydrogel materials have a network of cross-linked polymer chains and voids filled with solvent water [24]. This feature endows the material with both wet and soft properties and high permeability to water-soluble metabolites such as glucose, making it an ideal candidate for replace electrolyte solutions [25,26]. Prominent among diverse hydrogels are polyacrylamide hydrogel, which is the most extensively researched and most commonly available [[27], [28], [29]]. Polyacrylamide hydrogel exhibit good conductivity, and the simplicity of synthesis makes it highly suitable for the electrolyte materials of sensors. Glycerin is added as a water retaining agent to improve the stability of the sensor during long-term storage. The combination of polyacrylamide glycerin gel and transistor sensor makes it possible for further development of wearable devices.
+Herein, we report a flexible gel electrolyte graphene transistor (GEGT) sensor based on AuNPs/RGO nanocomposites functionalized gate electrode. monolayer graphene with high electron mobility served as the channel, AuNPs/RGO nanocomposites with high catalytic activity were synthesized in situ by one-step electrodeposition on the gate surface (Fig. 1a). And the glycerin gel was used instead of the traditional solution electrolyte to achieve the effect of bending resistance and sweat collection. The moisturizing properties of glycerin gel were compared with traditional hydrogel. The mechanical stability and sensing performance of the constructed GEGT sensor were investigated through tests of bending cycles, calibration curves and interference experiments. The prepared flexible GEGT overcame the limitations of traditional rigid devices, could be well fitted to human skin, and achieve long-term stable detection of electrophysiological signals in dry environment. Moreover, the GEGT sensor could be directly attached to dry skin to monitor the human body's glucose, which provides another new avenue for the development of non-invasive wearable sensors for health monitoring.
+Fig. 1
+Download: Download high-res image (469KB)
+Download: Download full-size image
+Fig. 1. (a) Schematic diagram of the GEGT consisting of AuNPs/RGO nanocomposites functionalized gate and a monolayer graphene channel. (b) Schematic diagram of glucose molecules in sweat permeating through the gel and corresponding chemical reaction on the electrode surface. (c) Potential distribution changes at the gate and graphene channel of GEGT before (solid line, green) and after (dashed line, red) the addition of glucose. (d) Transfer curves (IDS vs VGS, VDS = 0.05 V) of the GEGT measured by adding different concentrations of glucose. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+
+2. Experimental
+2.1. Materials
+High purity gold (99.999%) was purchased from Zhongnuo Advanced Material Technology Co., Ltd. Monolayer graphene was obtained from Hefei Vigon Material Technology Co., Ltd. HAuCl4·xH2O, N,N′-methylenebis (acrylamide) and ammonium persulfate were purchased from Aladdin Co., Ltd. Monolayer graphene oxide powder was bought from XFNANO (Nanjing, China). Uric acid (UA) was purchased from Shanghai Macklin Biochemical Co., Ltd. CuSO4·5H2O, NaCl, KCl, CaCl2, NH4Cl, NaH2PO4·2H2O, Na2HPO4·12H2O, glucose, lactic acid (LA), ascorbic acid (AA), hydrochloric acid, glycerol, ethanol and acetone were purchased from the Sinopharm Chemical Reagent Co., Ltd. All chemicals were of analytical grade and used without further purification. Glycerol phosphate buffer solution (PBS, 0.1 M, pH = 7.4) was prepared from NaH2PO4·2H2O and Na2HPO4·12H2O. The ultrapure water used in this work was produced by Kertone Ultrapure Water System P60-CY (Kertone Water Treatment Co., Ltd. resistivity>18 MΩcm).
+2.2. Device fabrication
+We selected polyethylene terephthalate (PET) with a size of 1 × 1 cm as a flexible substrate, Au and Cr were deposited by thermal evaporation through a shadow mask to serve as gate, drain and source electrodes. The Cr layer was coated in order to improve the adhesion of the gold electrodes, in which the thickness of Cr layer was about 30 nm, and the thickness of Au layer was about 100 nm. The length of the channel was 6 mm and the width was 0.25 mm. Monolayer graphene was transferred to serve as the channel of GEGT by wet transfer method (Fig. S1). In short, monolayer graphene was grown on copper foil by chemical vapor deposition (CVD), and a layer of PMMA was evenly coated on the graphene surface to protect the integrity of graphene. It was cut into 5 × 3 mm and then transferred to a prepared etching solution consisting of copper sulfate (0.1 g mL−1) in a 1:1 ratio of concentrated hydrochloric acid and water until the copper foil was completely etched off. The obtained PMMA/graphene was rinsed with ultra-pure water and then transferred to the surface between the source and drain electrodes. After drying, the graphene was soaked in acetone for 2 min, 5 min, and 10 min successively to remove PMMA. Immediately after soaking, it was rinsed with alcohol, and then annealed at 100 °C for 20 min to obtain the graphene channel.
+The gate electrode was functionalized with AuNPs/RGO nanocomposites by one-step electrodeposition method according to the optimal deposition conditions explored in our previous work [30]. The precursor solution was composed of GO (0.5 mg mL−1) and HAuCl4 (10 mM). The GO powder was first mixed with deionized water and sonicated for 1 h. Then HAuCl4 was added and mixed for 30 min to prepare the precursor solution. The gate electrode of the transistor modified with AuNPs/RGO nanocomposites was obtained by electrodeposition under the potential of −30 V in prepared precursor solution for 20 min using a DC voltage stabilizer.
+To construct a flexible transistor, we used polyacrylamide glycerin gel as solid electrolyte instead of the traditional solution environment (Fig. S2). Acrylamide monomer (0.2 g) was added into deionized water (2 mL) and dissolved until clarified. Next, N,N′-methylenebis (acrylamide) (200 μl, 0.5 wt%) and ammonium persulfate (200 μl, 0.8 wt%) were added successively as the crosslinking agent and initiator. Then, the solution was stirred into a homogeneous mixture and poured into the mold with the length, width and height of 20 mm × 10 mm × 50 μm, and the mold containing the mixed solution was put into an oven at 90 °C for 20 min, so that the solution undergone thermal polymerization and crosslinking to form a gel. At last, the fabricated polyacrylamide hydrogel was soaked in 0.1 M glycerol PBS for 3 h to reach saturation state by solvent replacement method. The prepared polyacrylamide glycerin gel was then taken out and cut into 10 × 5 mm pieces, which were eventually spread on the source, drain and gate electrode of the transistor to complete the assembly of the whole device.
+2.3. Characterization
+A special Au/Cr pattern was evaporated on a flexible PET substrate of 50 μm thickness by thermal evaporation coating instrument (V22-300, KYKY Technology). The one-step electrodeposition process was performed using a DC voltage regulator (SS1712, Shijiazhuang, China). The sensor performance of the transistor was tested by a semiconductor parameter analyzer (2400S, Keithley Instrument). The electrochemical performance was carried out by an electrochemical workstation (CHI660e, Shanghai Chenhua Instrument). The morphology of AuNPs/RGO nanocomposites were observed by field emission scanning electron microscopy (FE-SEM, ZEISS, Germany). The crystalline properties of AuNPs/RGO nanocomposites was characterized by X-ray diffraction (XRD, D8A25, BRUKER Technology, Germany). UV–vis spectrophotometry was measured using UV 3600 Plus (Shimadzu Corporation, Japan). In addition, all experiments of this work were conducted at normal temperature.
+2.4. Ethics statement
+All human skin-attachment experiments were performed in compliance with the relevant laws and institutional guidelines. Informed consent was obtained from all volunteers for the experiments involving wearable sensors.
+3. Results and discussion
+3.1. Detection mechanism of the GEGT
+Prior to the detection, the glycerol gel was applied to the corresponding areas to establish a complete detection system (Fig. 1a). Based on the working principle of FET, the sensing mechanism of GEGT sensor was to affect the carrier concentration of the channel through the effective gate voltage, so as to regulate the current of the channel [31]. Graphene is prone to p-type doping in water and air, while n-type doping occurs when it contacts with organic compounds [32]. In the experiment, all the objects were configured with 0.1 M PBS (pH = 7.4). After 2 μl glucose solution of different concentrations were dropped on the surface of the gel successively, both water and glucose molecules would penetrate the gel and contact with the gate and channel, resulting in p-type doping of the graphene channel [33]. AuNPs have glucose oxidase-like properties, and glucose was electrocatalytically oxidized on the electrode surface to produce gluconolactone (Fig. 1b) [34]. the electric field between the functionalized gate and graphene channel induced the adsorption of molecules or ions on the graphene surface [35].
+In the potential distribution diagram of the transistor, the green line and the red dotted line respectively represent the potential changes at the two interfaces before and after the addition of glucose (Fig. 1c). The gate voltage actually acts on the GEGT through the interface capacitance of gate/electrolyte and channel/electrolyte interfaces [36], which can be described with VGS=VG-E + VC-E. Based on the Nernst equation, the V’G-E was described as:
+(1)
+Where R is gas constant 8.314 J K−1 mol−1, T is the absolute temperature, n is the number of electrons transferred during the electrochemical reaction of glucose, F is Faraday constant, C is the different concentrations of glucose in the gel electrolyte. So the voltage acted on the channel/electrolyte interface was:
+(2)
+From the equation, the potential acted on the channel/electrolyte interface (VC-E) is proportional to the logarithm of the glucose concentration added. When the device reaches the stable state, the initial value of the corresponding channel current is I0. After continuously adding glucose of different concentrations, the current response would be generated, and the corresponding channel current was I. Thus, the change value of the current response could be obtained as ΔIDS. Furthermore, the channel current (IDS) depends on the voltage (VC-E) applied to the graphene channel. So, the channel current change value was proportional to the logarithm of the glucose concentration [37], which could be expressed as:
+(3)ΔIDS = I – I0 = α lgC + β
+The transfer curve of GEGT with VDS = 0.05 V depicts the bipolar behavior of graphene (Fig. 1d). The Dirac point of original undoped graphene was at the gate voltage of 0 V, and the point may shift toward positive (negative) gate voltage as a consequence of p-type (n-type) doping [38]. From the transfer curve, the VDirac was less than 0 V due to the n-type doping of graphene in the glycerol gel electrolyte. Attributed to the zero-band gap property of graphene, as the gate voltage increases, the electric field between gate and channel would drive electrons transfer from the valence band of graphene to the conduction band, then fill with the holes [39]. When the voltage is increased to a certain value, graphene reaches its intrinsic state, where electrons fill up the holes and begin to accumulate, resulting in a decrease and then an increase of charge carriers concentration on the graphene surface [40]. Glucose molecules cross the gel and come into contact with the electrode surface, where oxidation reactions occur, leading to further p-type doping of graphene. This also explains the phenomenon that the transfer curve gradually shifted to the right with the addition of different concentrations of glucose.
+3.2. Morphological and component characterization of AuNPs/RGO nanocomposites
+The morphology of AuNPs/RGO nanocomposites modified on the gate electrode was characterized by FE-SEM (Fig. S3). The wrinkled structure of RGO could be observed, which increases the specific surface area and provides more attachment sites for gold nanoparticles, at the same time, enhances the conductivity of electrode. In addition, the gold nanoparticles were evenly distributed on the surface of RGO, forming a large number of catalytic sites for the electrocatalytic oxidation reaction of glucose. To confirm the modification of AuNPs/RGO nanocomposites, XRD was used to perform composition analysis tests of the composite nanomaterials (Fig. S4). These obvious peaks could be observed at 2θ of 38.2°, 44.4°, 64.6° and 77.5° corresponding to the (111), (200), (220) and (311) planes of Au, representing the specific face-centered cubic structure, and no obvious diffraction peak belonging to RGO has been found, which might be due to the poor crystallization effect of the prepared AuNPs/RGO nanocomposites.
+3.3. Characteristics of glycerol gel electrolyte and flexibility of GEGT
+The prepared polyacrylamide glycerin gel was freeze-dried and then quenched with liquid nitrogen. The cross section of the gel was observed by SEM to characterize the thickness of the gel (Fig. S5). It reveals that the prepared gel is relatively uniform with a thickness of about 42.8 μm. The thickness of the gel directly affects the permeation rate of ions and molecules, which in turn affects the response rate of the device. The stability of hydrogels and glycerol gels under the same conditions at room temperature was compared (Fig. 2a). It can be seen clearly that the volume of hydrogels decreased significantly after being placed for 7 days, while the glycerol gels show no obvious change. A statistic was made on the change of gel mass with the number of days placed at room temperature (Fig. 2b). During the first 6 days of storage, the mass of the hydrogel rapidly decreased to 10% of its initial mass and then remained stable, while the glycerin gel retained 90% of its original mass after 21 days of storage, which demonstrates the non-volatile glycerin gel can exist stably in the air, creating persistent electrolyte environment for long-term physiological monitoring.
+Fig. 2
+Download: Download high-res image (603KB)
+Download: Download full-size image
+Fig. 2. (a) The images of hydrogels and glycerin gels prepared under the same conditions after being placed at room temperature for a week. (b) The weight ratio of polyacrylamide glycerol gel and hydrogel over time under ambient conditions. (c) The representative illustration of GEGT patch on volunteer's finger and actual sample images before and after bending. (d) Transfer curves of GEGT with different bending cycles at a radius of curvature of 4 mm.
+
+The volume of the extremely small amount of liquid to be tested was negligible compared to the volume of the gel itself, and the glycerin gel electrolyte was prepared by immersing the hydrogel in glycerol PBS until the gel reaches a swelling equilibrium state, therefore, the gel electrolyte will not swell or shrink significantly during the test. Secondly, the glycerol gel can maintain long-term stability at room temperature without obvious shrinkage, and even if it shrinks, it could be swollen again and reused. In conclusion, the accuracy of the experimental results will not be affected by swelling or shrinking of the gel electrolyte.
+Actual sample images of the flexible wearable device before and after bending were shown in Fig. 2c. In order to investigate the flexibility of the transistor with glycerin gel as the electrolyte, the transfer curves of the device were tested after bending for different cycles under the condition that the curvature radius is 4 mm. The flexibility of the transistor with glycerol gel as electrolyte was evaluated by measuring the transfer curves of the device after different bending cycles (curvature radius: 4 mm). In order to truly simulate the real-time detection effect of the sensor during the wearing process, the transfer curve of the device was tested immediately when it was bent and not recovered, as shown in Fig. 2d. After 1000 bending cycles of GEGT devices, there was no obvious shift in the transfer curve, only the channel current is slightly reduced. This means that the device still has good stability even in the bending state. In summary, using glycerin gel as the electrolyte instead of the traditional liquid electrolyte can not only enable the device to operate normally, but also have good flexibility.
+3.4. Sensing performances of GEGT for glucose detection
+3.4.1. Linear detection range and detection limit of sensor
+The modified gate was used as the working electrode of the three-electrode system, and 5 mM glucose was added to 0.1 M PBS (pH = 7.4) to further investigate the glucose oxidation performance (Fig. S6). Black curve obtained by scanning AuNPs/RGO in PBS solution without glucose. The anodic located at 0.16 V was ascribed to the chemisorption of OH− ions on the AuNPs sites, forming the “pre-oxidized precursor” AuOHads. The cathodic peak corresponds to the formation of AuOx monolayers on AuOHads. The AuOHads site was the active substance in the electrocatalytic oxidation of glucose. When glucose was added to PBS (red curve), glucose molecules were adsorbed to AuOHads and oxidized to form gluconolactone (glucose + AuOH → gluconolactone + Au). The reverse scan was accompanied by further oxidation of gluconolactone [41]. This also confirmed that AuNPs/RGO could indeed electrocatalyze glucose oxidation.
+The cyclic voltammetry curves illustrate that the obvious oxidation peak of glucose appears at about 0.3 V. Therefore, when detecting the sensing performance of the transistor, the channel voltage was set to 0.05 V and the gate voltage was chosen to be 0.5 V. In Fig. 1d, it can be concluded that the VDirac of the GEGT device was −0.2 V, and the addition of glucose was a p-type doping process to the graphene channel. When VGS = 0.5 V, the current of IDS showed a decreasing trend with the increase of glucose concentration (Fig. 3a). The dynamic current response of the GEGT to different concentrations of glucose was tested by recording the real-time IDS versus time with addition of glucose solution step-by-step. The detection limit is determined by gradually increasing the concentration until a significant current response occurs. It could be concluded that the detection limit of GEGT was 10 nM and the detection range was from 10 nM to 25 mM. The fitted working curve was made according to the current change value of channel (Fig. 3b). The current change of channel maintained a good linear relationship with the logarithm of glucose concentrations between 10 nM and 25 mM and the linear fitting R2 was 0.992, suggesting that the GEGT could accurately detect the concentration of unknown glucose solution in this concentration range. This detection range has covered the concentration of glucose in human sweat [42,43]. The GEGT sensor already satisfies the standard for glucose detection in sweat of normal people and diabetics. The results show that GEGT has a lower detection limit and a wider detection range, which is superior to most reported glucose detection methods (Table 1).
+Fig. 3
+Download: Download high-res image (543KB)
+Download: Download full-size image
+Fig. 3. (a) Channel current response during the additions of glucose with different concentrations under the same conditions. (b) Working curve obtained by fitting channel current response (ΔIDS) versus the logarithm of glucose concentration. (c) Anti-interference of the device was tested with addition of 200 μM glucose and corresponding maximum concentrations of interfering substances (VGS = 0.5 V, VDS = 0.05 V). (d) Stability of current response to 1 mM glucose using the same GEGT device over 15 days.
+
+Table 1. Performance comparison of the different glucose sensors reported in the literature.
+
+Catalytic material	Medium	Linear range [mM]	Limit of detection [μM]	Ref.
+GluMIP	0.1 M PBS (pH = 7.4)	0.1–4	3	[44]
+AuNWs/RGO/PU	0.1 M PBS (pH = 7.4)	0.001–1	0.5	[45]
+PtNWA/AuNPs/GOD	0.1 M PBS (pH = 7.2)	0.015–2.5	0.05	[46]
+GOx-CHIT/Co3O4	0.1 M PBS (pH = 7.2)	0.0001–1	0.1	[47]
+Au–Ni/GOx	0.1 M PBS (pH = 7.4)	0.001–30	0.29	[48]
+Ni/Cu-MOFs	0.1 M NaOH	0.001–20	0.51	[49]
+RGO-AuNCs@CuO	0.2 M NaOH	0.0001–3	0.03	[50]
+NiO QDs/ZnO NRs	0.1 M PBS (pH = 7.4)	0.001–50	1	[51]
+Ni(OH)2@PEDOT-RGO	0.1 M NaOH	0.002–7.1	0.6	[52]
+AuNPs/RGO	glycerin gel	0.00001–25	0.01	This work
+3.4.2. Selectivity of GEGT sensor
+The main components of human sweat include Na+ (10–100 mM), Cl− (10–100 mM), K+ (1–18.5 mM), Ca2+ (0.41–12.4 mM), NH4+ (0.1–1 mM), lactic acid (LA, 5–20 mM), ascorbic acid (AA, 10–50 μM), uric acid (UA, 2–10 mM) and glucose (10–200 μM) [52]. To evaluate the selectivity of the device, 2 μl of glucose (200 μM) and corresponding maximum concentrations of the above interfering substances were successively added to the gel electrolyte to determine the effect of the anti-interference on glucose detection (Fig. 3c). After the addition of 200 μM glucose, the significant current change is generated (about 22 μA), while no obvious current responses are observed after the addition of interfering substances and the response was negligible compares to that of glucose (<1 μA), indicating that the device has strong anti-interference property and good selective recognition of glucose. The good selectivity can be attributed to the glucose oxidase mimicking activity of gold nanoparticles and their different catalytic potentials for interfering substances. Moreover, the different size and shape of nanoparticles also affect their catalytic selectivity.
+3.4.3. Device stability and detection of human sweat
+Good stability is a key factor to measure a sensor in practical applications. The stability of the proposed GEGT sensor was evaluated by measuring the current response of the sensor over a period of 15 days. (Fig. 3d). The findings demonstrated that the current response value of the GEGT sensor to glucose remained above 85% of the initial value after 15 days, confirming the good long-term stability of the device. In addition, the slight decrease in current response was due to the fact that the gluconic acid produced by the catalytic oxidation of glucose passivates the surface of the gold nanoparticles, reducing its catalytic activity.
+To verify the practical applicability of the device, sweat was collected from two volunteers. Since the untreated sweat contains some oily impurities, it would affect the spectrophotometric color reaction and cause the error of test results. So, before the spectrophotometric test, the sweat was first fully centrifuged in a high-speed centrifuge at 8000 rpm for 5 min to filter out impurities and collect cleared sweat samples, then repeated three times. Finally, the sweat after impurity removal was tested with a commercial glucose assay kit (spectrophotometer). For comparison, unprocessed sweat was dropped directly onto the surface of the prepared device (Table S1). The measured results are consistent with those obtained by spectrophotometry, illustrating that the device can accurately analyze and determine the content of glucose in sweat. In order to further confirm the wearability of the GEGT, we carried out a real-time dynamic monitoring on the human body (Supporting Video). The prepared device has been attached to the palm of the volunteer to observe the current steady state when sweat only accumulates on the skin surface, then the change of the channel current after sweat penetrates the gel and reacts with the gate electrode. The results show that the device has good stability and sensitivity, indicating that it was expected to be a potential candidate for wearable glucose sensor.
+4. Conclusions
+In summary, a flexible gel electrolyte graphene transistor (GEGT) sensor based on glycerol gel electrolyte has been successfully designed and fabricated for the detection of glucose. A monolayer graphene with high electron mobility is used as channel, combined with the AuNPs/RGO nanocomposites functionalized gate prepared by one-step electrodeposition method to assemble a complete device structure on a PET flexible substrate. The prepared GEGT device requires only a small amount of sweat for glucose detection by using polyacrylamide glycerol gel as a solid electrolyte instead of the conventional solution environment. Combining the high electron mobility of graphene, the excellent catalytic properties of AuNPs/RGO nanocomposites for glucose, and the inherent amplification effect of transistors, the constructed GEGT sensor exhibited low detection limit (10 nM), wide detection range (10 nM-25 mM) and excellent anti-interference performance for glucose detection. More importantly, the GEGT sensor could maintain stable sensing performance after up to 1000 bending cycles. This indicates that the constructed flexible GEGT overcame the limitations of conventional rigid devices, fitted well to human skin, and enabled long-term stable monitoring of electrophysiological signals even in dry environments. The sensor has accurate detection results in practical application and sensitive dynamic response during human wearing, indicating that it has broad application prospects in the field of non-invasive wearable intelligent medical monitoring.
+CRediT authorship contribution statement
+Nan Gao: Conceptualization, Methodology, Software. Rui Zhou: Data curation, Writing – original draft, preparation. Bo Tu: Visualization, Investigation. Tian Tao: Visualization, Investigation. Yongqiao Song: Visualization, Investigation. Zhiwei Cai: Supervision. Hanping He: Software, Validation. Gang Chang: Writing – review & editing. Yuxiang Wu: Writing – review & editing. Yunbin He: Writing – review & editing.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgements
+The authors acknowledge the financial support from the NSFC (Nos. 11975093, 52272106), the NSF of Hubei Province (No. 2019CFA006), the Program for Science and Technology Innovation Team in Colleges of Hubei Province (No. T201901).
+Appendix A. Supplementary data
+
+Download all supplementary files included with this article
+What’s this?
+The following are the Supplementary data to this article:
+Download: Download Word document (5MB)
+Multimedia component 1.
+
+Media player
+
+PlayRestartRewindForward
+0 secondsVolume
+SlowerFasterPreferencesEnter full screen
+0:00 / 0:20Speed: 1xStopped
+Download: Download video (8MB)
+Multimedia component 2.
+Supporting Information
+Graphene Electrochemical Transistor incorporated with Gel Electrolyte for Wearable and Non-invasive Glucose Monitoring
+Nan Gao a, Rui Zhou a, Bo Tu a, Tian Tao a, Yongqiao Song a, Zhiwei Cai a, Hanping He b, Gang Chang a*, Yuxiang Wu c*, Yunbin He a* 
+a.  Ministry-of-Education Key Laboratory for the Green Preparation and Application of Functional Materials, Hubei Key Laboratory of Polymer Materials, School of Materials Science and Engineering, Hubei University, No.368 Youyi Avenue, Wuchang, Wuhan 430062, China
+b.  Ministry of Education Key Laboratory for the Synthesis and Application of Organic Functional Molecules, College of Chemistry and Chemical Engineering, Hubei University, No. 368 Youyi Avenue, Wuchang, Wuhan 430062, China
+c.  School of Physical Education, Jianghan University, Wuhan 430056, China
+E-mails: gchanghubei@gmail.com
+yxwu@jhun.edu.cn
+ybhe@hubu.edu.cn
+
+
+Figure S1. The wet transfer process of graphene channel. Monolayer graphene was transferred to the surface of source and drain electrodes as the channel of the device by wet transfer method.
+
+
+
+Figure S2. Preparation of gel electrolyte. The process of polyacrylamide glycerol gel electrolyte instead of the traditional solution environment.
+
+
+Figure S3. FE-SEM image of AuNPs/RGO. The AuNPs/RGO was modified on the gate electrode after electrodeposition in precursor solution with 10 mM HAuCl4 and 0.5 mg mL-1 GO.
+
+
+
+Figure S4. XRD pattern of AuNPs/RGO. The gate electrode decorated with AuNPs/RGO. 
+
+
+
+Figure S5. SEM image of the thickness of polyacrylamide glycerin gel. The prepared polyacrylamide glycerin gel was freeze-dried and then quenched with liquid nitrogen. The cross section of the gel was observed by SEM to characterize the thickness of the gel.
+
+
+
+Figure S6. Cyclic voltammetry curves of AuNPs/RGO. The gate electrode modified with AuNPs/RGO nanocomposites for glucose detection.
+
+Table S1. The analysis of real sweat samples.
+Sample
+Spectrophotometic
+[μM]
+GEGT
+[μM]
+Average
+RSD
+1
+60.538
+62.656
+62.437
+59.881
+61.658
+2.5%
+2
+71.749
+71.096
+70.724
+74.676
+72.165
+3.0%
+

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.aca.2017.07.066",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+",
+      "lower_detection_limit": "1e-7 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "N,N-Dicyclohexyl-N',N'-dioctadecyl-3-oxapentanediamide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "potassium chloride/water"
+    }
+  ]
+}

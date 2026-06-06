@@ -1,0 +1,75 @@
+{
+  "stem": "10.1002_anie.201000847",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "2,4,6-trinitrotoluene (TNT)",
+      "lower_detection_limit": "50-100 attomolar (ca. 1×10^-16 M)",
+      "upper_detection_limit": "5 μM",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "2,4,6-trinitrotoluene (TNT)",
+      "lower_detection_limit": "10^-2 ppt (parts per trillion) in air",
+      "upper_detection_limit": "1 ppb (parts per billion) in air",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "20",
+      "pH_value": -1,
+      "test_medium": "air (dry nitrogen or compressed dry air)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "2,6-dinitrotoluene (2,6-DNT)",
+      "lower_detection_limit": "5 μM",
+      "upper_detection_limit": "",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "2,4-dinitrophenol (2,4-DNP)",
+      "lower_detection_limit": "5 μM",
+      "upper_detection_limit": "",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "RDX (1,3,5-trinitroperhydro-1,3,5-triazine)",
+      "lower_detection_limit": "5 μM",
+      "upper_detection_limit": "",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "p-nitrophenol (p-NP)",
+      "lower_detection_limit": "5 μM",
+      "upper_detection_limit": "",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "aniline",
+      "lower_detection_limit": ">5 μM",
+      "upper_detection_limit": "",
+      "probe_material": "3-aminopropyltriethoxysilane (APTES)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "deionized water with 0.1% DMSO"
+    }
+  ]
+}

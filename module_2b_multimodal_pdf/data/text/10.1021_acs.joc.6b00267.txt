@@ -1,0 +1,551 @@
+Article
+pubs.acs.org/joc
+
+Tetraphenylethene−2-Pyrone Conjugate: Aggregation-Induced
+Emission Study and Explosives Sensor
+Vaithiyanathan Mahendran,† Kamaraj Pasumpon,† Solaimalai Thimmarayaperumal,†
+Pakkirisamy Thilagar,‡ and Sivakumar Shanmugam*,†
+†
+
+Department of Organic Chemistry, School of Chemistry, Madurai Kamaraj University, Madurai 625 021, India
+Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore 560 012, India
+
+‡
+
+Downloaded via ARGONNE NATL LABORATORY on May 23, 2026 at 17:01:32 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+S Supporting Information
+*
+
+ABSTRACT: Design and synthesis of a novel tetraphenylethene−2-pyrone (TPEP) conjugate exhibiting donor−acceptor
+characteristics is reported. The localized frontier molecular
+orbitals (DFT studies) and the solvent polarity dependent
+photoluminescence characteristics directly corroborate the
+presence of intramolecular charge transfer character in TPEP.
+TPEP is poorly emissive in the solution state. In contrast, upon
+aggregation (THF/water mixtures), TPEP exhibits aggregationinduced emission enhancement. Upon aggregation, dyad TPEP
+forms a ﬂuorescent nanoaggregate which was conﬁrmed by
+transmission electron microscopy imaging studies. The luminescence nanoaggregates were elegantly exploited for selective
+detection of nitro aromatic compounds (NACs). It was found
+that nanoaggregates of TPEP were selectively sensing the picric
+acid over the other NACs. Eﬃciency of the quenching process was further evaluated by the Stern−Volmer equation. TPEP-based
+low-cost ﬂuorescent test strips were developed for the selective detection of picric acid.
+
+■
+
+INTRODUCTION
+Fluorescent organic materials have been receiving tremendous
+attention in the ﬁeld of science and technology owing to their
+potential applications such as sensors,1 bioimaging agents,2
+ﬂuorescent probes, 3 and organic light-emitting devices
+(OLEDs).4 Most of the ﬂuorescent organic molecules are
+planar in nature and highly emissive in dilute solutions. The
+light-emitting nature of many ﬂuorescent molecules is aﬀected
+by the notorious problem called aggregation-caused quenching
+(ACQ). ACQ is the phenomenon by which light emission of
+many organic ﬂuorescent molecules is partially or totally
+quenched in the aggregated/solid state. Consequently, the
+ACQ process aﬀects the real time applications of a molecule
+under investigation. Formation of excimers through π−π
+stacking is one of the proposed reasons for ACQ of planar
+ﬂuorescent molecules by which nonradiative relaxation from
+the excited states has been observed. On the other hand,
+aggregation-induced emission5 (AIE) was discovered by Tang
+et al. in 2001, and since then it has become a useful concept for
+designing organic molecules that are free from ACQ properties.
+They disclosed that the series of propeller-shaped organic
+molecules are nonemissive when they are molecularly dissolved
+in solvents and became a highly emissive in the aggregated
+state. Restriction of intramolecular motion6 (RIM) was the
+proposed mechanism for the AIE property of any molecule.
+After discovery of the AIE phenomenon, numerous research
+groups have been enthusiastically devoting their research eﬀorts
+© 2016 American Chemical Society
+
+for the design and development of novel AIE active molecules.
+The potential applications AIE luminogens have been well
+documented in recent literature.7
+
+Figure 1. Design of TPEP.
+
+It was reported that one can rationally design and change the
+ACQ nature of a ﬂuorophore into the AIE-active ﬂuorescent
+molecule by incorporating typical AIE active luminogen
+(AIEgen) to the molecular structure of the ﬂuorophore.8
+Tetraphenylethene9 (TPE) is one among such AIE-active
+luminogens, and 2-pyrone (2H-pyran-2-one) is a ﬂuorophore
+that has shown interesting electroluminescence properties and
+Received: February 5, 2016
+Published: April 6, 2016
+3597
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+Article
+
+The Journal of Organic Chemistry
+Scheme 1. Synthetic Route to TPEP
+
+Figure 2. Molecular structure of TPEP (carbon, blue; hydrogen, white; nitrogen, pink; oxygen, red; sulfur, yellow).Thermal ellipsoids are at a 50%
+probability level.
+
+found applications in OLED.10 We recently became interested
+in the design and development of novel AIE-active luminogens
+for selective detection and discrimination of nitroaromaticbased explosives.11 As part of our ongoing program, we
+investigated the structure and AIE characteristics of a novel
+donor−acceptor (D−A) system containing TPE and 2-pyrone
+moieties (TPEP, Figure 1). Compound TPEP forms
+ﬂuorescence nanoaggregates in the aggregated state and
+selectively detects picric acid and discriminates against other
+nitroaromatic compounds (NACs). The intriguing optical
+properties of TPEP are reported in this manuscript.
+
+at 403 and 300 nm. The lower energy absorption was assigned
+to intramolecular charge transfer from TPE to the 2-pyrone
+part of the TPEP and higher energy absorption ascribed to the
+π−π* transition of the TPE part of the TPEP. The PL
+spectrum in THF shows the emission maxima at 536 nm.
+Furthermore, the solvatochromic properties of TPEP were
+screened using various solvents with diﬀerent polarity (Figure
+4a). The UV−vis absorption spectra of TPEP in both nonpolar
+and polar solvents were almost similar. However, a red shift was
+observed in the emission spectrum when the solvent polarity
+was increased. This conﬁrms the involvement of an intramolecular charge-transfer process in TPEP, which is typically
+observed in D−A systems. In hexane, emission maxima were
+observed at 494 nm (Stokes shift, Δν = 5300 cm−1), for THF
+and DCM, emission maxima were located at 536 nm (Δν =
+6600 cm−1) and 572 nm (Δν = 7500 cm−1). On the other
+hand, in MeOH, emission maxima was bathochromically shifted
+to 600 nm (Δν = 8100 cm−1).
+AIE Property. It is well-known that TPE-derived molecules
+exhibit aggregation-induced emission characteristics. The
+presence of the TPE unit in TPEP and its insoluble
+characteristics in water encouraged us to study the
+aggregation-induced emission property of TPEP in THF/
+water solvent mixtures. The absorption maxima at 403 nm of
+100% THF solution of TPEP was red-shifted to 455 nm upon
+addition of 90% water with a leveling-oﬀ long-wavelength tail,
+conﬁrming the formation of nanoparticles (Supporting
+Information). The leveling-oﬀ long-wavelength tail can be
+attributed to the well-known Mei scattering eﬀect, which has
+been documented in the literatures for AIE-active luminogens.12
+
+■
+
+RESULTS AND DISCUSSION
+Compound TPEP was synthesized according to the synthetic
+procedure shown in Scheme 1. The base-mediated reaction
+between acetyl TPE and SSA in DMSO solvent yielded TPEP
+in decent yield. Compound TPEP was well characterized by
+1
+H, 13C NMR and HRMS analysis. The molecular structure of
+TPEP was conﬁrmed by single-crystal X-ray diﬀraction studies
+(Figure 2). Single crystals of TPEP were obtained by slow
+evaporation of solutions of TPEP in 1:1 solvent mixtures of
+chloroform and methanol. Compound TPEP crystallized in the
+triclinic crystal system with the P1̅ space group (Supporting
+Information). From the crystal structure, it was found that the
+TPEP unit adopted a twisted molecular conﬁrmation as
+observed in numerous reported TPE-derived molecules.
+Compound TPEP is highly soluble in common organic
+solvents such as hexane, THF, chloroform, dichloromethane
+(DCM), and methanol (MeOH) and insoluble in water. The
+photophysical properties were screened using UV−vis and
+ﬂuorescence spectroscopy. The UV−vis spectrum (Supporting
+Information) in THF (1 × 10−5 M) exhibits absorption maxima
+3598
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+Article
+
+The Journal of Organic Chemistry
+
+Figure 3. Emission spectra of TPEP in THF/water solvent mixtures (a) and TEM image of TPEP aggregates formed in THF/water mixture with
+90% water fraction (b). Inset: photograph of the ﬂuorescence emission of TPEP aggregates formed in THF/water mixture with 90% water fraction
+(excitation wavelength: 365 nm).
+
+Figure 4. UV−vis and emission spectra of TPEP in solvents with diﬀerent polarity (a) and selected frontier molecular orbitals for TPEP (b)
+(isovalue = 0.03).
+
+mixing the Hartree−Fock-type exchange with Becke’s exchange
+functional15 and that developed by Lee−Yang−Parr for the
+correlation contribution.16 We have considered the 6-31G(d)
+basis set for all of the atoms, which provides reasonably good
+quality results in reasonable time scales. Visualizations of the
+optimized structures and the MOs were performed using
+Gaussview5.0. The harmonic force constants were computed at
+the optimized geometries to characterize the stationary points
+as minima. TD-DFT vertical excitation calculations were
+performed for TPEP on the basis of their ground-state
+optimized structures.
+The frontier molecular orbital of TPEP is shown in Figure
+4b. The HOMO is mainly localized on the TPE unit with less
+contribution from the 2-pyrone ring, and the LUMO is mainly
+localized on the 2-pyrone ring with considerable contribution
+from the phenyl ring of the TPE unit which is attached with 2pyrone. On the other hand, HOMO-1 is localized on the 2pyrone ring and LUMO+1 is TPE centered with less
+contribution from the 2-pyrone ring. The localized frontier
+molecular orbitals of TPEP clearly indicate that molecule may
+redistribute the charge upon photoexcitation. This result is in
+agreement with the experimentally observed solvent polarity
+dependent PL characteristics of TPEP. The possible electronic
+transitions involved in TPEP were calculated using TD-DFT
+methods. The results revealed that the longer wavelength
+absorption of TPEP originates from HOMO to LUMO, which
+
+The 100% THF solution of TPEP is weakly emissive with a
+λmax at ∼536 nm. The photoluminescence feature of TPEP is
+insensitive (no spectral changes) to the initial addition of water
+fractions ∼10 and 20%. It was observed that upon addition of
+30−70% of water fraction the PL spectra of TPEP progressively
+red-shifted to 585 nm without changing the emission intensity.
+The addition of water increases the polarity of the solvent
+medium, and hence, the emission of TPEP (with D−A
+structure) shifted to longer wavelength. However, at this point
+we do not know why the luminescent intensity is insensitive to
+the polarity of the solvent medium. Interestingly, at addition of
+90% water fractions, the PL intensity enhanced rapidly, and the
+luminescence maxima were blue-shifted to 518 nm. The weak
+emissive characteristics of TPEP in dilute solutions can be
+attributed to the enhanced nonradiative decay due to the
+molecular free rotations. However, upon aggregation the
+molecular free rotations ceased and the photoexcited molecule
+prefers to relax via radiative-decay pathway. Thus, enhanced
+luminescence intensity was observed for TPEP in an
+aggregated state. The transmission electron microscopy
+(TEM) images of the aggregated samples of TPEP conﬁrm
+the formation of nanoparticles (Figure 3b).
+Theoretical Investigations. To understand the electronic
+structure of TPEP, DFT computational studies were
+performed. The hybrid B3LYP13 functional has been used for
+all calculations as incorporated in the Gaussian 09 package14 by
+3599
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+Article
+
+The Journal of Organic Chemistry
+
+Figure 5. Change in ﬂuorescence spectra of TPEP with the addition of PA in THF/water (10:90) mixtures (a), Stern−Volmer plot in response to
+PA (b). Inset: Stern−Volmer plot obtained at lower concentration of PA.
+
+where, I0 and I are the PL intensities before and after addition
+of PA, [Q] is the quencher concentration, and KSV is the
+Stern−Volmer or quenching constant.
+The Stern−Volmer plot (I0/I vs PA concentration) is
+presented in Figure 5b. At higher concentrations of PA, the
+plot bent upward due to super ampliﬁed quenching eﬀect,27
+however, linearity at lower concentration PA indicates the
+involvement of static quenching mechanism. The quenching
+constant was found to be 5.6 × 105 M−1. The turn-oﬀ
+mechanism is attributed to the electron transfer and/or energy
+transfer mechanism28 between nanoaggregates of TPEP and
+picrate ion. The spectral overlap of the absorption spectrum of
+PA with the emission spectrum of TPEP in the wavelength
+region 424−494 nm promotes eﬃcient energy transfer from the
+excited state of nanoaggregates of TPEP to the ground state of
+PA, thus further increasing the quenching eﬃciency. On the
+other hand, the electron-deﬁcient nature of PA can easily
+quench the ﬂuorescence of nanoaggregates of TPEP via an
+electron-transfer process. In addition to PA, we also screened
+other NACs such as 2,4,6-trinitrotoluene (TNT), 4-nitrobenzene (NB), 1,4-dintrophenol (DNP), and 4-nitrophenol
+(NP) for quenching of the ﬂuorescence of nanoaggregates of
+TPEP; from the results, we conclude that the nanoaggregates
+of TPEP selectively and eﬃciently interact with PA than other
+NACs (Figure 6).
+For practical usage, we have also demonstrated the test strip
+based detection of PA by using TLC plates. The ﬂuorescent
+test strips were prepared using TLC plates coated by dipping
+into a solution of TPEP. The coated strips were dried under
+vacuum and then used for the solid-phase detection of PA. The
+highly emissive nature of the test strips becomes nonemissive
+when it is in contact with the PA (Figure 7). The detection
+limit was found to be in the range of 22 nM.29
+
+involve charge transition from TPE to 2-pyrone and higher
+energy absorption of TPEP originates from HOMO−1 to
+LUMO. The calculated energy band gap between HOMO and
+LUMO of TPEP is 3.09 eV, but the agreement between the
+calculated and experimentally observed spectra is very poor
+(Supporting Information). It has been well documented in the
+literature that the B3LYP hybrid functional typically underestimates excitation energies in donor−acceptor complexes due
+to an incomplete cancellation of self-interaction eﬀects.
+However, one can obtain better results implementing new,
+contemporary methods by using range-separated functionals for
+calculating excitation energies of D−A systems.17
+Picric Acid Sensing. Among the NACs, PA18 and TNT
+need considerable attention because of their highly explosive
+nature; consequently, detection of trace amounts of NACs has
+been a ﬁeld of interest to researchers in recent years. NACs are
+main constituents in crackers, rocket fuels, and explosives.19
+Moreover, continuous terrorist activities all over the world have
+prompted the scientiﬁc community to design and synthesize
+eﬃcient sensors for detecting explosives. Explosives are
+considered as the main soil contaminants in war-aﬀected
+areas20 and are also considered as health hazards.21 Applications
+of nanoaggregates of the many organic molecules toward the
+sensing of explosives are well documented in the literature by
+Tang et al.,22 Kumar et al.,23 and others.24 On the other hand,
+ﬂuorescence-based detection takes advantage over other
+methods25 due to its simple operation, time consumption,
+sensitivity, selectivity, and low cost.26 In our previous work,11b
+we have reported the nanoaggregates of hydrazono-sulfonamide
+adducts as selective chemosensors for the detection of picric
+acid. In continuation of our studies, the highly emissive nature
+of ﬂuorescent nanoaggregates of TPEP motivated us to screen
+its application as sensor for NACs. For ﬂuorescence titration
+with NACs, we have utilized nanoaggregates of 90% water
+fraction. Incremental addition of PA to the nanoaggregates
+leads to a decrease in the emission intensity, and complete
+quenching was observed after addition of 40 equiv of picric acid
+(Figure 5a). We did not observe any change in wavelength
+during the addition of PA.
+The data from ﬂuorescence titrations were used to calculate
+the quenching constant using the Stern−Volmer equation (eq
+1)
+I0/I = 1 + KSV[Q]
+
+■
+
+CONCLUSION
+In conclusion, tetraphenylethene−2-pyrone (TPEP) conjugate
+with donor−acceptor structure have been synthesized and
+structurally characterized. TPEP exhibits solvent polarity
+dependent photoluminescence characteristics, which conﬁrm
+the involvement of the polar excited state in the emission
+process. This was further conﬁrmed with theoretical TD-DFT
+calculations. TPEP is weakly emissive in dilute solutions and
+strongly emissive in the aggregated state. The detailed optical
+investigations revealed that restricted intermolecular rotation at
+
+(1)
+3600
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+Article
+
+The Journal of Organic Chemistry
+
+constants (J values) are expressed in hertz (Hz). The following
+abbreviations are used to indicate spin multiplicities: s (singlet), m
+(multiplet). Melting points were determined using open capillaries and
+are uncorrected. Absorption measurements were carried out on a
+single-beam UV-diode array spectrophotometer. Fluorescence emission studies were performed using a Fluoromax-4 spectrometer. Mass
+spectra were obtained with a Micromass Q-TOF mass spectrometer
+(ESI-HRMS). The morphological characterization of nanoaggregates
+was determined by using transmission electron microscopy. Singlecrystal X-ray diﬀraction data were collected with a SMART APEX
+diﬀractometer equipped with a three-axis goniometer. Using Olex2,
+the structure was solved with the ShelXS structure solution program
+using direct methods and reﬁned with the SHELXL reﬁnement
+package using least squares minimization. The slit width was 5 nm for
+both excitation and emission. HPLC-grade solvents were used for
+photophysical measurements.
+Preparation of Aggregates. A stock solution of TPEP was
+prepared in tetrahydrofuran (THF) (10−4 M). An aliquot (1 mL) of
+this stock solution was transferred to the volumetric ﬂask. An
+appropriate amount of THF and water was added to the ﬂask under
+vigorous stirring to obtain the 10−5 M THF/water mixture with water
+fractions of 0−90%. The spectral analysis of the resultant mixtures was
+measured immediately.
+Caution! The nitroaromatic compounds used in this study,
+especially TNT and picric acid, are very powerful explosives. They
+must be handled with care and also in very small quantities.
+Synthesis of TPEP. A mixture of acetyl TPE (4.4038 g, 0.0118
+mol, 1.2 equiv), SSA (2.0000 g, 0.0098 mol, 1 equiv), and powdered
+potassium hydroxide (0.6599 g, 0.0118 mol, 1.2 equiv) in DMSO (8
+mL) was stirred at room temperature for 13 h. The progress of the
+reaction was monitored by TLC, and on completion, the reaction
+mixture was poured into ice−water with constant stirring. The
+precipitate thus obtained was ﬁltered and puriﬁed on silica gel column
+using petroleum ether/ethyl acetate as the eluent to aﬀord TPEP (4.2
+g, 87%) as a yellow solid: mp 230−232 °C; 1H NMR (300 MHz,
+CDCl3) δ 2.67 (s, 3H), 6.62 (s, 1H), 7.02−7.03 (m, 6H), 7.11−7.17
+(m, 11H), 7.59−7.62 (d, J = 7.6, 2H); 13C NMR (75 MHz, CDCl3) δ
+14.7, 90.3, 97.6, 113.4, 126.0, 126.9, 127.1, 127.3, 127.7, 127.9, 131.1,
+131.2, 132.2, 139.3, 142.7, 142.9, 142.9, 143.2, 149.1, 157.2, 161.8,
+169.7; HRESI-MS (m/z) calcd for C33H23NO2S (M + Na) 520.1347,
+found (M + Na) 520.1345.
+
+Figure 6. Relative ﬂuorescence quenching of nanoaggregates of TPEP
+upon addition of various NACs (40 equiv) in THF/water (10:90)
+mixture.
+
+■
+
+ASSOCIATED CONTENT
+
+S Supporting Information
+*
+
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acs.joc.6b00267.
+Characterization data, spectral data, and crystal data for
+adduct TPEP and computational tables (PDF)
+X-ray data for TPEP (CIF)
+
+Figure 7. Test strips based detection of PA. Visualization of TPEP and
+TPEP with PA under day light (a, b), UV light 254 nm (c, d), and 365
+nm (e, f).
+
+■
+
+the aggregated state is responsible for the aggregation-induced
+emission (AIE) characteristics. The luminescent nanoaggregates of TPEP were utilized for the selective detection and
+discrimination of explosive nitroaromatic compounds. In
+addition, low-cost ﬂuorescent test strips for selective detection
+of PA were developed to show the merits of TPEP.
+
+■
+
+AUTHOR INFORMATION
+
+Corresponding Author
+
+*E-mail: shivazzen@mkuniversity.org.
+Notes
+
+The authors declare no competing ﬁnancial interest.
+
+■
+
+EXPERIMENTAL SECTION
+
+ACKNOWLEDGMENTS
+We thank DST and UGC for ﬁnancial assistance and DSTIRHPA for funding the purchase of a higher resolution NMR
+spectrometer.
+
+Materials and Methods. Unless stated otherwise, all solvents and
+chemicals were obtained from commercial sources and used without
+further puriﬁcation. Acetyl TPE30 and SSA1231 were prepared using
+the reported procedure, and spectral data are in good agreement with
+the literature. Analytical thin-layer chromatography (TLC) was
+performed on precoated silica gel-G plates using a mixture of
+petroleum ether (60−80 °C) and ethyl acetate (7:3) as the eluent. The
+NMR spectra were obtained at 300 MHz for 1H and 75 MHz for 13C
+using TMS as an internal standard and CDCl3 as solvent. Chemical
+shifts are expressed in parts per million (ppm), and the coupling
+
+■
+
+REFERENCES
+
+(1) (a) Chou, T.-C.; Hwa, C.-L.; Lin, J.-J.; Liao, K.-C.; Tseng, J.-C. J.
+Org. Chem. 2005, 70, 9717. (b) Xu, Z.; Yoon, J.; Spring, D. R. Chem.
+Soc. Rev. 2010, 39, 1996.
+3601
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+Article
+
+The Journal of Organic Chemistry
+(2) (a) Berezin, M. Y.; Achilefu, S. Chem. Rev. 2010, 110, 2641.
+(b) Meech, S. R. Chem. Soc. Rev. 2009, 38, 2922.
+(3) (a) Goncalves, M. S. T. Chem. Rev. 2009, 109, 190. (b) Okamoto,
+A.; Kanatani, K.; Saito, I. J. Am. Chem. Soc. 2004, 126, 4820.
+(4) (a) Wu, K.-C.; Ku, P.-J.; Lin, C.-S.; Shih, H.-T.; Wu, F.-I.; Huang,
+M.-J.; Lin, J.-J.; Chen, I.-C.; Cheng, C.-H. Adv. Funct. Mater. 2008, 18,
+67. (b) Jia, W.-L.; McCormick, T.; Liu, Q.- D.; Fukutani, H.; Motala,
+M.; Wang, R.-Y.; Tao, Y.; Wang, S. J. Mater. Chem. 2004, 14, 3344.
+(c) Roncali, J. Acc. Chem. Res. 2000, 33, 147.
+(5) (a) Luo, J.; Xie, Z.; Lam, J. W. Y.; Cheng, L.; Chen, H.; Qiu, C.;
+Kwok, H. S.; Zhan, X.; Liu, Y.; Zhu, D.; Tang, B. Z. Chem. Commun.
+2001, 1740. (b) Mei, J.; Hong, Y.; Lam, J. W. Y.; Qin, A.; Tang, Y.;
+Tang, B. Z. Adv. Mater. 2014, 26, 5429. (c) Mei, J.; Leung, N. L. C.;
+Lam, J. W. Y.; Tang, B. Z.; Kwok, R. T. K. Chem. Rev. 2015, 115,
+11718.
+(6) Hong, Y.; Lam, J. W. Y.; Tang, B. Z. Chem. Commun. 2009, 4332.
+(7) (a) Wang, E.; Zhao, E.; Hong, Y.; Lam, J. W. Y.; Tang, B. Z. J.
+Mater. Chem. B 2014, 2, 2013. (b) Sanji, T.; Shiraishi, K.; Nakamura,
+M.; Tanaka, M. Chem. - Asian J. 2010, 5, 817. (c) Kwok, R. T. K.;
+Leung, C. W. T.; Lam, J. W. Y.; Tang, B. Z. Chem. Soc. Rev. 2015, 44,
+4228. (d) Wang, M.; Zhang, G.; Zhang, D.; Zhu, D.; Tang, B. Z. J.
+Mater. Chem. 2010, 20, 1858. (e) Zhao, Z.; Lam, J. W. Y.; Tang, B. Z. J.
+Mater. Chem. 2012, 22, 23726. (f) Tong, D.; Duan, H.; Wang, J.; Yang,
+Z.; Lin, Y. Sens. Actuators, B 2014, 195, 80.
+(8) Yuan, W. Z.; Lu, P.; Chen, S.; Lam, J. W. Y.; Wang, Z.; Liu, Y.;
+Kwok, H. S.; Ma, Y.; Tang, B. Z. Adv. Mater. 2010, 22, 2159.
+(9) (a) Zhao, Z.; Lam, J. W. Y.; Tang, B. Z. J. Mater. Chem. 2012, 22,
+23726. (b) Ding, D.; Li, K.; Liu, B.; Tang, B. Z. Acc. Chem. Res. 2013,
+46, 2441.
+(10) (a) Chen, C. H.; Tang, C. W.; Shi, J.; Klubek, K. P. Thin Solid
+Films 2000, 363, 327. (b) Chen, C. H.; Tang, C. W.; Shi, J.; Klubek, K.
+P. Macromol. Symp. 1998, 125, 49.
+(11) (a) Mahendran, V.; Shanmugam, S. RSC Adv. 2015, 5, 20003.
+(b) Mahendran, V.; Shanmugam, S. RSC Adv. 2015, 5, 92473.
+(12) Tang, B. Z.; Geng, Y.; Lam, J. W. Y.; Li, B.; Jing, X.; Wang, X.;
+Wang, F.; Pakhomov, A. B.; Zhang, X. X. Chem. Mater. 1999, 11, 1581.
+(13) Becke, A. D. J. Chem. Phys. 1993, 98, 5648.
+(14) Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.;
+Robb, M. A.; Cheeseman, J. R.; Scalmani, G.; Barone, V.; Mennucci,
+B.; Petersson, G. A.; Nakatsuji, H.; Caricato, M.; Li, X.; Hratchian, H.
+P.; Izmaylov, A. F.; Bloino, J.; Zheng, G.; Sonnenberg, J. L.; Hada, M.;
+Ehara, M.; Toyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima,
+T.; Honda, Y.; Kitao, O.; Nakai, H.; Vreven, T.; Montgomery, J. A., Jr.;
+Peralta, J. E.; Ogliaro, F.; Bearpark, M.; Heyd, J. J.; Brothers, E.; Kudin,
+K. N.; Staroverov, V. N.; Kobayashi, R.; Normand, J.; Raghavachari, K.;
+Rendell, A.; Burant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Rega,
+N.; Millam, N. J.; Klene, M.; Knox, J. E.; Cross, J. B.; Bakken, V.;
+Adamo, C.; Jaramillo, J.; Gomperts, R.; Stratmann, R. E.; Yazyev, O.;
+Austin, A. J.; Cammi, R.; Pomelli, C.; Ochterski, J. W.; Martin, R. L.;
+Morokuma, K.; Zakrzewski, V. G.; Voth, G. A.; Salvador, P.;
+Dannenberg, J. J.; Dapprich, S.; Daniels, A. D.; Farkas, O.;
+Foresman, J. B.; Ortiz, J. V.; Cioslowski, J.; Fox, D. J. Gaussian 09,
+Revision C.01; Gaussian, Inc.: Wallingford, CT, 2010.
+(15) Becke, A. D. Phys. Rev. A: At., Mol., Opt. Phys. 1988, 38, 3098.
+(16) Lee, C.; Yang, W.; Parr, R. G. Phys. Rev. B: Condens. Matter
+Mater. Phys. 1988, 37, 785.
+(17) Wong, B. M.; Piacenza, M.; Sala, F. D. Phys. Chem. Chem. Phys.
+2009, 11, 4498 and references cited therein.
+(18) Safety Data Sheet for Picric Acid, Resource of UK National
+Institute of Health, London.
+(19) Akhavan, J. The Chemistry of Explosives; Royal Society of
+Chemistry, 2011.
+(20) Shanmugaraju, S.; Joshi, S. A.; Mukherjee, P. S. J. Mater. Chem.
+2011, 21, 9130.
+(21) Ashbrook, P. C.; Houts, T. A. Chem. Health Saf. 2003, 10, 27.
+(22) (a) Chan, C. Y. K.; Zhao, Z.; Lam, J. W. Y.; Liu, J.; Chen, S.; Lu,
+P.; Mahtab, F.; Chen, X.; Sung, H. H. Y.; Kwok, H. S.; Ma, Y.;
+Williams, I. D.; Wong, K. S.; Tang, B. Z. Adv. Funct. Mater. 2012, 22,
+378. (b) Zhang, Y.; Chen, G.; Lin, Y.; Zhao, L.; Yuan, W. Z.; Lu, P.;
+
+Jim, C. K. W.; Zhang, Y.; Tang, B. Z. Polym. Chem. 2015, 6, 97. (c) Li,
+H.; Wu, H.; Zhao, E.; Li, J.; Sun, J. Z.; Qin, A.; Tang, B. Z.
+Macromolecules 2013, 46, 3907.
+(23) (a) Kaur, S.; Bhalla, V.; Vij, V.; Kumar, M. J. Mater. Chem. C
+2014, 2, 3936. (b) Pramanik, S.; Bhalla, V.; Kumar, M. Anal. Chim.
+Acta 2013, 793, 99. (c) Vij, V.; Bhalla, V.; Kumar, M. ACS Appl. Mater.
+Interfaces 2013, 5, 5373.
+(24) Sathish, V.; Ramdass, A.; Lu, Z.−Z.; Velayudham, M.;
+Thanasekaran, P.; Lu, K.−L.; Rajagopal, S. J. Phys. Chem. B 2013,
+117, 14358.
+(25) (a) Zu, B.; Guo, Y.; Dou, X. Nanoscale 2013, 5, 10693.
+(b) Sylvia, J.; Janni, J.; Klein, J.; Spencer, K. Anal. Chem. 2000, 72,
+5834. (c) Wallenborg, S.; Bailey, C. Anal. Chem. 2000, 72, 1872.
+(26) (a) Hodyss, R.; Beauchamp, J. L. Anal. Chem. 2005, 77, 3607.
+(b) Moore, D. S. Rev. Sci. Instrum. 2004, 75, 2499. (c) Riskin, M.; TelVered, R.; Bourenko, T.; Granot, E.; Willner, I. J. Am. Chem. Soc. 2008,
+130, 9726.
+(27) Li, D.; Liu, J.; Kwok, R. T. K.; Liang, Z.; Tang, B. Z.; Yu, J.
+Chem. Commun. 2012, 48, 7167.
+(28) Ma, J.; Lin, T.; Pan, X.; Wang, W. Chem. Mater. 2014, 26, 4221.
+(29) Venkatesan, N.; Singh, V.; Rajakumar, P.; Mishra, A. K. RSC
+Adv. 2014, 4, 53484.
+(30) Wolf, M. O.; Fox, H. H.; Fox, M. A. J. Org. Chem. 1996, 61, 287.
+(31) (a) Tominaga, Y.; Ushirogochi, A.; Matsuda, Y. J. Heterocycl.
+Chem. 1987, 24, 1557. (b) Tominaga, Y.; Ushirogochi, A.; Matsuda, Y.;
+Kobayashi, G. Chem. Pharm. Bull. 1984, 32, 3384.
+
+3602
+
+DOI: 10.1021/acs.joc.6b00267
+J. Org. Chem. 2016, 81, 3597−3602
+
+

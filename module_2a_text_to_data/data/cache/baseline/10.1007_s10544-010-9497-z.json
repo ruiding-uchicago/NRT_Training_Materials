@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10544-010-9497-z",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "pH 2.6",
+      "upper_detection_limit": "pH 8.3",
+      "probe_material": "Al2O3",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "2.6-8.3",
+      "test_medium": "Robinson buffer solution"
+    }
+  ]
+}

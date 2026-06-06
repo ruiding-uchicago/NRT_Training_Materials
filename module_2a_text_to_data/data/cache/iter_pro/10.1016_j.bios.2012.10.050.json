@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2012.10.050",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Hg2+",
+      "lower_detection_limit": "4e-7 M",
+      "upper_detection_limit": "3.5e-4 M",
+      "probe_material": "PBI(perylene bisimide)/PTCDI-C8(N,N'-dioctyl-3,4,9,10-perylenedicarboximide)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

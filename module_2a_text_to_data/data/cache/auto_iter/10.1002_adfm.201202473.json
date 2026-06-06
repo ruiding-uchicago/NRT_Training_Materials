@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adfm.201202473",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "diethyl chlorophosphate",
+      "lower_detection_limit": "10 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "benzothiadiazole-fused-tetrathiafulvalene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

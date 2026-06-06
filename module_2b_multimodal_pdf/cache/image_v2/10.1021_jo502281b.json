@@ -1,0 +1,544 @@
+{
+ "records": [
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "100",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "1200",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "600",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "1700",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": ">8000",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "20",
+   "interferent_value": "Fluorescence enhancement",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NP",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "150",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": "1200",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": "600",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": "1700",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": ">8000",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "280",
+   "interferent_value": "Fluorescence enhancement",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "1200",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "600",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "1700",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": ">8000",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "100",
+   "interferent_value": "Fluorescence enhancement",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NP",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "150",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "800",
+   "interferent_value": "1200",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NBD",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "600",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "800",
+   "interferent_value": "1700",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "800",
+   "interferent_value": ">8000",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not applicable"
+   },
+   "readout_type": "fluorescence quenching",
+   "label_basis": "Amount of analyte (equiv.) for 98% fluorescence quenching",
+   "target_value": "800",
+   "interferent_value": "Fluorescence enhancement",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  }
+ ]
+}

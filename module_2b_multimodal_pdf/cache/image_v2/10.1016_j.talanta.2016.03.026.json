@@ -1,0 +1,544 @@
+{
+ "records": [
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Acetone",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "314",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Acetonitrile",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "195",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "CTC",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "410",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Dioxane",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "142",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "DMF",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "62",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Ethanol",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "61.5",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Ethylacetate",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "258",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Chloroform",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "798",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Xylene",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "100",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Methanol",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "56",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "n-Hexane",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "144",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "MC",
+   "interferent": "Toluene",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "1047",
+   "interferent_value": "85",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Acetone",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "314",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Acetonitrile",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "195",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "CTC",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "410",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Dioxane",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "142",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "DMF",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "62",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Ethanol",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "61.5",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Ethylacetate",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "258",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Xylene",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "100",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Methanol",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "56",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "n-Hexane",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "144",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "Chloroform",
+   "interferent": "Toluene",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "798",
+   "interferent_value": "85",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Acetone",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "314",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Acetonitrile",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "195",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Dioxane",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "142",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "DMF",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "62",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Ethanol",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "61.5",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Ethylacetate",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "258",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "Calix-7",
+   "target": "CTC",
+   "interferent": "Xylene",
+   "condition": {
+    "solvent": "aqueous",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency shift (Δf)",
+   "label_basis": "frequency shift (Δf)",
+   "target_value": "410",
+   "interferent_value": "100",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  }
+ ]
+}

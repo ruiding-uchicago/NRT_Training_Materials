@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_masy.201400131",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "9 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "conducting polypyrrole (CPpy)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
+  ]
+}

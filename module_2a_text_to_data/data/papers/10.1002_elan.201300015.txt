@@ -1,0 +1,175 @@
+Sira Srinives
+
+Department of Chemical and Environmental Engineering, University of California-Riverside, Riverside, California 92521, USA
+
+Department of Chemical Engineering, Mahidol University, 25/25 Puttamonthon 4 rd., Nakhon Pathom 73170, Thailand
+
+Tapan Sarkar
+
+Corresponding Author
+
+Ashok Mulchandani
+
+Give access
+
+Share full-text access
+
+Use the link below to share a full-text version of this article with your friends and colleagues.Learn more.
+
+Share a link
+
+This study developed a facile technique for site-specific synthesis of nanometer-thick polyaniline (PANI) film for fabrication of field-effect transistor/chemiresistor sensors. The nanothin film had a thickness of 9–20 nm and was of carpet-like morphology offering a highly accessible surface geometry that enhanced gas adsorption and promoted surface reaction/interaction. When applied for sensing of ammonia (NH3) and nitrogen dioxide (NO2), the performance of the nanothin film device was comparable to that of a 1-dimensional (1-D) nanostructure, with a great advantage in ease of processing. Sensing mechanism study indicated electrostatic gating as the dominating mode of sensing.
+
+Conducting polymers (CPs) exhibit electrical/electronic, magnetic and optical properties of metals or semiconductors while retaining the attractive mechanical properties and processing advantages of polymers. For these reasons, CPs are at the center of new innovations in electronics, optoelectronics, electromechanical and sensing devices. In particular, polyaniline (PANI) is one of the most prominent CPs receiving a great deal of attention because of its stability in ambient conditions and wide range of tunable electrical conductivity. The conductivity of PANI can be varied from insulating (10−10S/cm) to a nearly metallic region (1 S/cm) by modulating its oxidative state through changing the type of counter ion (dopant) and degree of doping. The conducting form of PANI is the protonated emeraldine (emeraldine salt, ES) whereas the deprotonated emeraldine (emeraldine base, EB) is insulating. The ability to switch between the conducting and insulating forms makes PANI responsive to acid/base1and reducing/oxidizing compounds, such as ammonia (NH3)2, nitrogen dioxide (NO2)3, hydrogen (H2)4and some volatile organic compounds5, enabling it to be used as sensing element in resistance type sensors known as chemiresistors.
+
+A chemiresistor is the simplest type of electronic sensor configuration in which a semi-conducting material is sandwiched between two solid-state electrodes, the source and drain. In the past, PANI and other semiconductor based chemiresistive sensors primarily utilized thick/thin film as sensing materials6. In recent years, because of the advantages of high sensitivity and fast response attributed to fast diffusion and high surface area to volume ratio, one-dimensional (1-D) nanostructure materials in the form of nanotubes, nanorods and nanowires (single or network) have been investigated for chemiresistive sensors7,8. The PANI and other CPs 1-D nanostructures synthesized by electrospinning9, interfacial chemical polymerization10and template directed chemical and electrochemical11polymerization have been constituted to microfabricated electrodes functioning as sensitive elements in chemiresistor sensors for gases and VOCs. However, major drawbacks of these fabrication methods are low device yields, limitation of further miniaturization, scalability, costs, and being limited to gas sensing. Besides, transfer of CP nanowires from the production cell to the microelectrode and the contact resistance between the nanowires and the metal pads are still important issues. Template-free electropolymerization of nanowire networks of CPs for chemiresistors was recently reported on untreated silicon oxide utilizing galvanostatic electrodeposition12,13and cyclic voltammetry14and silanized silicon oxide galvanostatically15. While these methods help alleviate some of the problems identified above, they still suffer from low device yields and incompatibility in solution. Particularly, the galvanostatic approach require several hours to fabricate the nanowires on the microelectrode, and hence not practical for a larger scale production.
+
+A method for site-specific synthesis of ultrathin film of conducting polymer polypyrrole on a hydrophobic insulating surface between two solid-state electrodes, i.e. source and drain, by electrochemical polymerization was demonstrated by the Nishizawa group16and applied as a chemiresistor sensor in solution17,18The hydrophobicity helped to promote the electropolymerization in lateral direction and to improve surface adhesion between CPs and substrate, possibly due to accumulation of monomer over the SiO2surface. Furthermore, the slight difference in the applied electrical potential of the two microelectrodes provided an indication of the film bridging across the electrode channel eliminating an over growth, i.e. a thick film17,19. Although this electropolymerization approach was successfully applied for growing polypyrrole, it has not been well demonstrated for PANI. Additionally, the film morphology, electrical characteristics and relative strength when compared to CP nanowire-based chemiresistor sensors have not been fully investigated. Thus, the objectives of this study were to fabricate a PANI nanothin film chemiresistor sensor using the bipotentiostatic technique onn-octadecyltrichlorosilane (OTS) pretreated microelectrode, investigate the film thickness and morphology by atomic force microscopy (AFM), and compare the gas sensing performance of the film device to other PANI nanostructure-based chemiresistor sensors. Also, the mechanism of gas sensing was studied.
+
+All electrochemistry operations were conducted using a CHI 760C electrochemical workstation (CH Instruments, Inc., TX, USA). All chemicals were reagent grade and used as received.
+
+Gold microelectrodes were fabricated on a highly doped p-type silicon substrate by standard lithographic technique. First, an approximately 300 nm dielectric layer of SiO2was deposited on the substrate by low-pressure chemical vapor deposition (LPCVD). Electrodes were patterned by photolithography, followed by e-beam deposition of a 20 nm Cr layer and a 180 nm Au layer. The width of the electrode was 200 µm and was separated by a 3-µm gap. Finally, standard lift-off techniques were employed to define the gold electrodes.
+
+Prior to a formation of PANI film, the silicon chip with gold microelectrode pattern was cleaned in piranha solution (7 : 3 (v/v) of H2SO4:H2O2), washed in deionized (DI) water and dried in vacuum oven at 100 °C. Immediately after drying, the chip was incubated with a 2 % (v/v) octadecyltrichlorosilane (OTS) in toluene for 20 min followed by rinsing with fresh toluene and ethanol, respectively, for silanization. The synthesis of PANI film bridging the gap between the pair of microelectrodes was performed by electropolymerization in a standard three-electrode electrochemical cell where the gold microelectrodes were employed as working electrodes (WE), a platinum mesh served as the counter electrode (CE) and a standard Ag/AgCl functioned as the reference (RE) electrode. Electropolymerization was done using bipotentiostatic mode with the two working electrodes poised at 0.6 and 0.8 V (vs. Ag/AgCl) in a deoxygenated aqueous solution of 0.5 M aniline and 1 M HClO4. After the completion of film formation, the chip was rinsed with DI water to remove the residual monomer and acid and kept in a desiccator for a minimum of ten hours to dry. The PANI film that was electrodeposited on the silanized substrate was further referred as PANI-I sensing element. A control device was fabricated following the same procedure but without the silane treatment. The PANI film in this case was referred as PANI-II sensitive element.
+
+A 13 mL glass dome with inlet and outlet was placed over the sensor chip with a sandwich o-ring and sealed using a clamp. The electrodes were connected in series with a load resistance comparable to the initial resistance of the sensor to optimize resolution. A bias potential of 1 V was applied across the electrode and the current was monitored continuously. By measuring the current flow across the sensor, the electrical resistance was determined using Ohm’s law. Gas at a flow rate of 200 standard cm3min−1was flowed through the glass dome. Dry air (99 % purity, Airgas Inc., CA, USA) and 100 ppm NH3or 10 ppm NO2in dry air (Airgas Inc., CA, USA), respectively, were used as carrier and analyte gases. Various concentrations of analyte were obtained by diluting the analyte gas with the carrier using multiple mass flow controllers (MFCs, MC-500sccm-D/10M; Alicat Scientific Inc., AZ, USA). A custom-made LabView program was used to control MFCs and monitor the circuit using a Field Point analog module (National Instruments, TX, USA). In all the experiments, the sensor was first exposed to dry air to achieve the baseline followed by a desired analyte concentration and then back to air to complete one analysis cycle. All sensing experiments were performed at 25 °C and 0 % relative humidity.
+
+The morphological characterization of the PANI-I and PANI-II films were done using an atomic force microscope (AFM) (Veeco Innova, Santa Barbara, CA). The SpmLabAnalysis software was used for line analyses of AFM images.
+
+Mechanism of sensing for NH3and NO2for both PANI-I and PANI-II film-based sensor devices were investigated by measuring transfer characteristics using field-effect transistor configuration. A semiconductor parameter analyzer (HP model no. 4155A, Palo Alto, CA) was used for FET measurements. The source-drain potential (VSD) was applied to the gold electrodes across the PANI film while the back-gate potential (VG) was applied through the highly doped silicon, separated by a 300-nm thick dielectric layer of SiO2. By plotting the source-drain current passing through the PANI film (ISD) versusVG, a transfer characteristic curve was acquired.
+
+The PANI-I film was electropolymerized between the OTS-modified microelectrode gap by applying constant voltage of 0.6 and 0.8 V to the two electrodes. During electropolymerization, PANI started depositing from the gold contacts, moved toward the gap area, and merged to bridge the electrode gap. The chronoamperogram (Figure1) for the PANI-I film formation revealed that the electropolymerization currents from the two electrode pads ran almost parallel and bifurcated from each other after a certain time. The bifurcation of the chronoamperogram indicated completion of the electrode gap bridging with the PANI-I film, and was attributed to the Ohmic current flow across the electrode. This is a significant advantage over the galvanostatic method employed by Liu et al.15for a similarly OTS modified gap where there was no indication of film bridging the two electrodes and the electropolymerization period was more than 60-fold longer (3600 s).
+
+Chronoamperogram for electropolymerization of PANI on silanized (PANI-I) and unsilanized (PANI-II) substrate.
+
+The AFM image of PANI-I showed a contiguous film (Figure2a) in the OTS-silanized gap between the microelectrodes having a carpet-like structure with highly rough surface (Figure2b).
+
+AFM images of PANI-I (a) bridging between the electrode contacts and (b) showing carpet-like film morphology.
+
+The line-analysis of AFM image with the SpmLabAnalysis software revealed the thickness of PANI-I film (Figure S1) to range from 9 to 20 nm. On the other hand, PANI-II film grown on non-silanized surface, i.e. control, was discontinuous connecting only at a few points in the gap (Figure3a) and had irregular multi-layer surface morphology (Figure3b). Line-analysis of AFM image revealed the PANI-II film to have significant differences in height, varying from 40 to 160 nm (Figure S2). It is worth mentioning that the total charge required for fabrication of PANI-II (4 µC) was almost two time higher than that of PANI-I (∼2.7 µC) (Figure1).
+
+AFM images of PANI-II (a) partially filling in the electrode gap and (b) showing chunky film structure.
+
+The thickness and the surface morphology of the PANI film were greatly affected by the silanization process. In the case of PANI-I film, the SiO2gap between the microelectrodes upon silanization with OTS became highly hydrophobic and a preferential spot for accumulation of aniline monomers, cation radicals and oligomers. Availability of these species on top of the SiO2portion yielded a lateral film growth during the electropolymerization realizing a nanothin film of carpet-like nanostructure. On the other hand, in the case of PANI-II film the SiO2surface without silanization was highly hydrophilic after piranha cleaning and provided no enhancement for monomers, cation radicals, and oligomers accumulation. Hence, the film started electropolymerizing from defect sites on the gold electrodes, and grew in random direction to produce the irregular-shape film structure.
+
+Next, we tested the sensing performance of PANI-I and PANI-II film-based chemiresistive sensors by exposing them to NH3and NO2analytes. As shown in Figure4a, sensor resistance increased rapidly, reaching 90 % of its maximum in 6.5±2 min for PANI-I and 8±1 min for PANI-II, upon exposure to NH3and gradually recovered when purged with dry air. Adsorption of NH3molecules on PANI induced NH4+formation and resulted in dedoping of emeraldine salt (PANI-ES) to emeraldine base (PANI-EB)10,20,21decreasing the conductivity of PANI sensor. However, NH4+decomposed back to NH3and desorbed from the polymer when purged with the analyte-free medium. Desorption of NH3led to signal recovery in PANI-based chemiresistive sensors. Figure4bpresents a plot of normalized response, defined as [(R–R0)/R0], as a function of NH3concentration. Sensor sensitivities, determined from slope of the linear range of calibration curves, were ∼21 percent ppm−1for PANI-I and ∼7 percent ppm−1for PANI-II devices. The estimated limit of detection (defined asLOD=3 times standard deviation of the blank sample, i.e. air without analyte, divided by the slope of the linear part of the calibration curve) were ∼37 and ∼149 ppb for PANI-I and PANI-II devices, respectively. These sensing results are in accordance with the thickness and morphology of the films, as presented in the previous section. The significantly improved characteristics of PANI-I sensor are attributable to its nanometer thickness and highly accessible carpet-like structure. Additionally, these sensors showed good reproducibility as evidenced by the very low coefficient of variation (ranging from 0.5 % to 3.6 % for four ammonia concentrations using four sensors).
+
+Dynamic responses to (a) NH3and (c) NO2, and calibration plots for (b) NH3and (d) NO2for PANI film sensors. The sensing data from PANI(I) and PANI(II) are presented as (I) and (II), respectively. Data points represent average of responses from 4 sensors and error bars represents ±1SD.
+
+The sensing performances of PANI-I and PANI-II film-based sensors were also evaluated with NO2. As shown in Figure4c, a large concentration dependent increase in sensor resistance was observed. The interactions between NO2and PANI are not fully understood at this point; however, there are two possible paths for PANI-NO2interactions, either partial doping of PANI-EB22or oxidization of PANI-ES3,21. The former path would increase the sensor conductivity, whereas the latter would decrease the sensor conductivity. The resistance increase and irreversibility of the response upon air purging validated NO2acting as an oxidizing agent that could convert PANI-ES to its higher oxidation state. The PANI-I showed a sensitivity of ∼3,760 percent ppm−1and LOD of ∼0.6 ppb for NO2, which were 4-fold and 2-fold better, respectively, than for PANI-II device (Figure4d). As for NH3, NO2sensing was also of very heigh reproducibility with coefficients of variation ranging from 2 % to 16 % for the four concentrations with four sensors.
+
+Additionally, we compared the sensitivity of the nanothin film (PANI-I) for NH3and NO2to the conventional thin film and other PANI nanostructures. As shown in Table1, the nanothin film PANI outperforms the conventional thin film and scores an equivalent sensitivity to the 1-D nanostructures like nanofibers. In addition, with advantages in good reproducibility and simplicity in method of synthesis, the PANI nanothin film could be a competent platform for the fabrication of high performance gas and liquid sensors.
+
+Morphology
+
+Dimensions
+
+Fabrication method
+
+NH3sensitivity (%/ppm)
+
+NO2sensitivity (%/ppm)
+
+Nanothin film [This study]
+
+9–20 nm thick film
+
+Bipotentiostatic electropolymerization
+
+21
+
+3760
+
+Thin film [23]
+
+4-µm thick film
+
+Cyclic voltammetry electropolymerization
+
+>0.7
+
+Nanonetwork [15]
+
+Interconnected nanofibers (30–50 nm in diameters)
+
+Galvanostatic electropolymerization
+
+75
+
+Nanoframework [12]
+
+Interconnected nanofibers (40–80 nm in diameters)
+
+120
+
+Nanofibers [10]
+
+Nanofibers with 40–120 nm in diameters
+
+Interfacial chemical polymerization
+
+28
+
+Nanowires [25]
+
+<100 nm
+
+In situ interfacial chemical polymerization
+
+6
+
+Nanowires [14]
+
+50–200 nm
+
+2
+
+Nanofibers [3]
+
+Nanofibers with 30–80 nm in diameters
+
+220
+
+Ultrathin film [25]
+
+∼150 nm thick film
+
+Langmuir–Blodgett
+
+3.9
+
+To obtain a better understanding about the sensing mechanism of the film device, field-effect transistor (FET) measurements were carried out in dry air, 5 ppm NH3and 500 ppb NO2environment. These studies demonstrated high performance of nanothin film as a chemical field-effect transistor (ChemFET) device for gas sensing application and elucidated the effect of film dimension and geometry on its sensing performance. As observed in the transfer characteristics of the PANI-I film-based device (Figure 5I), there was a negative shift of ∼0.8 and ∼1.3 V of the threshold voltage (VTH26) with respect to air when the device was exposed to NH3and NO2, respectively. Upon adsorption of NH3,due to deprotonation, the PANI film converted from more conducting PANI-ES to more insulating PANI-EB state. This stated conversion resulted in a decrease in charge carrier (hole) concentration (∼1.1×109cm−1), thereby causing a reduction in conductivity and a negative shift in the VTHof the device. However, in case of NO2adsorption, the oxidation of PANI-I film from conducting PANI-ES to insulating PANI-PG decreased charge carrier concentration (∼1.8×109cm−1). In comparison, mobilities (calculated from the device transconductance, slope of theIDS–VGcurve22) of the PANI-I device in air, NH3and NO2remained unchanged with a magnitude of ∼0.9 cm2V−1s−1.
+
+On the other hand, the gate voltage of the PANI-II film device shifted by ∼0.3 and ∼0.8 V in presence of NH3and NO2with respect to that of the dry air (Figure5II).This shift corresponded to a carrier concentration change of ∼4×108and ∼1×109cm−1in NH3and NO2environment, respectively, as compared with that of the dry air. There was also no significant change in the mobility (∼0.4 cm2V−1s−1) upon exposing PANI-II to air, NH3and NO2. Thus, in both PANI-I and PANI-II devices, the significant change inVTHas well as in carrier concentration and negligible change in the mobility indicated the domination of electrostatic gating effect in sensing mechanism. The sensing mechanism revealed direct reaction/interaction between the analyte and PANI that modulated carrier concentration and caused resistance change in the PANI films. Once again, PANI-I showed larger carrier concentration change when compared to PANI-II device.
+
+Transfer characteristic curves for (I) PANI-I and (II) PANI-II in (a) air, (b) 5 ppm NH3, and (c) 500 ppb NO2.
+
+In conclusion, we have demonstrated a one-step, facile electrochemical process for the fabrication of PANI nanothin film chemiresistor sensors. The high hydrophobicity of the substrate between the microelectrodes gap brought about by self-assembly of OTS is the key to this method, which facilitates the lateral polymer growth and makes the PANI nanothin film with a carpet-like film structure and high surface-to-volume ratio. Due to its unique dimension and geometry, the PANI nanothin film exhibits excellent sensing performance, as observed by LOD value (37 ppb for NH3and 0.6 ppb for NO2), and sensitivity (21 percent ppm−1for NH3and 3760 percent ppm−1for NO2). The sensing performance of the nanothin film is comparable to that of the 1-D nanostructure based devices, with a great advantage in simplicity of sensor fabrication. Further, the sensing mechanism of the PANI device toward NH3and NO2was governed by the electrostatic gating effect. This one-step fabrication of 2-D nanostructure film and the possibility of in situ27/post-synthesis13,28functionalization open up opportunities for production of highly sensitive and selective chemiresistor nanosensors for a wide variety of gas sensing applications.
+
+S. S. acknowledges the financial support from Thai Government Scholarship (Ministry of Science). T. S. is grateful to theGovernment of Indiafor his financial assistance.
+
+As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.
+
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+
+Volume25,Issue6
+
+June 2013
+
+Pages1439-1445
+
+Copyright © 1999-2025John Wiley & Sons, Incor related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Your password has been changed
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username

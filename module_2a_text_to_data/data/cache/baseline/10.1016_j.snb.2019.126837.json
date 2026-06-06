@@ -1,0 +1,25 @@
+{
+  "stem": "10.1016_j.snb.2019.126837",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "pH 2",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "RuOx",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "2-12",
+      "test_medium": "buffer solution"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 mM",
+      "upper_detection_limit": "8 mM",
+      "probe_material": "RuOx functionalized with 4-CPBA",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffer saline (PBS) pH 7.4"
+    }
+  ]
+}

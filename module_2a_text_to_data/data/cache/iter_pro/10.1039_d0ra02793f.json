@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_d0ra02793f",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1e-5 M",
+      "upper_detection_limit": "2e-2 M",
+      "probe_material": "phenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

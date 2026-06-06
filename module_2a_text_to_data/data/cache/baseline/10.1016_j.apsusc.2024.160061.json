@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.apsusc.2024.160061",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Pb2+",
+      "lower_detection_limit": "2 nM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "ReS2",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": -1,
+      "test_medium": "water"
+    }
+  ]
+}

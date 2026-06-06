@@ -1,0 +1,35 @@
+{
+  "stem": "10.1007_s00216-022-04306-x",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "threonine (Thr) enantiomers (D-Thr and L-Thr)",
+      "lower_detection_limit": "10^-10 M (L-Thr), 10^-8 M (D-Thr)",
+      "upper_detection_limit": "not available",
+      "probe_material": "cellulose-tris(4-methylphenylcarbamate) (CMPC)",
+      "test_operating_temperature (celcius)": "room temperature (ambient conditions)",
+      "pH_value": "7.4 (1% PBS solution)",
+      "test_medium": "1% PBS solution"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "2-chloromandelic acid (CA) enantiomers (D-CA and L-CA)",
+      "lower_detection_limit": "10^-10 M (D-CA), 10^-8 M (L-CA)",
+      "upper_detection_limit": "not available",
+      "probe_material": "cellulose-tris(4-methylphenylcarbamate) (CMPC)",
+      "test_operating_temperature (celcius)": "room temperature (ambient conditions)",
+      "pH_value": "7.4 (1% PBS solution)",
+      "test_medium": "1% PBS solution"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "1,2-diphenylethylenediamine (DPEA) enantiomers (R,R-DPEA and S,S-DPEA)",
+      "lower_detection_limit": "10^-12 M (S,S-DPEA), 10^-9 M (R,R-DPEA)",
+      "upper_detection_limit": "not available",
+      "probe_material": "cellulose-tris(4-methylphenylcarbamate) (CMPC)",
+      "test_operating_temperature (celcius)": "room temperature (ambient conditions)",
+      "pH_value": "7.4 (1% PBS solution)",
+      "test_medium": "1% PBS solution"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10854-019-02429-z",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "NO2",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "10 ppm",
+      "probe_material": "α-sexithiophene (α-6T)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

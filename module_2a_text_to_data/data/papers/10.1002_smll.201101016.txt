@@ -1,0 +1,107 @@
+Fabrication of Single- and Multilayer MoS2 Film-Based Field-Effect Transistors for Sensing NO at Room Temperature
+Hai Li, Zongyou Yin, Qiyuan He, Hong Li, Xiao Huang, Gang Lu, Derrick Wen Hui Fam, Alfred Iing Yoong Tok, Qing Zhang, Hua Zhang
+First published: 20 October 2011 https://doi.org/10.1002/smll.201101016Citations: 1,403
+Find It at UChicago
+SectionsPDFTools Share
+Graphical Abstract
+Single- and multilayer MoS2 films are deposited onto Si/SiO2 using the mechanical exfoliation technique. The films were then used for the fabrication of field-effect transistors (FETs). These FET devices can be used as gas sensors to detect nitrous oxide (NO). Although the single-layer MoS2 device shows a rapid response after exposure to NO, the current was found to be unstable. The two-, three-, and four-layer MoS2 devices show both stable and sensitive responses to NO down to a concentration of 0.8 ppm.
+
+Description unavailable
+Two-dimensional nanomaterials have received much attention in recent years owing to their unusual properties that stem from their quantum and surface effects.1-26 Graphene,27, 28 a single-layer 2D carbon material, exhibits exceptional physical properties such as a high electron conductivity and excellent mechanical strength. Very recently, other 2D semiconducting nanomaterials like transition metal dichalcogenides have also attracted significant research interest and hold great potential for many applications.9, 11, 13, 14, 16, 18, 24, 25 For example, MoS2, one kind of the transition metal dichalcogenide, is currently being explored and used in lubrication, as a catalyst for hydrodesulfonization, and for photoelectrochemcial hydrogen production.29-32 Single-layer MoS2 prepared from mechanical exfoliation exhibits a dramatically increased luminescence quantum efficiency compared to its bulk counterpart.16 Mechanically exfoliated MoS2 monolayers have also been used to fabricate field-effect transistors (FETs) with high mobilities and current On/Off ratios exceeding 1 × 108 at room temperature, which is comparable to those obtained in graphene nanoribbon-based FETs.9 Hence, it is of scientific importance to synthesize and characterize MoS2 sheets ranging from a single layer to a few layers in order to better apply them in various applications.
+
+Detection of environmental pollution, especially toxic gas, is important and critical to industry, agriculture, and public health.33 For example, NOx gas is one of the most common air pollutants. It is a source of acid rain and can cause serious diseases.8 As such, there is an increasing demand to develop highly sensitive, low cost, and portable gas sensors with low power consumption.2 Electronic gas sensors based on FETs have shown promising results.2, 4-6, 8, 26, 33-35 One-dimensional semiconductors, such as carbon nanotubes33-35 and semiconductor nanowires,36-38 are popular channel materials used for FET-based sensors. 2D graphene sheets are also favored in electronic sensing because of their unique electronic properties and large specific surface area.1-8 In addition, the 2D configuration of graphene sheets, compared to 1D semiconductors, allows for the better adsorption of gas molecules and leads to lower electrical noise and lower detection limits.2, 4-6, 26 As a result, the graphene-based gas sensor has achieved a sensitivity down to the single-molecule level.2 MoS2 sheets, the semiconducting analogue of graphene, are thus expected to be a potential candidate for sensing applications.
+
+In this communication, we report a systematic study of the fabrication of single- and multilayer MoS2 films using the mechanical exfoliation method. The fabricated MoS2 FET devices show n-type doping behavior. As a proof of concept, the single- and multilayer MoS2 FETs were used to detect the adsorption of NO. It was found that the FET sensors based on bilayer (2L), trilayer (3L), and quadrilayer (4L) MoS2 films exhibited a high sensitivity to NO with detection limit of 0.8 ppm, while the single-layer (1L) MoS2 device showed a rapid but unstable response.
+
+Single- and multilayer MoS2 nanosheets were deposited onto Si substrates covered with a 300 nm-thick SiO2 layer, referred to as Si/SiO2, using the mechanical exfoliation technique.1, 9, 15 Similar to graphene, MoS2 nanosheets with different layer numbers show distinguishable contrast on the Si/SiO2 substrates, as observed by optical microscopy (Figure 1A–D). The thicknesses of MoS2 films with different optical contrasts (Figure 1A–D) were measured by AFM (Figure 1E–H), which showed that the average height of a single layer of MoS2 (Figure 1A) is ≈0.8 nm (Figure 1E), which is consistent with previous reports.9, 15, 18 The heights of 2L, 3L, and 4L MoS2 sheets (Figure 1B–D) measured by AFM are 1.5, 2.1, and 2.9 nm, respectively (Figure 1F–H).
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Mechanically exfoliated single- and multilayer MoS2 films on Si/SiO2. Optical microscope images of single-layer (1L), bilayer (2L), trilayer (3L), and quadrilayer (4L) MoS2 films (A–D). Panels E–H show the corresponding AFM images of the 1L (thickness: ≈0.8 nm), 2L (thickness: ≈1.5 nm), 3L (thickness: ≈2.1 nm), and 4L (thickness: ≈2.9 nm) MoS2 films shown in (A–D).
+
+Figure 2 shows the Raman spectra of single- and multilayer MoS2 films. Single-layer MoS2 exhibited strong bands at 384 and 400 cm−1, which are associated with the in-plane vibrational (E1 2g) and the out-of-plane vibrational (A1g) modes, respectively.10, 15 As the layer number increased from 1L to 4L, a red-shift of the E1 2g band and a blue-shift of the A1g bands were observed (see Figure 2), which is in consistent with the previous report.15
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Raman spectra of single- and multilayer (1L to 4L) MoS2 films.
+
+FET devices are fabricated with exfoliated 1L to 4L MoS2 films. As an example, a 2L MoS2 film and its corresponding FET device are shown in Figures 3A and 3B, respectively. The recorded Ids–Vg curve (Figure 3C) is typical of the 2L MoS2 FET with an n-type channel, which is in agreement with the previous report.9 In fact, all the MoS2 FET devices investigated here possess n-type doping character (see Figure S1, Supporting Information (SI)). The current On/Off ratio of 2L, 3L, and 4L MoS2 devices is above 103 (Vg from -10 to 10 V), while it is comparably smaller (≈102) for the 1L MoS2 FET. It is important to note that our devices show a lower On/Off ratio compared to the previously reported single-layer MoS2 transistor, in which a mobility booster (HfO2) was used.9
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+A) Optical microscope image of a bilayer (2L) MoS2 film deposited onto Si/SiO2. B) Optical microscope image of an FET device based on the 2L MoS2 film shown in (A), where Au electrodes work as the source and drain electrodes and the substrate acts as the back gate. C) Plot of Ids vs. Vg of the 2L MoS2 FET shown in (B) at Vds = 3 V. Inset: Ids–Vds curves at different Vg ranging from −10 to 10 V.
+
+The channel mobility of our devices was calculated based on the equation
+equation image
+where L is the channel length, W is the channel width, ϵ0 is 8.854 × 10−12 F m−1, ϵr for SiO2 is 3.9, and d is the thickness of SiO2 (300 nm). We found that the mobility of our devices was between 0.03 and 0.22 cm2 V−1 s−1, which is in agreement with the previous reports.1, 9, 11 Importantly, the mobility of the fabricated FETs was found to increase with the layer number (1L: 0.03; 2L: 0.07; 3L: 0.17; 4L: 0.22 cm2 V−1 s−1).
+As a proof of concept, the as-fabricated single- and multilayer MoS2 FETs were used to detect NO gas at room temperature. In these experiments, Ti/Au was deposited as drain and source electrodes and the MoS2 sheets were the active channels. We found that the current response of a single-layer MoS2 device is not stable (see Figure S2, SI). Contrary to this, the devices fabricated with 2–4L MoS2 films showed much better performance. Figure 4A shows a typical current response of a 2L MoS2 FET device upon exposure to NO with concentrations ranging from 0.3 to 2 ppm. The decrease in current, i.e., increase in resistance, upon exposure of the device to NO is most likely due to the p-doping effect,2, 4, 6, 39 which is consistent with the charge transfer mechanism taking place in the 2D graphene3 and 1D carbon nanotube34 based gas sensors.
+
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+NO sensor based on 2L MoS2 FET device. A) Real-time current response after exposure of the 2L MoS2 FET to NO with increased concentration. Inset: A typical adsorption and desorption process of NO on the 2L MoS2 FET. B) Plot of the percent change in current as a function of NO concentration.
+
+The complete desorption of adsorbed NO molecules upon N2 flow is very slow, which is possibly due to the strong chemisorption of NO on the MoS2 surface. Interestingly, both the adsorption and desorption processes of NO can be divided into two steps (a rapid one and a slow one). In a typical adsorption process (see Figure 4A inset), the current dropped immediately after the device was exposed to NO. This lasted about 30 s (the rapid step, left solid line) and then continuously decreased for more than 2 min until the saturation of NO adsorption was reached (the slow step, left dashed line). The same two-step process was observed for NO desorption (right solid and dashed lines in the inset in Figure 4A). A similar phenomenon was also observed in the graphene-based gas sensors, in which it was attributed to the different binding energies of gas molecules at the different defect sites on the graphene surface.4 However, the detailed interaction between the MoS2 surface and the gas molecules is not clear here, which requires further investigation. The responses from 3L and 4L MoS2 devices (see Figure S3, SI) are similar to those of the 2L MoS2 device.
+
+Figure 4B shows a plot of percent change in current in the 2L MoS2 FET as a function of NO concentration (calculated from Figure 4A). Although the current response is very high (80% decreased at 2 ppm), the detection limit is compromised by the low signal-to-noise ratio (at 0.8 ppm the signal-to-noise ratio is approximately 3). Such a low signal-to-noise ratio might arise from our homemade gas-sensing system, since the sensing chamber is relatively big (>1000 L). On the contrary, the single-layer MoS2 based device exhibited a much faster (decrease of 50% in current within 5 s in 0.3 ppm NO) but a rather unstable current response (see Figure S2, SI). The reason for this is not clear and further study is required.
+
+In summary, single- and multilayer (1–4L) MoS2 films were deposited onto Si/SiO2 substrates using the scotch tape-based mechanical exfoliation technique. The layer numbers of MoS2 films are confirmed by Raman spectroscopy and AFM. FETs based on single- and multilayer MoS2 sheets, exhibiting the n-type semiconducting properties, have been successfully used for sensing NO gas. Although the single-layer MoS2 FET showed a rapid and dramatic response upon exposure to NO, its current was found to be unstable. Contrary to this, the 2L, 3L, and 4L MoS2 FET devices exhibit both stable and sensitive responses down to a detection limit of 0.8 ppm NO. Our experimental results presented here expand the potential application of 2D MoS2 FETs in gas sensing.
+
+Experimental Section
+Mechanical Exfoliation of MoS2: Single- and multilayer MoS2 films were isolated from bulk MoS2 (429MM-AB,SPI molybdenum disulfide, single crystals from Canada, SPI Supplies Inc., USA) and then deposited onto the freshly cleaned Si substrates covered by a 300 nm thick SiO2 layer using the scotch tape-based mechanical exfoliation method, which is widely employed for preparation of single-layer graphene sheets.1 Optical microscope (Eclipse LV100D, Nikon) was used to locate the single- and multilayer MoS2 films. As shown in Figure 1A–D, single and multilayer MoS2 films showed clear optical contrast against the substrate. Bright flakes were observed when the layer number of MoS2 exceeded 10 (Figure 1A and 1D). AFM (Dimension 3100 with Nanoscope IIIa controller, Veeco, CA, USA) was used to confirm the layer number by measuring the film thicknesses in tapping mode in air.
+
+Raman Spectroscopy: Analysis of the single- and multilayer MoS2 films by Raman spectroscopy was carried out on a WITec CRM200 confocal Raman microscopy system with the excitation line of 488 nm and an air-cooling charge-coupled device (CCD) as the detector (WITec Instruments Corp, Germany). The Raman band of Si at 520 cm−1 was used as a reference to calibrate the spectrometer.
+
+Fabrication, Characterization and Sensing Applications of MoS2 FETs: The source and drain electrodes of MoS2 FET devices were fabricated by traditional photolithography. The channel length for all FET devices was kept at ≈3 μm. The 5 nm Ti/50 nm Au, used as source and drain electrodes, was deposited by the electron beam evaporator. After removal of the photoresist, the electrical properties of the fabricated MoS2 FETs were tested by the Keithley 4200 semiconductor characterization system in air at room temperature.
+
+The as-prepared MoS2 FET devices were located in the chamber of the homemade sensing equipment. Keithley 4200 semiconductor characterization system was used to monitor the current change in real-time using the two-point measurement in a glove box. NO (2 ppm in N2) and N2 (99.999%) cylinders (National Oxygen Pte Ltd, Singapore) with attached flow meters were used to adjust the concentration of the NO gas.
+
+Supporting Information
+Supporting Information is available from the Wiley Online Library or from the author.
+
+Copyright WILEY‐VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2011.
+Supporting Information
+for Small, DOI: 10.1002/smll.201101016
+Fabrication of Single- and Multilayer MoS2 FilmBased Field-Effect Transistors for Sensing NO at Room
+Temperature
+Hai Li , Zongyou Yin , Qiyuan He , Hong Li , Xiao Huang , Gang Lu ,
+Derrick Wen Hui Fam , Alfred Iing Yoong Tok , Qing Zhang , and Hua
+Zhang *
+[Supporting Information]
+Fabrication of Single- and Few-Layer MoS2 Film-Based Field
+Effect Transistors for Sensing NO at Room Temperature
+Hai Li, Zongyou Yin, Qiyuan He, Hong Li, Xiao Huang, Gang Lu, Derrick Wen Hui Fam,
+Alfred Iing Yoong Tok, Qing Zhang, Hua Zhang*
+[*] Prof. H. Zhang, Dr. H. Li (Hai Li),†
+ Dr. Z. Y. Yin†
+, Q. Y. He†
+, X. Huang, G. Lu, D.
+W. H. Fam, Prof. A. I. Y. Tok
+School of Materials Science and Engineering
+Nanyang Technological University
+50 Nanyang Avenue, Singapore 639798
+Singapore
+Phone: +65-6790-5175. Fax: +65-6790-9081
+E-mail: hzhang@ntu.edu.sg, hzhang166@yahoo.com
+Homepage: http://www.ntu.edu.sg/home/hzhang/
+Dr. H. Li (Hong Li), Prof. Q. Zhang
+Microelecronics Center, School of Electrical and Electronics Engineering
+Nanyang Technological University
+50 Nanyang Avenue, Singapore 639798
+Singapore
+†
+These authors contributed equally to this work.
+Figure S1. Plots of Ids vs. Vg of (A) single-layer (1L), (B) trilayer (3L), and (C)
+quadrilayer (4L) MoS2 FETs at Vds = 3 V. Inset: Ids-Vds curves at different Vg from -10 V
+to 10 V.
+Figure S2. Real-time current response of the single-layer MoS2 FET device exposed to
+NO with increasing concentration.
+Figure S3. Real-time current response of (A) trilayer (3L) and (B) quadrilayer (4L) MoS2
+devices exposed to NO with increasing concentration. 

@@ -1,0 +1,92 @@
+Over 59 mV pH−1 Sensitivity with Fluorocarbon Thin Film via Fluorine Termination for pH Sensing Using Boron-Doped Diamond Solution-Gate Field-Effect Transistors
+Yu Hao Chang, Yutaro Iyama, Kaito Tadenuma, Shuto Kawaguchi, Teruaki Takarada, Shaili Falina, Mohd Syamsul, Hiroshi Kawarada
+First published: 28 September 2020 https://doi.org/10.1002/pssa.202000278Citations: 3
+SectionsPDFTools Share
+Abstract
+pH sensing facilitates many substantial aspects of the society such as chemical laboratory analysis, agriculture, or water and soil qualities. However, existing pH sensors have problems and limitations such as fragility, hysteresis, or slow responding time. In this research, a new method utilizing fluorocarbon thin film via fluorine termination and boron-doped diamond (BDD) solution-gate field-effect transistors (SGFETs) for pH sensing is developed for the first time. The fluorocarbon film device demonstrates a high pH sensitivity of 67.4 and 34.9 mV pH−1 in acid and alkaline pH regions, respectively.
+
+1 Introduction
+pH Sensing has played an important role in many essential applications, including chemical laboratory analysis, wine or beer manufacturing, and water quality control, that support our everyday life. To perform pH sensing in these applications, pH sensors are often used. These sensors are measuring instruments that detect the level of hydrogen ion activities in solutions. Currently, various instruments are available for conducting pH sensing. It can be as simple as a piece of litmus paper or as complex as systems with multiple electrodes and interfaces. Litmus papers are easy-to-use, quick, low priced, and are often used for distinguishing whether an unknown solution is acidic or alkaline. Nevertheless, they are not suitable for measuring subtle pH changes as these changes reflecting in color hues can be difficult to distinguish. Their pH sensitivity, which indicates how sensitive the sensor responds to hydrogen ions, is also relatively lower than other types of pH sensors such as the traditional glass pH sensors. Traditional glass pH sensors have been extensively used because of their stable and high sensing capability, high reliability, and intuitive operation. However, these sensors are fragile, large in size, and require constant recalibration due to the drift effect.[1] In 1972, Piet Bergveld invented ion-sensitive field-effect transistors (ISFETs), a type of field-effect transistors (FETs) that can function in an aqueous environment and measure the change in current within the transistor when ion concentrations vary.[2] Various studies suggest that the development of ISFETs has allowed pH sensors to be miniaturized while maintaining a high pH sensitivity close to the Nernst response at 59 mV pH−1.[3-5] Although these studies are detailed and accurate, problems and concerns regarding the drift effect, hysteresis, or slow responding time due to its passivation layer have remained controversial. To address the issues of these existing apparatus, we have fabricated pH sensors using diamond solution-gate field-effect transistors (SGFETs).
+
+Diamond demonstrates excellent performance in biosensing and pH sensing applications because of its attractive material properties, including chemical inertness, biocompatibility, and simple chemical modification on the surface. In addition, the lack of passivation layer, as opposed to ISFETs, enables fast responding time for diamond SGFETs. Since 2001, we have reported diamond SGFETs where the semiconductor surface was directly immersed in electrolyte solutions and the drain current was controlled by an electric double layer capacitor at the diamond surface.[6] Several studies utilizing various functional groups such as hydrogen, oxygen, and nitrogen have been reported and have shown descent pH sensitivities ranging from 20 to 65 mV pH−1.[7-9] We have also reported pH insensitive results with fluorinated-diamond SGFETs where the diamond surface is dominated by CF bonding.[10] Comparing with the CF layer, fluorocarbon thin film is fabricated by layers of CCF, CF, CF2, and CF3, and can be considered as conducting polymers. Conducting polymers have recently attracted much attention in chemical sensing applications owing to their unique electrical properties.[11, 12] Research has also focused on using conducting polymers such as polyaniline (PANI) and polypyrrole (PPy) for pH sensing applications.[13, 14] Nevertheless, this fluorocarbon thin film for pH sensing has not yet been discussed for diamond SGFETs nor other types of conducting polymer pH sensors to our knowledge.
+
+In this work, we investigate the use of fluorocarbon thin film on boron-doped diamond (BDD) SGFETs for pH sensing for the first time. In particular, we focus on the sensing mechanism of the fluorocarbon thin film and its correlation to diamond SGFETs. We first examine the fluorocarbon thin film on the polycrystalline BDD surface in X-ray photoelectron spectroscopy (XPS) and X-ray diffraction (XRD). To understand the sensing mechanism, we then fabricate the fluorocarbon thin film via inductively coupled plasma-reactive ion etching (ICP-RIE) method and measure the device's pH sensitivity in Carmody buffer solutions from pH 12 to 2. Results show that the device demonstrates a high pH sensitivity of 67.4 and 34.9 mV pH−1 in acid and alkaline pH regions, respectively.
+
+2 Experimental Section
+Black polycrystalline diamond substrates were used in this study.[15, 16] The substrate surface was cleaned by immersing in a mixture of nitric acid (HNO3) and sulfuric acid (H2SO4) with a ratio of 1:3 at 200 °C for 30 min. A thin boron-doped layer was deposited on the polycrystalline substrate with 0.5 sccm of trimethylboron, 196.5 sccm of hydrogen, 2.0 sccm of methane gas, and 1.0 sccm of carbon dioxide using a chemical vapor deposition (CVD) system (Arios Inc.) for 3 min. The substrate was cleaned again in the mixture of nitric acid and sulfuric acid with the same process before hydrogenated under 600 °C in a hydrogen atmosphere at 20 Torr for 30 min.
+
+Patterns were deposited on the channel region using positive resists. Source and drain electrodes were formed by Au deposition, and the positive resists were lifted off to form the channel with a channel width W = 5 mm and a channel length Lg = 30 μm. The Au electrodes were encapsulated using negative resists (SU-8) where Lgd = Lgs = 10 μm. Fluorocarbon thin film was deposited on the channel region with an ICP-RIE system (SAMCO Inc.) at 10 sccm C3F8 gas, 300 W radio frequency power, and 0 W bias power for 15 s. Wires were bonded to the source and drain electrodes with conductive paste (Chemtronics). Apart from the channel region, epoxy resin (Huntsman Advanced Materials) was applied to encapsulate the device. An illustration of the finalized device is shown in Figure 1.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+Illustrated device structure of a fluorocarbon thin film BDD SGFET. The completed device has a channel width W = 5 mm, channel length Lg = 30 μm, and Lgd = Lgs = 10 μm, where Lgd or Lgs refers to the distance between the end of a channel to the source or drain. The Ag/AgCl reference electrode is used as the gate electrode to apply gate voltage.
+Surface chemical bond was evaluated using an X-ray photoelectron spectrometer, VersaProbeII (UlVAC-PHI Inc.), with a monochromatic Al Kα X-ray source (energy = 1486.6 eV, line width = 0.85 eV), and the results were analyzed using PHI Multipak. A survey spectrum was conducted to the fluorocarbon thin film BDD substrate to confirm the fluorocarbon deposition. Angle-resolved analysis was then performed at three different take-off angles (45°, 30°, and 15°) to investigate the composition of the fluorocarbon thin film. The thickness of the fluorocarbon thin film was measured with XRD (Rigaku) using the X-ray reflectometry (XRR) function. Hydrophobicity of the fluorocarbon thin film was also investigated and compared with other surface terminations.
+
+The pH sensitivity of fluorocarbon thin film BDD SGFET was measured with a semiconductor device parameter analyzer (Keysight) with the LabVIEW program. Carmody buffer solutions were prepared by mixing boric acid (BH3O3), citric acid monohydrate (C6H8O7), and trisodium phosphate dodecahydrate (Na3PO4·H2O) solutions. Each pH solution from pH 2 to 12 was procured by measuring and calibrating the Carmody buffer solutions with a digital pH meter (Yokogawa Electric Corp.). The pH meter was carefully calibrated using a three-point calibration method with phthalate pH standard solutions (pH 1.68, pH 6.86, and pH 9.18) before use. Initial I(V) characteristics of the device were conducted by first immersing the device in a beaker containing the prepared pH 7 solution. Subsequent pH measurements were conducted in the following fashion: initial cycle from pH 8 to 12, cycle 1 from pH 12 to 2, cycle 2 from pH 2 to 12, cycle 3 from pH 12 to 2, final cycle from pH 2 to 6, and final I(V) characteristics of the device at pH 7. Note that the last measurement in a cycle was not measured again at the beginning of the next cycle, that only one measurement was conducted.
+
+3 Results and Discussion
+Figure 2 shows the boron-doping profile obtained by secondary ion mass spectroscopy (SIMS) measurement. The effective thickness of this boron-doped layer is approximately 40 nm with a carrier activation energy of approximately 0.1 eV with a boron concentration of 6.0–8.0 in the order of 1019 atoms cm−3. The reason is that while the sharpness of the interface with polycrystalline diamond is gradual, the carrier activation energy is sensitive to boron-doping concentrations.[17] In our case, the carrier activation energy increases abruptly to approximately 0.2 eV passing the effective region (approximately 40–85 nm). The root mean square (RMS) roughness of the polycrystalline diamond after boron-doping is 3.2 nm. Figure 3 shows the XPS survey spectrum of the BDD surface with binding energy ranging from 0 to 1100 eV. The distinctive F1s peak with small C1s peak confirms the successful deposition of fluorocarbon film on the BDD surface, where the atomic concentration of fluorine and carbon is 57.8 and 42.2 at%, respectively. Ray et al. and Zhao et al. also reported similar XPS survey spectrums on fluorocarbon films.[18, 19] Figure 4 shows the angle-resolved C1s spectra at three different take-off angles: 45°, 30°, and 15°. As shown in Table 1, the F1s atomic concentration increases and the C1s atomic concentration decreases with decreasing X-ray angle. This strongly indicates the successful deposition of fluorocarbon films on the BDD surface. On a side note, as oxygen termination was not conducted to the substrate, the small peak attributed to O1s during the survey spectrum and the narrow scan was possibly because of exposure in the air during sample transfer. In Figure 5, the fitted C1s spectra of each angle reveal the five components (CC, CCF, CF, CF2, CF3) of C1s spectra. A summary of the C1s spectra is provided in Table 2. The binding energy indicates the peak position of each component, whereas the area% indicates the integrated area below each fitted component's curve. Electron neutralization with ion neutralization was used during XPS measurements, and all binding energies in the C1s spectrum were referenced to the CC peak at 284.8 eV to compensate for any possible charging-up effect. This result shows that the CC area% decreases and the fluorine function groups’ area% increases as the resolved angle decreases. This result once again confirms the successful deposition of fluorocarbon thin films on the BDD surface. Moreover, with decreasing resolved angle, atomic concentration and area% of CCF increase steadily and the values are higher than other fluorine functional groups. This suggests the fluorocarbon film is becoming more cross-linked on the surface of BDD. Similar deconvolution of C1s spectra for fluorocarbon film has also been reported by Takahashi et al., Goto et al., Lee et al., and Terriza et al.[20-23] Figure 6 shows the XRR measurement for determining the thickness of the fluorocarbon film. The result shows that the fluorocarbon films have a thickness of 9.5 nm, a density of 1.64 g cm−3, and a roughness of 0.4 nm. Figure 7 shows the hydrophobicity of the fluorocarbon thin films and other surface-terminated BDDs. The fluorocarbon thin films are highly hydrophobic with a wetting angle of 110.1°. Evidently, we have successfully deposited a hydrophobic fluorocarbon thin films composed of fluorine functional groups (CCF, CF, CF2, CF3) with an overall thickness of 9.5 nm.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+Boron-doping profile of the polycrystalline diamond substrate with a diamond substrate background level = 4.0 × 1017.
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+XPS survey spectrum of the fluorinated BDD surface. The dominant F1s peak confirms the fluorocarbon film on the substrate's surface.
+Details are in the caption following the image
+Figure 4
+Open in figure viewer
+PowerPoint
+Angle-resolved C1s spectra of the fluorocarbon thin film BDD surface at three different take-off angles: 45°, 30°, and 15°.
+Table 1. Atomic concentration of each present element at different resolved angles
+45°	30°	15°
+C1s [%]	43.4	41.2	37.6
+F1s [%]	55.6	58.1	62.1
+Details are in the caption following the image
+Figure 5
+Open in figure viewer
+PowerPoint
+Fitted C1s spectra of the angle-resolved C1s spectra at a) 45° (χ2 = 0.44), b) 30° (χ2 = 0.43), and c) 15° (χ2 = 0.13).
+Table 2. Peak positions, full width at half maximum (FWHM), and area% of the five components in C1s spectra at different resolved angles
+45°	30°	15°
+Positions [eV]	FWHM	Area%	Positions [eV]	FWHM	Area%	Positions [eV]	FWHM	Area%
+CC	284.8	0.79	15.54	284.8	0.79	8.33	284.8	0.79	4.19
+CCF	286.7	2.44	26.96	286.6	2.44	30.53	286.4	2.44	33.83
+CF	288.9	1.41	14.53	288.8	1.37	16.02	288.7	1.42	16.69
+CF2	290.9	1.64	25.07	290.8	1.64	26.89	290.7	1.64	27.16
+CF3	293.0	1.45	17.89	293.0	1.45	18.24	292.9	1.45	18.12
+Details are in the caption following the image
+Figure 6
+Open in figure viewer
+PowerPoint
+Reflectivity curve of fluorocarbon thin film on BDD substrate with R-factor = 0.038.
+Details are in the caption following the image
+Figure 7
+Open in figure viewer
+PowerPoint
+Wetting angle of BDD surface with different surface treatment methods: a) ozone treatment for oxygen termination, b) CVD method for hydrogen termination, c) direct F2 gas exposure for fluorine termination, and d) ICP-RIE with C3F8 gas source for fluorocarbon deposition.
+Figure 8 shows the device's I(V) characteristics in a pH 7 Carmody buffer solution before and after pH measurements. This informs us of the device's performance and the presence of any leakage before and after measurements. In this case, less than 2% change in the drain current was observed after pH measurements at VDS = −1 V, and no leakage was present. Clearly, the device demonstrates excellent FET characteristics while maintaining a controllable current range. Figure 9 shows the decrease in drain current when the device was immersed in corresponding pH solutions from pH 12 to 2 for each pH cycle measured. The result shows distinctive patterns for each pH and indicates a high pH sensitivity of our device. Figure 10 shows the analyzed pH sensitivities based on the data obtained from Figure 9. The average pH sensitivity of the three cycles is 64.6 mV pH−1 in the acidic region (pH 2–7) and 32.6 mV pH in the alkaline region (pH 7–12). The highest pH sensitivity is 67.4 and 34.9 mV pH−1 in the acidic and alkaline pH region, respectively. This pH sensitivity in the acidic pH regions is the highest ever reported for diamond SGFETs to our knowledge.
+
+Details are in the caption following the image
+Figure 8
+Open in figure viewer
+PowerPoint
+I(V) characteristics of the fluorocarbon thin film BDD SGFET before and after pH measurements: a) initial IDS–VDS, b) final IDS–VDS, c) initial IDS–VGS, and d) final IDS–VGS. The difference of drain currents before (IDS_MAX = −72.3 μA) and after (IDS_MAX = −70.9 μA) at VDS = −1 V is less than 2%.
+Details are in the caption following the image
+Figure 9
+Open in figure viewer
+PowerPoint
+pH measurement at VDS = −1 V for each cycle: a) cycle 1 from pH 12 to 2, b) cycle 2 from pH 2 to 12, and c) cycle 3 from pH 12 to 2.
+Details are in the caption following the image
+Figure 10
+Open in figure viewer
+PowerPoint
+Analyzed pH sensitivities for a) cycle 1, b) cycle 2, and c) cycle 3 in acidic regions and alkaline regions.
+Fluorocarbon thin film BDD SGFET's high hydrophobicity and high pH sensitivity is an interesting result. Comparing with fluorine-terminated BDD SGFETs previously reported, where the BDD surface was dominated by CF bonding and the device showed pH insensitive results, fluorocarbon thin film BDD SGFET's surface is dominated by fluorine function groups, including CCF, CF, CF2, and CF3. While hydrophobic surfaces are believed to be good candidates for reference FETs (REFETs) due to ion-blocking characteristics, our device shows an unexpected high pH sensitivity exceeding the Nernst response at 59 mV pH−1 in the acidic region.[24, 25] Moreover, Lakard et al. and Herlem et al. have reported pH sensitive polymer films for pH sensing and suspected the origin of pH sensitivity from the protonation and deprotonation of amine groups in their film.[26, 27] However, based on our XPS data, no amine groups were present in the fluorocarbon thin film BDD SGFETs. This indicates that the sensing mechanism of fluorocarbon thin film differs from that of amine-related polymer pH sensors. Nakajima et al. have reported a polymer-gate ISFET using Teflon in an attempt to produce a site-free and ion-blocking gate surface.[28] Their results show some pH insensitivity in the range of pH 4–7, and suggest that the cause of pH sensitivities in other regions is associated with difluoroacetic acid derivatives on the Teflon's surface. As Teflon and fluorocarbons are essentially the same chemicals, we speculate that the high pH sensitivity with our device is also because of the difluoroacetic acid derivatives and along with the abundant free site on the polycrystalline diamond surface. Nevertheless, the high pH sensitivity of fluorocarbon thin films requires further investigation in future work.
+

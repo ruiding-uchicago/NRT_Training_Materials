@@ -1,0 +1,45 @@
+{
+  "stem": "10.1021_acsnano.9b10090",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "hydrogen peroxide (H2O2)",
+      "lower_detection_limit": "100 nM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "9,10-anthraquinone/9,10-dihydroxyanthracene (DHA/AQ)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": 7.45,
+      "test_medium": "PBS (155 mM, pH 7.45)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "0.1 mM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "9,10-anthraquinone/9,10-dihydroxyanthracene (DHA/AQ)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": 7.45,
+      "test_medium": "PBS (155 mM, pH 7.45)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "2 mM",
+      "upper_detection_limit": "5 mM",
+      "probe_material": "9,10-anthraquinone/9,10-dihydroxyanthracene (DHA/AQ)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "unprocessed blood"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "9,10-anthraquinone/9,10-dihydroxyanthracene (DHA/AQ)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "simulated interstitial fluid (25% bovine serum, 75% PBS)"
+    }
+  ]
+}

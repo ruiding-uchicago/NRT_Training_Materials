@@ -1,0 +1,113 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1002/anie.201104119",
+  "paper_metadata": {
+    "title": "Strong Binding of Hydrocarbons to Cucurbituril Probed by Fluorescent Dye Displacement: A Supramolecular Gas-Sensing Ensemble",
+    "authors": "Mara Florea, Werner M. Nau",
+    "journal": "Angewandte Chemie International Edition",
+    "year": 2011,
+    "volume": "50",
+    "pages": "9338-9342"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R1",
+      "name": "CB6 (cucurbit[6]uril) with displaceable indicator dye 1 (1-naphthylamine-5-sulfonic acid with putrescine anchor)",
+      "structure_notes": "Cucurbit[6]uril macrocycle (pumpkin-shaped) preformed with fluorescent dye 1. Dye 1 has a putrescine ammonium anchor that binds CB6 portal and a 1-naphthylamine-5-sulfonic acid chromophore. Hydrocarbon analytes displace the dye, quenching fluorescence. Inner cavity volume 142 Angstrom^3.",
+      "smiles": "O=C1N2CN3C(=O)N4CN5C(=O)N6CN7C(=O)N8CN9C(=O)N%10CN%11C(=O)N%12CN1C1C2N2CN%13C(=O)N(CN%14C(=O)N(CN%15C(=O)N(CN%16C(=O)N(CN%17C(=O)N(CN1C2=O)C%12C%11%17)C%10C9%16)C8C7%15)C6C5%14)C4C3%13",
+      "smiles_or_structure_available": true,
+      "charge_class": "mixed",
+      "smiles_verification": "corrected: original SMILES parsed but gave wrong formula C22H27N21O6; replaced with RDKit-validated CB6 SMILES yielding C36H36N24O12 (6 glycoluril units + 12 methylene bridges)"
+    }
+  ],
+  "analytes": [
+    {"analyte_id": "A_methane",     "name": "methane",       "smiles_or_structure": "C",                 "charge_class": "neutral"},
+    {"analyte_id": "A_ethane",      "name": "ethane",        "smiles_or_structure": "CC",                "charge_class": "neutral"},
+    {"analyte_id": "A_ethene",      "name": "ethene",        "smiles_or_structure": "C=C",               "charge_class": "neutral"},
+    {"analyte_id": "A_acetylene",   "name": "acetylene",     "smiles_or_structure": "C#C",               "charge_class": "neutral"},
+    {"analyte_id": "A_propane",     "name": "propane",       "smiles_or_structure": "CCC",               "charge_class": "neutral"},
+    {"analyte_id": "A_propene",     "name": "propene",       "smiles_or_structure": "CC=C",              "charge_class": "neutral"},
+    {"analyte_id": "A_nbutane",     "name": "n-butane",      "smiles_or_structure": "CCCC",              "charge_class": "neutral"},
+    {"analyte_id": "A_1butene",     "name": "1-butene",      "smiles_or_structure": "CCC=C",             "charge_class": "neutral"},
+    {"analyte_id": "A_cisbutene",   "name": "cis-2-butene",  "smiles_or_structure": "C/C=C\\C",          "charge_class": "neutral"},
+    {"analyte_id": "A_transbutene", "name": "trans-2-butene","smiles_or_structure": "C/C=C/C",           "charge_class": "neutral"},
+    {"analyte_id": "A_isobutane",   "name": "isobutane",     "smiles_or_structure": "CC(C)C",            "charge_class": "neutral"},
+    {"analyte_id": "A_isobutene",   "name": "isobutene",     "smiles_or_structure": "CC(=C)C",           "charge_class": "neutral"},
+    {"analyte_id": "A_npentane",    "name": "n-pentane",     "smiles_or_structure": "CCCCC",             "charge_class": "neutral"},
+    {"analyte_id": "A_isopentane",  "name": "isopentane",    "smiles_or_structure": "CCC(C)C",           "charge_class": "neutral"},
+    {"analyte_id": "A_neopentane",  "name": "neopentane",    "smiles_or_structure": "CC(C)(C)C",         "charge_class": "neutral"},
+    {"analyte_id": "A_cyclopentane","name": "cyclopentane",  "smiles_or_structure": "C1CCCC1",           "charge_class": "neutral"},
+    {"analyte_id": "A_higheralkanes","name":"higher (>=C6) alkanes (n-hexane, isohexane, cyclohexane, n-heptane)","smiles_or_structure":"CCCCCC; CC(C)CCC; C1CCCCC1; CCCCCCC","charge_class":"neutral"}
+  ],
+  "conditions": [
+    {
+      "condition_id": "C_water_pH3",
+      "solvent": "water with 1 mM HCl (pH 3.0)",
+      "temperature": "25.0 +/- 0.1 C",
+      "method": "indicator (fluorescent dye 1) displacement assay; competitive fluorescence titration; 4 uM CB6 + 4 uM dye 1; lambda_exc = 283 nm, lambda_obs = 334 nm",
+      "notes": "Salt-free, pH 3.0 to exclude pH fluctuations; preferred for measuring intrinsic K values."
+    },
+    {
+      "condition_id": "C_NaOAc_pH55",
+      "solvent": "50 mM NaOAc, pH 5.5",
+      "temperature": "25.0 +/- 0.1 C",
+      "method": "indicator displacement assay; same fluorescence protocol",
+      "notes": "Salt destabilizes hydrocarbon-CB6 complexes; binding constants drop 1-2 orders of magnitude relative to salt-free pH 3 conditions."
+    }
+  ],
+  "pairwise_labels": [
+    {"label_id":"L01","receptor_id":"R1","target_id":"A_nbutane","interferent_id":"A_propane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.80e5 M^-1","interferent_value":"1.80e5 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"propane 180 ; n-butane 280 (10^3 M^-1, pH 3)"},"notes":"Both neutral hydrocarbons; same host, same solvent."},
+    {"label_id":"L02","receptor_id":"R1","target_id":"A_isobutane","interferent_id":"A_nbutane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"8.50e5 M^-1","interferent_value":"2.80e5 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isobutane 850 ; n-butane 280"},"notes":"Branched > linear C4 (constitutional selectivity)."},
+    {"label_id":"L03","receptor_id":"R1","target_id":"A_isobutane","interferent_id":"A_isobutene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"8.50e5 M^-1","interferent_value":"8.4e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isobutane 850 ; isobutene 84"},"notes":"Saturated > unsaturated for same skeleton."},
+    {"label_id":"L04","receptor_id":"R1","target_id":"A_cyclopentane","interferent_id":"A_npentane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.30e6 M^-1","interferent_value":"9.0e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"cyclopentane 1300 ; n-pentane 9"},"notes":"Cyclic >> linear at C5; ~140x."},
+    {"label_id":"L05","receptor_id":"R1","target_id":"A_cyclopentane","interferent_id":"A_neopentane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.30e6 M^-1","interferent_value":"<2e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"cyclopentane 1300 ; neopentane <2"},"notes":"Neopentane too bulky to ingress (constrictive binding)."},
+    {"label_id":"L06","receptor_id":"R1","target_id":"A_isopentane","interferent_id":"A_npentane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"6.8e4 M^-1","interferent_value":"9.0e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isopentane 68 ; n-pentane 9"},"notes":"Branched > linear C5."},
+    {"label_id":"L07","receptor_id":"R1","target_id":"A_isopentane","interferent_id":"A_neopentane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"6.8e4 M^-1","interferent_value":"<2e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isopentane 68 ; neopentane <2"},"notes":"Neopentane excluded by portal constriction."},
+    {"label_id":"L08","receptor_id":"R1","target_id":"A_ethane","interferent_id":"A_methane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.4e4 M^-1","interferent_value":"<2e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"ethane 24 ; methane <2 (10^3 M^-1, pH 3)"},"notes":"Larger C2 better fits cavity than C1."},
+    {"label_id":"L09","receptor_id":"R1","target_id":"A_propane","interferent_id":"A_ethane","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.80e5 M^-1","interferent_value":"2.4e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"propane 180 ; ethane 24"},"notes":""},
+    {"label_id":"L10","receptor_id":"R1","target_id":"A_ethane","interferent_id":"A_ethene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.4e4 M^-1","interferent_value":"3.9e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"ethane 24 ; ethene 3.9"},"notes":"Saturated > unsaturated at C2."},
+    {"label_id":"L11","receptor_id":"R1","target_id":"A_ethene","interferent_id":"A_acetylene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"3.9e3 M^-1","interferent_value":"1.1e2 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"ethene 3.9 ; acetylene 0.11"},"notes":"Acetylene has higher water solubility and weaker driving force for inclusion."},
+    {"label_id":"L12","receptor_id":"R1","target_id":"A_propane","interferent_id":"A_propene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.80e5 M^-1","interferent_value":"2.5e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"propane 180 ; propene 25"},"notes":"Saturated > unsaturated at C3."},
+    {"label_id":"L13","receptor_id":"R1","target_id":"A_nbutane","interferent_id":"A_1butene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.80e5 M^-1","interferent_value":"7.9e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"n-butane 280 ; 1-butene 79"},"notes":""},
+    {"label_id":"L14","receptor_id":"R1","target_id":"A_cisbutene","interferent_id":"A_transbutene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.50e5 M^-1","interferent_value":"2.1e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"cis-butene 150 ; trans-butene 21"},"notes":"Cis/trans stereoselectivity (~7x)."},
+    {"label_id":"L15","receptor_id":"R1","target_id":"A_cisbutene","interferent_id":"A_1butene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.50e5 M^-1","interferent_value":"7.9e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"cis-butene 150 ; 1-butene 79"},"notes":"Butene regioselectivity."},
+    {"label_id":"L16","receptor_id":"R1","target_id":"A_isobutene","interferent_id":"A_transbutene","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"8.4e4 M^-1","interferent_value":"2.1e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isobutene 84 ; trans-butene 21"},"notes":""},
+    {"label_id":"L17","receptor_id":"R1","target_id":"A_isobutane","interferent_id":"A_higheralkanes","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"8.50e5 M^-1","interferent_value":"<2e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"isobutane 850 ; higher alkanes <2"},"notes":"Volume > 102 A^3 too large for CB6 cavity."},
+    {"label_id":"L18","receptor_id":"R1","target_id":"A_cyclopentane","interferent_id":"A_higheralkanes","condition_id":"C_water_pH3","readout_type":"binding_constant","label_basis":"Ka","target_value":"1.30e6 M^-1","interferent_value":"<2e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"cyclopentane 1300 ; higher alkanes <2"},"notes":""},
+    {"label_id":"L19","receptor_id":"R1","target_id":"A_nbutane","interferent_id":"A_propane","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"4.4e3 M^-1","interferent_value":"1.0e4 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"interferent_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"medium","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc pH 5.5: propane 10 ; n-butane 4.4"},"notes":"Salt effect reverses C3 vs C4 ranking; sodium ions adulterate intrinsic selectivity."},
+    {"label_id":"L20","receptor_id":"R1","target_id":"A_isobutane","interferent_id":"A_nbutane","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.3e4 M^-1","interferent_value":"4.4e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc: isobutane 23 ; n-butane 4.4"},"notes":""},
+    {"label_id":"L21","receptor_id":"R1","target_id":"A_cyclopentane","interferent_id":"A_npentane","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.5e4 M^-1","interferent_value":"1.4e2 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc: cyclopentane 25 ; n-pentane 0.14"},"notes":""},
+    {"label_id":"L22","receptor_id":"R1","target_id":"A_isobutane","interferent_id":"A_isobutene","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.3e4 M^-1","interferent_value":"1.9e3 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc: isobutane 23 ; isobutene 1.9"},"notes":""},
+    {"label_id":"L23","receptor_id":"R1","target_id":"A_cisbutene","interferent_id":"A_transbutene","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.1e3 M^-1","interferent_value":"3.2e2 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc: cis-butene 2.1 ; trans-butene 0.32"},"notes":""},
+    {"label_id":"L24","receptor_id":"R1","target_id":"A_ethane","interferent_id":"A_ethene","condition_id":"C_NaOAc_pH55","readout_type":"binding_constant","label_basis":"Ka","target_value":"2.6e3 M^-1","interferent_value":"2.5e2 M^-1","normalized_direction":"larger Ka = stronger","gold_label_for_rapids":"target_favored","rapids_ready":true,"recommended_computational_route":"RAPIDS_MLIP_only","confidence":"high","evidence":{"page":9339,"figure_or_table":"Table 1","quote":"NaOAc: ethane 2.6 ; ethene 0.25"},"notes":""}
+  ],
+  "rapids_results": [],
+  "smiles_verification_report": {
+    "tool": "RDKit",
+    "policy": "zero-tolerance: SMILES must parse and yield expected molecular formula",
+    "receptors": [
+      {"receptor_id": "R1", "status": "corrected", "expected_formula": "C36H36N24O12", "original_formula": "C22H27N21O6 (incorrect)", "final_formula": "C36H36N24O12", "note": "Original SMILES had incorrect ring closures; rebuilt CB6 as 6 glycoluril units linked by 12 methylene bridges (6 top + 6 bottom portal)."}
+    ],
+    "analytes": [
+      {"analyte_id": "A_methane", "status": "verified", "formula": "CH4"},
+      {"analyte_id": "A_ethane", "status": "verified", "formula": "C2H6"},
+      {"analyte_id": "A_ethene", "status": "verified", "formula": "C2H4"},
+      {"analyte_id": "A_acetylene", "status": "verified", "formula": "C2H2"},
+      {"analyte_id": "A_propane", "status": "verified", "formula": "C3H8"},
+      {"analyte_id": "A_propene", "status": "verified", "formula": "C3H6"},
+      {"analyte_id": "A_nbutane", "status": "verified", "formula": "C4H10"},
+      {"analyte_id": "A_1butene", "status": "verified", "formula": "C4H8"},
+      {"analyte_id": "A_cisbutene", "status": "verified", "formula": "C4H8", "note": "E/Z stereochemistry preserved (cis: C/C=C\\C)"},
+      {"analyte_id": "A_transbutene", "status": "verified", "formula": "C4H8", "note": "E/Z stereochemistry preserved (trans: C/C=C/C)"},
+      {"analyte_id": "A_isobutane", "status": "verified", "formula": "C4H10"},
+      {"analyte_id": "A_isobutene", "status": "verified", "formula": "C4H8"},
+      {"analyte_id": "A_npentane", "status": "verified", "formula": "C5H12"},
+      {"analyte_id": "A_isopentane", "status": "verified", "formula": "C5H12"},
+      {"analyte_id": "A_neopentane", "status": "verified", "formula": "C5H12"},
+      {"analyte_id": "A_cyclopentane", "status": "verified", "formula": "C5H10"},
+      {"analyte_id": "A_higheralkanes", "status": "verified", "formulas": ["C6H14 (n-hexane)", "C6H14 (2-methylpentane/isohexane)", "C6H12 (cyclohexane)", "C7H16 (n-heptane)"], "note": "All four mixture components parse correctly with expected formulas."}
+    ]
+  }
+}

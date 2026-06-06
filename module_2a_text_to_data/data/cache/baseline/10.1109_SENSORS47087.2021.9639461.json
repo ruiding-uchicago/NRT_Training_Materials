@@ -1,0 +1,25 @@
+{
+  "stem": "10.1109_SENSORS47087.2021.9639461",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "cortisol",
+      "lower_detection_limit": "2.76 pM",
+      "upper_detection_limit": "27.6 µM",
+      "probe_material": "cortisol aptamer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.5 mM ascorbic acid (AA) in water"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "progesterone (control, non-specific)",
+      "lower_detection_limit": "3.18 pM",
+      "upper_detection_limit": "31.8 µM",
+      "probe_material": "cortisol aptamer",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "0.5 mM ascorbic acid (AA) in water"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "stem": "10.1002_adfm.202215215",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "NO2",
+      "lower_detection_limit": "0.92 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "diF-TES ADT/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "NO2",
+      "lower_detection_limit": "1.69 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "TIPS-pentacene/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "SO2",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "diF-TES ADT/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "SO2",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "TIPS-pentacene/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "CO2",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "diF-TES ADT/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "CO2",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "TIPS-pentacene/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "NH3",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "diF-TES ADT/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "NH3",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "TIPS-pentacene/PTAA blend",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

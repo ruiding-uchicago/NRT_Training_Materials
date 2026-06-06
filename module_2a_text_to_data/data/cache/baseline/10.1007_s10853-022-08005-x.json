@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10853-022-08005-x",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "pH 2",
+      "upper_detection_limit": "pH 12",
+      "probe_material": "3D(micro/nano)V2O5/M-PSi coated with Nafion",
+      "test_operating_temperature (celcius)": "room temperature (implied, no explicit value given)",
+      "pH_value": "2-12",
+      "test_medium": "buffer solution (pH 2, 4, 6, 8, 10, 12)"
+    }
+  ]
+}

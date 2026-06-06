@@ -1,0 +1,15 @@
+{
+  "stem": "10.1080_14686996.2016.1257344",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "5 µM",
+      "upper_detection_limit": "40 mM",
+      "probe_material": "vinylphenylboronic acid (VPBA) copolymerized with 2-hydroxyethylmethacrylate (HEMA), DMAPM, and AA",
+      "test_operating_temperature (celcius)": "room temperature",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS) buffer"
+    }
+  ]
+}

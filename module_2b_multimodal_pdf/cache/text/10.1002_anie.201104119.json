@@ -1,0 +1,569 @@
+{
+ "records": [
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "trans-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "2.1",
+   "interferent_value": "0.32",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "23",
+   "interferent_value": "4.4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "23",
+   "interferent_value": "1.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "4.4",
+   "interferent_value": "1.3",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "trans-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "4.4",
+   "interferent_value": "0.32",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "2.1",
+   "interferent_value": "1.3",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "2.1",
+   "interferent_value": "1.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "23",
+   "interferent_value": "0.14",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "25 ± 10",
+   "interferent_value": "0.14",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethane",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "2.6 ± 0.7",
+   "interferent_value": "<0.05",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethane",
+   "interferent": "ethene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "2.6 ± 0.7",
+   "interferent_value": "0.25",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "10",
+   "interferent_value": "2.6 ± 0.7",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "propene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "10",
+   "interferent_value": "1.4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethene",
+   "interferent": "acetylene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "0.25",
+   "interferent_value": "0.047",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "298 K",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "25 ± 10",
+   "interferent_value": "4.4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "trans-butene",
+   "interferent": "cis-butene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "850",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "910",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "910",
+   "interferent_value": "84",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "280",
+   "interferent_value": "79",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "trans-butene",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "850",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "150",
+   "interferent_value": "79",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "150",
+   "interferent_value": "84",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "910",
+   "interferent_value": "9 ± 4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "1300 ± 300",
+   "interferent_value": "9 ± 4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethane",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "24",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethane",
+   "interferent": "ethene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "24",
+   "interferent_value": "3.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "180",
+   "interferent_value": "24",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "propene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "180",
+   "interferent_value": "25",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethene",
+   "interferent": "acetylene",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "3.9",
+   "interferent_value": "0.11",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "50 mM NaOAc buffer",
+    "temperature": "298 K",
+    "pH": "5.5"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "Ka",
+   "target_value": "1300 ± 300",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 10523,
+  "completion_tokens": 10809,
+  "total_tokens": 21332,
+  "cost": 0.0129136,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0129136,
+   "upstream_inference_prompt_cost": 0.0021046,
+   "upstream_inference_completions_cost": 0.010809
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 6711,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 30
+}

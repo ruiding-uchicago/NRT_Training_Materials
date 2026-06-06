@@ -1,0 +1,93 @@
+doi,doi_h,label,target,interf,recep,conf,Et,Ei,dE,gold,pred,correct
+10.1021/acs.joc.6b00267,10.1021_acs.joc.6b00267,L1,"Picric acid (PA, 2,4,6-trinitrophenol)","2,4,6-Trinitrotoluene (TNT)",R1,high,-14.863623839008696,-13.296021519767935,-1.5676023192407609,target_favored,target_favored,True
+10.1021/acs.joc.6b00267,10.1021_acs.joc.6b00267,L2,"Picric acid (PA, 2,4,6-trinitrophenol)","2,4-Dinitrophenol (DNP)",R1,high,-26.51659174569422,-15.581959556871592,-10.93463218882263,target_favored,target_favored,True
+10.1021/acs.joc.6b00267,10.1021_acs.joc.6b00267,L3,"Picric acid (PA, 2,4,6-trinitrophenol)",4-Nitrophenol (NP),R1,high,-20.38966680915607,-13.374810143085956,-7.014856666070113,target_favored,target_favored,True
+10.1021/acs.joc.6b00267,10.1021_acs.joc.6b00267,L4,"Picric acid (PA, 2,4,6-trinitrophenol)",Nitrobenzene (NB),R1,high,-26.29757501724565,-10.380669319852771,-15.916905697392878,target_favored,target_favored,True
+10.1021/acs.joc.6b00267,10.1021_acs.joc.6b00267,L5,"Picric acid (PA, 2,4,6-trinitrophenol)",Nitromethane (NM),R1,high,-32.78098613406426,-6.720979682080923,-26.060006451983334,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L01,"Picric acid (2,4,6-trinitrophenol)","2,4,6-Trinitrotoluene",R1,high,-17.31438006511854,-30.040450352802516,12.726070287683974,target_favored,interferent_favored,False
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L02,"Picric acid (2,4,6-trinitrophenol)",Nitrobenzene,R1,high,-16.76733376031994,-11.458871149405534,-5.308462610914406,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L03,"Picric acid (2,4,6-trinitrophenol)","2,4-Dinitrophenol",R1,high,-31.512248917420514,-19.06477512041717,-12.447473797003344,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L04,"Picric acid (2,4,6-trinitrophenol)",4-Nitrophenol,R1,high,-29.900337706166802,-14.472810498171857,-15.427527207994945,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L05,"Picric acid (2,4,6-trinitrophenol)","1,3-Dinitrobenzene",R1,high,-33.970900364138956,-12.671677942838546,-21.29922242130041,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L06,"Picric acid (2,4,6-trinitrophenol)","2,4-Dinitrotoluene",R1,high,-15.747388034413452,-18.16853993987035,2.421151905456897,target_favored,interferent_favored,False
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L07,"Picric acid (2,4,6-trinitrophenol)","3,4-Dinitrotoluene",R1,high,-25.635143604277186,-15.67369199510342,-9.961451609173766,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L08,"Picric acid (2,4,6-trinitrophenol)",4-Nitrobenzoic acid,R1,high,-31.39934618702877,-17.03501797047388,-14.364328216554888,target_favored,target_favored,True
+10.1021/acsomega.6b00288,10.1021_acsomega.6b00288,L09,"Picric acid (2,4,6-trinitrophenol)",Nitromethane,R1,high,-16.793823429088462,-6.986237871121167,-9.807585557967295,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L1,"picric acid (2,4,6-trinitrophenol, TNP)","2,4-dinitrophenol",R1,high,-25.87716835674835,-15.76001159049428,-10.11715676625407,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L2,"picric acid (2,4,6-trinitrophenol, TNP)",4-nitrophenol,R1,high,-22.931800851082095,-13.830515743476736,-9.101285107605358,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L3,"picric acid (2,4,6-trinitrophenol, TNP)",4-nitrotoluene,R1,high,-22.908153680727963,-13.92103036001073,-8.987123320717233,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L4,"picric acid (2,4,6-trinitrophenol, TNP)","3,4-dinitrotoluene",R1,high,-31.073783860222925,-24.138642240956415,-6.93514161926651,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L5,"picric acid (2,4,6-trinitrophenol, TNP)",4-nitrobenzoic acid,R1,high,-26.545507431545605,-19.469769335902917,-7.075738095642688,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L6,"picric acid (2,4,6-trinitrophenol, TNP)","2,4-dinitrotoluene",R1,high,-30.199189063255506,-18.42471395277368,-11.774475110481827,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L7,"picric acid (2,4,6-trinitrophenol, TNP)","2,4,6-trinitrotoluene",R1,high,-22.94901528735543,-19.1975657226763,-3.751449564679131,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L8,"picric acid (2,4,6-trinitrophenol, TNP)","1,3-dinitrobenzene",R1,high,-25.323513378479248,-15.57677213496256,-9.746741243516688,target_favored,target_favored,True
+10.1039/C4CC06225F,10.1039_C4CC06225F,L9,"picric acid (2,4,6-trinitrophenol, TNP)",nitrobenzene,R1,high,-23.19834696415676,-13.723028614180699,-9.47531834997606,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L1,p-nitrophenol (p-NP),o-nitrophenol (o-NP),R1,high,-24.984345366269608,-35.33181948666931,10.347474120399703,target_favored,interferent_favored,False
+10.1252/jcej.28.267,10.1252_jcej.28.267,L2,p-nitrophenol (p-NP),m-nitrophenol (m-NP),R1,high,-25.007081793730105,5.105219543450628,-30.11230133718073,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L3,o-nitrophenol (o-NP),p-nitrophenol (p-NP),R2,high,-29.886018459351163,-14.65005411144922,-15.235964347901943,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L4,m-nitrophenol (m-NP),p-nitrophenol (p-NP),R2,high,-15.279517608338656,-14.68105221966213,-0.5984653886765265,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L5,o-nitrophenol (o-NP),m-nitrophenol (m-NP),R2,medium,-29.906262197789566,-15.312497389516198,-14.593764808273368,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L7,L-threonine (L-Thr),D-threonine (D-Thr),R1,high,-51.39256545464172,-41.02492394248597,-10.36764151215575,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L8,L-threonine (L-Thr),D-threonine (D-Thr),R2,medium,-49.485687343337645,-46.415025797619286,-3.070661545718359,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L9,L-phenylalanine (L-Phe),D-phenylalanine (D-Phe),R1,high,-28.630895542617736,-11.771095640871023,-16.85979990174671,target_favored,target_favored,True
+10.1252/jcej.28.267,10.1252_jcej.28.267,L10,L-phenylalanine (L-Phe),D-phenylalanine (D-Phe),R2,high,-38.9777942045021,-28.068770616595017,-10.909023587907086,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L01,"2,4,6-trinitrophenol (picric acid, TNP)","2,4,6-trinitrotoluene (TNT)",R1_aza_BODIPY,high,-25.771182186995144,-22.9611000298903,-2.810082157104844,interferent_favored,target_favored,False
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L02,"2,4,6-trinitrophenol (picric acid, TNP)","2,4-dinitrotoluene (DNT)",R1_aza_BODIPY,high,-24.674318555495145,-19.662754112874453,-5.011564442620692,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L03,"2,4,6-trinitrotoluene (TNT)","2,4-dinitrotoluene (DNT)",R1_aza_BODIPY,high,-22.99817347022557,-21.878984953933127,-1.1191885162924429,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L04,"2,4,6-trinitrophenol (picric acid, TNP)",nitromethane (NM),R1_aza_BODIPY,high,-24.532638960811557,-9.11770781975532,-15.414931141056236,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L05,"2,4,6-trinitrophenol (picric acid, TNP)",nitroethane (NE),R1_aza_BODIPY,high,-25.46128384746402,-10.59382236157912,-14.8674614858849,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L06,"2,4,6-trinitrotoluene (TNT)",nitromethane (NM),R1_aza_BODIPY,high,-26.186500393072304,-8.292206599754099,-17.894293793318205,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L07,"2,4,6-trinitrotoluene (TNT)",nitroethane (NE),R1_aza_BODIPY,high,-23.22450124653214,-9.641161934822565,-13.583339311709574,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L08,"2,4-dinitrotoluene (DNT)",nitromethane (NM),R1_aza_BODIPY,high,-20.96396839040739,-8.249470153354231,-12.71449823705316,target_favored,target_favored,True
+10.1021/acsomega.3c02349,10.1021_acsomega.3c02349,L09,"2,4-dinitrotoluene (DNT)",nitroethane (NE),R1_aza_BODIPY,high,-21.56138382785023,-10.72904723092485,-10.832336596925378,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L1,"Picric acid (2,4,6-trinitrophenol)","2,4,6-Trinitrotoluene",R_4g,high,-12.454699082773853,1.5561956779829542,-14.010894760756807,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L2,"Picric acid (2,4,6-trinitrophenol)","2,4-Dinitrophenol",R_4g,high,-12.446596038453585,15.178014158543299,-27.624610196996883,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L3,"Picric acid (2,4,6-trinitrophenol)","2,4-Dinitrotoluene",R_4g,high,-12.399826262093839,16.218123884044388,-28.617950146138227,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L4,"Picric acid (2,4,6-trinitrophenol)",4-Nitrophenol,R_4g,high,-12.398809479108392,-5.786273048059487,-6.612536431048905,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L5,"Picric acid (2,4,6-trinitrophenol)",4-Nitrotoluene,R_4g,high,-12.445891176265262,8.973849461268616,-21.419740637533877,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L6,"Picric acid (2,4,6-trinitrophenol)",4-Nitrobenzaldehyde,R_4g,high,-12.447306208769696,17.761787526453833,-30.20909373522353,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L7,"Picric acid (2,4,6-trinitrophenol)",Nitrobenzene,R_4g,high,-12.455747393045037,17.154550882349234,-29.61029827539427,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L8,"Picric acid (2,4,6-trinitrophenol)",Nitromethane,R_4g,high,-12.756094653780709,-8.1879946366781,-4.5681000171026085,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L9,"Picric acid (2,4,6-trinitrophenol)",Benzoic acid,R_4g,high,-12.447850888520653,25.712725378722524,-38.16057626724318,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L10,"2,4-Dinitrophenol","2,4,6-Trinitrotoluene",R_4g,medium,15.175526424823175,1.5736165456614029,13.601909879161772,target_favored,interferent_favored,False
+10.1021/jo502281b,10.1021_jo502281b,L11,4-Nitrophenol,4-Nitrotoluene,R_4g,high,-5.7748520839336965,8.975616005055715,-14.750468088989411,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L12,"2,4-Dinitrotoluene",4-Nitrotoluene,R_4g,high,18.270203159010055,8.976311595638101,9.293891563371954,target_favored,interferent_favored,False
+10.1021/jo502281b,10.1021_jo502281b,L13,"2,4,6-Trinitrotoluene","2,4-Dinitrotoluene",R_4g,high,1.539541306239094,18.304238001224157,-16.764696694985062,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L14,"2,4,6-Trinitrotoluene",4-Nitrotoluene,R_4g,high,1.5799584002961586,8.972907159188635,-7.3929487588924765,target_favored,target_favored,True
+10.1021/jo502281b,10.1021_jo502281b,L15,"2,4-Dinitrophenol",4-Nitrophenol,R_4g,high,15.17808592934382,-5.767454084690209,20.94554001403403,target_favored,interferent_favored,False
+10.1021/jo502281b,10.1021_jo502281b,L16,Nitrobenzene,Nitromethane,R_4g,medium,17.26084661481295,-8.231087380860439,25.491933995673392,target_favored,interferent_favored,False
+10.1021/jo502281b,10.1021_jo502281b,L17,4-Nitrophenol,Nitrobenzene,R_4g,high,-5.770779790510457,17.14309776274102,-22.913877553251478,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_CTC,Methylene chloride (dichloromethane),Carbon tetrachloride,calix-7,high,-9.64155236946736,-10.41662503552507,0.7750726660577101,target_favored,interferent_favored,False
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_DMF,Methylene chloride (dichloromethane),"N,N-dimethylformamide",calix-7,high,-9.642092902180563,-8.968153212625884,-0.673939689554679,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_acetone,Methylene chloride (dichloromethane),Acetone,calix-7,high,-9.315255904554611,-7.25239020586447,-2.0628656986901417,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_acetonitrile,Methylene chloride (dichloromethane),Acetonitrile,calix-7,high,-9.64191397149491,-10.586733335608391,0.9448193641134814,target_favored,interferent_favored,False
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_chloroform,Methylene chloride (dichloromethane),Chloroform,calix-7,high,-9.640854316770065,-11.689808027299907,2.048953710529842,target_favored,interferent_favored,False
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_dioxane,Methylene chloride (dichloromethane),"1,4-Dioxane",calix-7,high,-9.643855358662282,18.222558707353272,-27.866414066015555,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_ethanol,Methylene chloride (dichloromethane),Ethanol,calix-7,high,-9.641885903989015,-7.981658224806703,-1.660227679182312,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_ethylacetate,Methylene chloride (dichloromethane),Ethyl acetate,calix-7,high,-9.315339027527024,-6.0236822715041285,-3.2916567560228955,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_methanol,Methylene chloride (dichloromethane),Methanol,calix-7,high,-9.315375635756167,-10.223149537441705,0.9077739016855375,target_favored,interferent_favored,False
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_n-hexane,Methylene chloride (dichloromethane),n-Hexane,calix-7,high,-9.641693784864229,-8.07895524004457,-1.5627385448196591,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_toluene,Methylene chloride (dichloromethane),Toluene,calix-7,high,-9.31532905993822,46.994580923345644,-56.309909983283866,target_favored,target_favored,True
+10.1016/j.talanta.2016.03.026,10.1016_j.talanta.2016.03.026,calix7_MC_vs_xylene,Methylene chloride (dichloromethane),Xylene,calix-7,high,-9.642592451100187,-7.93491012089714,-1.7076823302030473,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L01,n-butane,propane,R1,high,-5.726377154576707,-5.0379332474537275,-0.6884439071229798,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L02,isobutane,n-butane,R1,high,-5.104326523916814,-5.725992094503581,0.6216655705867664,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L03,isobutane,isobutene,R1,high,-5.035875252618333,-7.227497856037575,2.1916226034192414,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L04,cyclopentane,n-pentane,R1,high,-6.89515357582953,-7.214475088679371,0.31932151284984034,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L05,cyclopentane,neopentane,R1,high,-6.896553853765586,-32.76321389134272,25.866660037577137,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L06,isopentane,n-pentane,R1,high,-31.876105620750824,-7.261738361525259,-24.614367259225567,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L07,isopentane,neopentane,R1,high,-31.75725192104131,-32.65793413413506,0.9006822130937522,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L08,ethane,methane,R1,high,-3.9795590404845713,-3.1128900931292347,-0.8666689473553366,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L09,propane,ethane,R1,high,-5.040969693531435,-3.9132747091664353,-1.1276949843650002,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L10,ethane,ethene,R1,high,-3.9289005527944516,-4.212290523463798,0.28338997066934635,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L11,ethene,acetylene,R1,high,-4.259638875014098,-7.29488144800255,3.0352425729884516,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L12,propane,propene,R1,high,-5.068699110142791,-6.827973004148225,1.7592738940054335,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L13,n-butane,1-butene,R1,high,-5.773960455379871,-7.016621193570937,1.2426607381910655,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L14,cis-2-butene,trans-2-butene,R1,high,-6.97796689828225,-6.498404385505055,-0.4795625127771945,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L15,cis-2-butene,1-butene,R1,high,-6.982553613987097,-7.067605826082242,0.08505221209514513,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L16,isobutene,trans-2-butene,R1,high,-7.200304181468521,-6.498987277869968,-0.7013169035985527,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L19,n-butane,propane,R1,medium,-5.725017682579399,-5.044225178237222,-0.6807925043421763,interferent_favored,target_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L20,isobutane,n-butane,R1,high,-4.9413046717481,-5.7753518043322245,0.8340471325841241,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L21,cyclopentane,n-pentane,R1,high,-6.896229320376291,-7.2655571433559825,0.3693278229796917,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L22,isobutane,isobutene,R1,high,-5.09887284879445,-7.230515970651336,2.131643121856886,target_favored,interferent_favored,False
+10.1002/anie.201104119,10.1002_anie.201104119,L23,cis-2-butene,trans-2-butene,R1,high,-6.931035544499224,-6.499596114892351,-0.43143942960687287,target_favored,target_favored,True
+10.1002/anie.201104119,10.1002_anie.201104119,L24,ethane,ethene,R1,high,-3.9822017750261027,-4.263247033099308,0.28104525807320524,target_favored,interferent_favored,False

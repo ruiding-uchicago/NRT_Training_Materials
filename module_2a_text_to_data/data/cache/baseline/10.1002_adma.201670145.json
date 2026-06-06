@@ -1,0 +1,35 @@
+{
+  "stem": "10.1002_adma.201670145",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "o-xylene",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "2000 ppm",
+      "probe_material": "PDPPHD-T3 (poly(diketopyrrolopyrrole-terthiophene))",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "m-xylene",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "2000 ppm",
+      "probe_material": "PDPPHD-T3 (poly(diketopyrrolopyrrole-terthiophene))",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "N2"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "p-xylene",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "2000 ppm",
+      "probe_material": "PDPPHD-T3 (poly(diketopyrrolopyrrole-terthiophene))",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "N2"
+    }
+  ]
+}

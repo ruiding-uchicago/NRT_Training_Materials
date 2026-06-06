@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bbagen.2013.01.023",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "pH",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Carbon nanotubes (CNTs) and regioregular poly(3-hexylthiophene) (P3HT)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "3.4-7.8",
+      "test_medium": "buffer solutions (citric acid/Na2HPO4 buffer with KCl)"
+    }
+  ]
+}

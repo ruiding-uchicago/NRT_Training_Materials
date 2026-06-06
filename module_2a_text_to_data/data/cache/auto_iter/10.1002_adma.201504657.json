@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_adma.201504657",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-7 M",
+      "upper_detection_limit": "5e-5 M",
+      "probe_material": "Ti3C2Tx (MXene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/sodium chloride/magnesium chloride/potassium chloride/calcium chloride/water"
+    }
+  ]
+}

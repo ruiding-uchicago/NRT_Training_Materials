@@ -1,0 +1,303 @@
+Flexible Organic Electrolyte Gated FET Biosensor
+with Integrated Soft Fluidics for Cortisol
+Monitoring in Oral Samples
+Roslyn S. Massey and Ravi Prakash
+Dept. of Electronics, Carleton University, Ottawa, Canada
+raviprakash@carleton.ca
+Abstract—Electrolyte Gated Field Effect Transistor
+(EGFET) devices are ideal biosensor platforms as they require
+small sample volumes, can directly transduce biomolecule
+quantities to electrical signals, and have a fast sensor response
+time, making them a desirable candidate for future integration
+into a Point of Care (PoC) device. However, the lack of emphasis
+on EGFET device integration with fluidic sample handling has
+led to very few architectures that are PoC viable in their present
+states. In response, we have created the first flexible, organic,
+electrolyte gated FET (OEGFET) cortisol sensor, with
+integrated soft fluidic microchannels. Our OEGFET
+demonstrates excellent cortisol sensing properties, with
+improved longevity, electrical characteristics, and detection
+range over previously published OEGFET devices. The device
+demonstrates robustness to repeated testing and preserved
+bioactivity over a period of 15 days. The nominal operating
+voltage is up to 5V, 4x lower than the previously reported device.
+The broad cortisol sensitivity range of 27.6µM - 2.76pM
+comprehensively covers the physiological concentration range
+of cortisol in saliva, with a detection limit 10x lower than our
+previous device. The integrated device is low temperature and
+low-cost fabricated onto flexible polymer substrates, tailored as
+the first such PoC compatible EGFET oral biosensor reported.
+Keywords— electrolyte-gated FETs, oral cortisol biosensor,
+Point-of-Care device, amperometric biosensors, soft-fluidics.
+I. INTRODUCTION
+Organic Field Effect Transistors (OFET) are applicable to
+flexible electronics, wearables, sensors, and opto-electronic
+displays. OFET biosensor literature tends to describe device
+architectures as PoC or lab on a chip compatible [1]. This
+would be ideal, as their facile nature, low-cost, large area
+processability, and flexible form factor mean OFET
+biosensors could revolutionize biomolecule testing [2].
+Unfortunately, most device examples are not, in their current
+state, viable for PoC integration. Integration requires sample
+collection, pretreatment, an analyte specific reaction, signal
+production, detection, and result reporting completed by a
+single system [3]. Despite effectively producing and
+detecting signals, literature devices are incompatible with
+integration materials and processes. In addition, organic
+semiconductors (OSC) are highly sensitive to environmental
+conditions leading to negative effects such as voltage drift,
+OSC degradation, high power requirements [4,5].
+In Electrolyte Gated Organic FET Devices (EGOFETs),
+the sample directly participates in device operating states.
+EGOFETs have excellent sensor resolution with Limits of
+Detection (LoD) as low as 1 pM [6-8]. However, direct
+contact of OSC and electrolyte causes OSC degradation and
+voltage drift as polar solvents locally negate electrical field at
+grain boundaries, resulting in poor repeatability and
+negligible longevity [9-11]. Exposed OSC would be
+irreparably damaged by soft fluidic surface bonding
+processes, making EGOFETs incompatible with
+microchannel integration.
+Extended Gate OFETs attempt to solve EGOFET
+integration problems by isolating the transduction element as
+a distinct capacitive element. This leads to dramatically
+increased complexity in fabrication steps, cumbersome
+testing requirements, and reduced transduction element
+sensitivity [1,6,13]. Such devices rely on reference potentials
+from bulky reference sensors unsuited for microscale sample
+volumes, or alternatively attempt to eliminate reference
+electrodes through an interdigitated electrode and exposed
+OSC, negating isolated transduction element benefits [14].
+To mitigate the OFET biosensor challenges, we
+previously proposed the Label-free, aptamer enhanced
+OEGFET [15]. Our unique device architecture leverages a
+multilayered gate stack to prevent semiconductor
+degradation, minimize gate leakage noise and prevent polar
+solvent-based voltage drift [7]. Isolating the OSC reduced
+gate leakage and prevented voltage drift but relied on
+conventional SiO2 substrates and macro-machined PDMS
+wells, weakening signal intensity due to large plate
+separations. Here, we have transformed the OEGFET into a
+novel, fully flexible cortisol biosensor device by integrating
+low temperature deposited soft polymer microchannels. We
+have significantly improved our previously reported
+OEGFET cortisol biosensor, lowering the detection limit by
+a factor of 10 to 2.76pM; reducing the operating voltages by
+4x to a maximum requirement of 5 V; and by preserving
+electrical characteristics and bioactivity to up to 15 days. The
+key improvement in longevity makes integrating this flexible
+OEGFET biosensor into a PoC highly feasible.
+II. MATERIALS AND METHODS
+The device architecture consists of three parts, fabricated
+separately, and assembled into a single device (Fig. 1). The
+bottom OSC transistor surface and the top gate surface with
+target specific aptamers sandwich the PDMS microchannels
+(elastomer and curing agent purchased from Dow chemicals,
+USA). Both the bottom and top surfaces were fabricated on
+flexible Polyimide (Kapton®) substrates purchased from
+DuPont Chemicals. (3-Aminopropyl)triethyoxysilane
+(APTES) a known cross-linker material for PDMS, was
+purchase from Sigma, USA. The aptamer used was based on
+cortisol aptamer reported by Martin et al, and synthesized at
+the Laboratory for Aptamer Discovery and Development of
+978-1-7281-9501-8/21/$31.00 ©2021 IEEE 2021 IEEE Sensors | 978-1-7281-9501-8/21/$31.00 ©2021 IEEE | DOI: 10.1109/SENSORS47087.2021.9639461
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 14,2025 at 02:49:05 UTC from IEEE Xplore. Restrictions apply.
+Emerging Research, Carleton University [16]. Cortisol and
+Progesterone samples (Sigma, USA) in methanol at 1mg/mL
+were precipitated, and then resuspended in 0.5mM ascorbic
+acid (AA). Cortisol stock was diluted with 0.5mM AA to
+produce cortisol electrolyte solutions from 27.6µM (C-1) to
+2.76pM (C-8), and progesterone electrolyte control solutions
+of 31.8µM (P-1) to 3.18pM (P-8). AA test solutions were
+used in proof-of-concept testing prior to complex media.
+Fig. 1 (Left) fully integrated device with soft fluidic channels (inset)
+Transistor well (right) schematic cross section of device.
+The device fabrication process was low temperature to
+ensure biomolecule compatibility, and to reduce fabrication
+costs. Changes in the dielectric stack from our previous
+device were to ensure integration compatibility [15]. The
+resulting device is fully organic, highly flexible and low cost.
+Bottom Surface fabrication: The bottom Kapton surface
+was patterned with 50nm Aluminum and 150 nm Chromium
+microelectrode arrays using conventional lift-off
+nanofabrication procedures. The transistor clusters have
+channel lengths (L) of 25-30µm and aspect ratios (AR) of 20-
+60. The surface is then plasma etch activated in a Technics
+Planar Etch. The OSC is 500nm of spin-deposited TIPSpentacene. The first dielectric layer is 125nm of spin
+deposited PVA. The second bottom surface dielectric is 190-
+210 nm spin deposited PDMS (Fig. 1).
+PDMS microchannel fabrication: A PDMS microchannel
+mold was 3D printed using transparent ABS-like resin on an
+ELEGOO Mars UV resin bath printer. The channel
+dimensions are 200 x 600 m and the well dimensions are
+400 m in height and 4 x 1.9 mm in area (Fig. 1). The cast
+PDMS is cured at room temperature for 48 hours.
+Top Surface Fabrication: The top surface was 150nm
+Chromium, shadow mask deposited. 200nm PMMA was
+deposited for PDMS binding and aptamer immobilization.
+Device Assembly and Gate Functionalization: The
+PMMA was activated in a plasma etcher and placed in an
+APTES bath. The cast PDMS and APTES surfaces were
+activated and placed in contact before baking at 120oC. The
+well was UV activated in a N2 environment. The aptamer
+solution was loaded in the well and allowed to dry for 1 hour
+in a N2 environment. The top surface was brought into contact
+with the uncured PDMS at room temperature for 72 hours.
+III. RESULTS AND DISCUSSION
+A. APTES Assisted PDMS microchannel bonding
+PDMS microchannel stack was fabricated on Kapton to
+test the long-term stability of the soft fluidic microchannels.
+Tests involved forcing red or green dyed DI water through
+the microchannels for a total of 30s each day. Gradient
+pressure in the channel was achieved using a syringe and
+hand pressure. The channels remained robust against leakage,
+even under bending, up to 15 days after initial fabrication
+(Fig.2). In addition, we observed extended longevity in the device performance over the first 15 days. Figure 2c shows the contrast for cortisol 5 transfer characteristics from the first day of testing to day 15. We observed an approximately 20% change is sensor output over the first 15 days, which is in line with current literature examples of high-performance solution processed OFETs [17].
+Fig. 2. a. Soft fluidic Microchannel filled with green dye after flexure, b. during flexing, and c. electrical characteristics data from longevity test.
+The biosensing activity of these devices is preserved due to aptamer characteristic reversible deformation. We demonstrate not only that the OSC is functional after 15 days of testing, but that the biomolecule recognition element is preserved. The integrated devices can be dried for storage and when reconstituted for testing will not have a significant loss in bioactivity.
+B. OEGFET Output Characteristics
+The OEGFET output characteristics were tested using a VSD sweep of 0.5 – 2 V with VSG ranges of 1-20V. Expected transistor action was observed in the I-V sweep and demonstrated changes in output current ISD with changes in channel bias. The output I-V curves for a 27.6 pM cortisol solution are shown in Figure 3.
+Fig. 3. OEGFET output characteristics for cortisol 7, gate bias range.
+The OEGFET demonstrates gate bias modulation, expected transistor behavior. Compared to our previously published data, these devices demonstrate lower operating voltage requirements to reach the same µA ISD ranges [15]. Our previous devices had operating voltage requirements of >20V, in part due to the stacked dielectric set up that was necessary to isolate the gate from the OSC. Superior electrical characteristics are due to the stability from the integrated microchannel system, reducing sample loss and ensuring consistent plate separation. The plate separation in our previous OEGFET varied between 0.8-2mm thick. By reducing separation variations and reducing the plate separation to 400µm, the field effect within the material is stronger and more predictable, intensifying the signal and reducing noise. This has led to the superior repeatability, I-V characteristics and reduced operating voltages observed. The superiority is notable as the transition from conventional rigid wafers to flexible substrates is associated with decreases in electrical characteristics [18]. OSC have around 10% the charge mobilities of their conventional counterparts [19]. Integrating the soft-fluidic microchannel into OEGFETs improved biosensor electrical characteristics.
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 14,2025 at 02:49:05 UTC from IEEE Xplore. Restrictions apply.
+C. Aptamer Binding effect on gate modulation
+The transfer I-V curves were collected for OEGFET
+devices with all cortisol concentrations and progesterone
+concentrations (Fig. 4). These devices were tested with a
+constant VSD =3.25 V, for a VSG sweep of 0-2V.
+Fig. 4. OEGFET device transfer characteristics for various cortisol samples
+These devices show ISD modulation and current quantities
+dependent on electrolyte biomolecule concentration. The
+cortisol solution ISD change from the reference (Ascorbic
+Acid) is due to capacitor stack changes with aptamer
+biomolecule binding [20]. As established in our previous
+work, decreasing target analyte concentration increases
+device output current whereas increasing bulk electrolyte
+concentration of non-specific analytes increases device
+current (see Fig. 5) [15]. The observed antithetical behavior
+is from aptamers complexing with biomolecules introducing
+new capacitance terms into the capacitance mechanism
+[15,20]. This creates the inverse correlation between sample
+biomolecule and output characteristic that is ideal for low
+concentration (nM physiological range) materials such as
+salivary cortisol. The OEGFET has clear distinctions between
+tested concentrations which cover the physiological range of
+cortisol [21]. The extended response of this device is in a 108
+-
+fold concentration range, with the lowest concentration
+comparable to literature (0.8-1pM) [8,22].
+Fig. 5. Aptamer binding effect on device current, cortisol compared to nonbinding progesterone and reference ascorbic acid.
+The absence of aptamer-biomolecule complexing is
+evident in comparing between progesterone and cortisol ISD
+transfer responses; transfer characteristics in Fig. 5. P1-P8
+output current increases with concentration – due to
+electrolyte bulk capacitance increasing with ionic
+concentration – demonstrating no binding event occurs to
+produce the inverse correlation of the cortisol dilutions. The
+devices are cortisol-specific, as previously established [15].
+D. Amperometric Biosensor Performance
+The combined signal production and signal detection
+transduction of the label-free OEGFET is promising due to
+the inverse correlation between signal intensity and
+concentration, unlike most electrochemical and labelled
+devices that have decreasing signal intensity with decreasing
+concentration. The relationship between output current and
+electrical properties is defined by our modified Marinov
+model of output current using Eqn. 1 [15,23].
+(1) The µ0 value is the charge density, an intrinsic property of the semiconductor. The voltage dependence portion of the charge density is accounted for in the Vaa1+m and power exponential term of the turn on voltage, the VSG - |VT| term. Under the same applied currents, the only term that would change is the lumped capacitance cdi term.
+Fig. 6. Amperometric sensor response and device capacitance change to cortisol concentration variation.
+Figure 6 shows current boxplots with plotted lumped capacitance vs concentration for VSG = 0-2V for repeated tests at VSD of 3.5 V. Operating the device as a constant voltage amperometric sensor will yield the output current as amperometric response. This shows the efficacy of our biosensing device under low voltage operations, with output current showing delineations between concentrations. By extracting the cdi values, the differences are even more pronounced. These devices are cortisol specific, have a ~1ms response time, and are repeatable over varied cortisol concentrations in different experiments.
+IV. CONCLUSION
+We have demonstrated the first flexible, OEGFET biosensor with integrated soft fluidics, fabricated through a novel low temperature, low-cost processes and experimentally validated to be highly specific and sensitive to cortisol. Improvements to device performance over previously published OEGFET sensor include 4x reduction in operating voltages, 10x lower cortisol detection limit, and preserved electrical characteristics and bioactivity up to 15 days. The device has a broad detection range of 2.76pM - 27.6µM for spiked, synthetic cortisol samples, and it requires low operative voltages up to 5V, ideal for low power operations. The OEGFET demonstrates high specificity to the steroid cortisol when tested against the steroid progesterone, with excellent repeatability and predictable distinction between concentration vs output current responses, which is the basis for our constant voltage, amperometric cortisol biosensor. The low cost, low temperature fabrication process produces an integrated biosensor that is one step closer to a fully integrated, sample to analysis PoC device. It possesses the attributes of a reliable biosensor in form of fast turn on, selectivity for a biomolecule of interest, reusability, and stability. The integration of the microchannels and the retention of their excellent sensor properties make the integrated OEGFET the first example of a commercially viable electrolyte gated transistor-based biosensor device. ACKNOWLEDGEMENTSThe authors acknowledge the financial support from NSERC Canada and the fabrication assistance from the Carleton Microfab team.
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 14,2025 at 02:49:05 UTC from IEEE Xplore. Restrictions apply.
+REFERENCES
+[1] S. Chenfang, X. Wang, M. Auwalu, S. Cheng, and W. Hu. "Organic
+thin film transistors‐based biosensors." EcoMat 3, no. 2 (2021):
+e12094.
+[2] Sun, Chenfang, Yi-Xuan Wang, Mingyuan Sun, Ye Zou, Congcong
+Zhang, Shanshan Cheng, and Wenping Hu. "Facile and cost-effective
+liver cancer diagnosis by water-gated organic field-effect
+transistors." Biosensors and Bioelectronics 164 (2020): 112251.
+[3] Chin, Curtis D., Vincent Linder, and Samuel K. Sia.
+"Commercialization of microfluidic point-of-care diagnostic devices."
+Lab on a Chip 12, no. 12 (2012): 2118-2134.
+[4] Jia, Xiaojia, Canek Fuentes-Hernandez, Cheng-Yin Wang, Youngrak
+Park, and Bernard Kippelen. "Stable organic thin-film transistors."
+Science advances 4, no. 1 (2018): eaao1705.
+[5] Chen, Xiong, Hao Zhang, Yu Zhang, Xiangfeng Guan, Zitong Zhang,
+and Dagui Chen. "Low-power flexible organic field-effect transistors
+with solution-processable polymer-ceramic nanoparticle composite
+dielectrics." Nanomaterials 10, no. 3 (2020): 518.
+[6] Pullano, Salvatore Andrea, Costantino Davide Critello, Ifana Mahbub,
+Nishat Tarannum Tasneem, Samira Shamsir, Syed Kamrul Islam,
+Marta Greco, and Antonino S. Fiorillo. "EGFET-based sensors for
+bioanalytical applications: A review." Sensors 18, no. 11 (2018): 4042.
+[7] Feng, Cong, Ognian Marinov, M. Jamal Deen, Ponnambalam Ravi
+Selvaganapathy, and Yiliang Wu. "Sensitivity of the threshold voltage
+of organic thin-film transistors to light and water." Journal of Applied
+Physics 117, no. 18 (2015): 185501.
+[8] Seshadri P, Manoli K, Schneiderhan-Marra N, Anthes U,
+Wierzchowiec P, Bonrad K, Torsi L (2018), “Low-picomolar, labelfree procalcitonin analytical detection with an electrolyte-gated organic
+field-effect transistor based electronic immunosensor.” Biosensors and
+Bioelectronics, vol. 104, pp. 113-119.
+[9] Ni, Zhenjie, Huanli Dong, Hanlin Wang, Shang Ding, Ye Zou, Qiang
+Zhao, Yonggang Zhen, Feng Liu, Lang Jiang, and Wenping Hu.
+"Quinoline‐Flanked Diketopyrrolopyrrole Copolymers Breaking
+through Electron Mobility over 6 cm2 V− 1 s− 1 in Flexible Thin Film
+Devices." Advanced Materials 30, no. 10 (2018): 1704843.
+[10] Parkula, Vitaliy, Marcello Berto, Chiara Diacci, Bianca Patrahau,
+Michele Di Lauro, Alessandro Kovtun, Andrea Liscio et al.
+"Harnessing selectivity and sensitivity in electronic biosensing: a novel
+lab-on-chip multigate organic transistor." Analytical Chemistry 92, no.
+13 (2020): 9330-9337.
+[11] Selvaraj, Meenu, Pierpaolo Greco, Matteo Sensi, Gulseren Deniz
+Saygin, Noemi Bellassai, Roberta D'Agata, Giuseppe Spoto, and Fabio
+Biscarini. "Label free detection of miRNA-21 with electrolyte gated
+organic field effect transistors (EGOFETs)." Biosensors and
+Bioelectronics 182 (2021): 113144.
+[12] Sailapu, Sunil Kumar, Eleonora Macchia, Irene Merino-Jimenez, Juan
+Pablo Esquivel, Lucia Sarcina, G. Scamarcio, Shelley D. Minteer,
+Luisa Torsi, and Neus Sabaté. "Standalone operation of an EGOFET
+for ultra-sensitive detection of HIV." Biosensors and
+Bioelectronics 156 (2020): 112103.
+[13] Sheibani, Shokoofeh, Luca Capua, Sadegh Kamaei, Sayedeh Shirin
+Afyouni Akbari, Junrui Zhang, Hoel Guerin, and Adrian M. Ionescu.
+"Extended gate field-effect-transistor for sensing cortisol stress
+hormone." Communications materials 2, no. 1 (2021): 1-10.
+[14] Ali, Ghusoon M. "Interdigitated extended gate field effect transistor
+without reference electrode." Journal of Electronic Materials 46, no. 2
+(2017): 713-717.
+[15] Massey, Roslyn, Siziwe Bebe, and Ravi Prakash. "Aptamer-Enhanced
+Organic Electrolyte-Gated FET Biosensor for High-Specificity
+Detection of Cortisol." IEEE Sensors Letters 4, no. 7 (2020): 1-4.
+[16] Martin J, et al (2014), "Tunable stringency aptamer selection and gold
+nanoparticle assay for detection of cortisol." Analytical and
+bioanalytical chemistry, vol. 406 no. 19, pp. 4637-4647.
+[17] Iqbal, M. Javaid, Hamna Haq, Saira Riaz, M. Akram Raza, M. Zahir
+Iqbal, Mujeeb Ullah Chaudhry, and Shahzad Naseem. "On the
+Operational, shelf life and degradation mechanism in polymer field
+effect transistors." Superlattices and Microstructures 126 (2019): 125-
+131.
+[18] Lewis, Jay. "Material challenge for flexible organic devices." Materials
+today 9, no. 4 (2006): 38-45.
+[19] Haneef, Hamna F., Andrew M. Zeidell, and Oana D. Jurchescu.
+"Charge carrier traps in organic semiconductors: a review on the
+underlying physics and impact on electronic devices." Journal of
+Materials Chemistry C 8, no. 3 (2020): 759-787.
+[20] Massey, Roslyn, Rana Amache, Siziwe Bebe, and Ravi Prakash. "A
+Comprehensive Modelling Approach for Bio-EDLC systems." In 2020
+IEEE Sensors, pp. 1-4. IEEE, 2020.
+[21] Laudat, M. H., S. Cerdas, C. Fournier, D. Guiban, B. Guilhaume, and
+J. P. Luton. "Salivary cortisol measurement: a practical approach to
+assess pituitary-adrenal function." The Journal of Clinical
+Endocrinology & Metabolism 66, no. 2 (1988): 343-348.
+[22] Berto M, Diacci C, D'Agata R, Pinti M, Bianchini E, Di Lauro M,
+Casalini S, Cossarizza A, Berggren M, Simon D, Spoto G, Biscarini F,
+Bortolotti C A (2018), “EGOFET Peptide Aptasensor for Label‐
+Free Detection of Inflammatory Cytokines in Complex Fluids”., Adv.
+Biosys., vol. 2, pp. 1700072, doi:
+https://doi.org/10.1002/adbi.201700072.
+[23] Marinov, Ognian, M. Jamal Deen, Ute Zschieschang, and Hagen
+Klauk. "Organic thin-film transistors: Part I—Compact DC modeling."
+IEEE Transactions on Electron Devices 56, no. 12 (2009): 2952-2961.
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 14,2025 at 02:49:05 UTC from IEEE Xplore. Restrictions apply. 

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admi.202200647",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dissolved ammonia (NH4+/NH3)",
+      "lower_detection_limit": "2 µM",
+      "upper_detection_limit": "100 µM",
+      "probe_material": "tungsten trioxide (WO3) thin film",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "7.3-7.6",
+      "test_medium": "human plasma"
+    }
+  ]
+}

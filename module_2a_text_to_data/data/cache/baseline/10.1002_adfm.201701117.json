@@ -1,0 +1,25 @@
+{
+  "stem": "10.1002_adfm.201701117",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia",
+      "lower_detection_limit": "1 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "DPP2T-TT",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "formaldehyde",
+      "lower_detection_limit": "1 ppb",
+      "upper_detection_limit": "100 ppm",
+      "probe_material": "C8-BTBT/PEI",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

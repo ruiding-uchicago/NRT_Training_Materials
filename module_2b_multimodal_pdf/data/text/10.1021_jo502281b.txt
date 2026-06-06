@@ -1,0 +1,970 @@
+Article
+pubs.acs.org/joc
+
+Benzimidazole Derivatives: Selective Fluorescent Chemosensors for
+the Picogram Detection of Picric Acid
+Jin-Feng Xiong,†,§ Jian-Xiao Li,⊥,§ Guang-Zhen Mo,† Jing-Pei Huo,⊥ Jin-Yan Liu,† Xiao-Yun Chen,*,‡
+and Zhao-Yang Wang*,†,∥
+†
+
+School of Chemistry and Environment, South China Normal University, Guangzhou, 510006, P. R. China
+Key Laboratory of Theoretical Chemistry of Environment, Ministry of Education, Guangzhou, 510006, P. R. China
+⊥
+School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou, 510640, P. R. China
+‡
+Institute of Organic Chemistry, RWTH Aachen University, Landoltweg 1, D-52074 Aachen, Germany
+
+Downloaded via ARGONNE NATL LABORATORY on May 23, 2026 at 16:59:53 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+∥
+
+S Supporting Information
+*
+
+ABSTRACT: 1,3,5-Tri(1H-benzo[d]imidazol-2-yl)benzene
+derivatives, as a new kind of ﬂuorescent chemosensor for the
+detection of nitroaromatic explosives, are designed and
+synthesized by simple N-hydrocarbylation. Among 16 obtained
+compounds, compound 4g has the best capability for detection
+of picric acid (PA), having good selectivity and high sensitivity.
+The detection of PA with 4g solution-coated paper strips at
+the picogram level is developed. A simple, portable, and lowcost method is provided for detecting PA in solution and contact mode.
+
+1. INTRODUCTION
+
+report about the use of benzimidazole derivatives as FCs for PA
+detection.
+Herein, on the basis of our previous research on nitrogencontaining heterocyclic compounds,29,32,37−39 a new kind of FC
+based on 1,3,5-tri(1H-benzo[d]imidazol-2-yl)benzene (TBB,
+Scheme 1) for detecting nitroaromatic explosives is designed
+and synthesized by a simple route using very readily available
+starting materials (Schemes 2 and 3). Fortunately, this
+benzimidazole-type FC 4g (Scheme 1) with good selectivity
+and high sensitivity not only can detect PA in solution but can
+also be used in the contact mode for PA trace detection at the
+picogram level.
+
+Recently, great research interest has been attracted to the
+development of new eﬃcient ﬂuorescence quenching methods
+for the detection of nitroaromatic explosives,1−7 especially for
+picric acid (PA).8−18 However, there are only a few reports
+about ﬂuorescent chemosensors (FCs) with good selectivity
+and high sensitivity for PA based on small molecule organic
+compounds without ion-assisted ﬂuorescence enhancement.19−24 From the viewpoint of structure type, these small
+molecule organic FCs for PA are mainly linear19,21,22,24 or
+planar20,23 benzoaromatic derivatives (Scheme 1). Usually their
+synthesis may suﬀer from certain limitations, such as a lengthy
+synthetic route, 19−21 a low total yield of the target
+molecule,19,22−24 uncommon starting materials,20,23 and the
+need for expensive Pd catalyst.19,20,22,23
+In addition, it is well-known that long-range energy transfer
+as a ﬂuorescence quenching mechanism usually has better
+sensitivity compared to short-range charge transfer,22,23,25 and
+unfortunately the latter has been reported for most small
+molecule organic FCs for PA at present.19−21,24 Moreover, the
+solid-state detection of PA has earned much attention due to its
+simplicity.19−23 Thus, a new small molecule organic FC for PA
+with good selectivity, high sensitivity, and practical application
+in solid-state trace detection at the picogram level by the longrange energy transfer mechanism is becoming attractive.
+Due to easy access to benzimidazole derivatives, they have
+been widely used in many ﬁelds, such as biomedicine,26−29
+liquid materials,30−32 ﬂame retardants,33 supramolecular
+chemistry,34 coordination chemistry,35 and CO2 chemosensors.36 However, to the best of our knowledge, there is no
+© 2014 American Chemical Society
+
+2. RESULTS AND DISCUSSION
+2.1. Design and Synthesis of Target Molecules 3−6.
+To investigate the inﬂuences of alkyl chain length, side-chain
+saturation, and triazole modiﬁcation on ﬂuorescence quenching, the target molecules 3−6 are designed and synthesized.
+There are three benzimidazole moieties with very strong
+ﬂuorescence in these 1,3,5-tri(1H-benzo[d]imidazol-2-yl)benzene (TBB) derivatives. Simultaneously, because the
+solubility of functional molecules in common organic solvents
+will be improved and the intermolecular excimer formation
+through π−π interaction will be prevented in the presence of
+long-chain alkyl groups, various N-alkylated benzimidazoles are
+synthesized by condensation and subsequent N-hydrocarbylation using readily available o-phenylenediamines 1, trimesic acid
+2, and bromohydrocarbons as starting materials (Scheme 2).
+Received: October 6, 2014
+Published: November 11, 2014
+11619
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+Scheme 1. Representative FCs with Good Selectivity and High Sensitivity for PA Based on Small Molecule Organic Compounds
+without Ion-Assisted Fluorescence Enhancement
+
+Scheme 2. Synthesis of TBB Derivatives 3a,b and 4a−k
+
+Scheme 3. Synthesis of TBB Derivatives 5a,b and 6
+
+11620
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 1. Yields, λmax, and λem of the TBB Compounds 3−6
+
+In most cases, CH2Cl2 is chosen as the solvent for the UV−vis test, and THF is used as the solvent for the ﬂuorescence spectra test. DMSO is used
+as the solvent only for compounds 3a, 3b, and 4a, due to poor solubility in CH2Cl2 and THF. bUsing quinine sulfate as a relative standard (0.546),44
+the ﬂuorescence quantum yield of 3a (in DMSO) and 4g (in THF) is 0.23 and 0.20, respectively.
+a
+
+discussions on the synthesis and characterization, see
+Supporting Information (SI)].
+At the same time, to select appropriate solvent for the
+following tests of photophysical properties, the solubility of the
+representative TBB compounds (Table S1, SI) are also
+preliminarily observed according to the literature,41 and the
+results are discussed (see SI).
+2.2. Photophysical Properties. 2.2.1. Inﬂuences of
+Diﬀerent Solvents on Photophysical Properties. To inves-
+
+At the same time, due to the potential of triazole-modiﬁed
+derivatives as FCs for nitroaromatic explosives,19,23,40 a triazolemodiﬁed TBB derivative (e.g., compound 6, Scheme 3) can be
+further synthesized by Click reaction,19,23,37,38,40 when
+propargyl bromide is used in N-hydrocarbylation. Finally, 16
+TBB compounds (including 15 new compounds) have been
+prepared (Table 1). The structures of these benzimidazole-type
+FCs are well characterized by 1H, 13C NMR, ESI-MS, FTIR,
+UV, and elemental analysis [for details of the corresponding
+11621
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+tigate whether TBB derivatives 3−6 have the solvatochromism
+eﬀect,42,43, sample solutions of compound 4f as a model
+compound in diﬀerent solvents are prepared ﬁrst. UV−visible
+absorptions of samples are shown in Figure 1.
+
+Figure 3. Fluorescence spectra of compound 4f in diﬀerent solvents.
+
+compounds are usually carried out in CH2Cl2 and THF,
+respectively. DMSO is used as solvent only for compounds 3
+and 4a, due to the poor solubility in CH2Cl2 and THF. The
+inﬂuences of diﬀerent substituents in compounds 3−6 on
+photophysical properties are also summarized in Table 1 (the
+last three columns).
+For the same R1, the value of λmax and λem are relatively
+smaller (e.g., entries 3 vs 4, 6, 8, 10, Table 1) when the alkyl
+chain of R2 is increased. This indicates that a longer alkyl chain
+may have some inﬂuence on the conjugation of the whole
+molecule somewhat. In fact, the longer alkyl chain R2 may
+increase the steric hindrance signiﬁcantly, actually aﬀecting the
+planarity of the compounds.
+For the same R2, the values of λmax and λem are usually larger
+(e.g., entries 1 vs 2, 4 vs 5, 6 vs 7, 8 vs 9, 10 vs 11, 12 vs 13, 14
+vs 15, Table 1) when the benzimidazole structure contains a
+methyl group as substituent. This may be resulted from the fact
+that the electron-donating methyl favors conjugation in the
+whole molecule, and the methyl has almost no steric hindrance
+aﬀecting the planarity of the molecules.
+At the same time, as shown in Table 1, the Stokes shifts
+obtained for all TBB compounds 3−6 are between 60.9 and
+83.0 nm, which are appropriate for their use as FCs.
+Furthermore, according to the literature,44 the quantum yields
+of two typical TBB compounds 3a and 4g were tested,
+respectively, and given as 0.23 and 0.20 (Table 1, entries 1 and
+9).
+2.3. Detection of Nitroaromatic Explosives in Solution. 2.3.1. Sensing Behaviors of PA toward Diﬀerent TBB
+Compounds. On the basis of the above results, the applications
+of these TBB derivatives as FCs for the detection of PA are
+further explored. To investigate the inﬂuences of diﬀerent
+factors in benzimidazole-type FCs, 10 representative compounds are chosen to use in ﬂuorescence titrations with PA
+(Figure 4, Figure 5, and Figures S49−S56 in SI).
+Though the emission band of every compound is basically
+quenched in the end, the equivalents (equiv) of PA added is
+diﬀerent (Table 2). Obviously, when the N−H of compound
+3a is substituted by the saturated alkyl groups R2, the
+quenching becomes better (entries 2−5, 7, 10). Especially,
+due to the moderate enhancement of the electron-donating
+eﬀect and solubility eﬀect, the quenching becomes better with
+the growth of alkyl length when the alkyl chain is less than 14
+carbon atoms (entries 2−5). The quenching is reduced when
+
+Figure 1. UV−visible spectra of compound 4f in diﬀerent solvents.
+
+Obviously, polar solvent has a certain inﬂuence on the value
+of UV absorption maxima (λmax). Generally, the value of λmax
+decreases with the increase in solvent polarity, and the largest
+diﬀerence in λmax is 8.5 nm for various solvents. The intensity of
+absorption is not increased with the increase in solvent polarity.
+When THF is used as the solvent, there is maximum intensity.
+Therefore, using THF as solvent, the inﬂuences of diﬀerent
+concentrations of sample 4f on the UV−visible absorption are
+further investigated. As expected, the intensity of absorption is
+increased with the increase in concentration, but the value of
+λmax does not show any change (Figure 2).
+
+Figure 2. UV−visible spectra of compound 4f at diﬀerent
+concentrations.
+
+According to the ﬂuorescence spectra of typical compound 4f
+in diﬀerent solvents, the ﬂuorescence intensity in THF is the
+strongest (Figure 3). Thus, THF is chosen as the solvent in
+most cases for the following ﬂuorescence tests.
+2.2.2. Inﬂuences of Diﬀerent Substituents on Photophysical Properties. According to the results obtained above,
+the UV−visible absorption and ﬂuorescence tests of most
+11622
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+derivatives. Indeed, the ﬂuorescence quenching of compound
+4g (R1 = CH3, R2 = n-C12H25, Scheme 1) is the best (Table 2,
+entry 6) and basically achieved by adding 20 equiv of PA
+(Figure 5). Thus, compound 4g is selected as a model in the
+following experiments.
+2.3.2. Sensing Behaviors of Various Analytes toward
+Compound 4g. Using nitromethane (NM) and benzoic acid
+(BA) as comparative objects,10,17,23,45 the ﬂuorescence
+titrations of compound 4g with other nitroaromatic explosives,
+including 2,4,6-trinitrotoluene (TNT), 2,4-dinitrotoluene
+(DNT), 2,4-dinitrophenol (DNP), 4-nitrotoluene (NT), 4nitrophenol (NP), 4-nitrobenzaldehyde (NBD), and nitrobenzene (NB), are carried out (Figures S57−S65, see SI). As a
+comparison with PA, their corresponding data are summarized
+in Table 3.
+For diﬀerent analytes, the ﬂuorescence quenching is diﬀerent
+due to diﬀerent ﬂuorescence quenching mechanisms. First, for
+BA, there is a ﬂuorescence enhancement45 instead of quenching
+(Table 3, entry 10). This may be related to the existence of a
+hydrogen bond46−48 or acid−base interaction47−49 between the
+carboxyl and the slightly alkaline benzimidazole derivative 4g.
+Second, the ﬂuorescence quenching of nitroalkane NM is far
+lower than that of the nitroaromatic compounds (Table 3,
+entries 1−8 vs 9). This implies that the interaction between
+nitroaromatic compounds and the ﬂuorophore of compound 4g
+causes ﬂuorescence quenching more easily. These results are
+similar to those previously reported.10,17,23,45
+Among the nitroaromatics, the quenching becomes better
+when aromatic analytes have more electron-deﬁcient groups.19
+For example, when there are more nitro groups on the aromatic
+ring, the ﬂuorescence quenching is more intensive (Table 3,
+entries 1, 3, 5 and 2, 4, 6). Furthermore, for compounds PA,
+DNP, and NP with OH groups, the hydrogen bond
+interaction46−48 between them with benzimidazole compound
+4g may be also beneﬁcial to enhance the energy transfer ability
+to quench the ﬂuorescence of compound 4g. Thus, PA has the
+best quenching eﬀect of all (Table 3, entry 1), which also
+suggests that the benzimidazole-type FC 4g has a good
+selectivity for PA.
+The ﬂuorescence quenching eﬃciencies (η) of various
+analytes toward 4g are further investigated to conﬁrm this
+selective recognition. As shown in Figure 6, the ﬂuorescence is
+basically quenched only by PA. Even for DNP and TNT, their
+η values are just 56% and 30%, respectively. According to the
+above results, benzimidazole derivative 4g is proved as an
+eﬀective and selective FC for the detection of PA in solution.
+2.4. Determination of PA Detection Limit and Stern−
+Volmer Constant. 2.4.1. Determination of PA Detection
+Limit (DL). According to the method in the literature,20,22,50
+and the datum of CT (0.005 equiv) from Figure 7, DL for PA
+can be calculated as follows:
+
+Figure 4. Change in the ﬂuorescence spectra of compound 4f (1 ×
+10−5 mol·L−1) with the addition of PA in THF solution.
+
+Figure 5. Change in the ﬂuorescence spectra of compound 4g (1 ×
+10−5 mol·L−1) with the addition of PA in THF solution.
+
+the alkyl chain has 14 carbon atoms (entry 7). Perhaps the
+steric hindrance of a long alkyl chain is not favorable for the
+interaction between PA and ﬂuorophore. Thus, the alkyl length
+has a certain inﬂuence on ﬂuorescence quenching, and the
+inﬂuence is not increased with the increase in alkyl chain
+length, while compound 4f with 12 carbon atoms is the best
+among the TBB compounds with R1 = H (entry 5).
+The ﬂuorescence quenching is also inﬂuenced by the
+saturation of side chain R2. A better result is given by the
+saturated hydrocarbyl (Table 2, entries 2 vs 8). This may be
+resulted from the stronger electron-donating eﬀect by the alkyl
+compared to the alkynyl. Similarly, the ﬂuorescence of the
+chemosensor is more easily quenched by PA (Table 2, entries 6
+vs 5, 9 vs 8) when TBB derivatives have a methyl connected to
+the benzimidazole moiety as an electron-donating group (R1 =
+CH3). According to the experimental results, though the
+ﬂuorescence quenching of compound 6 is better than that of
+compound 5a (Table 2, entries 10 vs 9), the expected result is
+limited because of the larger steric hindrance from the triazole
+group (entries 10 vs 6).
+Our tests show that the best ﬂuorescence quenching results
+from a methyl as an electron-donating group and a saturated
+alkyl chain of suitable length on the benzimidazole ring of TBB
+
+CL = 1 × 10−5 mol·L−1
+
+DL = 1 × 10−5 mol·L−1 × 0.005 equiv
+= 5 × 10−8 mol·L−1
+= 50 ppb
+
+The result indicates that the benzimidazole-type FC 4g has
+better sensitivity than most of the small molecule organic FCs
+for PA reported previously.15,17,19,22
+2.4.2. Calculation of Stern−Volmer Constant (Ksv). To
+further investigate the sensitivity for the detection of PA by 4g
+11623
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+Table 2. Amount of PA Resulting in 98% Fluorescence Quenching of Diﬀerent Compounds
+
+Table 3. Amount of Diﬀerent Analytes Resulting in 98% Fluorescence Quenching of Compound 4g
+
+(1 × 10−5 mol·L−1), the Stern−Volmer plot is obtained. As
+shown in Figure 8, when the concentration of PA is high, the
+plot bends upward which indicates a superampliﬁed quenching
+eﬀect.19,22,51 The Stern−Volmer plot is linear when the
+concentration of PA is low.
+
+According to the literature,19,22,23 the Stern−Volmer
+constant (Ksv) for PA can be calculated from the above slope
+of the Stern−Volmer plot, and the value is 1.115 × 105 M−1,
+which is larger than that reported in the literature.14,15,19,22 This
+means that the benzimidazole-type FC 4g has sensitivity much
+11624
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+Figure 6. Fluorescence quenching eﬃciencies toward compound 4g (1 × 10−5 mol·L−1) in THF after the addition of 20 equiv of various analytes.
+
+state electron-deﬁcient PA,22,23,25,51,52 which is further conﬁrmed by a large spectral overlap of the emission spectrum of
+4g with the absorption spectrum of PA in the range of 340 to
+500 nm (Figure 9).
+
+Figure 7. Fluorescence intensity of 4g at 376 nm as a function of PA
+concentration.
+
+Figure 9. Spectral overlap of the absorption spectra of PA (red line)
+and 4g (black line) with the emission spectrum of compound 4g (blue
+line).
+
+Notably, the ﬂuorescence titrations of TBB derivative 4g by
+addition of 20 equiv of PA at various excitation wavelengths
+(260−400 nm) are investigated. The η value of PA has no
+signiﬁcant change (Figure 10). This means that the decrease in
+ﬂuorescence intensity of 4g is not due to masking by PA.19,20
+The energy transfer mechanism proposed above is proved by
+the results.
+Because there is no spectral overlap between the absorption
+of TNT and the emission of 4g (Figure 11), the main
+quenching mechanism for TNT should be the charge
+transfer.19,22,51 This is conﬁrmed by the result of UV titration
+of TNT toward compound 4g. As shown in Figure 12, a leveloﬀ tail is formed in the visible region with gradually increasing
+amounts of TNT (0−120 equiv).
+It is well-known that the energy transfer is a long-range
+process, but the charge transfer is a short-range one.22,25,51 PA
+can interact with the ﬂuorophores of 4g surrounding it, but
+TNT only can quench the emission of ﬂuorophores of 4g that
+have interaction with it. Thus, compared to TNT, PA is more
+sensitive to quench the emission of 4g.
+2.6. Visual Detection of PA. 2.6.1. Visual Detection of PA
+in Solution under UV Light. Owing to the simple material
+
+Figure 8. Stern−Volmer plot in response to PA (inset: Stern−Volmer
+plot obtained at lower concentration of PA).
+
+better than that of the small molecule organic FCs for PA
+reported previously.14,15,19,22
+2.5. Fluorescence Quenching Mechanism. The good
+selectivity and high sensitivity of FC 4g for the detection of PA
+may be related to the ﬂuorescence quenching mechanism. The
+observed ﬂuorescence quenching for PA is attributed to the
+energy transfer from photoexcited π-electron rich 4g to ground11625
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+nitroaromatics is more important for real time applications to
+ﬁnd residual contaminations.19−23,53−55
+Therefore, the visual detection of PA in solution under UV
+light is carried out ﬁrst. As shown in Figure 13, the color of the
+
+Figure 13. Visual color changes observed upon subjecting a 1 × 10−4
+mol·L−1 solution of 4g in THF to an increasing quantity of PA in THF
+(from left to right, ﬂuorophore 4g, 4−20 equiv of PA) in room light
+(a) and under UV light (b).
+
+Figure 10. Fluorescence quenching of PA for 4g under diﬀerent λex.
+
+solution of ﬂuorophore 4g and PA in THF changes signiﬁcantly
+when the concentration of PA is changed. When 20 equiv of PA
+is added, the ﬂuorescence is basically quenched, which is
+consistent with the above results.
+2.6.2. Visual Detection of PA in Solid State under UV Light.
+PA detection is also carried out in solid state. Compound 4g
+adsorbed on a thin layer chromatography (TLC) plate shows
+strong emission (Figure 14a). When a spot of PA solution is
+adsorbed on compound 4g, there is no emission as observed by
+the naked eye (Figure 14b).
+
+Figure 11. Spectral overlap of the absorption spectrum of TNT (red
+line) with the emission spectrum of compound 4g (blue line).
+Figure 14. Fluorescence image (under 365 nm UV light) of
+compound 4g (a) adsorbed on a TLC plate and (b) with a spot of
+PA solution on compound 4g.
+
+Solution-coated paper strips of 4g are prepared and used to
+visually detect PA. To investigate the sensitivity of the paper
+strip for PA, diﬀerent concentrations of PA (10−4 to 10−10 mol·
+L−1) are applied to test strips. As shown in Figure 15, dark
+spots of diﬀerent strengths are formed. Therefore, the
+quenching behavior of 4g is also practically applicable by
+
+Figure 12. Change in absorption spectra of compound 4g with the
+addition of TNT in THF (inset: enlarged UV spectra of compound 4g
+with the addition of TNT in THF in the range of 320−450 nm).
+
+handling, rapid detection, and applicability to practice, the
+design of visual sensors for the detection of explosives has been
+a popular ﬁeld of research10,19−23,45,50,52−56 Among the
+detection methods, the contact mode approach for testing
+
+Figure 15. Paper strips of compound 4g for PA detection at diﬀerent
+concentrations [(a) 1 × 10−4 mol·L−1, (b) 1 × 10−5 mol·L−1, (c) 1 ×
+10−6 mol·L−1, (d) 1 × 10−7 mol·L−1, (e) 1 × 10−8 mol·L−1, (f) 1 ×
+10−9 mol·L−1, (g) 1 × 10−10 mol·L−1, (h) 0] under 365 nm UV light.
+11626
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+varying the concentration of PA even up to the level of 10−8
+mol·L−1 (Figure 15e). Thus, according to the calculation
+method in the literature,50,55,56 when a 10 μL volume of 1 ×
+10−8 mol·L−1 PA solution (22.9 pg PA) is spotted on the paper
+strips covering an area of about 2 cm2, the detection limit (DL)
+of these 4g solution-coated paper strips is about 11.45 pg·cm−2
+for PA detection.
+For the highly selective detection of PA, there are only a few
+reports about the DL value of ﬂuorescent paper strips based on
+small molecule organic FCs without ion-assisted ﬂuorescence
+enhancement.19,20,23 Our obtained DL value can reach the same
+detection level as that reported previously,19 and the sensitivity
+here is better than that reported previously.23 Therefore,
+solution-coated paper strips of compound 4g can be used to
+visually detect instant trace PA with high sensitivity.
+
+144.6, 150.3; IR (ﬁlm), ν, cm −1: 3389, 3056, 2977, 2920, 2862, 1578,
+1494, 1439, 1343, 860, 803; ESI-MS, m/z (%): Calcd for C30H25N6+
+([M + H]+): 469.56 (100), found: 469.71 (100). Anal. Calcd for
+C30H24N6: C 76.90, H 5.16, N 17.94, found: C 76.95, H 5.01, N 17.89.
+4.2.2. Synthesis of Compounds 4. A 50 mL round-bottom ﬂask
+was charged with 1 mmol of intermediate 3, 3 mmol of saturated
+bromoalkanes and , 6 mmol of solid NaOH in CH3CN (10 mL). The
+reaction was stirred at 80 °C for 12 h. After the solvent was removed,
+and the residue was dissolved in ethyl acetate. The organic layers were
+washed with water three times and then dried over anhydrous MgSO4.
+The concentration under vacuum gave a crude product, which was
+puriﬁed by column chromatography on silica gel with gradient eluents
+of petroleum ether and ethyl acetate to aﬀord pure samples 4a,k.
+1,3,5-Tris(1-propyl-1H-benzo[d]imidazol-2-yl)benzene (4a). Yellowish solid 0.337 g, yield 61%, mp 201.1−202.8 °C; UV−vis
+(CH2Cl2) λmax: 301.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.80
+(t, J = 8.0 Hz, 9H), 1.76−1.86 (m, 6H), 4.30 (t, J = 8.0 Hz, 6H), 7.31−
+7.35 (m, 6H), 7.41−7.45 (m, 3H), 7.85−7.90 (m, 3H), 8.23 (s, 3H);
+13
+C NMR (100 MHz, CDCl3, TMS) δ: 11.2, 23.2, 46.5, 110.5, 120.0,
+123.0, 123.4, 131.4, 131.9, 135.5, 142.6, 151.8; IR (ﬁlm), ν, cm−1:
+3063, 2965, 2925, 2853, 1604, 1507, 1454, 1328, 897, 702, 742; ESIMS, m/z (%): Calcd for C36H37N6+ ([M + H]+): 553.31 (100), found:
+553.28 (100). Anal. Calcd for C36H36N6: C 78.23, H 6.57, N 15.21,
+found: C 78.10, H 6.76, N 15.14.
+1,3,5-Tris(1-nonyl-1H-benzo[d]imidazol-2-yl)benzene (4b). Yellowish viscous solid 0.733 g, yield 91%, UV−vis (CH2Cl2) λmax:
+300.0 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.82 (t, J = 8.0 Hz,
+9H), 1.12−1.30 (m, 36H), 1.84−1.91 (m, 6H), 4.36 (t, J = 8.0 Hz,
+6H), 7.30−7.36 (m, 6H), 7.44−7.48 (m, 3H), 7.83−7.89 (m, 3H),
+8.33 (s, 3H); 13C NMR (100 MHz, CDCl3, TMS) δ: 14.1, 22.6, 26.8,
+29.1, 29.2, 29.4, 30.1, 31.8, 45.2, 110.3, 120.2, 122.6, 123.1, 131.1,
+132.2, 135.8, 143.2, 151.9; IR (ﬁlm), ν, cm−1: 3060, 2953, 2924, 2851,
+1606, 1500, 1456, 1327, 899, 692, 742; ESI-MS, m/z (%): Calcd for
+C54H73N6+ ([M + H]+): 805.59 (100), found; 805.82 (100). Anal.
+Calcd for C54H72N6: C 80.55, H 9.01, N 10.44, found: C 80.66, H
+8.93, N 10.41.
+1,3,5-Tris(6-methyl-1-nonyl-1H-benzo[d]imidazol-2-yl)benzene
+(4c). Yellowish viscous solid 0.796 g, yield 94%, UV−vis (CH2Cl2)
+λmax: 307.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.70 (t, J = 8.0
+Hz, 9H), 1.04−1.14 (m, 36H), 1.73−1.82 (m, 6H), 2.37 (s, 3H), 2.40
+(s, 6H), 4.20 (t, J = 8.0 Hz, 6H), 6.96−7.06 (m, 3H), 7.10−7.18 (m,
+3H), 7.51−7.60 (m, 3H), 8.17 (s, 3H); 13C NMR (100 MHz, CDCl3,
+TMS) δ: 14.1, 21.5, 21.9, 22.6, 26.8, 29.1, 29.2, 29.4, 29.7, 30.0, 31.8,
+45.1, 45.2, 109.8, 110.1, 119.7, 119.9, 124.2, 124.6, 130.7, 130.8, 132.1,
+132.2, 133.0, 134.0, 136.1, 141.4, 143.6, 151.5, 151.9; IR (ﬁlm), ν,
+cm−1: 3031, 2956, 2922, 2850, 1606, 1502, 1465, 1329, 899, 712, 806;
+ESI-MS, m/z (%): Calcd for C57H79N6+ ([M + H]+): 847.64 (100),
+found: 848.03 (100). Anal. Calcd for C57H78N6: C 80.80, H 9.28, N
+9.92, found: C 80.96, H 9.12, N 9.95.
+1,3,5-Tris(1-decyl-1H-benzo[d]imidazol-2-yl)benzene (4d). Yellowish viscous solid 0.788 g, yield 93%, UV−vis (CH2Cl2) λmax:
+299.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.87 (t, J = 8.0 Hz,
+9H), 1.16−1.29 (m, 42H), 1.83−1.91 (m, 6H), 4.36 (t, J = 8.0 Hz,
+6H), 7.30−7.37 (m, 6H), 7.44−7.48 (m, 3H), 7.82−7.87 (m, 3H),
+8.31 (s, 3H); 13C NMR (100 MHz, CDCl3, TMS) δ: 14.1, 22.6, 26.8,
+29.1, 29.2, 29.4, 30.1, 31.8, 45.2, 110.3, 120.2, 122.6, 123.1, 131.0,
+132.2, 135.9, 143.3, 151.9; IR (ﬁlm), ν, cm−1: 3064, 2952, 2924, 2853,
+1603, 1500, 1454, 1328, 877, 741; ESI-MS, m/z (%): Calcd for
+C57H79N6+ ([M + H]+): 847.63 (100), found: 848.13 (100). Anal.
+Calcd for C57H78N6: C 80.80, H 9.28, N 9.92, found: C 81.01, H 9.17,
+N 9.82.
+1,3,5-Tris(1-decyl-6-methyl-1H-benzo[d]imidazol-2-yl)benzene
+(4e). Yellowish viscous solid 0.854 g, yield 96%, UV−vis (CH2Cl2)
+λmax: 307.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.84 (t, J = 8.0
+Hz, 9H), 1.14−1.29 (m, 42H), 1.79−1.95 (m, 6H), 2.50 (s, 3H), 2.54
+(s, 6H), 4.32 (t, J = 8.0 Hz, 6H), 7.13−7.17 (m, 3H), 7.23−7.34 (m,
+3H), 7.63−7.73 (m, 3H), 8.28 (s, 3H); 13C NMR (100 MHz, CDCl3,
+TMS) δ: 14.1, 21.6, 22.0, 22.7, 26.8, 29.2, 29.3, 29.5, 30.0, 31.8, 45.1,
+45.2, 109.8, 110.1, 119.7, 120.0, 124.2, 124.6, 130.8, 130.9, 132.1,
+132.2, 133.1, 134.0, 136.1, 141.4, 143.6, 151.6, 151.9; IR (ﬁlm), ν,
+
+3. CONCLUSION
+In summary, a new benzimidazole-type FC for the detection of
+PA based on the long-range energy transfer mechanism has
+been successfully designed and synthesized by a simple Nhydrocarbylation of TBB. Among diﬀerent TBB derivatives,
+compound 4g shows good selectivity and high sensitivity to PA,
+the DL is 50 ppb, and the Ksv is 1.115 × 105 M−1. The visual
+detections are developed, not only in solution, but also in solid
+state with a thin layer chromatography plate or solution-coated
+paper strips. Importantly, PA can be detected on these paper
+strips at the picogram level. Thus, the benzimidazole derivatives
+can also be viewed as a suitable class of compounds in the
+development of eﬃcient FCs for the trace detection of PA in
+solution and contact mode by a signiﬁcant color change for the
+ﬁrst time.
+4. EXPERIMENTAL SECTION
+4.1. Materials and Equipment. Melting points were uncorrected.
+Infrared spectra were recorded with an FT-IR spectrometer. 1H and
+13
+C NMR spectra were obtained with a 400 MHz NMR instrument in
+CDCl3 (or DMSO-d6) using TMS as an internal standard. Mass
+spectra (MS) were recorded on a mass spectrometer. Elemental
+analysis was performed on an elemental analyzer. UV−vis spectra were
+measured by an ultraviolet absorption detector. The ﬂuorescence
+spectra were recorded with a spectrophotometer.
+All reagents and solvents were commercially available and used as
+received. Alkyl azide intermediate was prepared according to reported
+procedures.37
+4.2. Synthesis. 4.2.1. Synthesis of Compounds 3. According to
+the literature,32 a 100 mL round-bottom ﬂask was charged with 31
+mmol of o-phenylenediamines 1 and 10 mmol of trimesic acid 2 in the
+presence of 30 mL of polyphosphoric acid (PPA) as catalyst. The
+reaction was stirred at 150 °C for 24 h and then stirred at 180 °C for
+24 h. After the pH of the resulting mixture was adjusted to 8−9 with 1
+mol·L−1 sodium hydroxide (NaOH), a large amount of solid
+precipitated. After ﬁltration, the crude product was obtained and
+then further puriﬁcation by recrystallization with methanol gave 3a,b.
+1,3,5-Tris(1H-benzo[d]imidazol-2-yl)benzene (3a). Yellowish solid
+3.455 g, yield 81%, mp >300 °C (>300 °C32); UV−vis (DMSO) λmax:
+316.0 nm; 1H NMR (400 MHz, DMSO-d6, TMS) δ: 7.20−7.52 (m,
+6H), 7.62−7.91 (m, 6H), 9.22 (s, 3H), 13.49 (s, 3H); 13C NMR (100
+MHz, DMSO- d6, TMS) δ: 112.2, 119.4, 122.4, 123.4, 125.9, 132.3,
+135.8, 144.2, 150.8; ESI-MS, m/z (%): Calcd for C27H19N6+ ([M +
+H]+): 427.17 (100), found: 427.31 (100).
+1,3,5-Tris(6-methyl-1H-benzo[d]imidazol-2-yl)benzene (3b). Yellowish solid 3.842 g, yield 82%, mp >300 °C; UV−vis (DMSO) λmax:
+321.0 nm; 1H NMR (400 MHz, DMSO-d6, TMS) δ: 2.48 (s, 9H),
+7.05−7.16 (m, 3H), 7.37−7.65 (m, 6H), 9.04 (s, 3H), 13.11−13.37
+(m, 3H); 13C NMR (100 MHz, DMSO-d6, TMS) δ: 21.8, 21.9, 111.7,
+111.8, 118.9, 119.0, 124.0, 124.8, 125.4, 132.3, 132.8, 136.0, 142.3,
+11627
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+cm−1: 3028, 2926, 2855, 1605, 1465, 1330, 900, 806, 721; ESI-MS, m/
+z (%): Calcd for C60H85N6+ ([M + H]+): 889.68 (100), found: 889.80
+(100). Anal. Calcd for C60H84N6: C 81.03, H 9.52, N 9.45, found: C
+81.28, H 9.46, N 9.26.
+1,3,5-Tris(1-dodecyl-1H-benzo[d]imidazol-2-yl)benzene (4f). Yellowish viscous solid 0.869 g, yield 93%, UV−vis (CH2Cl2) λmax: 299.5
+nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.87 (t, J = 8.0 Hz, 9H),
+1.16−1.29 (m, 54H), 1.83−1.91 (m, 6H), 4.36 (t, J = 8.0 Hz, 6H),
+7.30−7.37 (m, 6H), 7.44−7.48 (m, 3H), 7.82−7.87 (m, 3H), 8.31 (s,
+3H); 13C NMR (100 MHz, CDCl3, TMS) δ: 14.1, 22.7, 26.8, 29.2,
+29.3, 29.4, 29.5, 29.6, 30.1, 31.9, 45.2, 110.3, 120.2, 122.7, 123.1, 131.1,
+132.1, 135.8, 143.2, 151.9; IR (ﬁlm), ν, cm−1: 3060, 2926, 2853, 1607,
+1499, 1455, 1327, 897, 741; ESI-MS, m/z (%): Calcd for C63H91N6+
+([M + H]+): 932.44 (100), found: 932.10 (100). Anal. Calcd for
+C63H90N6: C 81.24, H 9.74, N 9.02, found: C 81.42, H 9.63, N 8.95.
+1,3,5-Tris(1-dodecyl-6-methyl-1H-benzo[d]imidazol-2-yl)benzene
+(4g). Yellowish viscous solid 0.943 g, yield 97%, UV−vis (CH2Cl2)
+λmax: 306.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.75 (t, J = 8.0
+Hz, 9H), 1.04−1.17 (m, 54H), 1.70−1.78 (m, 6H), 2.38 (s, 3H), 2.41
+(s, 6H), 4.21 (t, J = 8.0 Hz, 6H), 6.97−7.06 (m, 3H), 7.08−7.21 (m,
+3H), 7.51−7.61 (m, 3H), 8.17 (s, 3H); 13C NMR (100 MHz, CDCl3,
+TMS) δ: 14.1, 21.6, 22.0, 22.7, 26.8, 29.2, 29.3, 29.5, 29.6, 30.0, 31.9,
+45.1, 45.2, 109.8, 110.1, 119.7, 119.9, 124.2, 124.6, 130.7, 130.8, 132.2,
+133.0, 134.0, 136.1, 141.4, 143.6, 151.5, 151.9; IR (ﬁlm), ν, cm−1:
+3028, 2924, 2853, 1606, 1491, 1464, 1328, 899, 806, 721; ESI-MS, m/z
+(%): Calcd for C66H97N6+ ([M + H]+): 973.78 (100), found: 974.25
+(100). Anal. Calcd for C66H96N6: C 81.43, H 9.94, N 8.63, found: C
+81.40, H 9.81, N 8.79.
+1,3,5-Tris(1-tetradecyl-1H-benzo[d]imidazol-2-yl)benzene (4h).
+Yellowish viscous solid 0.955 g, yield 94%, UV−vis (CH2Cl2) λmax:
+298.0 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.73 (t, J = 8.0 Hz,
+9H), 1.00−1.15 (m, 66H), 1.66−1.78 (m, 6H), 4.12−4.24 (m, 6H),
+7.09−7.16 (m, 6H), 7.22−7.28 (m, 3H), 7.66−7.72 (m, 3H), 8.21 (s,
+3H); 13C NMR (100 MHz, CDCl3, TMS) δ: 14.2, 22.7, 26.8, 29.2,
+29.3, 29.4, 29.5, 29.6, 29.7, 30.0, 31.9, 45.1, 110.2, 120.2, 122.5, 123.1,
+130.9, 132.1, 135.8, 143.2, 151.8; IR (ﬁlm), ν, cm−1: 3063, 2926, 2851,
+1606, 1505, 1455, 1329, 890, 744, 692; ESI-MS, m/z (%): Calcd for
+C69H103N6+ ([M + H]+): 1015.82 (100), found: 1016.32 (100). Anal.
+Calcd for C69H102 N6: C 81.60, H 10.12, N 8.28, found: C 81.46, H
+10.32, N 8.22.
+1,3,5-Tris(6-methyl-1-tetradecyl-1H-benzo[d]imidazol-2-yl)benzene (4i). Yellowish viscous solid 1.006 g, yield 95%, UV−vis
+(CH2Cl2) λmax: 306.5 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.82
+(t, J = 8.0 Hz, 9H), 1.08−1.23 (m, 66H), 1.69−1.86 (m, 6H), 2.38 (s,
+3H), 2.41 (s, 6H), 4.09−4.31 (m, 6H), 6.96−7.02 (m, 3H), 7.06−7.18
+(m, 3H), 7.50−7.65 (m, 3H), 8.25 (s, 3H); 13C NMR (100 MHz,
+CDCl3, TMS) δ: 14.1, 21.4, 21.8, 22.7, 26.7, 29.2, 29.4, 29.5, 29.6,
+29.7, 30.0, 31.9, 44.8, 44.9, 109.6, 109.9, 119.5, 119.8, 124.0, 124.4,
+130.5, 131.7, 131.9, 132.7, 134.0, 136.1, 141.4, 143.5, 151.2, 151.6; IR
+(ﬁlm), ν, cm−1: 3027, 2924, 2851, 1605, 1465, 1327, 900, 806, 715;
+ESI-MS, m/z (%): Calcd for C72H109N6+ ([M + H]+): 1057.87 (100),
+found: 1058.47 (100). Anal. Calcd for C75H114 N6: C 81.76, H 10.29,
+N 7.95, found: C 81.49, H 10.36, N 8.15.
+1,3,5-Tris(1-hexadecyl-1H-benzo[d]imidazol-2-yl)benzene (4j).
+Yellowish viscous solid 1.047 g, yield 95%, UV−vis (CH2Cl2) λmax:
+301.0 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.78 (t, J = 8.0 Hz,
+9H), 1.05−1.21 (m, 78H), 1.72−1.82 (m, 6H), 4.26 (t, J = 8.0 Hz,
+6H), 7.16−7.23 (m, 6H), 7.32−7.38 (m, 3H), 7.73−7.78 (m, 3H),
+8.22 (s, 3H); 13C NMR (100 MHz, CDCl3, TMS) δ: 14.1, 22.7, 26.8,
+29.2, 29.4, 29.5, 29.6, 29.7, 30.1, 32.0, 45.2, 110.3, 120.2, 122.6, 123.1,
+131.1, 132.1, 135.8, 143.2, 151.9; IR (ﬁlm), ν, cm−1: 3063, 2924, 2850,
+1606, 1499, 1466, 1454, 1328, 899, 745; ESI-MS, m/z (%): Calcd for
+C75H115N6+ ([M + H]+): 1099.92 (100), found: 1010.47 (100). Anal.
+Calcd for C75H114 N6: 81.91, H 10.45, N 7.64, found: C 81.76, H
+10.51, N 7.73.
+1,3,5-Tris(1-hexadecyl-6-methyl-1H-benzo[d]imidazol-2-yl)benzene (4k). Yellowish viscous solid 1.114 g, yield 98%; UV−vis
+(CH2Cl2) λmax: 306.0 nm; 1H NMR (400 MHz, CDCl3, TMS) δ: 0.77
+(t, J = 8.0 Hz, 9H), 1.05−1.16 (m, 78H), 1.68−1.81 (m, 6H), 2.38 (s,
+3H), 2.42 (s, 6H), 4.21 (t, J = 8.0 Hz, 6H), 6.98−7.06 (m, 3H), 7.10−
+
+7.21 (m, 3H), 7.49−7.63 (m, 3H), 8.18 (s, 3H); 13C NMR (100 MHz,
+CDCl3, TMS) δ: 14.1, 21.5, 21.9, 22.7, 26.8, 26.9, 27.7, 29.2, 29.4,
+29.5, 29.6, 29.7, 29.8, 30.0, 32.0, 45.0, 45.1, 109.8, 110.1, 119.7, 119.9,
+124.2, 124.6, 130.7, 130.8, 132.1, 133.0, 134.0, 136.1, 141.4, 143.6,
+151.5, 151.9; IR (ﬁlm), ν, cm−1: 3029, 2923, 2851, 1604, 1467, 1329,
+897, 806, 720; ESI-MS, m/z (%): Calcd for C78H121N6+ ([M + H]+):
+1141.97 (100), found: 1142.34 (100). Anal. Calcd for C78H120 N6: C
+82.05, H 10.59, N 7.36, found: C 81.95, H 10.46, N 7.59.
+4.2.3. Synthesis of Compounds 5. A 50 mL round-bottom ﬂask
+was charged with 1 mmol of intermediate 3, 3 mmol of propargyl
+bromide, and 6 mmol of NaOH solid in 10 mL of dimethyl sulfoxide
+(DMSO). The reaction was stirred at 50 °C for 48 h. The resulting
+mixture was dissolved in ethyl acetate and then washed with water
+three times. The obtained organic layers were dried over anhydrous
+MgSO4 and concentrated under vacuum to give crude product, which
+was puriﬁed by column chromatography on silica gel with gradient
+eluents of petroleum ether and ethyl acetate to aﬀord pure samples
+5a,b.
+1,3,5-Tris(1-(prop-2-yn-1-yl)-1H-benzo[d]imidazol-2-yl)benzene
+(5a). Yellow solid 0.220 g, yield 41%, mp 268.6−270.6 °C; UV−vis
+(CH2Cl2) λmax: 305.5 nm; 1H NMR (400 MHz, DMSO-d6, TMS) δ:
+3.43 (s, 3H), 5.84 (s, 6H), 7.29−7.38 (m, 6H), 7.69 (d, J = 8.0 Hz,
+3H), 7.81 (d, J = 8.0 Hz, 3H), 8.64 (s, 3H); 13C NMR (100 MHz,
+DMSO-d6, TMS) δ: 34.9, 75.6, 77.2, 110.8, 119.5, 122.5, 125.5, 128.6,
+131.7, 133.2, 143.3, 150.3; IR (ﬁlm), ν, cm −1: 3277, 3053, 2973, 2925,
+2137, 1607, 1557, 1457, 1329, 886, 744, 646; ESI-MS, m/z (%): Calcd
+for C36H25N6+ ([M + H]+): 541.21 (100), found: 541.42 (100). Anal.
+Calcd for C36H24N6: C 79.98, H 4.47, N 15.55, found: C 80.15, H
+4.56, N 15.29.
+1,3,5-Tris(6-methyl-1-(prop-2-yn-1-yl)-1H-benzo[d]imidazol-2yl)benzene (5b). Yellow solid 0.256 g, yield 44%, mp 273.4−275.1 °C;
+UV−vis (CH2Cl2) λmax: 306.5 nm; 1H NMR (400 MHz, DMSO-d6,
+TMS) δ: 2.49 (s, 3H), 2.53 (s, 6H), 3.51 (s, 2H), 3.56 (s, 1H), 5.33 (s,
+6H), 7.19 (d, J = 8.0 Hz, 2H), 7.24 (d, J = 8.0 Hz, 1H), 7.58 (s, 2H),
+7.61 (s, 1H), 7.66 (d, J = 8.0 Hz, 1H), 7.70 (d, J = 8.0 Hz, 2H), 8.51
+(s, 2H), 8.55 (s, 1H); 13C NMR (100 MHz, DMSO-d6, TMS) δ: 21.2,
+21.5, 34.4, 34.5, 76.5, 78.3, 78.4, 110.6, 110.7, 119.2, 119.3, 124.3,
+124.7, 130.3, 130.4, 131.2, 131.9, 132.8, 133.7, 135.8, 140.7, 142.9,
+150.6, 151.0; IR (ﬁlm), ν, cm−1: 3286, 3030, 2920, 2858, 2121, 1607,
+1500, 1447, 1325, 897, 804, 648; ESI-MS, m/z (%): Calcd for
+C39H31N6+ ([M + H]+): 583.70 (100), found: 583.59 (100). Anal.
+Calcd for C39H30N6: C 80.39, H 5.19, N 14.42, found: C 80.18, H
+5.36, N 14.46.
+4.2.4. Synthesis of Compound 6. According to the literature,19,23,37,38 a 50 mL round-bottom ﬂask was charged with 1 mmol
+of intermediate 5, 4 mmol of alkyl azide intermediate, 10% mmol Cu,
+and 5% mmol CuSO4 in DMSO (5 mL). The reaction was stirred at
+50 °C for 48 h. The resulting mixture was extracted with ethyl acetate
+(10 mL × 3) and then washed with water three times. The organic
+layers were dried over anhydrous MgSO4 and concentrated under
+vacuum to give crude product, which was puriﬁed by column
+chromatography on silica gel with gradient eluents of petroleum ether
+and ethyl acetate to aﬀord pure sample 6.
+1,3,5-Tris(5-methyl-1-((1-octyl-1H-1,2,3-triazol-4-yl)methyl)-1Hbenzo[d]imidazol-2-yl)benzene (6). Yellow solid 0.616 g, yield 59%,
+mp 121.1−122.5 °C; UV−vis (CH2Cl2) λmax: 309.5 nm; 1H NMR
+(400 MHz, DMSO-d6, TMS) δ: 0.79 (t, J = 8.0 Hz, 9H), 1.07−1.23
+(m, 30H), 1.62−1.72 (m, 6H), 2.44 (s, 3H), 2.46 (s, 6H), 4.24 (t, J =
+8.0 Hz, 6H), 5.64 (s, 4H), 5.67 (s, 2H), 7.09−7.16 (m, 3H), 7.53 (s,
+3H), 7.62 (d, J = 8.0 Hz, 3H), 8.24 (s, 3H), 8.57 (s, 3H); 13C NMR
+(100 MHz, DMSO-d 6, TMS) δ: 13.8, 21.1, 22.0, 25.7, 28.2, 28.4, 29.6,
+31.1, 49.4, 54.0, 111.0, 118.9, 123.6, 123.9, 125.5, 131.5, 132.3, 133.9,
+136.0, 142.3, 151.3; IR (ﬁlm), ν, cm−1: 3139, 3057, 2955, 2925, 2851,
+1606, 1544, 1509, 1459, 1327, 873, 803; ESI-MS, m/z (%): Calcd for
+C63H82N15+ ([M + H]+): 1048.69 (100), found: 1048.89 (100). Anal.
+Calcd for C63H81N15: C 72.17, H 7.79, N 20.04, found: C 72.40, H
+7.90, N 19.99.
+4.3. Application. 4.3.1. Fluorescence Quenching Titration in
+Organic Media. According to the literature,16,22−24,45 ﬂuorescence
+quenching titrations in organic solvents were carried out by placing 2
+11628
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+■
+
+mL of 1 × 10−5 mol·L−1 solution of benzimidazole derivatives (e.g.,
+4g) in a quartz cuvette of 1 cm width. Then, a tetrahydrofuran (THF)
+solution of analytes (e.g., PA) was added in an incremental fashion.
+For each addition, at least three ﬂuorescence spectra were recorded
+repeatedly at 298 K to obtain a concordant value. For all
+measurements, every benzimidazole-type compound was excited at
+its λex (e.g., for 4g, λex = 307 nm) and their emissions were monitored
+within the suitable region (e.g., for 4g, 317−600 nm) while keeping 2
+nm slit width for both source and detector.
+The ﬂuorescence quenching eﬃciency (η) for each analyte was
+calculated by the following equation:
+
+AUTHOR INFORMATION
+
+Corresponding Authors
+
+*E-mail: wangzy@scnu.edu.cn. Tel: 8620-39310258.
+*E-mail: xiaoyun.chen@oc.rwth-aachen.de.
+Author Contributions
+§
+
+J.-F. Xiong and J.-X. Li contributed equally to this work.
+
+Notes
+
+The authors declare no competing ﬁnancial interest.
+
+η = (I0 − I )/I0 × 100%
+
+■
+
+ACKNOWLEDGMENTS
+
+■
+
+REFERENCES
+
+We are grateful to the NNSFC (no. 20772035), the third
+Talents Special Funds of Guangdong Higher Education (no.
+Guangdong-Finance-Education [2011]431), and the NSF of
+Guangdong Province (no. S2011010001556) for ﬁnancial
+support. We also thank Prof. and Dr. Ling-Yun Wang for her
+helpful discussion and support in partial test experiments.
+
+where I0 and I are the ﬂuorescence intensities in the absence and
+presence of analyte, respectively.
+4.3.2. Determination of PA Detection Limit. According to the
+literature,20,22,50 the ﬂuorescence titration of compound 4g in THF
+solution with PA was carried out by adding aliquots of PA solution.
+Then, the ﬂuorescence intensity as a function of the added PA amount
+was plotted. From this graph, when there was a sharp change in the
+ﬂuorescence intensity, the corresponding concentration could be
+obtained as CT. Multiplying CT with CL (the concentration of
+compound 4g) as in the following equation gave the detection limit
+(DL):
+
+(1) Bhattacharjee, Y. Science 2008, 320, 1416−1417.
+(2) Germain, M. E.; Knapp, M. J. Chem. Soc. Rev. 2009, 38, 2543−
+2555.
+(3) Zhang, K.; Zhou, H.; Mei, Q.; Wang, S.; Guan, G.; Liu, R.; Zhang,
+J.; Zhang, Z. J. Am. Chem. Soc. 2011, 133, 8424−8427.
+(4) Liao, Y. Z.; Strong, V.; Wang, Y.; Li, X. G.; Wang, X.; Kaner, R. B.
+Adv. Funct. Mater. 2012, 22, 726−735.
+(5) Nagarkar, S. S.; Joarder, B.; Chaudhari, A. K.; Mukherjee, S.;
+Ghosh, S. K. Angew. Chem., Int. Ed. 2013, 52, 2881−2885.
+(6) Bejoymohandas, K. S.; George, T. M.; Bhattacharya, S.;
+Natarajan, S.; Reddy, M. L. P. J. Mater. Chem. C 2014, 2, 515−523.
+(7) Tian, D.; Li, Y.; Chen, R. Y.; Chang, Z.; Wang, G. Y.; Bu, X. H. J.
+Mater. Chem. A 2014, 2, 1465−1470.
+(8) Liu, T. H.; Ding, L. P.; He, G.; Yang, Y.; Wang, W. L.; Fang, Y.
+ACS Appl. Mater. Interfaces 2011, 3, 1245−1253.
+(9) Ma, Y. X.; Li, H.; Peng, S.; Wang, L. Y. Anal. Chem. 2012, 84,
+8415−8421.
+(10) Bhalla, V.; Kaur, S.; Vij, V.; Kumar, M. Inorg. Chem. 2013, 52,
+4860−4865.
+(11) Li, X. G.; Liao, Y. Z.; Huang, M. R.; Strong, V.; Kaner, R. B.
+Chem. Sci. 2013, 4, 1970−1978.
+(12) Xu, Y. Q.; Li, B. H.; Li, W. W.; Zhao, J.; Sun, S. G.; Pang, Y.
+Chem. Commun. 2013, 49, 4764−4766.
+(13) Kumar, S.; Venkatramaiah, N.; Patil, S. J. Phys. Chem. C 2013,
+117, 7236−7245.
+(14) Venkatramaiah, N.; Kumar, S.; Patil, S. Chem. Commun. 2012,
+48, 5007−5009.
+(15) Kumar, M.; Reja, S. I.; Bhalla, V. Org. Lett. 2012, 14, 6084−
+6087.
+(16) Samanta, D.; Mukherjee, P. S. Dalton Trans. 2013, 42, 16784−
+16795.
+(17) Zhou, X. H.; Li, L.; Li, H. H.; Li, A.; Yang, T.; Huang, W. Dalton
+Trans. 2013, 42, 12403−12409.
+(18) Li, H. M.; Zhu, Y. X.; Zhang, J. Y.; Chi, Z. G.; Chen, L. P.; Su, C.
+Y. RSC Adv. 2013, 3, 16340−16344.
+(19) Bhalla, V.; Gupta, A.; Kumar, M.; Rao, D. S.; Prasad, S. K. ACS
+Appl. Mater. Interfaces 2013, 5, 672−679.
+(20) Vij, V.; Bhalla, V.; Kumar, M. ACS Appl. Mater. Interfaces 2013,
+5, 5373−5380.
+(21) Dey, N.; Samanta, S. K.; Bhattacharya, S. ACS Appl. Mater.
+Interfaces 2013, 5, 8394−8400.
+(22) Bhalla, V.; Gupta, A.; Kumar, M. Org. Lett. 2012, 14, 3112−
+3115.
+(23) Bhalla, V.; Arora, H.; Singh, H.; Kumar, M. Dalton Trans. 2013,
+42, 969−974.
+(24) Roy, B.; Bar, A. K.; Gole, B.; Mukherjee, P. S. J. Org. Chem.
+2013, 78, 1306−1310.
+
+DL = C L × C T
+4.3.3. Calculation of Stern−Volmer Constant. According to the
+literature,19,22,23 the sensitivity of chemosensor 4g toward PA was
+estimated from the Stern−Volmer constant (Ksv). The Stern−Volmer
+plot was plotted as a function of the PA concentration ([Q]) as in the
+following equation:
+
+I0/I = 1 + K sv × [Q]
+Thus, Ksv can be calculated from the slope of the Stern−Volmer plot.
+4.3.4. Visual Detection of PA in Solution under UV Light.
+According to the literature,45 after a 1 × 10−4 mol·L−1 THF solution of
+4g was equally placed in identical glass bottles, PA of diﬀerent
+amounts (4−20 equiv) was added, respectively. Under UV light at 365
+nm, the results were observed, and the photos were obtained.
+4.3.5. Visual Detection of PA on a Thin Layer Chromatography
+(TLC) Plate under UV Light. According to the literature,22,23,53,54 after
+dropping a THF solution of 4g (1 × 10−4 mol·L−1) onto a spot at both
+ends of a TLC plate, respectively, drying the plate under vacuum
+makes 4g supported. Then, onto one of the spots was dropped PA
+solution, and the plate was dried under vacuum. Under UV light at 365
+nm, the results were observed, and the photos were obtained.
+4.3.6. Visual Detection of PA on Solution-Coated Paper Strips
+under UV Light. According to the literature,10,50,55−57 a piece of
+Whatman ﬁlter paper (1.5 × 1.5 cm2) was immersed in a THF
+solution of 4g (1 × 10−4 mol·L−1) for 10 min. Then, the ﬁlter paper
+was removed from the solution and dried under vacuum at 50 °C for
+24 h. Under irradiation with a UV lamp at 365 nm, this ﬁlter paper
+emitted strong ﬂuorescence. To demonstrate its application as a
+ﬂuorescence paper sensor for PA detection, THF solutions of PA at
+diﬀerent concentrations (10−4 to 10−10 mol·L−1) were spotted onto
+test strips at the desired concentration level using a micropipette. After
+drying the strips under vacuum, the results were observed with 365 nm
+UV light, and the photos were obtained.
+
+■
+
+Article
+
+ASSOCIATED CONTENT
+
+* Supporting Information
+S
+
+Some detailed discussions of the synthesis, characterization, and
+solubility testing of compounds 3−6; 1H and 13C NMR and
+mass spectra of all TBB derivatives 3−6 and other ﬂuorescence
+spectra of diﬀerent titrations. This material is available free of
+charge via the Internet at http://pubs.acs.org.
+11629
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+The Journal of Organic Chemistry
+
+Article
+
+(25) Valeur, B. Molecular ﬂuorescence: Principle and applications;
+Wiley-VCH: Weinheim, 2002.
+(26) Mao, Z. Z.; Wang, Z. Y.; Li, J. N.; Song, X. M.; Luo, Y. F. Synth.
+Commun. 2010, 40, 1963−1977.
+(27) Frei, R.; Breitbach, A. S.; Blackwell, H. E. Angew. Chem., Int. Ed.
+2012, 51, 5226−5229.
+(28) Narasimhan, B.; Sharma, D.; Kumar, P. Med. Chem. Res. 2012,
+21, 269−283.
+(29) Peng, P.; Xiong, J. F.; Mo, G. Z.; Zheng, J. L.; Chen, R. H.;
+Chen, X. Y.; Wang, Z. Y. Amino Acids 2014, 46, 2427−2433.
+(30) Wiggins, K. M.; Kerr, R. L.; Chen, Z.; Bielawski, C. W. J. Mater.
+Chem. 2010, 20, 5709−5714.
+(31) Muth, M.; Rasco-Orozco, M.; Thelakkat, M. Adv. Funct. Mater.
+2011, 21, 4510−4518.
+(32) Xiong, J. F.; Luo, S. H.; Huo, J. P.; Liu, J. Y.; Chen, S. X.; Wang,
+Z. Y. J. Org. Chem. 2014, 79, 8366−8373.
+(33) Xiong, J. F.; Luo, S. H.; Wang, Q. F.; Wang, Z. Y.; Qi, J. Des.
+Monomers Polym. 2013, 16, 389−397.
+(34) Zhu, K.; Vukotic, V. N.; Loeb, S. J. Angew. Chem., Int. Ed. 2012,
+51, 2168−2172.
+(35) He, Q. T.; Li, X. P.; Liu, Y.; Yu, Z. Q.; Wang, W.; Su, C. Y.
+Angew. Chem., Int. Ed. 2009, 48, 6156−6159.
+(36) Guo, Z.; Song, N. R.; Moon, J. H.; Kim, M.; Jun, E. J.; Choi, J.;
+Lee, J. Y.; Bielawski, C. W.; Sessler, J. L.; Yoon, J. J. Am. Chem. Soc.
+2012, 134, 17846−17849.
+(37) Tan, Y. H.; Li, J. X.; Xue, F. L.; Qi, J.; Wang, Z. Y. Tetrahedron
+2012, 68, 2827−2843.
+(38) Huo, J. P.; Luo, J. C.; Wu, W.; Xiong, J. F.; Mo, G. Z.; Wang, Z.
+Y. Ind. Eng. Chem. Res. 2013, 52, 11850−11857.
+(39) Chen, R. H.; Xiong, J. F.; Peng, P.; Mo, G. Z.; Tang, X. S.;
+Wang, Z. Y.; Wang, X. F. Asian J. Chem. 2014, 26, 926−932.
+(40) Bhalla, V.; Singh, H.; Kumar, M.; Prasad, S. K. Langmuir 2011,
+27, 15275−15281.
+(41) Wang, B.; Liu, C. J.; Wang, J. D.; Lei, Z. K.; Hu, D. L. Chem. J.
+Chin. Univ. 2012, 33, 76−81.
+(42) Tanabe, K.; Suzui, Y.; Hasegawa, M.; Kato, T. J. Am. Chem. Soc.
+2012, 134, 5652−5661.
+(43) Ahipa, T. N.; Kumar, V.; Adhikari, A. V. Liq. Cryst. 2013, 40,
+31−38.
+(44) Vieira, A. A.; Gallardo, H.; Barberá, J.; Romero, P.; Serrano, J.
+L.; Sierra, T. J. Mater. Chem. 2011, 21, 5916−5922.
+(45) Shanmugaraju, S.; Joshi, S. A.; Mukherjee, P. S. J. Mater. Chem.
+2011, 21, 9130−9138.
+(46) Ueki, T.; Watanabe, M. Macromolecules 2008, 41, 3739−3749.
+(47) Iwan, A.; Kaczmarczyk, B.; Jarzabek, B.; Jurusik, J.; Domanski,
+M.; Michalak, M. J. Phys. Chem. A 2008, 112, 7556−7566.
+(48) Zuo, Z. C.; Fu, Y. Z.; Manthiram, A. Polymers 2012, 4, 1627−
+1644.
+(49) Fu, Y. Z.; Manthiram, A. J. Electrochem. Soc. 2007, 154, B8−B12.
+(50) Pramanik, S.; Bhalla, V.; Kumar, M. Anal. Chim. Acta 2013, 793,
+99−106.
+(51) Wang, J.; Mei, J.; Yuan, W. Z.; Liu, P.; Qin, A. J.; Sun, J. Z.; Ma,
+Y. G.; Tang, B. Z. J. Mater. Chem. 2011, 21, 4056−4059.
+(52) Li, D. D.; Liu, J. Z.; Kwok, R. T.; Liang, Z. Q.; Tang, B. Z.; Yu, J.
+H. Chem. Commun. 2012, 48, 7167−7169.
+(53) Venkatramaiah, N.; Kumar, S.; Patil, S. Chem.Eur. J. 2012, 18,
+14745−14751.
+(54) Martinez, H. P.; Grant, C. D.; Reynolds, J. G.; Trogler, W. C. J.
+Mater. Chem. 2012, 22, 2908−2914.
+(55) Kartha, K. K.; Babu, S. S.; Srinivasan, S.; Ajayaghosh, A. J. Am.
+Chem. Soc. 2012, 134, 4834−4841.
+(56) Bhalla, V.; Pramanik, S.; Kumar, M. Chem. Commun. 2013, 49,
+895−897.
+(57) Kumar, M.; Vij, V.; Bhalla, V. Langmuir 2012, 28, 12417−12421.
+
+11630
+
+dx.doi.org/10.1021/jo502281b | J. Org. Chem. 2014, 79, 11619−11630
+
+

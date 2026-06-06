@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_pssa.200983310",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "pH 3",
+      "upper_detection_limit": "pH 11",
+      "probe_material": "barium strontium titanate (Ba0.31Sr0.69TiO3, Ba0.25Sr0.75TiO3, Mg-doped Ba0.8Sr0.2Mg0.1Ti0.9O3)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "3-11",
+      "test_medium": "buffer solution"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_nn100780v",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "dopamine",
+      "lower_detection_limit": "1e-3 M",
+      "upper_detection_limit": "8e-3 M",
+      "probe_material": "reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.2",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/sodium chloride/magnesium chloride/potassium chloride/calcium chloride/water"
+    }
+  ]
+}

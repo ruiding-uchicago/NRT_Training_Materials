@@ -1,0 +1,155 @@
+Hafnium oxide layer-enhanced single-walled carbon nanotube field-effect transistor-based sensing platform
+Author links open overlay panel
+QingYi Meng a 1
+, 
+Shuhua Wei a 1
+, 
+Zhiyuan Xu a
+, 
+Qiang Cao b c
+, 
+Yushi Xiao b c
+, 
+Na Liu b c
+, 
+Huan Liu b
+, 
+Gang Han b
+, 
+Jing Zhang a
+, 
+Jiang Yan a
+, 
+Alexander P. Palov d
+, 
+Lidong Wu b
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.aca.2020.12.040
+Get rights and content
+Highlights
+•
+The FET electrode is suitable for large scale production of sensors.
+•
+The sensitivity of this sensor increased by approximately 100 times.
+•
+The limit of detection (LOD) of FET achieved as low as 33 pmol L−1.
+•
+The FET sensor is a promising candidate for the development of Cu2+ selective sensors.
+Abstract
+Single-walled carbon nanotube-based field effect transistors (SWCNT-FETs) are ideal candidates for fabricating sensors and have been widely used for chemical sensing applications. SWCNT-FETs have low selectivity because of the environmentally sensitive electronic properties of SWCNTs, and SWCNT-FETs also show a high noise signal and poor sensitivity because of charge trapping from Si–OH hydration of the SiO2/Si substrate on the SWCNTs. Herein, poly (4-vinylpyridine) (P4VP) was used for noncovalent attachment to SWCNTs and selective binding to copper ions (Cu2+). Importantly, the introduction of a hafnium-oxide (HfO2) layer through atomic layer deposition (ALD) overcame the charge trapping by SiO2 hydration and remarkably decreased the interference signal. The sensitivity of the P4VP/SWCNT/HfO2-FET sensor for Cu2+ was 7.9 μA μM−1, which was approximately 100 times higher than that of the P4VP/SWCNT/SiO2-FET sensor, and its limit of detection (LOD) was as low as 33 pmol L−1. Thus, the P4VP/SWCNT/HfO2-FET sensor is a promising candidate for the development of Cu2+-selective sensors and can be designed for the large-scale manufacturing of custom-made sensors in the future.
+Graphical abstract
+Image 1
+Download: Download high-res image (110KB)
+Download: Download full-size image
+Previous article in issue
+Next article in issue
+Keywords
+Copper ionsSingle-walled carbon nanotubespoly(4-vinylpyridine)HfO2 layerField-effect transistor
+1. Introduction
+Since the introduction of carbon nanotube (CNT) field-effect transistors (FETs) in the 1970s by Bergveld et al., there has been increasing interest in applying the concept of FETs to convert chemical signals into electrical signals [[1], [2], [3], [4]]. CNTs, as signal enhancement materials, have been successfully used to construct FETs due to their unique electrical, mechanical, and thermal properties [5,6]. The employment of CNT-FETs has rapidly attracted much attention in the development of sensor systems [[7], [8], [9], [10]].
+Intensive efforts have been devoted to improving the sensing performance of CNT-FET devices, such as selectivity and sensitivity [[11], [12], [13]]. Signal enhancement materials and selective recognition units are always used to improve the selectivity and sensitivity of CNT-FET sensors and include high-conductivity materials, biorecognizers, and chemical probes [[14], [15], [16]]. In particular, to improve the selectivity of SWCNT-FET sensors, various biological molecules have been employed as selective recognition units [17,18]. The biological recognition units can accurately bind with target molecules by biological interactions [19], and the conductance change in the SWCNT-FET sensor is determined by the interactions between the recognition units and targets [[20], [21], [22]]. For example, DNA and proteins have been intensively researched as recognition units that can be immobilized on SWCNTs through various noncovalent binding methods, such as physical adsorption, or covalent binding methods, such as amidation and fluorination [[23], [24], [25]]. However, previous reports demonstrated that biomolecules were easily denatured in vitro [26]. Hence, DNA- or protein-based SWCNT-FETs degraded the device performance and led to instability. One way to overcome this issue is to design a functionalized polymer on SWCNTs to capture target molecules [27,28]. As previously reported [29,30], P4VP, a pyridine polymer, can selectively recognize Cu2+.
+Furthermore, recent studies have shown that SWCNTs have a high surface area to volume ratio and can perform better if they are passivated to minimize environmental noise effects on the FET channels [31]. There are relatively few reports about the use of CNT-FET device channel passivation to lower environmental noise and improve sensitivity [32]. The passivation materials used for CNT-FET devices include polymethyl methacrylate and parylene-C [33]. Suitable passivation layers for CNT-FET not only show improved device-to-device uniformity and stability but also lower the environmental interference signal. In contrast to traditional SiO2 layers, HfO2 produces a high-k layer that has a large equivalent oxide thickness (EOT) at the same thickness [34,35]. Thus, a thin layer of HfO2 can potentially be a passivation layer to lower environmental noise and provide capacitance to increase the sensitivity of the SWCNT-FET sensor [36,37].
+In this paper, we address two main questions: which modification method of pristine CNTs is optimal for the most efficient detection of Cu2+ at low concentrations, and which passivation layer results in the lowest environmental noise for CNT-FETs. We report a high-performance SWCNT-FET device fabricated via lithography, etch and atomic layer deposition (ALD) method. SWCNTs were mixed with P4VP. The P4VP not only dispersed the aggregated SWCNTs but also introduced N atoms into the host carbon lattice of the nanotubes that could provide more pyridyl groups for specific binding with Cu2+ [38,39]. The HfO2 passivation layer protected the CNTs in the active channels and lowered the environmental noise to improve the sensitivity of the SWCNT-FET sensors. The prepared P4VP/SWCNT/HfO2-FET sensor displays ultrahigh sensitivity and specificity for Cu2+ and is a promising device for the rapid on-site determination of Cu2+.
+2. Materials and methods
+Chemicals. Silicon wafers were obtained from Tianjin Semiconductor Technology Research Institute Co., Ltd. (Tianjin, China). P4VP (Mw∼160,000), chitosan (Chi), copper chloride (purity > 98%) and phosphate buffered saline (PBS, 10 mM, pH 7.2) were purchased from Sigma-Aldrich (St. Louis, USA). Ultrapure single-walled carbon nanotubes (purity > 95%) were obtained from XFNANO (Nanjing, China). All other chemicals (analytical grade) were obtained from Tianjin Kermel Chemical Reagent Co., Ltd. (Tianjin, China). Milli-Q water (18 MΩ cm, Millipore, USA) was used throughout all experiments.
+Experimental Apparatus. Lithography was carried out by an ultraviolet mask aligner MA6 (Karl Suss, Germany). Scanning electron microscope (SEM) images were obtained with a Zeiss Supra-55 (Zeiss Company, Germany). Atomic force microscopy (AFM) images were obtained with a Dimension Icon-PT system (Bruker Corporation, USA). Attenuated total reflection (ATR) - Fourier transform infrared (FTIR) spectra were obtained with an FTIR-6300 (Jasco Company, Japan). The ATR-FTIR spectra were used to monitor the changes in the modified electrode surface. Ultraviolet–visible (UV–Vis) spectra were obtained with a Specord 210 plus (Analytik Jena, Germany). Cyclic voltammograms (CVs) and current–time (I–t) curves were collected using an electrochemical workstation (CHI 660, China). Current-voltage (IV) curves were collected by an Agilent B1500a (Agilent, USA) and Cascade Summit 12,000 probe station (CASCADE, USA).
+3. Experimental procedure
+Fabrication of FET. The FET fabrication process is shown in Scheme 1 and was performed in a super clean room to ensure an adequate performance and yield rate. To ensure the insulation of the substrate, a 300 nm SiO2 layer was grown on the silicon wafer by the thermal oxidation method. After the SiO2 layer was washed with deionized water and dried with nitrogen, photoresist (NR1500, Shipley, USA) was rotated on the SiO2 layer. Through the lithography method, the structure of the electrode was transferred to the photoresist. Oxygen plasma etching was used to remove the residual photoresist. Ti (10 nm) was deposited as a seed layer on the SiO2 layer by electron beam evaporation, and a gold electrode was deposited on the Ti layer. After lift-off, the FET was prepared.
+Scheme 1
+Download: Download high-res image (256KB)
+Download: Download full-size image
+Scheme 1. The detection mechanism of the SWCNT-FET for Cu2+.
+
+To improve the performance of the FET, a 5 nm HfO2 layer was deposited on the 300 nm SiO2 layer by ALD. The other processes which used to prepare the HfO2 FET were the same as those used for the previous FET.
+Preparation of the P4VP-SWCNT dispersion and FET sensor. A P4VP-SWCNT dispersion was prepared as follows: SWCNTs and P4VP (Mw∼160,000) were mixed in ethanol (10 ml of ethanol with 50 mg of P4VP and 5 mg of SWCNTs). The solution was ultrasonicated at 0 °C for 1 h. Subsequently, the suspensions were centrifuged for 30 min at 10,000 g. The supernatant was the P4VP-modified SWCNT dispersion (Fig. 2).
+The FET sensor was prepared by the casting method. First, the surface of the FET chip was ultrasonically washed with deionized water and ethanol. Then, its surface was dried with a purified nitrogen stream. A 1 mg ml−1 chitosan solution was mixed with P4VP-SWCNT (volume ratio 1:1). Finally, 6 μL of the mixture was dropped on the FET chip.
+Detection of Cu2+ by the FET sensor. I-T curve measurements were performed in a detection cell under a potential value of −0.1 V at room temperature with successive addition of Cu2+ solution. The electrical parameter measurements were performed with an Agilent B1500a semiconductor parameter analyzer. The gate voltage was loaded by a Cascade Summit 12,000 probe station to the back gate of the device. The transfer characteristic curve was obtained with Vds = 0.5 V, and the output characteristic curve was obtained with Vg = 5 V. All the extracted data were used to evaluate the performance of the device.
+4. Results and discussion
+Morphological characterization of the P4VP/SWCNT/HfO2-FET sensor. The fabrication and detection processes of the CNT-FET sensors are shown in Scheme 1. In the P4VP/SWCNT/HfO2-FET sensor, P4VP-modified SWCNTs act as the sensing channel material and selective binding region. The HfO2 layer acts as a passivation layer to lower the environmental noise signal and enhance the response signals. Fig. 1 shows SEM and AFM images of the raw FET chip. The images indicate that the FET chip has a clear interdigital structure [[40], [41], [42]]. As shown in the AFM figure, the width and height of the FET interdigital structure are 5 μm and 75 nm, respectively. Subsequently, SWCNTs and P4VP-modified SWCNTs were dispersed onto the surface of the FET chip. Fig. 2 shows that P4VP improved the dispersion of SWCNTs. Without P4VP, the SWCNTs bundled together, leading to rapid aggregation into precipitates. The supernatant of the P4VP-SWCNT composites was homogeneously dispersed in the solution, and the SWCNTs appeared to be uniformly distributed on the FET surface. This result indicates that proper SWCNT surface treatment and dropping process parameters are essential for the uniform distribution of SWCNTs on the FET chip. As shown in Fig. S1, the UV–Vis absorbance of P4VP-SWCNT, ranging from 300 to 800 nm, was higher than that of P4VP alone. These results also indicate that P4VP is modified on the surface of the SWCNTs [[43], [44], [45]].
+Fig. 1
+Download: Download high-res image (323KB)
+Download: Download full-size image
+Fig. 1. SEM images of a bare electrode at different magnifications: (A) 1 k and (B) 15 k. (C) AFM image of bare FET.
+
+Fig. 2
+Download: Download high-res image (513KB)
+Download: Download full-size image
+Fig. 2. Ethanol solutions of (A) SWCNTs and (C) P4VP-SWCNT composites. SEM images of (B) SWCNT- and (D) P4VP-SWCNT composite-modified electrodes.
+
+P4VP/SWCNT/HfO2-FET sensor detection of Cu2+. Cu2+ is an essential nutrient at low concentrations but is toxic to living organisms at high concentrations [46,47]. Thus, the detection method for Cu2+ plays a vital role in biological diagnosis. To study the characteristics of the FET sensor in detecting Cu2+, the output characteristic curves were acquired by a semiconductor parameter analyzer. As shown in Fig. 3A, the absolute value of the source to drain current (Ids) increases with the log Cu2+ concentration from 100 pmol L−1 to 100 nmol L−1. The sensing principle of the FET relies on the charge introduced at the SWCNT channels either reducing or increasing the conductance with introduction of the detected objects [48]. So the Ids curve of the water sample is flat because no ions bind on the surface of P4VP-modified SWCNTs. When Cu2+ solution was added to the FET, the Cu2+ cations were selectively captured by the N of pyridine on P4VP-SWCNTs then increased the conductance of SWCNT channels. Thus, as the Cu2+ concentration increased, the output current of the device Ids linearly increased with the log Cu2+ concentration, and the LOD was 33 pmol L−1 (S/N = 3). Furthermore, gate control is another important feature of FET devices. Fig. 3B shows the relationship between the gate voltage (Vg) and the Ids at 1 nmol L−1 Cu2+. As the positive gate voltage increased, the Ids linearly decreased (Fig. 3C). This suggests the FET works as a p-type semiconducor. As shown in Fig. 3D, the Ids of the P4VP/SWCNT/HfO2-FET sensor was much higher than the Ids of the P4VP/SWCNT/SiO2-FET sensor. The sensitivity of the P4VP/SWCNT/HfO2-FET sensor was 7.9 μA μM−1, which was 100 times higher than that of the P4VP/SWCNT/SiO2-FET sensor (0.081 μA μM−1). Thus, the P4VP/SWCNT/HfO2-FET sensor is sensitive to Cu2+ compared to other reports (Table 1), which is affected by the amount of injected charge.
+Fig. 3
+Download: Download high-res image (425KB)
+Download: Download full-size image
+Fig. 3. (A) Output characteristics of the P4VP/SWCNT/HfO2-FET sensor with different concentrations of Cu2+ solution, (inset figure, Ids versus log (concentration)). Measured under Vg = 5 V; (B) Output characteristics of the P4VP/SWCNT/HfO2-FET sensor for the detection of 1 nmol L−1 Cu2+ solution at different gate voltages; (C) the relationship of Ids versus Vg, and (D) Comparison of the P4VP/SWCNT/HfO2-FET (black line) and P4VP/SWCNT/SiO2-FET (red line) sensors with different concentrations of Cu2+ solution under a 5 V gate voltage. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+
+Table 1. Comparison of different sensors for the determination of Cu2+.
+
+Technique	Analytical method	Dynamic range	Detection limit	References
+Fluorescence	DNAzyme catalytic beacon sensor	0.1–0.5 μM	35 nM	[55]
+Fluorescence	Porous silicon nanoparticle-based sensor	1–200 μM	5 μM	[56]
+Colorimetric detection	Schiff base sensor	0.1–10 μM	1 μM	[57]
+Colorimetric detection	Silver nanoparticles	0.08–1.44 μM	0.16 μM	[58]
+Visual detection	sodium poly(2-(4-methyl-3-thienyloxy))propanesulfonate	–	3 μM	[59]
+Electrochemistry	P4VP/SWCNT/HfO2-FET Sensor	0.1–100 nM	33 pM	This work
+After spraying the HfO2 layer on the SiO2 substrate, the performance of the FET sensor significantly improved. The possible mechanism is shown in Scheme 2. One reason is that the HfO2 substrate is less hydrophilic and less hydrated than the SiO2 substrate. The silanol groups on the SiO2 surface are susceptible to hydration, which leads to charge trapping from SiO2 to SWCNTs. Due to the large perturbation of electron transport in SWCNTs, the SiO2 substrate improves the environmental noise signal and lowers the sensitivity of the FET sensor. In contrast, the HfO2 substrate lacks dangling bonds; thus, the HfO2 layer has a low environmental noise signal and enhances the sensitivity of the FET sensor. Another reason is attributed to the high dielectric constant of the HfO2 layer [49]. The equivalent circuit of the P4VP/SWCNT/HfO2-FET sensor is shown in Scheme 2B. The HfO2 layer acts as a capacitor with capacitance 
+, which can be calculated from the capacitance definition formula:
+where ε is the dielectric constant of the media between the plates; s is the positive area of a capacitor plate; d is the distance between capacitor plates; and k is the electrostatic force constant. The thickness of the HfO2 layer is only 5 nm, which is much less than that of the SiO2 layer (300 nm). Furthermore, the dielectric constant of HfO2 is higher than that of SiO2 (
+≈25>
+≈3.9) [50]. So the capacitance of HfO2 is much higher than that of the SiO2 layer.
+Scheme 2
+Download: Download high-res image (401KB)
+Download: Download full-size image
+Scheme 2. (A) Signal amplification principle of the P4VP/SWCNT/HfO2-FET sensor and (B) the equivalent circuit of the P4VP/SWCNT/HfO2-FET sensor. (C) The mechanism of the P4VP/SWCNT/HfO2-FET sensor with a gate voltage.
+
+The SWCNTs deposited on the FET chip act as a resistor with resistance Rdielectric. The resistance decreases with Cu2+ binding on the P4VP-SWCNT composites. Because the electrodes are completely immersed in PBS solution, Celectrode is the capacitance between the electrodes. According to the impedance formula:
+where j is an imaginary number and 
+ is the angular velocity. Compared with the SiO2 substrate, the impedance of the FET sensor decreases with decreases in Rdielectric decreases and the formation of the HfO2 layer (
+). Thus, the response signal of the HfO2-based FET sensor is significantly higher than that of the SiO2-based FET sensor.
+Furthermore, the gate voltage control mechanism of the P4VP/SWCNT/HfO2-FET sensor is shown in Scheme 2C. After Cu2+ cations were selectively captured on P4VP-SWCNTs, the conductance of SWCNT channel changed, so caused the change of Ids. As shown in Fig. S2, as the negative Vg increased, more Cu2+ cations drifted to the bottom, which could increase the conductance of channel. This was the reason that a negative Vg could increase Ids. In contrast, a positive Vg stimulated Cu2+ cations away from the channel; thus, Ids decreased.
+Screening ability of the P4VP/SWCNT/HfO2-FET sensor in the presence of interferents. The binding mechanism was confirmed by ATR-FTIR and EDX in Fig. 4. Fig. 4 shows representative SEM images of the SWCNT-FET sensor after the detection of Cu2+. From the EDS images, all the elements are clearly shown on the P4VP/SWCNT/HfO2-FET sensor. Si is the silica substrate, Au is displayed as the interdigital structure, N represents P4VP, and C represents SWCNTs on the FET chip. Cu is the Cu2+ captured by the N atoms of pyridyl groups on P4VP. All the elements were found in the combined figure. Furthermore, ATR-FTIR is another valuable tool for in situ monitoring of the composition of P4VP, P4VP-SWCNT, and P4VP-SWCNT with bound Cu2+. In Fig. 4D, the ATR-FTIR spectra showed that the Cdouble bondN stretching band of the pyridine ring from 1595 cm−1 to 1600 cm−1 significantly improved after binding Cu2+. This peak shift indicated that Cu2+ cations had coordinated with the pyridyl groups of P4VP. The pyridyl N-ligand and Cu2+-coordinated complexes were also confirmed by density functional theory calculations reported by other research groups [[51], [52], [53]].
+Fig. 4
+Download: Download high-res image (771KB)
+Download: Download full-size image
+Fig. 4. SEM images of (A) the FET sensor and (B) the P4VP/SWCNT/HfO2-FET sensor after detection of Cu2+; (C) EDS images of the sensor with all the elements. (D) ATR-FTIR spectra of P4VP, P4VP-SWCNT composites, and P4VP-SWCNT-Cu composites on FETs.
+
+Based on our results and previous reports [29,30], P4VP could selectively recognize Cu2+. Thus, the P4VP/SWCNT/HfO2-FET sensor can potentially be used for the selective detection of Cu2+. To study the selectivity of the P4VP/SWCNT/HfO2-FET sensor for Cu2+ detection, we tested the signal changes of FET sensors in the presence of various possible equivalent metal ions (Na+, K+, Cd2+, Hg2+, Mn2+, Mg2+, Cr2+, and Fe2+). The results showed that the HfO2-FET and SWCNT/HfO2-FET sensors could not specifically detect Cu2+ from other metal ions. Only the P4VP/SWCNT/HfO2-FET sensor could distinguish Cu2+ from other metal ions. The response signal of Cu2+ was the strongest signal among these ions because of the excellent selectivity of pyridine N. This result proved that P4VP played a key role in the selective binding of Cu2+. The inter-sensor RSD of the P4VP/SWCNT/HfO2-FET sensor was less than 2.0%, which showed high reproducibility. Fig. 5B demonstrates the typical real-time changes in current (ΔI/I0) due to the selective adsorption of Cu2+. This result indicated that the P4VP/SWCNT/HfO2-FET sensor could sensitively detect Cu2+ in aqueous solvent. This sensor could be used as a pre-alarm tool for monitoring Cu2+ on site in the future.
+Fig. 5
+Download: Download high-res image (339KB)
+Download: Download full-size image
+Fig. 5. (A) Average current change in the HfO2-FET, SWCNT/HfO2-FET and P4VP/SWCNT/HfO2-FET sensors in response to different metal ions. (B) Typical real-time current (ΔI/I0) changes with Cu2+ concentration for the P4VP/SWCNT/HfO2-FET sensor.
+
+The reusability and stability of the P4VP/SWCNT/HfO2-FET sensor are important parameters in the development and practical implementation of applications for the detection of Cu2+. The recycling time and storage stability of this FET sensor were tested. Fig. 6 showed that the P4VP/SWCNT/HfO2-FET sensor could be washed with acetic acid and deionized water for reuse more than 70 times. Thus, the cost of a single test was as low as that of a paper-based sensor. After storing this FET sensor at room temperature in a sealed box for six weeks, its current response only decreased by 5% to 2 nmol L−1 Cu2+. This result indicated that the P4VP/SWCNT/HfO2-FET sensor has long-term stability as a detection platform. Furthermore, this P4VP/SWCNT/HfO2-FET sensor was further used for determining six tap water samples. The results showed that only one tap water sample had Cu2+, and the percentage of response signal change was around 10 (approximately 5.5 nmol L−1 Cu2+). The P4VP/SWCNT/HfO2-FET sensor not only provides high electronics transfer rate but also has many Cu2+ binding sites. This sensor could be used as a “pre-alarm” tool for monitoring Cu2+ on site in future.
+Fig. 6
+Download: Download high-res image (177KB)
+Download: Download full-size image
+Fig. 6. The current of detection 1 nmol L−1 Cu2+ under 1v gate voltage after washing 70 times.
+
+The superior performance of the P4VP/SWCNT/HfO2-FET sensor can be attributed to the following aspects: first, the large surface area of SWCNTs provides a high loading quantity of P4VP molecules and can significantly improve the number of Cu2+ binding sites [54]; second, the pyridyl group on P4VP is one of the best ligands for Cu2+; third, the introduced HfO2 layer not only ensures excellent electron transport in SWCNTs but also acts as a capacitor in the circuit to reduce the impedance of the sensor. These factors work together to form a stable, sensitive and highly selective FET sensor.
+5. Conclusion
+A portable and sensitive method is provided to detect Cu2+ with high sensitivity. The specificity of the P4VP/SWCNT/HfO2-FET sensor relies on the interaction between Cu2+ and the pyridyl ligand of P4VP. The introduction of the HfO2 layer significantly improves the detection limit of this FET sensor by two orders of magnitude, which provides an easy approach to improve the performance of FET sensors. The linear range of this sensor is from 100 pM to 100 nM, which means it could potentially become a useful tool for the detection of Cu2+ in various situations. Further, FET sensors also find their usage in the fields like digital electronics systems, robotics sensors and the Internet-of-Things.
+Hafnium oxide layer Enhancement Single-walled Carbon Nanotubes Field-Eﬀect Transistor Based Sensing platform
+QingYi Meng§#, Shuhua Wei§#, Zhiyuan Xu§, Qiang Cao£, ζ, Yushi Xiao£, ζ, Na Liu£, ζ, Huan Liu£, Gang Han£, Jing Zhang§, Jiang Yan§, Alexander P. Palov&, Lidong Wu£*
+£Key Laboratory of Control of Quality and Safety for Aquatic Products, Ministry of Agriculture, Chinese Academy of Fishery Sciences, Beijing, 100141, China.
+§School of Information science and technology, North China University of Technology, Beijing 100144, China
+ζShanghai Ocean University, Shanghai 201306, China
+&Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University, Moscow 119991, Russia
+#These authors contributed equally to this work
+*Corresponding author, Tel.: +16173244068; E-mail addresses: wulidong19849510@hotmail.com 
+
+
+
+
+
+ 
+Figure S1. UV-Vis spectra of P4VP, P4VP-SWCNTs composites ethanol solution.
+
+
+   
+Figure S2. Output characteristics of the P4VP/SWCNT/HfO2-FET sensor with detection of 1 nmol L-1 Cu2+ solution at different gate voltage (A, positive Vg; B, negative Vg).

@@ -1,0 +1,13 @@
+# the cloned DASH source repo (800M, not a deliverable)
+sci_adv_basic_data_mining/
+
+# raw publisher PDFs for Module 2b: not read at runtime (cache mode uses rendered images)
+module_2b_multimodal_pdf/data/papers/
+
+# python and jupyter cruft
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+
+# os cruft
+.DS_Store

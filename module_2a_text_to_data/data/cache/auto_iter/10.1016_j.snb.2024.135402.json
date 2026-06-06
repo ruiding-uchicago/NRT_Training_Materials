@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2024.135402",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hydrogen sulfide (H2S)",
+      "lower_detection_limit": "1e-11 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "cobalt phthalocyanine/reduced graphene oxide",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline/water"
+    }
+  ]
+}

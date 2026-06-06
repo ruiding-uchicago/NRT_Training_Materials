@@ -1,0 +1,569 @@
+{
+ "records": [
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "fluorescence_quenching_efficiency",
+   "target_value": "100%",
+   "interferent_value": "56%",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "fluorescence_quenching_efficiency",
+   "target_value": "100%",
+   "interferent_value": "30%",
+   "evidence": {
+    "figure_or_table": "Figure 6",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "fluorescence_response",
+   "target_value": "quenching",
+   "interferent_value": "enhancement",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "fluorescence_quenching_efficiency",
+   "target_value": "quenching",
+   "interferent_value": "lower quenching",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNT",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "DNP",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NP",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NP",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NBD",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "TNT",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NT",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NT",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NT",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "NP",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "298 K",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "amount_of_analyte_for_98%_quenching",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": ""
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 22738,
+  "completion_tokens": 11972,
+  "total_tokens": 34710,
+  "cost": 0.0165196,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0165196,
+   "upstream_inference_prompt_cost": 0.0045476,
+   "upstream_inference_completions_cost": 0.011972
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 7818,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 30
+}

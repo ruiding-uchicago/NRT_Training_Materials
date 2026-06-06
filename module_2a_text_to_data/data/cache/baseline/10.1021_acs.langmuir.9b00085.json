@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acs.langmuir.9b00085",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "uric acid",
+      "lower_detection_limit": "5 μM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "Au (gate electrode)",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "7.4",
+      "test_medium": "phosphate-buffered saline (PBS)"
+    }
+  ]
+}

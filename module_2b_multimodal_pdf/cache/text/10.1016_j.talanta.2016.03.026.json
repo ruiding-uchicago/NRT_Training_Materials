@@ -1,0 +1,245 @@
+{
+ "records": [
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "acetone",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "314 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "acetonitrile",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "195 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "carbon tetrachloride",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "410 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "chloroform",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "798 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "1,4-dioxane",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "142 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "N,N-dimethylformamide",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "62 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "ethanol",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "61.5 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "ethyl acetate",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "258 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "xylene",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "100 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "methanol",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "56 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "n-hexane",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "144 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  },
+  {
+   "receptor": "calix-7",
+   "target": "methylene chloride",
+   "interferent": "toluene",
+   "condition": {
+    "solvent": "aqueous media",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "frequency_change",
+   "label_basis": "frequency_change",
+   "target_value": "1047 Hz",
+   "interferent_value": "85 Hz",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "223"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 8965,
+  "completion_tokens": 4316,
+  "total_tokens": 13281,
+  "cost": 0.00789841,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00789841,
+   "upstream_inference_prompt_cost": 0.00116545,
+   "upstream_inference_completions_cost": 0.00673296
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2604,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 12
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_d0ra02793f",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "10 µM",
+      "upper_detection_limit": "10 mM",
+      "probe_material": "poly(2-hydroxyethylmethacrylate-ran-N-[3-(dimethylamino)propyl]methacrylamide-ran-4-vinylphenylboronic acid-ran-acrylic acid)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
+  ]
+}

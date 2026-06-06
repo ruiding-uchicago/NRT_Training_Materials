@@ -1,0 +1,494 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1021/jo502281b",
+  "paper_metadata": {
+    "title": "Benzimidazole Derivatives: Selective Fluorescent Chemosensors for the Picogram Detection of Picric Acid",
+    "authors": "Jin-Feng Xiong, Jian-Xiao Li, Guang-Zhen Mo, Jing-Pei Huo, Jin-Yan Liu, Xiao-Yun Chen, Zhao-Yang Wang",
+    "journal": "The Journal of Organic Chemistry",
+    "year": 2014,
+    "volume": "79",
+    "pages": "11619-11630"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R_4g",
+      "name": "1,3,5-Tris(1-dodecyl-6-methyl-1H-benzo[d]imidazol-2-yl)benzene (4g)",
+      "structure_notes": "Trigonal C3-symmetric benzimidazole derivative: 1,3,5-tri(1H-benzo[d]imidazol-2-yl)benzene (TBB) core with R1 = CH3 (6-methyl) and R2 = n-C12H25 (n-dodecyl) on each benzimidazole N. Highlighted by authors as best-performing fluorescent chemosensor among 16 TBB compounds.",
+      "smiles_or_structure_available": true,
+      "smiles_or_structure": "CCCCCCCCCCCCn1c2cc(C)ccc2nc1-c1cc(-c2nc3ccc(C)cc3n2CCCCCCCCCCCC)cc(-c2nc3ccc(C)cc3n2CCCCCCCCCCCC)c1",
+      "charge_class": "neutral",
+      "smiles_verification": {
+        "status": "verified",
+        "rdkit_parsed": true,
+        "molecular_formula": "C66H96N6",
+        "checks": [
+          "Central ring confirmed 1,3,5-trisubstituted benzene (1 SMARTS match).",
+          "Three benzimidazole units present (3 SMARTS matches for c1nc2ccccc2n1).",
+          "Each benzimidazole bears an N1-n-dodecyl chain (3 matches of n-CCCCCCCCCCCC, N-C12H25).",
+          "Methyl placed at C6 of each benzimidazole: SMARTS [#6]-n1c(-[#6])nc2ccc(C)cc12 matches 3x, while 5-methyl alternative ([#6]-n1c(-[#6])nc2c(C)cccc12) matches 0x.",
+          "Formula C66H96N6 consistent with C6H3(C20H31N2)3 for 1,3,5-tris(1-dodecyl-6-methyl-1H-benzo[d]imidazol-2-yl)benzene."
+        ]
+      }
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "A_PA",
+      "name": "Picric acid (2,4,6-trinitrophenol)",
+      "smiles_or_structure": "Oc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C6H3N3O7", "notes": "2,4,6-trinitrophenol confirmed."}
+    },
+    {
+      "analyte_id": "A_TNT",
+      "name": "2,4,6-Trinitrotoluene",
+      "smiles_or_structure": "Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C7H5N3O6", "notes": "2,4,6-trinitrotoluene confirmed."}
+    },
+    {
+      "analyte_id": "A_DNP",
+      "name": "2,4-Dinitrophenol",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C6H4N2O5", "notes": "2,4-dinitrophenol (NO2 ortho and para to OH) confirmed."}
+    },
+    {
+      "analyte_id": "A_DNT",
+      "name": "2,4-Dinitrotoluene",
+      "smiles_or_structure": "Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C7H6N2O4", "notes": "2,4-dinitrotoluene (NO2 ortho and para to CH3) confirmed."}
+    },
+    {
+      "analyte_id": "A_NP",
+      "name": "4-Nitrophenol",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C6H5NO3", "notes": "para-nitrophenol confirmed."}
+    },
+    {
+      "analyte_id": "A_NT",
+      "name": "4-Nitrotoluene",
+      "smiles_or_structure": "Cc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C7H7NO2", "notes": "para-nitrotoluene confirmed."}
+    },
+    {
+      "analyte_id": "A_NBD",
+      "name": "4-Nitrobenzaldehyde",
+      "smiles_or_structure": "O=Cc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C7H5NO3", "notes": "para-nitrobenzaldehyde confirmed."}
+    },
+    {
+      "analyte_id": "A_NB",
+      "name": "Nitrobenzene",
+      "smiles_or_structure": "[O-][N+](=O)c1ccccc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C6H5NO2", "notes": "nitrobenzene confirmed."}
+    },
+    {
+      "analyte_id": "A_NM",
+      "name": "Nitromethane",
+      "smiles_or_structure": "C[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "CH3NO2", "notes": "nitromethane confirmed."}
+    },
+    {
+      "analyte_id": "A_BA",
+      "name": "Benzoic acid",
+      "smiles_or_structure": "OC(=O)c1ccccc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parsed": true, "molecular_formula": "C7H6O2", "notes": "benzoic acid confirmed."}
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C1",
+      "solvent": "THF",
+      "temperature": "room temperature",
+      "method": "Fluorescence quenching titration; 4g at 1e-5 mol/L; quenching efficiency (eta) measured after addition of 20 equiv of analyte",
+      "notes": "Same probe (4g) and same concentration used across all analytes (Figure 6, Table 3)."
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "L1",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_TNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv (PA reaches 98% quenching with only 20 equiv)",
+      "interferent_value": "~30% quenching at 20 equiv of TNT",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624-11625",
+        "figure_or_table": "Figure 6 / Table 3",
+        "quote": "Even for DNP and TNT, their eta values are just 56% and 30%, respectively... PA has the best quenching effect of all"
+      },
+      "notes": "TNT requires 280 equiv to reach 98% quenching vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L2",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_DNP",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~56% quenching at 20 equiv DNP",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624-11625",
+        "figure_or_table": "Figure 6 / Table 3",
+        "quote": "Even for DNP and TNT, their eta values are just 56% and 30%, respectively"
+      },
+      "notes": "DNP requires 100 equiv vs 20 equiv for PA to reach 98% quenching."
+    },
+    {
+      "label_id": "L3",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_DNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~22% quenching at 20 equiv DNT (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624-11625",
+        "figure_or_table": "Figure 6 / Table 3",
+        "quote": "DNT 800 equiv for 98% quenching"
+      },
+      "notes": "DNT requires 800 equiv vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L4",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_NP",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~33% quenching at 20 equiv NP (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624-11625",
+        "figure_or_table": "Figure 6 / Table 3",
+        "quote": "NP requires 150 equiv for 98% quenching"
+      },
+      "notes": "NP requires 150 equiv vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L5",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_NT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~8% quenching at 20 equiv NT (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entry 6",
+        "quote": "NT 1200 equiv for 98% quenching"
+      },
+      "notes": "NT requires 1200 equiv vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L6",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_NBD",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~10% quenching at 20 equiv NBD (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entry 7",
+        "quote": "NBD 600 equiv for 98% quenching"
+      },
+      "notes": "NBD requires 600 equiv vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L7",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_NB",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~3% quenching at 20 equiv NB (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entry 8",
+        "quote": "NB 1700 equiv for 98% quenching"
+      },
+      "notes": "NB requires 1700 equiv vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L8",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_NM",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~98% quenching at 20 equiv PA",
+      "interferent_value": "~1% quenching at 20 equiv NM (Figure 6)",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entry 9",
+        "quote": "NM >8000 equiv for 98% quenching"
+      },
+      "notes": "Nitroalkane control; >8000 equiv needed vs 20 equiv for PA."
+    },
+    {
+      "label_id": "L9",
+      "receptor_id": "R_4g",
+      "target_id": "A_PA",
+      "interferent_id": "A_BA",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "qualitative_direction_opposite_response",
+      "target_value": "~98% fluorescence quenching at 20 equiv PA",
+      "interferent_value": "Fluorescence enhancement (no quenching) for benzoic acid",
+      "normalized_direction": "quenching (PA) vs enhancement (BA): PA gives the desired quenching response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11623-11624",
+        "figure_or_table": "Table 3, entry 10 / Figure 6",
+        "quote": "for BA, there is a fluorescence enhancement instead of quenching"
+      },
+      "notes": "Control showing acidity alone is not sufficient; nitroaromatic + OH (PA) is selectively quenched."
+    },
+    {
+      "label_id": "L10",
+      "receptor_id": "R_4g",
+      "target_id": "A_DNP",
+      "interferent_id": "A_TNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~56% quenching at 20 equiv DNP",
+      "interferent_value": "~30% quenching at 20 equiv TNT",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "medium",
+      "evidence": {
+        "page": "11625",
+        "figure_or_table": "Figure 6",
+        "quote": "Even for DNP and TNT, their eta values are just 56% and 30%, respectively"
+      },
+      "notes": "Both phenolic OH and three NO2 explain stronger response for DNP vs TNT despite TNT's extra nitro group."
+    },
+    {
+      "label_id": "L11",
+      "receptor_id": "R_4g",
+      "target_id": "A_NP",
+      "interferent_id": "A_NT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~33% quenching at 20 equiv NP (Figure 6); 150 equiv for 98% quenching",
+      "interferent_value": "~8% quenching at 20 equiv NT (Figure 6); 1200 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 5 vs 6",
+        "quote": "NP 150 equiv; NT 1200 equiv"
+      },
+      "notes": "OH group enhances quenching: NP > NT (same nitro substitution)."
+    },
+    {
+      "label_id": "L12",
+      "receptor_id": "R_4g",
+      "target_id": "A_DNT",
+      "interferent_id": "A_NT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~22% quenching at 20 equiv DNT (Figure 6); 800 equiv for 98% quenching",
+      "interferent_value": "~8% quenching at 20 equiv NT; 1200 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 4 vs 6",
+        "quote": "when there are more nitro groups on the aromatic ring, the fluorescence quenching is more intensive"
+      },
+      "notes": "More nitro groups -> stronger quenching."
+    },
+    {
+      "label_id": "L13",
+      "receptor_id": "R_4g",
+      "target_id": "A_TNT",
+      "interferent_id": "A_DNT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~30% quenching at 20 equiv TNT; 280 equiv for 98% quenching",
+      "interferent_value": "~22% quenching at 20 equiv DNT; 800 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 2 vs 4",
+        "quote": "TNT 280 equiv; DNT 800 equiv for 98% quenching"
+      },
+      "notes": "Three NO2 in TNT gives stronger quenching than two in DNT."
+    },
+    {
+      "label_id": "L14",
+      "receptor_id": "R_4g",
+      "target_id": "A_TNT",
+      "interferent_id": "A_NT",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~30% quenching at 20 equiv TNT; 280 equiv for 98% quenching",
+      "interferent_value": "~8% quenching at 20 equiv NT; 1200 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 2 vs 6",
+        "quote": "TNT 280 equiv; NT 1200 equiv"
+      },
+      "notes": "Three NO2 vs one NO2: TNT > NT."
+    },
+    {
+      "label_id": "L15",
+      "receptor_id": "R_4g",
+      "target_id": "A_DNP",
+      "interferent_id": "A_NP",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~56% quenching at 20 equiv DNP; 100 equiv for 98% quenching",
+      "interferent_value": "~33% quenching at 20 equiv NP; 150 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 3 vs 5",
+        "quote": "DNP 100 equiv; NP 150 equiv"
+      },
+      "notes": "Two NO2 (DNP) > one NO2 (NP) at same OH substitution."
+    },
+    {
+      "label_id": "L16",
+      "receptor_id": "R_4g",
+      "target_id": "A_NB",
+      "interferent_id": "A_NM",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~3% quenching at 20 equiv NB; 1700 equiv for 98% quenching",
+      "interferent_value": "~1% quenching at 20 equiv NM; >8000 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "medium",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 8 vs 9",
+        "quote": "the fluorescence quenching of nitroalkane NM is far lower than that of the nitroaromatic compounds"
+      },
+      "notes": "Aromatic NO2 (NB) > aliphatic NO2 (NM)."
+    },
+    {
+      "label_id": "L17",
+      "receptor_id": "R_4g",
+      "target_id": "A_NP",
+      "interferent_id": "A_NB",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_at_20equiv",
+      "target_value": "~33% quenching at 20 equiv NP; 150 equiv for 98% quenching",
+      "interferent_value": "~3% quenching at 20 equiv NB; 1700 equiv for 98% quenching",
+      "normalized_direction": "larger quenching efficiency = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "11624",
+        "figure_or_table": "Table 3, entries 5 vs 8",
+        "quote": "NP 150 equiv; NB 1700 equiv"
+      },
+      "notes": "OH group on nitroarene boosts H-bonding/energy transfer."
+    }
+  ],
+  "rapids_results": []
+}

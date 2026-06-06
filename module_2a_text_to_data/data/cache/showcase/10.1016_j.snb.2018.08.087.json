@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2018.08.087",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-10 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "tin dioxide (SnO2)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-10",
+      "test_medium": "water"
+    }
+  ]
+}

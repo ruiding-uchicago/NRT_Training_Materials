@@ -1,0 +1,221 @@
+Long-term electrical characteristics of a poly-3-hexylthiophene water-gated thin-film transistor
+Author links open overlay panel
+Axel Luukkonen a
+, 
+Amit Tewari a
+, 
+Kim Björkström a
+, 
+Amir Mohammad Ghafari a
+, 
+Eleonora Macchia a b
+, 
+Fabrizio Torricelli c
+, 
+Luisa Torsi d
+, 
+Ronald Österbacka a
+
+Show more
+
+Add to Mendeley
+
+Share
+
+Cite
+https://doi.org/10.1016/j.orgel.2023.106844
+Get rights and content
+Under a Creative Commons license
+open access
+Highlights
+•
+The water-gated OTFT has been operated for extended periods of time.
+•
+Device degradation is caused mainly by electrical stress.
+•
+Two trap species are created, one with a lifetime of several hours and one permanent.
+•
+Threshold voltage is sensitive to exposure of the gate to air between measurements.
+Abstract
+Organic water-gated thin-film transistors (WG-TFTs) are of great interest in developing low-cost and high-performance biosensors. The device’s sensitivity to changes in measurement conditions can impair long-term operation, and care must be taken to ensure that the WG-TFT sensor response is due to an actual biorecognition event occurring on the sensing electrode. This work aims to clarify the long-term stability of a poly-3-hexylthiophene (P3HT) WG-TFT operated intermittently over two months during 5750 measurement cycles. We have evaluated the device figures of merit (FOM), such as threshold voltage, mobility, and trap density, during the whole measurement period. Short-term changes in the FOM are mainly attributed to work function changes on the gate electrode, whereas long-term changes are consistent with an increase in the semiconductor trap density. The shift in threshold voltage and decrease in mobility are found to be linear as a function of measurement cycles and caused by electrical stress, with time immersed in water having a negligible effect on the device. The trap density-of-states estimated using the subthreshold slope is similar to earlier reported values for P3HT OFETs and exhibits a gradual increase during device use and a partial recovery after rest, indicating the formation of shorter- and longer-lived traps.
+Graphical abstract
+
+Download: Download high-res image (123KB)
+Download: Download full-size image
+Previous article in issue
+Next article in issue
+Keywords
+P3HTOFETEGOFETWG-TFTStability
+1. Introduction
+Water-gated thin-film transistors (WG-TFTs) employ water as a gate dielectric as opposed to the solid dielectric, typically SiO2, used in conventional organic field-effect transistors (OFETs) [1], [2], [3]. The WG-TFT, illustrated in Fig. 1, is made up of three parts: (i) the semiconductor deposited on the substrate and contacted with the source and drain electrodes, (ii) the aqueous gate dielectric, and (iii) the gate electrode, usually metallic. Due to the formation of electrical double layers at the gate electrode and semiconductor surface upon applying a gate voltage, the gating capacitance is considerably higher than in conventional OFETs [1], [4]. This enables low-voltage (
+  V) operation and makes the device highly sensitive to electrical or capacitive changes at the gate-electrolyte and semiconductor-electrolyte interfaces, making the WG-TFT attractive for use in biosensors [5], [6]. While WG-TFTs have demonstrated high performance in a biosensor setting [6], [7], [8], [9], [10], the device stability can still be improved to shorten measurement times and lengthen the usable device lifetime. The device should also be as stable as possible to avoid incorrect readings during sensing measurements.
+Device degradation in conventional organic field-effect transistors (OFETs) typically manifests as decreased source–drain current, increased hysteresis, a shift in threshold voltage, and increased gate leakage [11], [12], [13]. An increase in trap density is the main cause of these effects [14], [15]. Electrical degradation in WG-TFTs is expressed similarly [1], [10], [16], [17]. However, the degradation mechanisms in WG-TFTs are challenging to pinpoint and model due to the complexity of the double layers. Furthermore, operation in aqueous environments can lead to unwanted electrochemical effects, causing increased doping and oxidation of the semiconductor and rapid degradation of the WG-TFT. These effects can be largely mitigated by operating the device within the proper voltage window and by using a hydrophobic semiconductor [17], [18].
+Here the difference between an increase in trap density and trap filling needs to be noted. The trap density is described by the trap density-of-states function (trap DOS) and is usually modeled as a gaussian or exponential tail extending into the bandgap [19], [20]. Trap states, i.e. localized states inside the bandgap, are intrinsically present in all organic semiconductors, but the trap density can be further increased by exposure to light, moisture or oxygen, by electrical stress or by a combination of these [11], [12], [13], [15], [21], [22], [23], [24], [25]. Trap states closer to the band edge are considered shallow, with trap states further inside the bandgap being considered deep traps.
+
+Download: Download high-res image (151KB)
+Download: Download full-size image
+Fig. 1. A simple schematic of a WG-TFT with interdigitated source and drain (S-D) electrodes.
+
+Trap states can be either permanent or transient irrespective of their depth, as their lifetime depends not on the depth of the state inside the bandgap but on the formation energy of the defect acting as a trap state [23]. Trap filling occurs in an OFET as the applied gate voltage moves the charge carrier quasi-Fermi level from deep inside the bandgap towards the band edge. Upon removal of the gate voltage, a trapped charge will be released after a period determined by the depth of the trap. During a transfer measurement, the gate voltage sweep rate needs to be slow enough that trap filling and release has time to occur, reaching a quasi-equilibrium [20], [26]. A too fast sweep rate will lead to an increase in hysteresis, as charges being trapped (released) will retract from (add to) the source–drain current during the on (off) sweep. In this work, trapping and de-trapping times are shown to be short, and thus we only concern ourselves with changes in the trap density in the analysis.
+Poly-3-hexylthiophene (P3HT) is a benchmark semiconducting polymer, and its highly hydrophobic nature lends it well to water-gated applications. P3HT WG-TFTs have demonstrated good environmental stability, with only minor surface changes due to water exposure and a long shelf-life when protected from light and oxygen exposure [10]. In the biosensor configuration, the device is operated with a gate covered by a self-assembled monolayer (SAM). Typically, the SAM contains biorecognition elements selective to the biomolecule of interest. When the specific biomolecule reaches the biorecognition element, there will be a change in the gate potential and/or its capacitance, leading to a measurable change in the source–drain voltage and the device figures of merit (FOM) - mainly the threshold voltage [5], [8], [9]. Care needs to be taken during sensing measurements, as similar current changes can also be caused by changes in the semiconductor bulk or surface, by contamination of the water or by any combination of these. To ensure that the measured current change is due to the biorecognition element, intermittent measurements using a bulk gold gate without surface treatment, henceforth called the reference gate, are performed to ensure all other factors remain stable [6], [9].
+In this work, we monitor a P3HT-based WG-TFT over two months and 5750 transfer cycles. Biosensing experiments are performed throughout this time, and the channel stability is continuously probed using reference gate measurements. Assessing the long-term changes in device figures of merit during normal device usage, we show that device degradation is caused mainly by electrical stress and progresses at a constant rate throughout the measurements. The shift in threshold voltage and decrease in mobility throughout the device lifetime is consistent with an increase in trap density, which we also observe using estimations from the subthreshold slope. In addition to a steady increase in trap density, we observe a steep rise in trap density during heavy usage and a partial recovery during rest, indicating the formation of two different trap species.
+2. Material and methods
+2.1. Fabrication of the P3HT WG-TFT
+Devices were manufactured using P3HT acquired from TCI, which at the time had the highest regioregularity commercially available (
+ and 
+). P3HT was dissolved in chlorobenzene under ambient conditions at a concentration of 
+. The solution was sonicated for 20 min before filtering through a 
+ PFTE filter. Patterned substrates were acquired from the Technical Research Centre of Finland. They consist of silicon covered by a layer of thermally grown 
+. A 5 nm thick chromium adhesion layer followed by 50 nm of gold forms interdigitated electrodes on top, illustrated in Fig. 2a along with the measurement setup in Fig. 2b. The channel is 
+ wide and 
+ long, for a 
+ ratio of 16160. Substrates were ultrasonically cleaned in acetone and IPA, 10 min in each, before rinsing with DI-water. 
+ of the semiconductor solution was deposited using spin coating in ambient air, at 2000 rpm for 30 s. Samples were annealed at 90 °C for 60 min in darkness. Resistors were stored in darkness in a vacuum before measurements. In preparation for electrical measurements, 3D printed polymer water wells were fitted to the resistor using PDMS. The well can hold approximately 1 ml and was filled with HPLC-grade water for use as the gate dielectric. It is connected to a larger external reservoir to keep the water level constant during measurements. A rectangular piece of gold was used as the reference gate electrode and held vertically with a clamp.
+The studied WG-TFT was one of several identically prepared devices used for biosensing experiments, with different devices showing similar device performance and degradation behavior but experiencing different measurement settings and protocols depending on the experiments taken place. This particular device was chosen for stability analysis due to mostly identical experiments being conducted throughout the device lifetime, following a well-established gate functionalization- and sensing measurement protocol and thus offering the most consistency in measurement conditions [9].
+
+Download: Download high-res image (295KB)
+Download: Download full-size image
+Fig. 2. (a) Drawing of the interdigitated source and drain electrodes with 
+. (b) Measurement setup inside the probe station showing source and drain contact probe needles, solid gold reference gate and resistor/well assembly. The external reservoir is not shown in the picture.
+
+
+Download: Download high-res image (503KB)
+Download: Download full-size image
+Fig. 3. (a) Evolution of the transfer and gate current over 5750 cycles from two months of biosensing measurements. The lack of hysteresis in the transfer curve as well as the three orders of magnitude between that and the gate current indicate the gate current consists entirely of the double layer charging current. The measurement protocol (b) describes a typical session of sensing measurements. The stabilization and reference measurements are performed with the same solid gold reference gate throughout the device lifetime, while sensing is performed with a single-session use gate with a functionalized gold surface. The maximum drain current measured during each stabilization (low duty, see Eq. (1)) cycle and reference cycle (high duty) is presented in (c) and (d) as a function of cycle index and time, respectively. The insets show the first sensing measurement session after the initial stabilization of the device.
+
+2.2. Electrical measurements
+Measurements were conducted under ambient conditions (20% relative humidity at 23 °C) in the dark. A Keithley 4200 A SCS Parameter Analyzer and a probe station were used for all electrical measurements. A drain voltage (
+) of −0.4 V was applied while sweeping the gate voltage (
+) from 
+0.1 V to −0.4 V and back at a rate of 20 mV 
+.
+3. Results & discussion
+3.1. Long-term stability analysis of a single WG-TFT
+For the studied device, we only consider transfer measurements performed with the reference electrode, as extracted device parameters from measurements with the functionalized electrodes will introduce a multitude of factors making the data unsuitable for stability analysis; for one, the threshold voltage is expected to shift when the functionalized gate is exposed to the analyte of interest. The sensing measurements thus are only considered by their contribution to electrical stress on the device.
+Fig. 3a shows the change in device transfer characteristics over two months and 5750 transfer measurement cycles, with the inset showing the corresponding gate currents. The maximum S-D current decreases from around 45 
+A to 15 
+A during this time. The hysteresis in the transfer curve remains negligible throughout the measurements, and the source–drain current is three orders of magnitude larger than the gate current, both of which indicate a device operating in a proper voltage region without incurring any significant electrochemical degradation [6]. The hysteresis in the gate current is caused by the non-instantaneous response of the double layer and the movement of charges in the electrolyte being different for increasing and decreasing voltage. The lack of hysteresis in the drain current also indicates that trapping and de-trapping times are significantly shorter than the transfer measurement time, meaning the measurements take place in a quasi-equilibrium [20]. The measurement protocol for sensing measurements is depicted in Fig. 3b. More in detail, the device is stabilized using the bulk gold gate and a long delay between measurement cycles until the change in current is below 2% per hour. After initial stabilization has been achieved, a functionalized gate is inserted into the water well next to the reference gate. The reference gate is electrically disconnected and left in the well. Then, 20 transfer cycles are recorded with a delay of 30 s between each measurement using the functionalized gate. The functionalized gate is subsequently removed from the device and incubated in the analyte for 10 min, during which time the electrical connection to the reference gate is restored and five transfer cycles are recorded with a delay of 30 s. This way, the stability of the channel and electrolyte can be continuously probed, ensuring that any significant change observed in device characteristics during sensing measurements is caused purely by changes to the surface of the functionalized gate. This method also enables the analysis of long-term changes in device FOM such as the threshold voltage, hole mobility, and effective trap density, as the same gold gate is used for stabilization and reference measurements throughout the device’s lifetime. Here we introduce a helpful metric to investigate the effect of electrical stress on device degradation. The duty cycle, D, is the fraction of time an electrical bias is applied and is defined as
+(1)
+The measurements can be divided into low and high duty cycle measurements (low 
+ and high 
+). The duration of a single transfer measurement is 46 s. During stabilization, the delay time is 30 min and gives low 
+ 
+%. During sensing and reference measurements, the delay time is 30 s which gives a high duty cycle of 
+ 
+%.
+Fig. 3c shows the evolution of the maximum drain current over 5750 cycles plotted against the cycle index. Note that cycles measured during sensing measurements are also included in the cycle index. The current decreases nearly linearly as a function of cycle index over the device lifetime. When the same measurements are plotted as a function of time (Fig. 3d), the maximum drain current rapidly changes as the duty cycle is changed from the low stress of the stabilization to high stress during measurements. The insets in Fig. 3c and d show the change in maximum drain current over the first 450 cycles of operation following the initial stabilization. Assuming device degradation results from P3HT exposure to water, it would be expected to have a time-dependent trend, but this is not observed in the measurements. Conversely, when the current is plotted as a function of cycle number, the change in duty cycle does not significantly change the shape of the curve, indicating that the change is driven by electrical stress. The same pattern is repeated throughout the whole cycle index range. The source–drain current in the saturation region – in which the device is operated – is given by the following equation,
+(2)
+where W and L are the width and length of the channel. The channel capacitance in similar devices has been measured to be on the order of 3 - 10 
+F 
+ [1], [27], [28]. Using 
+  
+F 
+, we arrive at a mobility of around 
+  
+ for the fresh transistor, in line with earlier reported values [28], [29], [30]. However, the channel capacitance 
+ and the mobility 
+ cannot be decoupled utilizing only transfer measurements and therefore the product 
+ will instead be considered. The threshold voltage, 
+, and 
+ were determined from the 
+ vs 
+ plot for each cycle using a python script and are shown in Fig. 4a and b, respectively. The Python script is described in more detail in Supporting information section S1. The subthreshold slope 
+ can be extracted from a linear fit to log
+ vs 
+ in the subthreshold region and provides information on the effective trap density according to
+(3)
+where 
+ is the effective trap density per unit energy and unit area, 
+ is the Boltzmann constant, 
+ is the temperature, 
+ is the elementary charge [20], [21], [31]. Using literature values for the capacitance, the trap density is on the order of 
+  
+, which is on the higher side of earlier reported values using the method [20], [32]. It is not possible to decouple the effect of any change in the capacitive coupling between the gate, electrolyte, or electrolyte–semiconductor surface from that of an increase in trap density, so we consider 
+ instead. The evolution of 
+ as a function of cycle index is shown in Fig. 4c. The trap DOS can be determined in conventional OFETs utilizing temperature series measurements, but this is not feasible with a WG-TFT. The effective trap density used here assumes a constant trap DOS and can be considered a rough but useful estimate [20]. The behavior in both the subthreshold and saturation regions of a water-gated device may be affected by device parameters such as gate electrode material and gate electrode size, but as these are kept constant throughout the measurements and we only consider changes in parameters rather than their absolute values, the above methods remain valid.
+The trap density is represented by 
+ in Fig. 4c and is indeed observed to increase. The increase during high 
+ is linear with cycle index and very consistent throughout the device lifetime. This indicates gate biasing as a driver of the increasing trap density, as opposed to source–drain current; the S-D current decreases significantly towards later cycles, but the rate of increasing trap density remains the same.
+
+Download: Download high-res image (454KB)
+Download: Download full-size image
+Fig. 4. (a) Threshold voltage 
+ as a function of cycle index, showing a nearly linear shift over the long term. The effect of gate exposure to air manifests as faster shifting during some low 
+ measurements. (b) 
+ as a function of cycle index shows a nearly linear shift but no difference between low and high 
+ measurements. (c) 
+ as a function of cycle index. The stars indicate measurements conducted after the device has been resting for at least two days. The inset highlights an example of net increase in trap states during high 
+ and a net decrease during the following low 
+ measurements.
+
+During low 
+, a net decrease in trap density is observed when high 
+ measurements have been performed beforehand. However, when measurements are initiated after a rest period, marked with * in Fig. 4c, the trap density increases similarly to that during high 
+ measurements. This can be explained as generation of two different trap species during operation. Shorter-lived trap states will disappear during rest periods while longer-lived ones will remain, leading to the long-term increase in trap density observed in Fig. 4c as well as the partial recovery observed during low 
+ and rest. Generation of such metastable traps in OFETs has previously been reported by Iqbal, et al. and attributed to the formation of radical complexes involving water [23]. By fitting an exponential decay to the instances of net de-trapping under low 
+, the lifetime of the shorter-lived trap species was estimated to be 437 
+ 225 min and shows no trend with respect to device usage or time (see section S2 in the Supporting information).
+As we found a decrease in trap density during low 
+ measurements, and an increase during high 
+ measurements, there would be some delay time at which the change in trap density would be minimal. By fitting the data displayed in the inset of Fig. 4c with linear fits, assuming a bias-induced increase and time-dependent decrease in trap density, the ideal delay time for low 
+ measurements was found to be around 5 min. Using this delay time, the trap density should remain stable during low 
+ measurements, shortening the stabilization time needed when switching to high 
+ measurements. This could improve device stability during long measurements and improve consistency between measurement days. However, the ideal delay time may vary between devices and geometries. The increase in trap density can also be approximated utilizing the shift in threshold voltage [21], [33]:
+(4)
+Fig. 5 shows a comparison of the increase in 
+ calculated using the 
+ and 
+ methods in semi-log and linear scale (inset). For clarity, only high 
+ data is shown. The trap density calculated using the 
+ method increases faster throughout the device’s lifetime. As the quasi-Fermi level is located further from the band edges in the subthreshold region, the 
+ method probes deeper trap states than the 
+ method [15], [21]. The more significant increase observed with the 
+ method could then be understood as deeper traps dominating trap state generation, in agreement with earlier studies [23], [34]. However, the double layer capacitance at the semiconductor surface will increase with applied gate voltage, limiting the usefulness of the comparison as the values are calculated at different gate voltages [9].
+Water molecules have been reported to cause difficult to reverse trap formation in polymer OFETs [14], [25]. The same mechanism has earlier been proposed to cause irreversible trapping in a water-gated P3HT transistor [10]. The formation of bias-induced metastable oxygen traps has been documented, with a lifetime on the order of hours [23]. This is consistent with what we observe for the shorter-lived trap species, as well as with the observation that the trap lifetime does not correlate with device usage or age. Thus, we propose the longer-lived trap species observed in this study to be caused by penetration of water into the semiconductor during device operation, and the shorter-lived species to consist of bias-induced oxygen traps.
+
+Download: Download high-res image (301KB)
+Download: Download full-size image
+Fig. 5. Change in 
+ calculated using the 
+ and 
+ methods. The inset shows the plot on a linear scale. Only data from high duty cycle measurements are shown for clarity.
+
+3.2. Short-term shift in the threshold voltage upon exposing the gate to air
+A brief investigation of gate exposure to air was conducted on an identically prepared WG-TFT. The device underwent initial stabilization by cycling with a delay of 30 min over two days before the measurement was started. Transfer measurements were conducted before and after resting the device for 15 min with the gate either submerged in the well or removed and kept in air. The shift in threshold voltage as a function of time is shown in Fig. 6. After resting the device with the gate submerged in water, a negligible shift in threshold voltage can be observed, with the device remaining stable afterward. However, after the gate was exposed to air, a larger shift in threshold voltage can be observed, with a subsequent return towards the initial level. This behavior is like that observed in the previously used device when resuming measurements after storage. Similar behavior has been reported when initiating measurements on a fresh device [10]. During storage, the gate is kept submerged in water to suppress this effect, however during reassembly of the device the gate is dried and thus exposed to air before reinsertion into the WG-TFT well. The exact mechanism of the gate potential shift upon exposure to air warrants more research but can likely be attributed to adsorption or (partial) oxidation giving rise to a shift in work function [35].
+
+Download: Download high-res image (142KB)
+Download: Download full-size image
+Fig. 6. Gate voltage shift observed after letting the device rest 15 min with the gate electrode either submerged in the well or exposed to air. After exposing the gate to air, the device exhibits a significant threshold voltage shift before returning to the preceding level.
+
+4. Conclusions
+The long-term stability of a P3HT WG-TFT was analyzed over two months, during which the device was in intermittent usage, following a protocol for biosensing measurements. It was shown that the change in device figures of merit was caused by electrical stress, with time spent submerged in water having a negligible effect on the device. We show that hysteresis and gate leakage remained low throughout the measurements, with degradation manifesting as a decrease in overall current. The decrease in current was attributed to a linear shift in the threshold voltage and a linear decrease in mobility with cycle number, both of which are consistent with an increase in trap density in the semiconductor. The trap density was approximated using the subthreshold slope, showing that a net increase occurred during periods of high duty cycle measurements, with a decrease occurring during low duty cycle measurements and rest. Generated trap states consisted of a near-permanent species and a species with a lifetime of several hours. This is consistent with stable water-induced traps in the semiconductor being created alongside transient oxygen traps. The long usable lifetime utilizing a simple geometry and commercially available semiconductor further support WG-TFTs in biosensing applications. Our investigations provide new insights into the degradation mechanisms dominating the device’s short- and long-term behavior. However, more specialized long-term measurements in conjugation with robust modeling are still needed to decouple the effects of the different device parts and fully understand the stability issues.
+Declaration of Competing Interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgments
+Financial support from the Academy of Finland through projects #316881, #316883, and #270010; H2020 – Electronic Smart Systems – SiMBiT: Single-molecule bio-electronic smart system array for clinical testing (Grant agreement ID: 824946), ERC Stg2021 : NoOne-A binary sensor with a single-molecule digit to discriminate biofluids enclosing zero or at least one biomarker (GA:101040383), Å bo Akademi University CoE “Bioelectronic activation of cell functions” and Å bo Akademi Doctoral Network in Materials Research are acknowledged.
+Appendix A. Supplementary data
+The following is the Supplementary material related to this article.
+Download: Download Word document (290KB)
+MMC S1. Supplementary material detailing a python script for fitting transfer curves, as well as calculations of trap lifetimes.
+Supporting Information 
+
+Long-term electrical characteristics of a poly-3-hexylthiophene water-gated
+thin-film transistor
+
+Axel Luukkonen, Amit Tewari, Kim Björkström, Amir Mohammad Ghafari, Eleonora Macchia, Fabrizio Torricelli, Luisa Torsi, Ronald Österbacka* 
+
+
+S1. Extracting figures of merit using a Python script
+The many transfer cycles used in the analysis made manual curve fitting impractical, so a script was written in Python to extract the figures of merit from the raw data automatically. Due to the threshold voltage shifting during the device's lifetime, the linear parts of |√(I_D )| (used for extracting threshold voltage and mobility) and log|I_D | (used for extracting effective trap density) will also shift with respect to the applied gate voltage. Thus, the script needs to correctly identify the linear part of both curves to apply the linear fit. The curves were converted to 5th-order smoothed spline functions with the SciPy function scipy.interpolate.UnivariateSpline to avoid multiple zeroes appearing at the curve's linear part and speed up derivative calculations. As the zero of the second derivative will correspond to the linear part of a function, the second derivative is calculated to identify the linear part of the curves. The linear fit is then done in a range of 50mV. 
+ 
+Figure S1. Examples of the fit to the linear part of the square root (a) and logarithm (b) of the transfer curve, along with the smoothed second derivatives used for identifying the linear part.
+S2. Estimating the lifetime of the shorter-lived traps
+As the decrease in trap density occurs also when the device is resting, we assume the decrease to be time-dependent. Figure S2 shows all instances of detrapping during low D. Most cases exhibit exponential decay with very similar shapes, except a couple of nearly linear cases and the first one displaying a considerably faster decrease. These larger differences in the curves may be caused by discrepancies in timing between ending one measurement session and starting the next, as this is not carefully controlled in the sensing measurement protocol. Fitting all curves with a function of the form 
+N_eff=N_0+Ae^(-t/τ)
+gives us the trap lifetime τ. The output from the fitting is shown in Table S1. The outliers, n=6, and n=12, exhibit the greatest errors in the fit, as would be expected as these are very nearly linear, as seen in Figure S2. Due to the errors in the fit, combined with the poor control of timing during the measurements, we decided not to include them in calculating the average trap lifetime, which was e 437 ± 225 minutes. Figure S3 shows the short-lived trap species lifetime as a function of the cycle index. We can conclude that τ does not vary as a function of the cycle index but exhibits a more random behavior. 
+ 
+Figure S2. All instances of decreasing trap density during low D measurements. Most instances show very similar behavior. 
+	
+ 
+Figure S3. Shorter-lived trap lifetime as a function of cycle index. 
+

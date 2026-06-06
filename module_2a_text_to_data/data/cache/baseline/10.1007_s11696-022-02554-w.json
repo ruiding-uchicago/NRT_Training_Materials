@@ -1,0 +1,45 @@
+{
+  "stem": "10.1007_s11696-022-02554-w",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Na+",
+      "lower_detection_limit": "10^-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "ZrO2-NPs/MacroPSi",
+      "test_operating_temperature (celcius)": 25,
+      "pH_value": 5.2,
+      "test_medium": "deionized water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "K+",
+      "lower_detection_limit": "10^-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "ZrO2-NPs/MacroPSi",
+      "test_operating_temperature (celcius)": 25,
+      "pH_value": 6.5,
+      "test_medium": "deionized water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+",
+      "lower_detection_limit": "10^-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "ZrO2-NPs/MacroPSi",
+      "test_operating_temperature (celcius)": 25,
+      "pH_value": 6.9,
+      "test_medium": "deionized water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Mg2+",
+      "lower_detection_limit": "10^-4 M",
+      "upper_detection_limit": "1 M",
+      "probe_material": "ZrO2-NPs/MacroPSi",
+      "test_operating_temperature (celcius)": 25,
+      "pH_value": 6.1,
+      "test_medium": "deionized water"
+    }
+  ]
+}

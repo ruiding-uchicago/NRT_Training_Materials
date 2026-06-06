@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.bios.2021.113683",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-9 M",
+      "upper_detection_limit": "1e-4 M",
+      "probe_material": "aluminum oxide (Al2O3)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "4-9",
+      "test_medium": "water"
+    }
+  ]
+}

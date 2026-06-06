@@ -1,0 +1,288 @@
+Gas Dielectric Transistor of CuPc Single Crystalline Nanowire for SO2 Detection Down to Sub-ppm Levels at Room Temperature
+Talgar Shaymurat, Qingxin Tang, Yanhong Tong, Lin Dong, Yichun Liu
+First published: 27 January 2013 https://doi.org/10.1002/adma.201204509Citations: 168
+Find It at UChicago
+SectionsPDFTools Share
+Graphical Abstract
+A room-temperature highly-sensitive SO2 sensor with fast response and complete recovery is constructed based on gas dielectric field-effect transistor (FET) of CuPc single crystalline nanowire. The exposed conductive channel by gas dielectric is responsible for the high sensitivity to SO2 and the adsorption of the SO2 molecules dramatically enhances the field-effect mobility. These results not only open up new opportunities to develop new SO2 sensors, but also provide an efficient way to improve the performance of organic FETs.
+
+Description unavailable
+Sulfur dioxide (SO2) is one of the most dangerous air pollutants that impair environment and human health. SO2 in air is released during the burning of fossil fuels and plays one major role in the formation of acid rain. The repeated exposure to low levels of SO2 can cause permanent pulmonary impairment for humans.1 The long and short-term exposure limits for SO2 gas are 2 and 5 ppm, respectively,1, 2 and the U. S. Environmental Control Agency has set the acceptable limit for SO2 in ambient air at a level of 0.5 ppm.3 It is of great importance to measure low concentration of SO2 in air accurately and fast for human health protection and air-quality monitoring.
+
+Semiconductor resistor sensors are, for more than 30 years, one of the most common used gas sensors to detect toxic and flammable gases such as NO2, H2S, CO, NH3, and H2 because of their distinguished merits such as low cost, long lasting, high sensitivity, and good reliability, etc.4 Organic field-effect transistor (OFET) is another alternative semiconductor sensing technology with advantages over resistors, and has attracted much attention only recently.5 The sensitivity can be dramatically enhanced by changing the source-drain current (ISD) of OFET when operating the sensors in the sub-threshold regime, as a result of the current modulation by the extra gate electrode.6 Another advantage of OFET sensors is that the sensing response can be enhanced by integrating them in oscillator and adaptive amplifier circuits.7 These advantages combined with low cost and light weight of organic semiconductors ensure that OFET sensors have attracted much attention for the detection of a wide range of gases.8
+
+However, only few efforts have been made to develop the semiconductor SO2 sensors and almost all of them are resistor-type (a detailed performance list for the reported semiconductor SO2 sensors is shown in Supporting Information Table S1). The semiconductor materials are mainly focused on metal oxide, such as SnO2, WO3 and TiO2. Most reported semiconductor SO2 sensors require an operating temperature of 200–600 °C, demonstrate a sensitivity lower than 50%, face challenges in low concentration detection, or suffer from a slow response and recovery time of over 10 min.
+
+In this communication, an OFET based on gas dielectric and CuPc single crystalline nanowire as a novel SO2 sensor with complete recovery and room-temperature detection is reported. To the best of our knowledge, this is the first demonstration of SO2 gas sensing based on OFETs. The sensitivity is characterized by the enhanced field-effect mobility and is as high as 764% in 20 ppm SO2. The detect limitation is down to sub-ppm levels (0.5 ppm) with high sensitivity (119%) and high resolution (100 ppb). The exposed conductive channel is shown to be responsible for the sensitivity to SO2.
+
+Figure 1a shows a schematic image of the gas dielectric field-effect transistor (FET) sensor based on CuPc nanowire and the adsorption of SO2 molecules on CuPc nanowire surface in ambient N2 environment (not to scale). Figure 1b is the SEM image of the device. The device is fabricated by the “gold film stamping” method (Figure S1), and has the stable field-effect characteristics (Figure S2). Figure 1c shows five cycles of the real-time ISD responding to the dynamic switches in pure dry N2 and the different SO2 concentration (0.5–20 ppm) at room temperature (test details are available in Supporting Information Figure S3). ISD changes fast and reversibly when the atmosphere is changed, and fully restores its original value after SO2 is removed. No heating is required in the whole test process. The limit of detection (LOD) is down to 0.5 ppm, which is in a class with the highest detection limit for the semiconductor SO2 sensors reported so far (Table 1). The response and recovery times of the device in 0.5 ppm SO2 are only 3 and 8 min, respectively. Considering that the switch time of the SO2 concentration is over 0.5 min in our equipment, the real response and recovery times are expected to be shorter than the measured results. Figure 1d shows the sensitivity (S) of the gas dielectric FET as a function of SO2 concentration at room temperature. The sensitivity is calculated by S = (ISO2-IN2)/IN2 × 100%, where IN2 and ISO2 are the current in pure N2 and SO2 containing atmosphere, respectively. With the increase of the SO2 concentration, the sensitivity first increases linearly, and then trends to saturation. The sensitivity of the device in 0.5 ppm SO2 is as high as 119%. Considering that 0.5 ppm is the control limit of our equipment, it can be predicted that the real LOD is much lower than 0.5 ppm. Combined with the linear sensitivity dependence on the concentration, the nominal range of the device is expected to be 0–5 ppm. The sensitivity change in the linear region from 0.5 to 5 ppm is 20% per 100 ppb SO2, corresponding to a concentration resolution of 100 ppb. Therefore, our device is applicabie for the detection of SO2 gas at very low concentration. At the same time, the notable merits such as quantitative detection, direct electrical readout, and simplified correction process and auxiliary circuits are expected for our OFET because of its linear sensitivity in low concentration range. It is worth noting that many sensing parameters of our devices present excellent values, such as sensitivity, LOD, response time, recovery time, resolution, and operating temperature.1, 9 Some of them are comparable to the commercialized solid electrolyte sensors.
+
+Details are in the caption following the image
+Figure 1
+Open in figure viewer
+PowerPoint
+a, b) The schematic and SEM images of gas dielectric FETs based on CuPc Nanowire. The channel length L = 3.3 μm, the width W = 210 nm (width of the nanowire), and the thickness of the dielectric d = 200 nm. c) Real-time ISD change of device to various SO2 concentration (0.5, 2, 5, 10 and 20 ppm) at VG = −10 V and VSD = −15 V at room temperature. The blue line corresponds to SO2 concentration (right y-axis). d) Sensitivity of device as a function of SO2 concentration at VG = −10 V and VSD = −15 V at room temperature. The red line is the linear fitting result in low concentration SO2.
+
+For FETs, there are a few fundamental parameters to evaluate their performance, including mobility (μ), threshold voltage (VT), on-state current (Ion), off-state current (Ioff), sub-threshold slope (SS), etc, which reflect the transport processes of carriers in FET and depend on the properties of semiconductor, dielectric, electrode, device configuration, and fabrication technique. These parameters can be used to study the response mechanism of FET sensor.10 Figure 2a is the transfer curves of the gas dielectric FET in different SO2 concentration. The multiple parameters of the FET can be extracted from Figure 2a, and their percentage changes are presented in Figure 2b as a function of SO2 concentration by P = (PSO2-PN2)/PN2 × 100%. It is found that VT and Ioff show the weak change lower than 5% and SS decreases 22% in 20 ppm SO2 (Figure 2c). However, both Ion and the mobility present dramatically change with the increase of over 750% in 20 ppm SO2. The enhanced mobility in our device could open up opportunities to improve the performance of OFETs by the controlled gas ambience.
+
+Details are in the caption following the image
+Figure 2
+Open in figure viewer
+PowerPoint
+a) Transfer characteristics of gas dielectric FET based on CuPc nanowire to various SO2 concentration (0, 0.5, 2, 5, 10 and 20 ppm) at room temperature. b,c) Parameters percentage variation at different SO2 concentration extrapolated from ISD-VG curves (in Figure 2a). d) Mobility and trap density in semiconductor/dielectric interface of device as a function of SO2 concentration.
+
+The synchronous change of Ion and mobility as shown in Figure 2b suggests that the mobility determines the response of our device to SO2, in contrast to most reported FET sensors in which the shift of the threshold voltage is used to characterize the gas sensing.6, 11 To study the response mechanism of our sensors, it is important to understand the decisive factors of the field-effect mobility. Based on the widely accepted theory of the carriers transport in organic semiconductor, the effective field-effect mobility is related to shallow traps at the semiconductor/dielectric interface, and can be well described by the standard multiple trap and release (MTR) model with the following equation:12
+equation image
+((1))
+where μ0 is the intrinsic trap-free mobility, τtr is the average carrier retention time in shallow traps, and τdiff is the average time of carrier diffusion between shallow traps, In the devices with the low density of shallow traps, τdiff > τtr, and μ ∼ μ0. However, in the trap-dominated devices, τdiff < τtr, and μ ∼ μ0 (τdiff/τtr) < μ0. In our experiment, the mobility of the CuPc device is ∼0.005 cm2 V−1 s−1, which is not only lower than that of our previously reported result (0.75 cm2 V−1 s−1),13 but also far lower than the reported highest mobility by Kloc's group (1 cm2 V−1 s−1).14 Therefore, high-density shallow traps are located at the semiconductor/dielectric interface in our sensor.
+The density of trap states N can be characterized by the sub-threshold slope SS with the equation:15
+equation image
+((2))
+where k is Boltzmann's constant, T is temperature, q is electronic charge 1.6 × 10−19 C and C is the dielectric capacitance. According to the transfer curves in Figure 2a, the SS is extracted from the slope of the log(ISD) versus VG curve in the sub-threshold region with VG from the switch-on voltage to the threshold voltage.15 The calculated SS of the gas dielectric CuPc nanowire FETs in N2 is 2.78 V/decade, from which an shallow trap density of 1.3 × 1012 cm−2 V−1 can be obtained using Equation (2). It is comparable with the CuPc thin film FETs on the order of 2 × 1012 cm−2 V−1,15 and is one order higher than that of our gas dielectric CuPc nanowire devices with the mobility over 0.5 cm2 V−1 s−1. It further confirms the presence of the high shallow trap density in the conductive channel, i.e., the CuPc nanowire/gas dielectric interface, for our sensor.
+Based on the transfer curves in Figure 2a, the mobility and the density of the shallow trap at the semiconductor/dielectric interface in the different SO2 concentration are extracted and shown in Figure 2d. The notably improved mobility can be observed by introducing SO2 gas into the N2 ambient. Both the mobility and the shallow trap density show the steep change in the low SO2 concentration and then trend to saturation in the high SO2 concentration. The similar rule of the shallow trap density as for the mobility on the SO2 concentration suggests that the compensation of the SO2 molecules into the shallow traps is the possible reason for the notably changed mobility. Since SO2 is a polar molecule with the positive charge on S atom side, its positive side probably interacts with the conductive channel, resulting in the decrease of the shallow trap density.
+
+The proposed response mechanism can be further confirmed by comparing the response properties of the solid and gas dielectric CuPc nanowire FETs. The CuPc nanowire FETs packaged with PMMA dielectric were fabricated and measured in the same condition (device fabrication is shown in Supporting Information Figure S4). Figure 3a schematically shows a PMMA dielectric FET gas sensor based on CuPc nanowire and the adsorption of SO2 molecules on CuPc nanowire surface in N2 (not to scale). Compared with the gas dielectric FETs, the conductive channel of the PMMA dielectric device is protected by the solid dielectric film, and the gas molecules mainly adsorb to the upper and the two side surfaces of CuPc nanowire. However, for the gas dielectric devices, all the surfaces of CuPc nanowire, in particular, the surface as the conductive channel in the semiconductor/dielectric interface, are exposed to the detected gas (Figure 1a). Therefore, it is an ideal method to investigate the response of the conductive channel of FETs to the atmosphere environment by comparing the gas and solid dielectric FETs.
+
+Details are in the caption following the image
+Figure 3
+Open in figure viewer
+PowerPoint
+a) Schematic images of PMMA dielectric FETs gas sensor based on CuPc Nanowire.) b) Transfer characteristics of PMMA dielectric FET based on CuPc nanowire to various SO2 concentration (0, 2, 5, 10 and 30 ppm) at room temperature. c) Parameters percentage variation of the FET at different SO2 concentration extracted from the ISD-VG curves (in Figure 3b). d) Comparison of the gas sensitivity of gas dielectric (blue) and PMMA dielectric (red) devices in different SO2 concentration (0.5, 2, 5, and 10 ppm).
+
+Figure 3b shows the transfer curves of the solid dielectric FETs in different SO2 concentration. According to Figure 3b, the μ, VT, Ion, Ioff, SS in different SO2 concentration are calculated, and the percentage changes of these parameters are obtained and shown in Figure 3c. Figure 3b presents the overlapped transfer curves in the SO2 concentration lower than 5 ppm, suggesting no obvious response in low level of SO2 for the solid dielectric FET. When the concentration is higher than 5 ppm, the solid dielectric FET exhibits weak response. The LOD decreases by over one order of magnitude (from 10 to 0.5 ppm) when the device configuration is changed from solid to gas dielectric. Based on the Ion, the sensitivity at VG = −10 V is only about 40% in 30 ppm SO2 (Figure 3c). In comparison, the gas dielectric FET shows the sensitivity of about 800% in the same SO2 concentration (Figure 2b). The histogram in Figure 3d clearly presents the dramatically improved sensitivity in different SO2 concentration when the dielectric is changed from solid to gas state.
+
+The compared results of the gas dielectric FETs with the solid dielectric counterparts indicate that the exposed channel is responsible for the dramatically improved sensing properties, which is in good agreement with the theoretical calculation in Figure 2d. For the resistor sensors, the current passes through the whole semiconductor section which acts as the conductive channel. However, the conductive channel of the FETs is located in a few molecular layers at the interface between the semiconductor and the dielectric.16 It is possible that the gas adsorption in the conductive channel of FETs has the far larger influence than on the upper and side surface of the semiconductor layer. However, the conductive channel of the traditional solid dielectric FETs is capped by the semiconductor layer and the solid dielectric. In contrast, the gas dielectric makes the conductive channel exposed to the detected gas (as shown in Figure 1a), which facilitates the direct interaction between the gas molecules and the conductive channel resulting in the improvement of the sensing performance. Such a response mechanism endows the gas dielectric CuPc single crystalline nanowire FET with good sensitivity to other gases also, for example, NO2. The selectivity, which is still challenging for semiconductor sensors, should be achieved for practical applications. Our preliminary results show the different OFET parameter change for SO2 and NO2, which provides a potential strategy to overcome the problem in poor selectivity for semiconductor sensors.10 The sensing behavior of other gases will be investigated as well, and further systematic work is in progress.
+
+In conclusion, the room-temperature gas dielectric CuPc nanowire FET SO2 sensors with high sensitivity, low detection limit, fast response and complete recovery have been fabricated. The detect limitation is down to sub ppm levels (0.5 ppm) with the sensitivity of 119% and high resolution of 100 ppb. The sensitivity is as high as 764% in 20 ppm SO2. The device shows a linear response in the range of 0.5–5 ppm. The response and recovery time in 0.5 ppm SO2 are only 3 and 8 min, respectively. The multiple parameter measurement indicates that the mobility change determines the response of the sensors. The high performance of the sensor originates from the exposed conductive channel by using a gas dielectric. It allows for the direct absorption of the gas molecules in the conductive channel, and decreases the shallow trap density. The excellent SO2 sensing performance, which stems from the notably enhanced mobility, provides a promising route both to developing highly sensitive room-temperature semiconductor SO2 sensors and improving the performance of the OFETs.
+
+Experimental Section
+Single crystalline nanowires of CuPc were synthesized by physical vapor transport method as previously described.13 The PMMA in anisole was spin-coated onto the surface of the substrate with patterned Au/Ti electrodes as the dielectric. Electron Beam Lithography was used to remove part of the PMMA and to create a gap with width of 3–10 micrometers. The individual single-crystal nanowire and the Au films were successively transferred by the mechanical manipulation with the microprobes of a Cascade 150M probe station with an optical microscope under ambient condition. The field-effect and the gas response properties of the devices were recorded with a Keithley 4200 SCS in a homemaded stainless steel chamber at room temperature. Pure dry N2 and SO2 controled by gas flowmeters are introduced to the chamber through stainless tube. SEM images were obtained on a Philip XL30 instrument.
+Copyright WILEY-VCH Verlag GmbH & Co. KGaA, 69469 Weinheim, Germany, 2013.
+Supporting Information
+for Adv. Mater., DOI: 10.1002/adma.201204509
+Gas Dielectric Transistor of CuPc Single Crystalline Nanowire
+for SO2 Detection Down to Sub-ppm Levels at Room
+Temperature
+Talgar Shaymurat, Qingxin Tang,* Yanhong Tong, Lin Dong,
+and Yichun Liu*
+Submitted to
+1
+Supporting Information
+Gas Dielectric Transistor of CuPc Single Crystalline Nanowire for SO2 Detection down
+to sub ppm Levels at Room Temperature
+Talgar Shaymurat, Qingxin Tang*,Yanhong Tong, Lin Dong, and Yichun Liu*
+1. Performance list for the reported semiconductor SO2 sensors: Table S1
+[a] LOD: The limit of detection
+Material
+Operating
+temperature
+[
+oC]
+Sensitivity (%)
+to gas
+[ppm]
+LOD[a]
+[ppm]
+Response time to
+gas
+[ppm]
+Recovery time to
+gas
+[ppm]
+Ref.
+SnO2
+:Ni RT 77 (2) 2 ~3.3 min (18 ) >15min (18) [1]
+SnO2
+:Pd, Al,Pt 150 120 (100) - - - [2]
+SnO2 300 240 (20) 20 ~1 min (20) - [3]
+SnOx 268 1480 (10) - - - [4]
+SnO2
+:V 350 50 (5) 5 - - [5]
+SnO2 350 26 (27) - ~2.7 min (27) ~5.4 min (27) [6]
+SnO2 nanowires 400 8 (27) - ~1.1 min (27) ~5.7 min (27) [6]
+SnO2
+: Mg,V 400 44 (1)
+20 (0.1) 0.1 -
+>10 min (1) [7]
+WO3
+:Bi 180 59 (10) 10 - - [8]
+WO3 :Pt 200 ~580 (1) - >12.5 min (1) - [9]
+WO3
+:Ag 450 ~80 (200） 200 ~10 min (800) >70 min (800) [10]
+TiO2 nanotubes 200 76 (50) 10 ~5 min (50) > 15 min (10) [11]
+TiO2
+: V 375 10 (10) 10 - - [12]
+CeO2 550 ~90 (500) - ~5 min (500) ~5 min (500) [13]
+V2O5
+/WO3
+/TiO2
+:Au 400 10 (10) 20 ~5 min (10) 20 min (10) [14]
+CNT:PEI/platinum
+complex
+RT 4 (2500) 500 ~16 min (2500) 25 min (18000) [15]
+polythiophene nanofiber RT+UV 1 (25) 25 ~5 min (25) - [16]
+Submitted to
+2
+2. Fabrication process of gas dielectric device
+Single-crystalline CuPc nanowires were grown by the physical vapor transport technique
+as previously described.[17] Device fabrication process is shown in Figure S1. (i) Patterned
+Au/Ti electrodes were deposited on insulated glass or Si/SiO2 substrate by ultraviolet
+lithography, as shown in Figure S1a. (ii) A polymer insulated layer of poly (methyl
+methacrylate) (PMMA) was spin-coated onto the substrate (Figure S1b). The thickness of the
+film is 270-300 nm. (iii) Electron Beam Lithography was used to remove part of the PMMA
+and to create a gap with width of 3-10 micrometers (Figures S1c-d). (iv) The individual CuPc
+single-crystalline nanowire was transferred and bridged on the gap (Figures S1e-f). (v) The
+Au thin films were glued onto both the CuPc single crystal and Au/Ti electrodes by the van
+der Waals force with the help of the mechanical probes (Figure S1f),[18] which were used as
+source and drain electrodes. The Au/Ti electrode under the CuPc nanowire was used as gate
+electrode. The performance and the stability of device were measured using Keithley 4200-
+SCS semiconductor characterization system. Devices with good stability were selected and
+their Au/Ti electrodes were connected with chip carrier by welding wire machine (Figure
+S1g).
+PMMA
+Substrate
+Au/Ti
+Substrate
+Substrate
+E-beam
+Substrate
+Substrate
+Substrate
+Substrate
+CuPc
+Au Film
+Leading Wire
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+S G D
+Figure. S1 The schematic of device fabrication process.
+Submitted to
+3
+3. The typical output and transfer characteristics of the gas dielectric devices based on
+CuPc naonwire
+Typical output and transfer characteristics of the FETs based on CuPc nanowires with
+gas dielectric are shown in Figure S2a and b. The curves were measured using a Keithley
+4200SCS System in a stainless steel chamber in air or N2 at room temperature. The linear
+current-voltage characteristic at low source-drain bias (Figure S2a) shows the low Schottky
+barrier to hole injection and good contact of the CuPc nanowire to the Au electrodes.[19] These
+devices are very stable. The multiple measurement of the same device in air and N2 is highly
+repeatable. As shown in Figure S2c, the 5 transfer curves in air and 1 curve in N2 are almost
+overlapped to each other.
+0 -2 -4 -6 -8 -10
+0
+-100
+-200
+-300
+-400
+-20 -15 -10 -5 0 5
+0
+1
+2
+3
+10-14 10-13 10-12 10-11 10-10 10-9 10-8
+ISD (pA)
+VS D (V)
+-10 V
+-8 V
+-6 V
+0--4 V
+VG (V) VG (V)
+(-ISD (nA))1/2
+-ISD (A)
+-ISD (A)
+(a) (b) (c)
+5 0 -5 -10 -15
+10-15 10-14 10-13 10-12 10-11 10-10 10-9 1
+2
+3
+4
+5
+ N2
+Figure. S2 (a), Output characteristics of a gas dielectric OFET based on CuPc nanowire. (b),
+Transfer characteristics of the device measured at a fixed source–drain voltage VSD = -15 V
+(right axis), with solid circles representing the square root of the source–drain current (ISD) as
+a function of the gate voltage (VG, left axis). (c) The multi-measured transfer curves of the
+devices with gas dielectric in air and N2.
+4. Testing process of the device to SO2 response
+Figure S3 shows a schematic diagram of the gas detecting experimental system. The chip
+with gas dielectric OFET was put in the stainless testing chamber and the leading wires were
+connected with the Keithley 4200-SCS semiconductor characterization system outside the
+chamber. The characteristics of device can be tested by the Keithley 4200-SCS. The chamber
+is connected with stainless tube where the gas is input. Before the test, pure dry N2 was
+introduced to the chamber through the stainless tube for one and a half hours to move the
+impurity gases and purge the test chamber. The electrical characteristics of CuPc FET were
+first measured in the N2 background gas for about half an hour to confirm the stability of
+devices. Then, SO2 of 50 ppm in N2 was introduced to the chamber through another tube and
+diluted by N2. The concentration of SO2 in the chamber was controlled by the ratio of the flow
+Submitted to
+4
+rate of SO2 to that of N2. The total gas flow rate is controlled to 500 sccm. The data of FET
+characteristics were collected at real time.
+Figure. S3 Schematic image of the experimental system for gas response.
+5. Fabrication process of PMMA dielectric device
+Fabrication process of PMMA dielectric device is similar to gas dielectric device. The
+difference is that the CuPc nanowire was put on PMMA directly, not on the gap.
+PMMA
+Substrate
+Au/Ti
+Substrate
+Substrate
+E-beam
+Substrate
+Substrate
+Substrate
+Substrate
+CuPc
+Au Film
+Leading Wire
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+S G D
+Figure. S4 Schematic image of device fabrication process.
+Submitted to
+5
+REFERENCES
+[1] P. Hidalgo, P. H, R. Castro, A. C. V. Coilho, D. Gouvêa, Chem. Mater. 2005, 17, 4149.
+[2] J. Getino,; J. Gutiérrez, L. Arés, Robla, Horrillo, I. Sayago, J. A. Agapito, Sens. Actuators
+B 1996, 33, 128.
+[3] C. Liewhiran, N. Tamaekong, A. Wisitsoraat, S. Phanichphant, Sens. Actuators B 2012,
+163, 51.
+[4] J. Lančok, A. Santoni, M. Penza, S. Loreti, I. Menicucci, C. Minarini, M. Jelinek, Surf.
+Coat. Tech. 2005, 200, 1057.
+[5] S. Das, S. Chakraborty, O. Parkash, D. Kumar, S. Bandyopadhyay, S. K. Samudrala, A.
+Sen, H. S. Maiti, Talanta 2008, 75, 385.
+[6] E. Brunet, T. Maier, G. C. Mutinati, S. Steinhauer, A. Köck, C. Gspan, W. Grogger, Sens.
+Actuators B 2012, 165, 110.
+[7] S. C. Lee, B. W. Hwang, S. J. Lee, H. Y. Choi, S. Y. Kim, S. Y. Jung, D. Ragupathy, D.
+D. Lee, J. C. Kim, Sens. Actuators B 2011, 160, 1328.
+[8] M. Penza, G. Cassano, F. Tortorella, Sens. Actuators B 2001 81, 115.
+[9] M. Stankova, X. Vilanova, J. Calderer, E. Llobet, P. Ivanov, I. Gràcia, C. Cané, X.
+Correig, Sens. Actuators B 2004, 102, 219.
+[10]Y. Shimizu, N. Matsunaga, T. Hyodo, M. Egashira, Sens. Actuators B 2001, 77, 35.
+[11]X. X. Zhang, J. B. Zhang, Y. C. Jia, P. Xiao, J. Tang, Sensors 2012, 12, 3302.
+[12]D. Morris, R. G. Egdell, J. Mater. Chem. 2001,11,3207.
+[13]E. B. Varhegyi, J. Gerblinger, F. Reti, I. V. Perczel, H. Meixner, Sens. Actuators B 1995,
+24, 631.
+[14]N. Izu, G. Hagen, D. Schönauer, U. Röder-Roith, R. Moos, Sensors 2011, 11, 2982.
+[15]C. C. Cid, G. Jimenez-Cadena, J. Riu, A. Maroto, F. X. Rius, G. D. Batema, G. V. Koten,
+Sens. Actuators B 2009, 141, 97.
+Submitted to
+6
+[16]D. Vineet, S. Sumedh, A. Srikanth, X. Zhang , J. Sujit, M. Sanjeev, Macromolecules
+2009, 42, 5414.
+[17]Q. X Tang, H. X. Li, M. He, W. P. Hu, C. M. Liu, K. Q. Chen, C. Wang, Y. Q. Liu, D. B.
+Zhu, Adv. Mater. 2006, 18, 65.
+[18]Q. X. Tang, Y. H. Tong, H. X. Li, Z. Y. Ji, L. Q. Li, W. P. Hu, Y. Q. Liu, D. B. Zhu, Adv.
+Mater. 2008, 20, 1511.
+[19]V. C. Sundar, J. Zaumseil, V. Podzorov, E. Menard, R. L. Willett, T. Someya, M. E.
+Gershenson, J. A. Rogers, Science 2004, 303, 1644.

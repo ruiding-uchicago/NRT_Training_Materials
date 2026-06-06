@@ -1,0 +1,240 @@
+ 978-1-4244-6498-2/10/$26.00 ©2010 IEEE 1574
+2010 3rd International Conference on Biomedical Engineering and Informatics (BMEI 2010)
+Research on the Urease Biosensor with PPy Material
+as Carrier and Sensitive Membrane
+Zumin Wang
+Department of Electrical Engineering
+Dalian University
+Dalian, P.R.China
+State Key Laboratory of Transducer Technology
+Chinese Academy of Sciences
+Shanghai, P.R.China
+Junchi Gao
+Department of Environmental and Chemical Engineering
+Dalian University
+Dalian, P.R.China
+Abstract—Aimed at the dual biofunctional membrane comprised
+with carrier layer and sensing layer used in BioFET(Bio Field
+Effect Transistor) nowadays, this paper designed a kind of novel
+one-layer membrane comprising polypyrrole and urease with
+electrochemical method, which can replace traditional doublelayer membrane, and give a new method for the design of the
+functional membrane of BioFET. The BioFET sensor show a
+linearity of 0.9995 in the urea concentration range of 10-7
+mol/L~10-3mol/L, and a high sensitivity of 45.9mV/pUrea was
+obtained.
+Keywords- Polypyrrole; Biofunctional membrane; BioFET
+I. INTRODUCTION
+With the micro-processing technology to mature, the
+sensor is moving in small, integrated, low-power direction.
+ISFETs (Ion Sensitive Field Electric Transistor) originated
+from MOSFET, have the inherent advantages of small size, low
+power consumption and easy to be integrated, received
+extensive attention in the past two decades, and has been
+rapidly developed.
+Applications of ISFET are extended from the previous
+detection of inorganic cations to the current organic ions,
+pesticides, gas molecules, DNA, biological molecules and
+other substances. Accordingly, the sensitive materials
+developed from inorganic materials, such as SiO2、Si3N4、
+Al2O3、Ta2O5, to organic materials, such as PPy, PAn, PVA,
+etc al. In the aspects of bio-moleculars detection,
+ImmunoFET[1], EnFET[2], CellFET[3], and other kinds of
+BioFETs[4-6] have been developed. Detection of the enzyme
+which is more current research and application of a class, such
+as urease sensor, glucose oxidase sensor, et, al. Whereas, the
+biological sensitive membrane reported in the articles, is
+made of double layers, namely carrier layer and the sensitive
+layer, and they are independent. This paper described a new
+kind of BioFET with one layer which breaks through
+traditional structures, and has the same function as the double
+layers mentioned above.
+II. PREPARATION OF THE SENSITIVE MEMBRAE WITH PPY
+MATERIAL
+A. Reagents and Instruments
+Urease was purchased from MERCK Company; urea and
+pyrrole was purchased from Sigma Company; Na2HPO4 and
+NaH2PO4 were purchased from Beijing Chemical Reagent
+Company; solvent, deionized water; the MEC-12B Multifunction computer electrochemical analyzer used for the
+electrochemical polymerization of the instrument purchased
+from Jiangsu Jiangfen Electroanalytical Co., Ltd.
+B. Pyrrole solution preparation
+Deionized water as solvent, Na2HPO4 and NaH2PO4 as
+electrolyte and used to adjust the solution pH. Since the
+optimum pH value of urease is 7.0 to 7.5, so the pyrrole
+solution was prepared with the following steps: firstly,
+preparing the phosphate buffer with concentration of 0.1mol / L
+and pH value of 7.4; secondly, then adding pyrrole monomer
+(previously distilled); finally, pyrrole solution with
+concentration of 0.1mol/L was obtained and stored in dark
+place and 4 ℃ condition.
+C. Urease-Pyrrole solution preparation
+Deionized water as solvent, preparing urease solution with
+the concentration of 20mg/mL; taking the previously prepared
+pyrrole solution 9mL, and adding 1mL urease solution into it,
+then the urease-pyrrole solution was obtained.
+D. Biosensitive membrane preparation
+In this study the method of two-electrode system and cyclic
+voltammetry was adopt to preparing biosensitive film. In
+particular: ISFET gate area as the working electrode, platinum
+wire as the electrode and reference electrode, and PPy / Urease
+film growing onto the ISFET gate area. In the preliminary
+study, we found that good quality Polyprrole films can be
+obtained with the following preparing parameters: voltage of -
+0.05 ~ 0.75V, scan rate at 50mV / s, temperature at 4 ℃, the
+availability of good. In this study, the authors analyzed the
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 16,2025 at 02:08:49 UTC from IEEE Xplore. Restrictions apply.
+ 1575
+performance of biofilm obtained under different
+polymerization cycles. Table 1 listed the polymerizing
+condition of Ppy / Urease membrane.
+TABLE 1 POLYMERIZING CONDITION OF PPY/UREASE MEMBRANE
+No. Voltage
+(V) Cycles Scan Rate
+(mV/s)
+Temp.
+(℃)
+A -0.05~0.75 4 50 4
+B -0.05~0.75 6 50 4
+C -0.05~0.75 8 50 4
+D -0.05~0.75 10 50 4
+III. SENSOR PERFORMANCE ANALYSIS
+A. Urea Solution Preparation
+Considering the pH of human serum is about 7.35, and
+phosphate buffer at pH7.0 has the strongest buffering capacity,
+so we use 0.01mol / L pH7.0 phosphate buffer to simulation the
+living environment of urea.
+Deionized water was used as solvent for preparing buffer
+and urea solution. Then with the ratio of 9:1 between them,
+different concentration urea solution were reached of 10-
+1
+mol/L、10-2mol/L、10-3mol/L、10-4mol/L、10-5mol/L、10-
+6
+mol/L、10-7mol/L、10-8mol/L and 10-9mol/L.
+B. Sensor response to pH buffer
+To learn the sensor response to urea, it’s necessary to know
+its response to pH buffer. Different phosphate buffer with the
+pH value of 5,6,7,8 were prepared with deionized water as
+solvent. And four sensors numbered A, B, C and D response to
+pH were studied, the results list as table 2.
+TABLE 2 RESPONSE TO PH OF DIFFERENT SENSORS
+Sensor No. A B C D
+Sensitivity
+（mV/pH）
+49.5 48.0 46.8 46.7
+Table 2 shows that sensors have different sensitivities, it
+illustrate that polymerization cycle affects the features of the
+biomembranes.
+C. Response time testing
+Dipping 4μL urea solution (pH7) onto the sensitive area of
+the biosensor, and record the output values.
+The results show the four sensor have different response
+time of <5s, <5s, <10s, <13s. Then the output is stable, and
+change 3min later. It shows that the detecting results are
+believable in 3min.
+D. Linear range and sensitivity detection
+It is necessary to know the linear range of sensor for the
+need of calibration. And the No. A sensor obviously has the
+best performance from table 2. This study detects the response
+to different concentration urea solution of 10-1mol/L to 10-
+10mol/L. The results show the sensor has the linear response
+range to urea solution of 10-7mol/L to 10-3mol/L, and linearity
+is 0.9995, accordingly, the sensitivity is 45.9mV/pUrea.
+IV. DISCUSSION
+Enzyme has strict selectivity and high efficiency to its
+substrate, enzyme-catalyzed reaction rate is 108
+ to 1020 times
+higher than non-enzymatic catalyzed. Enzyme-substrate
+reaction mechanism is: substrate (S) and enzyme (E) combined
+into the middle of the complex (ES), followed by
+decomposition of a product (P), and release enzymes, the
+reaction equation shows as formula 1.
+1 3
+2 [ ] k K
+k E + ←⎯→ ⎯⎯ S ES E P → + (1)
+Where k1 is the reaction rate constant between enzyme and
+substrate; k2 is the complex dissociation rate constant between
+enzyme and substrate; k3 is the reaction rate constant of
+complex decompositing product. When E as urease, S as urea,
+P is NH3 and CO2 and react with water to form NH4
++
+, HCO3
+-
+and OH-
+, and OHproduction will change the pH value of
+solution, the reaction type see formula 2.
++ − − NH CO + H O ⎯⎯ →⎯ NH + HCO + OH Urease
+2 2 2 4 3 ( ) 2 2 (2)
+In this study, PPy is used as sensitive membrane, and is
+sensitive to H+
+. Urease can catalysis urea product CO2 in this
+study, while CO2 is ease to affect the water pH value. The urea
+concentration can be calculated by the change of pH value of
+urea solution. That is, the sensor output can demonstrate the
+urea concentration.
+To obtain the sensor performance, urea solution with
+suitable parameters is necessary. The buffer concentration and
+pH value has great affect on the sensor performance, such as
+response reproducibility, response time, calibration curve slope,
+etc. The higher buffer concentration, the stronger the buffering
+capacity, and the smaller the pH value changes near the
+enzyme membrane affected by the reaction products.
+Accordingly, the response sensitivity is lower. On the other
+hand, because of the small changes of pH value, the range of
+enzyme kinetics becomes wide. And the up limit of calibration
+curve linearity is high under the condition of high buffer
+concentration. Otherwise, the response sensitivity is high and
+the up limit of the linearity range is low, when the buffer
+concentration is low.
+As the enzyme kinetics is relative to the pH value of the
+reaction system, and the pH value affects buffer capacity, so,
+performances of the sensor response depend on pH value.
+In summary analysis, the urea solution obtained by the
+method in this experiment is suitable.
+The results of the sensor sensitivity got by above method
+show that Ppy membrane obtained by cyclic voltammetry has
+good response to pH value, and it provides the basis for further
+detection of urea.
+During the studying of sensor response time, “Rapid
+changing, stabilizing, slow changing” status was found in the
+sensor output values. It shows time is needed in the urease
+catalytic reaction. And the pH value become stable when the
+urea is fully catalytic decomposized. Otherwise, the pH value
+between reaction area and nonreaction area is different, and ion
+diffusion happens and affects the sensor output values.
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 16,2025 at 02:08:49 UTC from IEEE Xplore. Restrictions apply.
+ 1576
+V. CONLUSION
+Traditional preparation methods for biosensitive membrane
+allow the detection of urea, but the process is very complicated,
+and difficult to guarantee consistency. The work of this paper
+shows that use of the special properties of organic compounds,
+it can not only grow biological material in a tiny area, but also
+achieve sensitive layer functions directly, that is to replace the
+traditional double-layer film or multilayer film. Moreover, the
+membrane prepared in this study has the performance of
+adjustable thickness, controllable function, growing on the
+right location and shape.
+VI. ACKNOWLEDGEMENT
+This work is supported by the National State Key
+Laboratory of Transducer Technology(Grant No. SKT0905)
+and Dalian University.
+REFERENCES
+[1] Hye-Jung Park, Sang Kyu Kim, Kyoungsook Park, et al. An ISFET
+biosensor for the monitoring of maltose-induced conformational changes
+in MBP[J], FEBS Letters, 2009, 583 (1): 157-162.
+[2] Seung-Ro Lee, M.M. Rahman, Kazuaki Sawada, et al. Fabrication of a
+highly sensitive penicillin sensor based on charge transfer techniques[J],
+Biosensors and Bioelectronics, 2009, 24(7): 1877-1882.
+[3] Pratik Banerjee, Arun K. Bhunia. Mammalian cell-based biosensors for
+pathogens and toxins[J], Trends in Biotechnology, 2009, 27(3): 179-188.
+[4] Ling Wang, Pedro Estrela, Ejaz Huq, et al. Fabrication of BioFET linear
+array for detection of protein interactions[J], Microelectronic
+Engineering, 2010,87(5-8): 753-755.
+[5] Keun-Yong Park, Young-Soo Sohn, Chang-Kyu Kim, et al.
+Development of FET-type albumin sensor for diagnosing nephritis[J],
+Biosensors and Bioelectronics, 2008,23(12): 1904-1907.
+[6] M. Waleed Shinwari, M. Jamal Deen, Dolf Landheer. Study of the
+electrolyte-insulator-semiconductor field-effect transistor (EISFET) with
+applications in biosensor design[J], Microelectronics Reliability,
+2007,47 (12): 2025-2057.
+Authorized licensed use limited to: UNIV OF CHICAGO LIBRARY. Downloaded on February 16,2025 at 02:08:49 UTC from IEEE Xplore. Restrictions apply. 

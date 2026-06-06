@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10853-022-08005-x",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-12 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "V2O5",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "water"
+    }
+  ]
+}

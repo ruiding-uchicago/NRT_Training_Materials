@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admi.202301088",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "relative humidity (water vapor)",
+      "lower_detection_limit": "8%",
+      "upper_detection_limit": "35%",
+      "probe_material": "2,8-difluoro-5,11-bis(triethylsilylethynyl)anthradithiophene (diF-TES ADT)",
+      "test_operating_temperature (celcius)": "20 °C",
+      "pH_value": -1,
+      "test_medium": "air"
+    }
+  ]
+}

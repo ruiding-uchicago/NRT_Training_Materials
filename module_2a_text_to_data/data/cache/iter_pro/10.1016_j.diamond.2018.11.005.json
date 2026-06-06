@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.diamond.2018.11.005",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "1e-8 M",
+      "upper_detection_limit": "1e-2 M",
+      "probe_material": "carboxyl-functionalized graphene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2-12",
+      "test_medium": "boric acid/citric acid/trisodium phosphate/water"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.snb.2018.02.139",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "10 μM",
+      "probe_material": "palladium nanoflower-decorated CVD graphene (PNFG) with glucose oxidase (GOx) and nafion",
+      "test_operating_temperature (celcius)": "room temperature (25 °C inferred)",
+      "pH_value": "-1",
+      "test_medium": "phosphate-buffered saline (PBS) with NaOH (oxidation agent)"
+    }
+  ]
+}

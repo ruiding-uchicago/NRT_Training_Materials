@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_nn200262u",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Ca2+",
+      "lower_detection_limit": "100 pM",
+      "upper_detection_limit": "1 mM",
+      "probe_material": "single-walled carbon nanotubes/Fluo-4-AM",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "phosphate buffered saline"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1021/acs.joc.6b00267",
+  "paper_metadata": {
+    "title": "Tetraphenylethene-2-Pyrone Conjugate: Aggregation-Induced Emission Study and Explosives Sensor",
+    "authors": "Vaithiyanathan Mahendran, Kamaraj Pasumpon, Solaimalai Thimmarayaperumal, Pakkirisamy Thilagar, Sivakumar Shanmugam",
+    "journal": "The Journal of Organic Chemistry",
+    "year": 2016,
+    "volume": "81",
+    "pages": "3597-3602"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R1",
+      "name": "TPEP (tetraphenylethene-2-pyrone conjugate)",
+      "smiles": "O=C1OC(c2ccc(C(=C(c3ccccc3)c3ccccc3)c3ccccc3)cc2)=CC(SC)=C1C#N",
+      "structure_notes": "Donor-acceptor AIE-active conjugate: tetraphenylethene (TPE) covalently linked to a 2-pyrone bearing methylthio and cyano substituents. Synthesized from acetyl-TPE and SSA (KOH, DMSO). Characterized by 1H/13C NMR, HRMS (C33H23NO2S, M+Na 520.1347), and single-crystal XRD. Used as fluorescent nanoaggregates in THF/water (10:90).",
+      "smiles_or_structure_available": true,
+      "charge_class": "neutral",
+      "smiles_verification": {
+        "status": "verified",
+        "rdkit_parse": "ok",
+        "rdkit_formula": "C33H23NO2S",
+        "rdkit_exact_mass": 497.1449,
+        "paper_formula": "C33H23NO2S",
+        "paper_mass_evidence": "HRMS [M+Na]+ 520.1347 -> neutral 497.145",
+        "notes": "Formula and exact mass match HRMS in paper. Structure: 2-pyrone with TPE at C6, SMe at C4, CN at C3, lactone C=O at C2 - consistent with reported synthesis from acetyl-TPE and SSA."
+      }
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "A1",
+      "name": "Picric acid (PA, 2,4,6-trinitrophenol)",
+      "smiles_or_structure": "Oc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "C6H3N3O7", "rdkit_exact_mass": 228.9971, "notes": "2,4,6-trinitrophenol; matches PA."}
+    },
+    {
+      "analyte_id": "A2",
+      "name": "2,4,6-Trinitrotoluene (TNT)",
+      "smiles_or_structure": "Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "C7H5N3O6", "rdkit_exact_mass": 227.0178, "notes": "2,4,6-trinitrotoluene; matches TNT."}
+    },
+    {
+      "analyte_id": "A3",
+      "name": "2,4-Dinitrophenol (DNP)",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "C6H4N2O5", "rdkit_exact_mass": 184.0120, "notes": "2,4-dinitrophenol; NO2 groups ortho/para to OH."}
+    },
+    {
+      "analyte_id": "A4",
+      "name": "4-Nitrophenol (NP)",
+      "smiles_or_structure": "Oc1ccc([N+](=O)[O-])cc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "C6H5NO3", "rdkit_exact_mass": 139.0269, "notes": "4-nitrophenol; para-NO2 to OH."}
+    },
+    {
+      "analyte_id": "A5",
+      "name": "Nitrobenzene (NB)",
+      "smiles_or_structure": "O=[N+]([O-])c1ccccc1",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "C6H5NO2", "rdkit_exact_mass": 123.0320, "notes": "Nitrobenzene; matches NB."}
+    },
+    {
+      "analyte_id": "A6",
+      "name": "Nitromethane (NM)",
+      "smiles_or_structure": "C[N+](=O)[O-]",
+      "charge_class": "neutral",
+      "smiles_verification": {"status": "verified", "rdkit_parse": "ok", "rdkit_formula": "CH3NO2", "rdkit_exact_mass": 61.0164, "notes": "Nitromethane; matches NM."}
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C1",
+      "solvent": "THF/water (10:90 v/v)",
+      "temperature": "room temperature",
+      "method": "Fluorescence quenching of TPEP nanoaggregates upon addition of NAC (40 equiv); excitation produces emission near 518-536 nm. Quenching efficiency reported.",
+      "notes": "Stock solution of TPEP (10^-4 M) in THF; aliquot diluted to 10^-5 M in THF/water. Stern-Volmer KSV for PA = 5.6 x 10^5 M^-1."
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "L1",
+      "receptor_id": "R1",
+      "target_id": "A1",
+      "interferent_id": "A2",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_bar_chart",
+      "target_value": "~94% quenching efficiency (PA)",
+      "interferent_value": "~36% quenching efficiency (TNT)",
+      "normalized_direction": "larger_quenching_is_stronger",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 3601,
+        "figure_or_table": "Figure 6",
+        "quote": "Relative fluorescence quenching of nanoaggregates of TPEP upon addition of various NACs (40 equiv) in THF/water (10:90) mixture."
+      },
+      "notes": "PA bar is the tallest; TNT is the next-tallest."
+    },
+    {
+      "label_id": "L2",
+      "receptor_id": "R1",
+      "target_id": "A1",
+      "interferent_id": "A3",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_bar_chart",
+      "target_value": "~94% quenching efficiency (PA)",
+      "interferent_value": "~27% quenching efficiency (DNP)",
+      "normalized_direction": "larger_quenching_is_stronger",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 3601,
+        "figure_or_table": "Figure 6",
+        "quote": "nanoaggregates of TPEP selectively and efficiently interact with PA than other NACs"
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L3",
+      "receptor_id": "R1",
+      "target_id": "A1",
+      "interferent_id": "A4",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_bar_chart",
+      "target_value": "~94% quenching efficiency (PA)",
+      "interferent_value": "~22% quenching efficiency (NP)",
+      "normalized_direction": "larger_quenching_is_stronger",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 3601,
+        "figure_or_table": "Figure 6",
+        "quote": "Relative fluorescence quenching of nanoaggregates of TPEP upon addition of various NACs (40 equiv) in THF/water (10:90) mixture."
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L4",
+      "receptor_id": "R1",
+      "target_id": "A1",
+      "interferent_id": "A5",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_bar_chart",
+      "target_value": "~94% quenching efficiency (PA)",
+      "interferent_value": "~10% quenching efficiency (NB)",
+      "normalized_direction": "larger_quenching_is_stronger",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 3601,
+        "figure_or_table": "Figure 6",
+        "quote": "Relative fluorescence quenching of nanoaggregates of TPEP upon addition of various NACs (40 equiv) in THF/water (10:90) mixture."
+      },
+      "notes": ""
+    },
+    {
+      "label_id": "L5",
+      "receptor_id": "R1",
+      "target_id": "A1",
+      "interferent_id": "A6",
+      "condition_id": "C1",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "quenching_efficiency_bar_chart",
+      "target_value": "~94% quenching efficiency (PA)",
+      "interferent_value": "~5% quenching efficiency (NM)",
+      "normalized_direction": "larger_quenching_is_stronger",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_plus_ORB_MACE_ensemble",
+      "confidence": "high",
+      "evidence": {
+        "page": 3601,
+        "figure_or_table": "Figure 6",
+        "quote": "Relative fluorescence quenching of nanoaggregates of TPEP upon addition of various NACs (40 equiv) in THF/water (10:90) mixture."
+      },
+      "notes": ""
+    }
+  ],
+  "rapids_results": []
+}

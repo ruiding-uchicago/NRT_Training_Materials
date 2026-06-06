@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.202404633",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "10 RH%",
+      "upper_detection_limit": "75 RH%",
+      "probe_material": "molybdenum disulfide (MoS2)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

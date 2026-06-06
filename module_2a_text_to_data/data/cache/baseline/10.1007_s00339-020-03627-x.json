@@ -1,0 +1,75 @@
+{
+  "stem": "10.1007_s00339-020-03627-x",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "Putrescine (PUT)",
+      "lower_detection_limit": "3 ppb",
+      "upper_detection_limit": "75 ppm",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - thin layer sensor (group B)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Putrescine (PUT)",
+      "lower_detection_limit": "13 ppm",
+      "upper_detection_limit": "75 ppm",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor (thicker layer)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Cadaverine (CAD)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Ammonia (NH3)",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Acetone",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Ethanol",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "Toluene",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "Poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene] (PDQT) - regular sensor",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

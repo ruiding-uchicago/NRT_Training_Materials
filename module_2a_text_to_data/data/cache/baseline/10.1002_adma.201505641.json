@@ -1,0 +1,25 @@
+{
+  "stem": "10.1002_adma.201505641",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "xylene isomers (o-xylene, m-xylene, p-xylene)",
+      "lower_detection_limit": "40 ppm",
+      "upper_detection_limit": "",
+      "probe_material": "poly(diketopyrrolopyrrole-terthiophene) (PDPPHD-T3)",
+      "test_operating_temperature (celcius)": "25 °C (room temperature, inferred from experimental description)",
+      "pH_value": -1,
+      "test_medium": "air (N2 carrier gas)"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "binary and ternary mixtures of o-, m-, p-xylene",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "poly(diketopyrrolopyrrole-terthiophene) (PDPPHD-T3)",
+      "test_operating_temperature (celcius)": "25 °C (room temperature, inferred from experimental description)",
+      "pH_value": -1,
+      "test_medium": "air (N2 carrier gas)"
+    }
+  ]
+}

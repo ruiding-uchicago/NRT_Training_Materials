@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admt.202101149",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H2O2",
+      "lower_detection_limit": "9.8e-3 M",
+      "upper_detection_limit": "9.8 M",
+      "probe_material": "P3HT(poly(3-hexylthiophene-2,5-diyl))",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "water"
+    }
+  ]
+}

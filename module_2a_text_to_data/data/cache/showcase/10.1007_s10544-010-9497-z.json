@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10544-010-9497-z",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "H+",
+      "lower_detection_limit": "5.01e-9 M",
+      "upper_detection_limit": "2.51e-3 M",
+      "probe_material": "Al2O3",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "2.6-8.3",
+      "test_medium": "acetic acid/phosphoric acid/boric acid/water"
+    }
+  ]
+}

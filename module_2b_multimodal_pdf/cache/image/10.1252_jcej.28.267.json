@@ -1,0 +1,173 @@
+{
+ "records": [
+  {
+   "receptor": "α-cyclodextrin",
+   "target": "p-nitrophenol",
+   "interferent": "o-nitrophenol",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "α-cyclodextrin",
+   "target": "p-nitrophenol",
+   "interferent": "m-nitrophenol",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "β-cyclodextrin",
+   "target": "p-nitrophenol",
+   "interferent": "o-nitrophenol",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "β-cyclodextrin",
+   "target": "p-nitrophenol",
+   "interferent": "m-nitrophenol",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "7"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 4",
+    "page": "270"
+   }
+  },
+  {
+   "receptor": "α-cyclodextrin",
+   "target": "L-threonine",
+   "interferent": "D-threonine",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "not specified"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 9",
+    "page": "271"
+   }
+  },
+  {
+   "receptor": "β-cyclodextrin",
+   "target": "L-threonine",
+   "interferent": "D-threonine",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "not specified"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 9",
+    "page": "271"
+   }
+  },
+  {
+   "receptor": "α-cyclodextrin",
+   "target": "L-phenylalanine",
+   "interferent": "D-phenylalanine",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "not specified"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 10",
+    "page": "272"
+   }
+  },
+  {
+   "receptor": "β-cyclodextrin",
+   "target": "L-phenylalanine",
+   "interferent": "D-phenylalanine",
+   "condition": {
+    "solvent": "buffer",
+    "temperature": "303 K",
+    "pH": "not specified"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K_B",
+   "target_value": "",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Fig. 10",
+    "page": "272"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 14412,
+  "completion_tokens": 7239,
+  "total_tokens": 21651,
+  "cost": 0.0101214,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0101214,
+   "upstream_inference_prompt_cost": 0.0028824,
+   "upstream_inference_completions_cost": 0.007239
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 6123,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 8
+}

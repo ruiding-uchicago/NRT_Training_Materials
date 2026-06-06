@@ -1,0 +1,65 @@
+{
+  "stem": "10.1002_adma.201404707",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "methanol",
+      "lower_detection_limit": "1 vol%",
+      "upper_detection_limit": "",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "toluene (base medium)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "1 vol%",
+      "upper_detection_limit": "",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "toluene (base medium)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "n-hexane",
+      "lower_detection_limit": "1 vol%",
+      "upper_detection_limit": "",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "toluene (base medium)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "toluene",
+      "lower_detection_limit": "2 vol%",
+      "upper_detection_limit": "",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "methanol (base medium)"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH",
+      "lower_detection_limit": "pH 3",
+      "upper_detection_limit": "pH 9",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "3-9",
+      "test_medium": "water"
+    },
+    {
+      "sensor_type": "liquid",
+      "detect_target": "deionized water",
+      "lower_detection_limit": "",
+      "upper_detection_limit": "",
+      "probe_material": "cross-linked P3HT-azide copolymer with calix[8]arene",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": -1,
+      "test_medium": "ambient (direct liquid injection)"
+    }
+  ]
+}

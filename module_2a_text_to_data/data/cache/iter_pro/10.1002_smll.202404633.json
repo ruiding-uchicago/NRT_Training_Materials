@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_smll.202404633",
+  "records": [
+    {
+      "1. sensor_type": "gas",
+      "2. detect_target": "water",
+      "3. lower_detection_limit": "10 RH%",
+      "4. upper_detection_limit": "75 RH%",
+      "5. probe_material": "ethylene glycol spiropyran(EGO-SP)/molybdenum disulfide(MoS2)",
+      "6. test_operating_temperature (celcius)": "25 °C",
+      "7. pH_value": "−1",
+      "8. test_medium": "air"
+    }
+  ]
+}

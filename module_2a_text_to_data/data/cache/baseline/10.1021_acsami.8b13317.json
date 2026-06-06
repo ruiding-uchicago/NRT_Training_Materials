@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsami.8b13317",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "3 μM",
+      "upper_detection_limit": "4 mM",
+      "probe_material": "4-vinylphenylboronic acid (VPBA) in molecularly imprinted polymer (GluMIP)",
+      "test_operating_temperature": 25,
+      "pH_value": 9.0,
+      "test_medium": "100 mM sodium phosphate buffer"
+    }
+  ]
+}

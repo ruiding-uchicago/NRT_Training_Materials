@@ -1,0 +1,188 @@
+Centimeter-Long and Large-Scale Micropatterns of Reduced Graphene Oxide Films: Fabrication and Sensing Applications
+Qiyuan He†Herry Gunadi Sudibya‡Zongyou Yin†Shixin Wu†Hai Li†Freddy Boey†§Wei Huang⊥Peng Chen‡*Hua Zhang†§*
+View Author InformationView Author Information
+Open PDF
+Supporting Information (1)
+OpenURL UNIV OF CHICAGO
+Abstract
+
+Recently, the field-effect transistors (FETs) with graphene as the conducting channels have been used as a promising chemical and biological sensors. However, the lack of low cost and reliable and large-scale preparation of graphene films limits their applications. In this contribution, we report the fabrication of centimeter-long, ultrathin (1−3 nm), and electrically continuous micropatterns of highly uniform parallel arrays of reduced graphene oxide (rGO) films on various substrates including the flexible polyethylene terephthalate (PET) films by using the micromolding in capillary method. Compared to other methods for the fabrication of graphene patterns, our method is fast, facile, and substrate independent. In addition, we demonstrate that the nanoelectronic FETs based on our rGO patterns are able to label-freely detect the hormonal catecholamine molecules and their dynamic secretion from living cells.
+
+This publication is licensed under the terms of your institutional subscription. Request reuse permissions.
+
+Copyright © 2010 American Chemical Society
+Subjects
+what are subjects
+Amines
+Electrical conductivity
+Electrodes
+Thin films
+Two dimensional materials
+Keywords
+what are keywords
+reduced graphene oxide
+micropatterns
+field-effect transistors
+flexible electronics
+sensors
+Graphene, owing to its unique structure and properties, (1, 2) shows great potential in various applications including transparent electrodes, (3-6) field-effect transistors (FETs), (7-9) and sensors. (10-21) In particular, the graphene-based FETs used for chemical (10-13) and biological sensors (16-20) have recently gained considerable interest because the electrical property of graphene is highly sensitive to its local environment. Despite its potential, there are only a few reports to demonstrate the graphene-based FETs being used for biosensing. (16-20) For example, the electrolyte-gated FETs based on an individual pristine graphene sheet have been explored for pH and protein sensors. (16) Chemical vapor deposition (CVD)-grown graphene films were used to detect DNA with single-base-mismatch sensitivity. (18) Recently, Lieber et al. reported the detection of bioelectrical signals at the graphene-living cell interface. (20) However, most graphene-based devices mentioned above rely on the single-layer graphene sheets produced by the low-yield or high-cost methods, such as mechanical exfoliation (11, 20) or thermal growth (CVD (18, 22-24) or epitaxial growth (19, 25)).
+Reduced graphene oxide (rGO), (26-29) prepared by the chemical (26, 29) or thermal reduction (5, 6) of graphene oxide (GO), (26, 30) emerges as a competitively alternative material of graphene. The facile and scalable solution process together with its residual chemically active defect sites renders rGO a promising material for functional electronic sensors. A single-layer rGO sheet (17, 21, 31) or a few-layer rGO films (12, 13, 32) have been used to detect chemicals or biomolecules. However, it remains a great challenge to obtain highly reproducible and large-scale continuous single or a few layer rGO films. (3, 33) In addition, the previously reported rGO thin-film devices have to rely on the microfabrication techniques owing to the short length of the conducting rGO films. (12, 32)
+Fabrication of graphene-based electronics on various substrates, especially the flexible substrates, is highly desirable since it would greatly extend the applications of graphene in the plastic electronics field. (34) Although thermally grown graphene (24, 35, 36) and rGO thin film (3) have been successfully coated on flexible substrates, these methods usually incorporate a transfer step which is complicated and may induce chemical contaminations. (37) Therefore, the direct patterning of graphene on polymer substrates is desirable for flexible electronics, especially flexible biosensors which can conformally attach to tissue or organ surfaces. (38)
+In this contribution, we present the fabrication of large-scale micropatterns of continuously conductive rGO films that are centimeters in length and micrometers in width on various substrates and then demonstrate their capabilities in sensing applications based on the front-gated (solution-gated) FETs. As compared to the back-gated FET on SiO2 (typical 300 nm thickness), the solution-gate voltage falls across the thin electric double-layer capacitance (<1 nm in physiological ionic strength) formed at the rGO−solution interface, leading to superior transconductance and hence better field-effect characteristics in response to the perturbations introduced by the biomolecules in solution. The achieved parallel arrays of rGO films are highly uniform and can be easily observed by optical microscopy. We found that the randomly stacked networks of certain-sized rGO flakes (ca. 500 nm to 1.5 μm) in our experiment exhibit the similar ambipolar FET characteristics as the individual single-layer graphene sheet (8, 39) and graphene thin films (18) in the front-gate FETs. Finally, we used such patterned rGO film-based devices for detection of the catecholamine molecules in buffer solution, and label-free real-time monitoring of catecholamines secretion from living neuroendocrine PC12 cells. It was found that similar sensing capabilities were realized on both hard and flexible substrates.
+Results and Discussion
+Micropatterns of rGO Films
+The patterns of continuous rGO films were achieved by the micromolding in capillary (MIMIC) method (40) with a GO aqueous solution, followed by chemical reduction with hydrazine vapor. (6, 26)Figure 1A shows the schematic illustration of the MIMIC setup. Prior to micropatterning, all substrates (SiO2 wafer, quartz, and PET film) were first modified with 3-aminopropyltriethoxysilane (APTES) SAMs to provide positively charged surfaces, (26, 41-43) which are crucial to ensure the uniform GO patterns. Without the modification of APTES, the patterned GO films will aggregate on all substrates (see Figure S1 in Supporting Information, SI). Although the normal PDMS stamp was able to generate continuous GO patterns on substrates, some PDMS would be left on the substrates due to plasma treatment. (44) To avoid such contamination, a hard-PDMS stamp was used in our experiments.
+Figure 1
+
+Figure 1. (A) Schematic illustration of patterning GO films by MIMIC and reduction of the patterned GO films. (B) Schematic illustration of the experimental setup of front-gate FET for sensing application. (C) Photograph of rGO pattern-based sensing device on PET film.
+
+The width of GO patterns (determined by the width of PDMS channels) was set at 10 μm for two reasons. First, too large (>50 μm) or too small (<2 μm) channels were not able to give continuous GO patterns since the large channels lead to the aggregation of rGO flakes while the small ones result in the discontinuous GO patterns. Second, the 10 μm size is similar to the size of an animal cell, which is desirable to interface with living cells and detect their activities. In addition, only the GO flakes with sizes ranging from 500 nm to 1.5 μm (selected by centrifuge, as described in the Experimental Section) could produce the centimeter-long continuous films. In our experiment, the achieved smallest width of rGO patterns is 2 μm. The length of the rGO patterns was only determined by the microfluidic channels in the PDMS stamp.
+The previous study on rGO thin films fabricated by the filtration method suggested that the thickness of rGO film is crucial toward its field-effect property. (3) In our experiment, the thickness of rGO patterns can be easily controlled by adjusting the concentration of GO solution used in MIMIC. After the hydrazine vapor reduction of the GO patterns, the obtained rGO patterns show similarity in the film morphology and thickness (see Figure S2 in SI), suggesting that the generated GO patterns are very stable. The optical image (Figure 2A) shows the obtained large-area, centimeter-long, perfectly aligned rGO micropatterns on a SiO2 wafer. An AFM image and height profile (Figure 2B,C) confirm that the patterned rGO films contain single or a few-layer rGO sheets, since the measured thickness is ca. 1−3 nm (average thickness around 2.3 nm). (26, 42) Our method was also successfully used to fabricate the rGO patterns on other substrates, such as quartz and PET films (see AFM images in Figure S3 in SI), although the quartz (rms = 0.5 nm in 10 × 10 μm2) and PET film (rms = 2.5 nm in 10 × 10 μm2) are quite rough. It is worth mentioning that such micropatterned arrays allow parallel and multiplexed measurements, and therefore possibilities to resolve the propagation of biosignals. (45)
+Figure 2
+
+Figure 2. (A) Optical image of patterned rGO films (dark lines) on SiO2 substrate. (B) AFM image of patterned rGO on SiO2 substrate. (C) Section analysis indicates rGO films are composed of one to a few-layer randomly stacked rGO sheets.
+
+Electrical Properties
+A set of parallel Au electrodes with increasing gap distance, deposited on the rGO strips by the sputtering technique, were used to investigate the conductance of resulting rGO patterns on quartz. As shown in Figure 3A, the obtained centimeter-long rGO patterns are electrically continuous and exhibit ohmic behaviors. The inset in Figure 3A confirms that the resistance of rGO patterns increases linearly with an increase in the effective length of the rGO conducting channels, that is, the gap distance between the two Au electrodes. This indicates that the resistance mainly arises from the intrinsic resistance of rGO patterns rather than the contact resistance between the rGO patterns and Au electrodes, which is in agreement with the previous report for the individual single-layer rGO sheet. (28) These results also suggest that the high uniformity of rGO patterns is crucial to achieve the reliable device performance. The large resistance (>2 MΩ) is likely due to the remaining defects on the rGO sheets and the scattering effects arising from the rGO stacking. (3)
+Figure 3
+
+Figure 3. (A) Linear I−V curves at Vds from −1 to 1 V on rGO−quartz device. Inset: the resistance increases linearly with the gap distance between Au electrodes. (B) Plots of Idsvs front-gate voltage (Vg) at Vds = 400 mV on (top) rGO−PET and (bottom) rGO−quartz devices. (C) Current noise on rGO−quartz and rGO−PET devices. The distance between the drain and source electrodes in the devices in panels B and C is fixed at 1 cm.
+
+A typical front gate setup (Figure 1B) is used to study the properties of patterned rGO in the saline bath solution (pH 7.2). Source and drain electrodes can be easily prepared on such an array of perfectly aligned rGO microline patterns using silver paint without microfabrication or microscopy. Figure S4 in SI shows the optical image of rGO patterns on quartz covered by the silver electrode. The silicone rubber was applied to define the recording chamber and provide insulation on the Ag electrodes. Such insulation ensures the small leakage current (typically <0.1%) and avoids the influence of the metal−rGO contact on sensings. Figure 3B shows the typical current versus gate potential plots of two devices, that is, the rGO patterns on PET and rGO patterns on quartz (referred to as rGO−PET and rGO−quartz devices, respectively). V-shaped ambipolar field-effect characteristics with Dirac (minimum current) point at ca. +0.2 V was reliably observed on all the devices. The on/off ratio of resulting devices ranges from 2 to 20, mostly ∼5. The sensitivity of current to front-gate voltage is comparable to the FET devices based on the individual single-layer graphene sheet. (19) This result is remarkable since our conducting channel is formed by the random stacking of many small rGO sheets.
+As shown in Figure S5 in the SI, the bending of the rGO−PET devices (bent radius r = 3 cm) did not impair its field-effect characteristic. The flexible nature of our rGO devices enables wide applications including nanoelectronic biosensing, for example, for interfacing with curved living organs or tissues. Interestingly, as compared to the rGO−quartz device, the rGO−PET device showed slight lower conductance and much larger noise ratio (>2 order) (Figure 3C). Such a difference may be attributable to the rougher surface of a PET film, which could affect the stacking quality of rGO flakes.
+When a highly concentrated GO suspension was used in MIMIC, the obtained thick rGO patterns (>5 nm) gave a weak field-effect response to the front-gate modulation and hence a lower sensitivity in sensings. When spin-coating was used to coat GO films on the substrates, the obtained thick GO films (>10 layers, i.e., > 10 nm) showed no field-effect response, resulting in no sensing ability.
+Detection of Catecholamines
+As proof of concept for sensing applications, we demonstrate the capability of our micropatterned rGO films in the detection of dopamine, a major neurotransmitter secreted by neurons and hormone secreted by neuroendocrine cells, with both rGO−PET and rGO−quartz devices. The conductance of the rGO devices (configured as solution-gated FET as shown in Figure 1B) was continuously monitored at Vg = ±0.6 V, while dopamine with various concentrations was introduced in the buffer solution.
+As shown in Figure 4, the conductance of the rGO−PET device increased at Vg = −0.6 V, while it decreased at Vg = +0.6 V, with the increased concentration of dopamine. This is expected because the rGO device operated at the p-type region when Vg was less than the Dirac voltage (+0.2 V), and operated at n-type region when Vg was greater than the Dirac voltage (Figure 3B). The behavior of rGO−quartz devices was similarly to that of rGO−PET devices. After removing dopamine by thorough perfusion, the current (Ids) returned to its initial level, and the device could be reliably used for many times. Other catecholamine molecules, such as epinephrine, also caused the similar increase of rGO conductance as shown in Figure S6 in the SI. As anticipated, when Vg = 0 V, the devices also gave p-type response but with a smaller amplitude (Figure 5). The low level Vg is advantageous in terms of minimizing possible disturbance to the biological samples (e.g., living cells) and avoiding the instability of devices due to the induced electrochemical or charging effects. As evidenced from Figure 5, at Vg = 0 V, the rGO−PET device is more sensitive than the rGO−quartz device (note that the scale bars in Figure 5A and B are different). These results are reliably observed on all fabricated devices. In response to 10 mM dopamine, the rGO−PET FETs gave an increase in conductance of 31.3 ± 4.1% (n = 6 devices) at Vg = −0.6 V and 22.8 ± 2.1% (n = 6 devices) at Vg = 0 V.
+Figure 4
+
+Figure 4. Detection of dopamine on rGO−PET device at Vg = ±0.6 V. Each step represents the gradual addition of dopamine with concentration increasing from 1 to 8 mM. Inset: Change of conductance vs dopamine concentration. The distance between the drain and source electrodes in the rGO−PET device is fixed at 1 cm.
+
+Figure 5
+
+Figure 5. Detection of dopamine on (A) rGO−quartz and (B) rGO−PET devices at Vg = 0 V. The distance between the drain and source electrodes in the devices in panels A and B is fixed at 1 cm. Insets: Change of conductance vs dopamine concentration.
+
+The response of the rGO FET device to dopamine is not due to the modulation of the energy barrier at the electrode−rGO contact, because the source and drain electrodes are well-insulated. It is neither due to electrostatic gating because, in this case, positively charged dopamine at pH 7.2 should cause current decrease when the rGO devices operate at the p-type region. Therefore, the rGO responses are likely due to the doping effect since dopamine can strongly interact with rGO through the strong π−π interaction. In fact, as shown in Figure S7 in the SI, the addition of dopamine caused the right-shift of the Dirac point in the Ids−Vg curve of the rGO−PET device, indicating that the aromatic catecholamine molecules induce p-doping (or increase of hole concentration) in the rGO film. This is in agreement with the previous study on the doping effects of aromatic molecules on graphene. (46)
+Detection of Dynamic Vesicular Secretion of Catecholamines from PC12 Cells
+As compared to the one-dimensional semiconducting nanomaterials (e.g., carbon nanotubes, silicon nanowires), the two-dimensional (2D) graphene offers several advantages in the sensing applications, including large sensing area, ease of homogeneous functionalization, (47) biocompatibility, (48) and suitability to interface with 2D cell membranes. In our experiment, we coupled our rGO FETs with the living neuroendocrine PC12 cells and detected their triggered vesicular secretion of catecholamine molecules (dopamine, epinephrine, and norepinephrine).
+PC12 cells were directly cultured on top of poly-l-lysine-coated rGO FET devices. When a high K+ solution, which depolarizes the cell membrane and elicits Ca2+ influx through the voltage-gated Ca2+ channels on the cell membrane, was introduced into the recording chamber, current responses (spikes) of rGO FET were observed (Figure 6). As demonstrated in our previous study, where the carbon nanotube network based FETs were interfaced with PC12 cells, (49) each observed current spike likely corresponds to the vesicular release of catecholamines from a single PC12 cells. This experiment postulates the capability of graphene FET in the nanoelectronic biosensing of dynamic cellular activities. (50)
+Conclusions
+The ability to pattern large-area ultrathin rGO films with high yield and reproducibility will open up an avenue to widely incorporate graphene into electronics or bioelectronics. In this study, we demonstrated the patterning of centimeter-long, micrometer-wide, ultrathin (1−3 nm), continuous rGO−network films as the conducting channels of FETs on various substrates. Our rGO FETs exhibit remarkable and bending-insensitive field-effects, which are able to detect the presence and dynamic cellular secretion of biomolecules. The specificity of the demonstrated detection is realized in the defined biological context. In a parallel effort, we found that our rGO FETs can also specifically detect biomolecules with high sensitivity by functionalizing the rGO patterns with specific antibodies (data not shown). This study highlights the promising potentials of graphene in flexible nanoelectronics and bioelectronics.
+Figure 6
+
+Figure 6. (A) Optical image of PC12 cells grown confluently on poly-l-lysine coated rGO−PET device. (B) Schematic illustration of the interface between a PC12 cell and rGO FET. (C) Real-time response of rGO−PET FET to the vesicular secretion of catecholamines from PC12 cells stimulated by high K+ solution. Vds = 100 mV, Vg = 0 V. The distance between the drain and source electrodes in the device is fixed at 1 cm.
+
+Materials and Methods
+Preparation of Graphene Oxide Aqueous Solution
+Graphene oxide (GO) sheets were synthesized by a modified Hummer method using natural graphite. (26) The GO aqueous solution was obtained by dispersing as-prepared GO sheets in water followed by a two-step sonication. Briefly, GO was first sonicated in mild sonication (Branson model 2510, Branson Ultrasonic Corporation, USA) for 60 min to get stable aqueous suspension. Then a strong sonication (Vibra cell of Sonics & Materials, Inc., USA) was applied to the presonicated GO solution for 10 min (amplitude 50%, 1 s pulse, 1 s stop) to break the big GO sheets. The resulting GO solution was then centrifuged (Kubota Co. 6200) at 1500 rpm for 2 h. The top layer solution was collected in order to remove most of the big GO sheets (>3 μm). Small GO sheets with diameter less than 300 nm were also removed after centrifuging the collected GO solution at 10000 rpm for 2 h. The bottom part of the GO solution was collected and used for GO patterning.
+Hard-PDMS Stamps
+Hard polydimethylsiloxane (PDMS) stamps were fabricated according to the literature method (51) using a negative silicon master (line patterns with 10 μm width and 5 μm height). Normal PDMS (Sylgard 184, A:B = 1:10, Dow Company) stamps (43, 52) were fabricated using the same silicon master.
+Patterning GO by Micromolding in Capillary
+Figure 1A shows the schematic illustration of patterning GO on flat substrates by the MIMIC method. (40) The substrates, for example, SiO2 wafer (Bonda Tech, Singapore) and quartz (SYST Integration Pte Ltd., Singapore), were first coated with 3-aminopropyltriethoxysilane (APTES, Sigma-Aldrich). (26, 41-43) After the polyethylene terephthalate (PET) film (3M, USA) was immersed into an aqueous solution of 3% APTES for 30 min, followed by an ample rinse with DI water, the APTES self-assembled monolayers (SAMs) were formed on the PET surface. The fabricated PDMS stamp with arrays of line channels (10 μm width, 5 μm height, and 1.5 cm length) was cut at both ends with a sharp knife to generate the open channels. The thus-cut PDMS stamp was treated with O2 plasma to make the surface hydrophilic before it was placed on the APTES-modified flat substrates (e.g., SiO2 wafer, quartz, PET film) to form the comformal contact (Figure 1A). A minitool (FX-117, minitool. Inc.) was used to apply force on the top of the PDMS stamp to ensure a close contact between the PDMS stamp and the substrate. (53) A drop of GO aqueous solution (ca. 1.5 mg/mL) was then dropped at one end of the open channels of PDMS stamp (Figure 1A). After the whole system was placed in a vacuum oven and degassed for 30 min to ensure the solution dried up, (53) the force on the PDMS stamp applied by the minitool was released. Then the PDMS stamp was carefully peeled off and the GO patterns were formed on the substrate, which were reduced in hydrazine vapor at 60 °C for 12 h to obtain the reduced GO (rGO) patterns (Figure 1A). (6, 26)
+The resulting GO and rGO patterns on substrates were characterized by optical microscopy and atomic force microscopy (AFM). Optical images were recorded by Nikon Eclipse LV100 optical microscopy. AFM images were obtained by using Dimension 3100 (Veeco, CA) in tapping mode with a Si tip (Veeco, resonant frequency, 320 kHz; spring constant, 42 N m−1) under ambient conditions with a scanning rate of 1 Hz and scanning line of 512.
+Electrical Characterization
+Electrical properties of the resulting rGO devices were monitored using a semiconductor device analyzer (Agilent B1500A). Figure 1B shows the scheme of the front-gate FET based on the rGO patterns. Silver conducting paint was used to prepare electrodes at both ends of the parallel rGO pattern arrays, that is, the source and drain electrodes. The length of the rGO conducting channel was fixed at 1 cm, which is the distance between the drain and source electrodes. Subsequently, silicon rubber (Dow Corporation) was used to insulate the electrodes and to define the chamber containing the electrolyte saline bath solution (the mixture of 10 mM HEPES, 140 mM NaCl, 1 mM MgCl2, 5.5 mM KCl, and 2 mM CaCl2, pH 7.2) in the electrical recording. Figure 1C shows the photograph of a typical device made by the patterned rGO films on PET. The source-drain current (Ids) was biased at 400 mV, measured while varying the gate voltage (Vg) applied on the top gate (Ag/AgCl electrode).
+Sensing Applications
+The source−drain current (Ids) was continuously monitored (biased at Vds = 400 mV), when dopamine was manually added to the recording chamber with a gradual increase in its concentration. To detect the dynamic secretion of dopamine from living cells, PC12 cells were cultured on the rGO patterned devices for 2 days in the cell culture media (a mixture of Dulbecco’s Modified Eagle’s Medium, 10% Horse Serum, 5% Fetal Bovine Serum, 1% Pencillin−Streptomycin, and 5 μM Dexamethasone) and maintained at 37 °C in a humid atmosphere with 5% CO2/95% air. (49) Prior to the cell culture, the rGO devices were coated with poly-l-lysine (PLL) overnight, in order to help cells to adhere to the substrates. High potassium solution (the mixture of 40 mM NaCl, 105 mM KCl, 6 mM CaCl2, 1 mM MgCl2, and 10 mM HEPES) was introduced into the recording chamber before the cell culture medium was initially replaced by the physiological bath solution (pH 7.2) to incubate PC12 cells. The current (Ids) through the rGO patterns was continuously monitored (Vds = 100 mV, Vg = 0 V) during the high K+ stimulation.
+Supporting Information
+AFM images, optical image, plot of IdsvsVg at Vds = 400 mV of the rGO−PET device, and test of epinephrine on rGO−quartz device. This material is available free of charge via the Internet at http://pubs.acs.org.
+1
+[Supporting Information]
+Centimeter-Long and Large-Scale Micropatterns
+of Reduced Graphene Oxide Films: Fabrication
+and Sensing Applications
+Qiyuan He,1
+ Herry Gunadi Sudibya,2
+ Zongyou Yin,1
+ Shixin Wu,1
+ Hai Li,1
+ Freddy Boey,1,3
+Wei Huang,4
+ Peng Chen,2
+* Hua Zhang1,3*
+1
+School of Materials Science and Engineering, Nanyang Technological University, 50
+Nanyang Avenue, Singapore 639798, Singapore.
+2
+School of Chemical and Biomedical Engineering, Nanyang Technological University,
+70 Nanyang Drive, Singapore 637457, Singapore.
+3
+Centre for Biomimetic Sensor Science, Nanyang Technological University, 50 Nanyang
+Drive, Singapore 637553.
+4
+Key Laboratory for Organic Electronics & Information Displays (KLOEID) and
+Institute of Advanced Materials (IAM), Nanjing University of Posts and
+Telecommunications, Nanjing 210046, China.
+E-mail: hzhang@ntu.edu.sg; chenpeng@ntu.edu.sg
+2
+Figure S1. AFM topographic image of a typical pattern of GO films aggregated on SiO2
+without APTES modification. Scale bar = 5 μm.
+02468
+0
+10
+20
+30
+nm
+m
+3
+Figure S2. AFM images of (A) GO pattern, and (B) rGO pattern after hydrazine vapor
+reduction of GO pattern in (A). Scale bar = 5 μm.
+Figure S3. AFM images of patterned rGO films on quartz (A) and PET (B). Scale bar = 5
+μm.
+A B
+A B
+10 20 30
+-2
+0
+2
+4
+nm
+m
+0 5 10 15
+0
+20
+40
+ nm
+m
+4
+Figure S4. Optical image of rGO-quartz device. Electrodes are made by silver paint.
+Silver
+Electrod
+e
+5
+Figure S5. The plot of Ids vs. front-gate voltage (Vg) at Vds = 400 mV of rGO-PET device
+before (■) and after (■) bending (r = 3 cm). Inset: photograph of bent rGO-PET device.
+The distance between the drain and source electrodes is fixed at 1 cm.
+-0.4 -0.2 0.0 0.2 0.4 0.6 0.8
+0
+1
+2
+3
+4
+V
+g
+ (V)
+Ids (
+A)
+flat rGO-PET
+ bent (radius = 3 cm) rGO-PET
+6
+100 200 300 400 500 600 700
+1.05
+1.10
+1.15
+1.20
+1.25
+1.30
+1.35
+IDS (
+Time (Sec)
+epinephrine
+Figure S6. Test of epinephrine on rGO-quartz device at Vg = +0.6 V. Each step
+represents the gradual addition of dopamine with the concentration from 1 to 10 mM. The
+distance between the drain and source electrodes in rGO-quartz device is fixed at 1 cm.
+7
+Figure S7. The plot of Ids vs. front-gate voltage (Vg) at Vds = 400 mV of rGO-PET
+device before (■) and after (■) addition of 10 mM dopamine. The distance between the
+drain and source electrodes is fixed at 1 cm.
+ 

@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_aelm.202101353",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "phosphate",
+      "lower_detection_limit": "1.78e-10 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "PDVT(poly[2,5-bis(2-decyltetradecyl)pyrrolo[3,4-c]pyrrole-1,4-(2H,5H)-dione-alt-(E)-1,2-di(2,2'-bithiophen-5-yl)ethene])/CS(penta-t-butylpentacyanopentabenzo[25]annulene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7.4",
+      "test_medium": "4-(2-hydroxyethyl)piperazine-1-ethanesulfonic acid/water"
+    }
+  ]
+}

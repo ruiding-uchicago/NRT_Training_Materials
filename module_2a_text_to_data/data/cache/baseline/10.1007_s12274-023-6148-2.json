@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s12274-023-6148-2",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH / hydroxide ions",
+      "lower_detection_limit": "pH 14.0",
+      "upper_detection_limit": "pH 17.0",
+      "probe_material": "SrCoOx",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "14.0-17.0",
+      "test_medium": "aqueous NaOH solution"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+ "records": [
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT",
+   "interferent": "TNP",
+   "condition": {
+    "solvent": "acetonitrile-ethanol",
+    "temperature": "room temperature",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1364 M-1",
+   "interferent_value": "1215 M-1",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "acetonitrile-ethanol",
+    "temperature": "room temperature",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1364 M-1",
+   "interferent_value": "968 M-1",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "acetonitrile-ethanol",
+    "temperature": "room temperature",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1215 M-1",
+   "interferent_value": "968 M-1",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": ""
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 12588,
+  "completion_tokens": 4023,
+  "total_tokens": 16611,
+  "cost": 0.00791232,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00791232,
+   "upstream_inference_prompt_cost": 0.00163644,
+   "upstream_inference_completions_cost": 0.00627588
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 3564,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 3
+}

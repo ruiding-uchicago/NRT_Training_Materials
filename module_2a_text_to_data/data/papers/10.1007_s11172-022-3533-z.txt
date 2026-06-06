@@ -1,0 +1,833 @@
+1290 Russian Chemical Bulletin, Vol. 71, No. 6, pp. 1290—1299, June, 2022
+Published in Russian in Izvestiya Akademii Nauk. Seriya Khimicheskaya, No. 6, pp. 1290—1299, June, 2022.
+1066-5285/22/7106-1290 © 2022 Springer Science+Business Media LLC
+A universal approach to a structured polymer substrate for manufacturing
+a printed polymer gas sensor based on a fi eld eff ect transistor
+V. P. Chekusova,a A. A. Trul,a E. V. Agina,a and S. A. Ponomarenkoa,b
+aN. S. Enikolopov Institute of Synthetic Polymeric Materials, Russian Academy of Sciences,
+70 ul. Profsoyuznaya, 117393 Moscow, Russian Federation
+bChemistry Department, Moscow State University,
+1/3 Leninskie Gory, 119991 Moscow, Russian Federation.
+E-mail: ponomarenko@ispm.ru
+Printed polymer fi eld-eff ect transistors are promising devices for manufacturing
+highly sensitive gas and liquid sensors based on them. However, their practical application
+as sensors imposes special requirements on structured substrates for the deposition of
+active semiconductor and receptor layers. A simple approach to the production of a structured polymer substrate using exclusively additive methods for manufacturing from it
+a printed polymer fi eld-eff ect transistor suitable for the use as a gas/liquid sensor is
+presented.
+Key words: inkjet printing, screen printing, silver inks, polymer dielectric, organic
+fi eld-eff ect transistor.
+Interest of researchers in gas sensors produced by
+printing technologies has increased considerably in the
+recent years, since these technologies make it possible
+to manufacture high-quality thin, light, fl exible, cheap,
+and environmentally friendly electronic devices.1,2
+Printing technologies are much simpler in accomplishment than other modern technologies for producing
+silicon and organic electronics that consist of many
+stages including repeated steps of deposition, lithography, and etching.3 In addition, they allow one to
+fl exibly tune the architecture of the devices and their
+nanosized functions and provide low-temperature
+vacuum-free integration of numerous materials and
+functions on one substrate.4,5
+Many printing methods with diverse possibilities of
+printing resolution and velocity have been developed
+at present. The choice of the printing method is primarily based on the size of the printed unit, equipment
+capacity, and type of the used substrates along with the
+target application of the printing material.6 Among
+them inkjet printing is the most frequently used method
+for studying and developing functional devices based
+on polymeric materials due to simplicity of manufacturing a prototype and requirements of a small amount
+of ink (1—2 mL) with a low concentration of a functional material (<0.1 wt.%). When inkjet printing is
+used, droplets are ejected from the ink reservoir onto
+the substrate to directly apply the desired image.7
+Source and drain electrodes for sensors based on
+fi eld-eff ect transistors (FET) are usually prepared using
+standard photolithography combined with physical or
+chemical deposition in vacuo.8 Chemiresistive sensors
+are less demanding to device complexity and function
+resolution and, hence, counter electrodes can directly
+be printed on these sensors in addition to usual processes
+of nano/microtreatment, for example ink based on
+silver or gold can be used.9 Gas-sensitive materials can
+also be applied using an inkjet printer between source
+and drain electrodes of a FET-based sensor.10 Depending on the functional of materials and structure of the
+sensor, the rheology of ink composition and dynamics
+of its drying need thorough optimization for specifi c
+printing types and processes.11
+As for sensor structures and principles of their operation, the most part of printed gas sensors are
+chemiresistive; i.e., they change resistance in the presence of an analyzed gas,12,13 or fi eld-eff ect transistor
+devices reacting to the analyzed gas by changing conductivity of the active channel.14—17 Their sensitivity,
+selectivity, and detection limit are tightly related to the
+internal properties of nanomaterials (e.g., electrical
+conductivity, doping levels. crystal defects, and surface
+chemistry/morphology).18 The physicochemical properties, structure, and morphology of deposited nanomaterials, including their thickness, porosity, and
+possible interaction with substrates and electrodes also
+Structured polymer substrate Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 1291
+play an important role in the operation of the device.19,20
+Conductive polymers or oligomers are especially
+attractive as functional materials for detecting volatile
+organic compounds,21 and their fl exibility and compatibility with various printing processes are important
+factors of choice.22 A homogeneous solution of a polymer can be printed as continuous smooth structures
+that further solidify as the solvent evaporates, which
+makes it possible to exactly control the topology of the
+printed fi lm surface. Polymers are often used as matrix
+materials for manufacturing composites with functional
+fi llers, such as metal oxides, graphene, and carbon
+nanotubes, to additionally enhance sensitivity and selectivity and/or to shorten response time of the sensor.23
+Possibilities of molecular design of the main and side
+chains and modifi cation of the terminal groups allow
+one to widely vary their electrical properties and
+chemical composition of the surface tuning to diff erent
+types of analytes,24,25 thus providing rational design
+and choice of polymers for the development of sensor
+matrices.26 To the moment, the majority of published
+works about printed sensors are based on the materials
+related to graphene,27,28 whereas other 2D materials,
+for instance, monolayer fi lms of organic semiconductors
+remain unstudied, although they are much less expensive and highly biosafe, which makes it possible to use
+them as biological liquid sensors that directly contact
+with the living organism.29
+It is shown in our earlier works that organic fi eldeff ect transistors (OFED) with the active layer based
+on the benzothienobenzothiophene derivatives on
+silicon substrates are highly stable and reproducible and
+demonstrate an ultrahigh sensitivity (tens of ppb) to
+various volatile polar gases, such as ammonia, hydrogen
+sulfi de, and nitrogen oxide in the presence of water
+vapors, which makes their use promising in real gas
+analytical systems.30—33 It should be mentioned that
+the transition from the gas sensor based on monolayer
+OFET on the silicon substrate with sputtered gold
+contacts to the completely printed sensors on the polymer substrate is fairly diffi cult. The consecutive printing of functional layers (electrodes, dielectric, and
+semiconductor) from organic solvents requires the
+stabilization of each layer and optimization of the printing processes. The use of printed transistors as gas
+sensors in an atmosphere with a high moisture content
+implies the resistance of all its layers to water vapors.
+The requirements imposed on the response time and
+recovery time of real sensors lead to restraints related
+to preventing the chemical interaction of the detected
+gases with any sensor layer.
+The purpose of this work is to develop a universal
+approach to the preparation of a structured polymer
+substrate by exclusively printing methods without using
+photolithography and sputtering in order to manufacture from it a printed polymer fi eld-eff ect transistor
+(PPFET) suitable for the use as a gas/liquid sensor.
+Experimental
+Polystyrene (PS) (Sigma—Aldrich) with a molecular
+weight of 280 000 was chosen as the polymeric dielectric.
+Inkjet printing was performed with a PixDro LP50 jet
+printer using a Spectra SM-128 AA piezoelectric printing head
+in the drop-on-demand (IPDOD) mode.
+Commercial silver ink representing nanosized silver particles in a solvent were used as the ink: the CRSN2442 silver
+paste (Sun Chemical) for screen printing (SP) and the Silverjet
+DGP-40LT-15C inkjet silver ink (Sigma—Aldrich) for inkjet
+printing (IP).
+The voltampere characteristics (VAC) (dependences of
+the current on the voltage) of the printed structures were
+measured using the PS-100 probe station (Printeltech LLC,
+Russia) to estimate conductivity.
+The capacity of dielectric layers was estimated on an E7-20
+digital emittance meter (MNIPI, Russia) with a sinusoidal
+signal with an amplitude of 1 V at the frequency from 25 Hz
+to 1 MHz. An additional bias voltage up to 10 V was supplied
+to the sample in order to study the dependence of the capacity on the frequency. The leakage current in the dielectric
+layers was measured using the probe station.
+Results and Discussion
+The architecture with the consequently deposited
+functional layers by additive methods was chosen for
+manufacturing devices based on PPFET: self-organized
+interface layer, bottom gate, dielectric, and conducting
+contacts (Fig. 1). This architecture was chosen due to
+the need of direct contact of the analyzed medium (gas
+or liquid) with the active semiconductor layer when
+using PPFET as the sensor unit.
+Screen printing, doctor blade (DB) method, and
+inkjet 2D printing were used as additive methods for
+the deposition of functional layers. A number of devices
+with a specifi ed architecture was produced using these
+layers. Indium tin oxide (ITO) conductive glass, nonconductive glass, and poly(ethylene naphthalate) (PEN)
+150 m thick were chosen as substrates. The conditions
+were initially selected on the glass with ITO to avoid a
+necessity to print the gate electrode for the subsequent
+measurement of electrical characteristics of the dielectric layer.
+The dielectric polymeric layer was deposited on the
+substrates by the DB method. The deposited substance
+1292 Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 Chekusova et al.
+was distributed over the blade edge in such a way that
+a meniscus would be formed between the blade and
+substrate. When the blade moves, the deposited substance is distributed over the substrate to form a uniform
+fi lm. During motion the blade is arranged at a fi xed
+distance from the substrate. To prepare the layer, optimum conditions of dielectric deposition were selected
+by subsequent changing the blade movement velocity,
+the height of the gap between the blade and substrate,
+and the heating temperature of the stage. The ink composition (polymer type, solvent, and polymer concentration in solution) was also optimized taking into account prospects of its further use in inkjet printing.
+The chosen PS is a dielectric frequently applied in
+organic electronics and potentially well suitable for
+using in the composition of gas sensors due to hydrophobicity, which should provide sensor resistance to
+water vapors. Among the other dielectrics used, PS has
+the lowest polarity, which should decrease the probability of interacting with polar gas-analytes and to provide
+fast response and recovery. In addition, PS is appropriate for use in solution processing compatible with the
+roll-to-roll approach, unlike many self-organized dielectrics. Toluene is the closest solvent to PS by
+chemical structure, but it is relatively volatile even at
+room temperature and, hence, its use in the pure form
+for IP can result in fast and irreversible nozzle clogging
+of the printing head of the printer. High-boiling 1,2-dimethylbenzene (o-xylene) in an amount of 5 and 10%
+was added to the solvent in order to decrease the ink
+volatility.
+To achieve a stable IPDOD printing mode, i.e.,
+formation of a single round-shape droplet per each
+supplied impulse, the physical properties of the ink for
+IP, such as viscosity and surface tension, should lie in
+a certain range depending, to a high extent, on the
+printing head used. The properties of ink and its behavior during IP can theoretically be determined using the
+Reynolds (Re), Weber (We), and Ohnesorge (Oh)
+numbers calculated using the following equations:
+(1)
+(2)
+(3)
+where  is the liquid density, u is the velocity of droplets, l is the nozzle or droplet diameter (usually for
+inkjet printers),  is the dynamic viscosity, v is the
+kinematic viscosity, and L is the surface tension of
+the ink.
+The Reynolds number is the ratio of inertia forces
+to viscosity forces and is expressed by Eq. (1). The
+Weber number (We) makes it possible to compare the
+inertia forces of the liquid with surface forces and is
+applied for an analysis of bubble or droplet formation34:
+the We value should be higher than 4, otherwise no
+droplet will be formed. The Ohnesorge number (Oh) is
+highly signifi cant in liquid mechanics and relates viscous, inertia, and surface forces as indicated in Eq. (3).
+In inkjet technology, the Oh number refl ects the dimensional scale of the jet or droplet and physical
+properties of the liquid. Unlike the Re and We numbers,
+the velocity and, hence, the dependence on the motion
+conditions are excluded from the mathematical description.35 The Oh numbers suitable for stable IPDOD
+printing are expected to range from 0.1 to 1. Too high
+viscosity will impede droplet separation for high Oh
+values, while too low Oh values can result in the appearance of many satellites.35,36 Some authors prefer
+to use the so-called Z number equal to the inverse
+Ohnesorge number (1/Oh) for the description of an
+admissible range of stable printing possibility.36,37
+In our experiments, the measured surface tension
+of toluene at 20 C was 28.5 mN m–1, the addition of
+5 and 10 wt.% o-xylene was found to make no signifi cant
+contribution to a change in the surface tension of the
+solvent, and the measured value suits the parameters
+of the printing head used (Spectra SM-128 AA). To
+achieve the necessary value of kinetic viscosity of the
+ink caused by requirements imposed on the Oh number,
+the concentration of the polymer solution was changed
+and the viscosity was measured by capillary viscosimetry. As a result, the PS concentration optimum for IP
+was determined to be 60 mg mL–1.
+The prepared dielectric solutions were deposited by
+the DB method varying the motion velocity of the blade
+(5, 7, and 10 mm s–1) and the heating temperature of
+the stage (30, 60, and 85 C). The quality of the dielectric layers obtained was evaluated from the surface
+morphology using polarization optical and atomic force
+microscopies and interferometry. An analysis of changes
+Source Drain
+Ag-conductive
+contacts
+Dielectric (PS)
+Ag-gate electrode
+Interface layer
+Substrate
+Fig. 1. Sche me of the selected PPFET architecture.
+Structured polymer substrate Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 1293
+in the morphology for the samples obtained from PS
+solutions in pure toluene and in mixtures with o-xylene
+showed that inside one row (at the same velocities of
+layer deposition and stage temperature) the morphology
+of the dielectric layer diff ered insignifi cantly and, hence,
+the further optimization was performed on the most
+promising for IP solutions of PS in toluene with the
+addition of 10% o-xylene. The uniform and homogeneous dielectric layer with a thickness of 30—40 nm
+and an average roughness of 0.26 nm was obtained from
+a PS solution in toluene with the addition of a 10%
+o-xylene at the velocity of blade movement equal to
+7 mm s–1 with a gap height of 650 m and the stage
+temperature equal to 60 C (Fig. 2). It should be mentioned that the PS layers on PEN are characterized by
+a higher waviness value in spite of close values of average roughness for PEN and glass, which can lead to
+strongly diff erent dielectric properties.
+Conductive contacts must be deposited on the substrate in order to measure the electrical characteristics
+of the dielectric (capacity, operating voltage, and leakage current). The contacts were deposited by screen
+printing (SP) and inkjet printing (IP). Commercial
+silver ink being nanosized silver particles in the solvent
+(silver paste CRSN2442 (Sun Ch emical) for SP and
+inkjet silver ink Silverjet DGP-40LT-15C (Sigma—
+a b
+Fig. 2. Images of printed layers of the PS dielectric: AFM microphotograph (topology (a, b) and profi le (c, d)) of the PS surface on
+glass (а, c) and on PEN (b, d); photographs of the obtained substrates on the glass with ITO (at the left: prepared device 23×23 mm
+in size with silver contacts deposited by the screen printing method) (e).
+e
+0 5 10 15 20 25 y/m
+0
+5
+10
+15
+20
+25
+2.85
+2.60
+2.40
+2.20
+2.00
+1.80
+1.60
+1.40
+1.20
+1.00
+0.80
+0.46
+z/nm 0 5 10 15 20 25 y/m
+0
+5
+10
+15
+20
+25
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+z/nm
+3
+2
+1
+z/nm
+10 20 30 x/m
+с
+9
+8
+7
+6
+5
+z/nm
+5 10 15 20 x/m
+d
+x/m x/m
+1294 Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 Chekusova et al.
+Aldrich) for IP) served as ink. The silver ink was chosen
+because of the possibility of printing from it fl exible
+and/or stretchable contacts with good adhesion to the
+substrate as shown in earlier studies.38 The substrate
+with the printed contacts was subjected to temperature
+annealing at 150 C in a vacuum oven for 2 h to comb
+0.5
+0.4
+0.3
+0.2
+0.1
+z/m
+0.02 0.04 0.06 0.08 x/mm
+d
+0.2
+0.1
+0
+–0.1
+z/m
+0.02 0.04 0.06 0.08 x/mm
+f
+35
+30
+25
+20
+z/nm
+10 20 30 50 x/m
+0 5 10 15 20 25 30 35 40 y/m
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+x/m
+70
+60
+50
+40
+30
+20
+10
+0
+z/nm e
+0 10 20 30 40 50 60 70 80 90 y/m
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+x/m
+450
+400
+350
+300
+250
+200
+150
+100
+56
+z/nm a
+0 10 20 30 40 50 60 70 80 y/m
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+x/m
+282
+250
+200
+150
+100
+50
+0
+–50
+–100
+–150
+–199
+z/nm c
+Fig. 3. AFM microphotographs (topology (a, c, e) and profi le (b, d, f)) of the interface self-organized layer based on o-APTS on the
+glass substrate applied by the spincoating method before (а, b) and after interaction with toluene (c, d), APTS on the glass substrate
+deposited from the gas phase (e, f).
+Structured polymer substrate Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 1295
+Fig. 4. Microphotographs of the surface of the printed silver contacts deposited using diff erent methods: AFM (topology) (а—c) and
+polarization optical microphotographs (d, e) for inkjet (а, b, d) and screen (c, e) printing on glass (а, c) and on PEN (b), boundary
+of the silver contact and PS for inkjet printing on PEN (f, h) and on glass (g, i) (topology (f, g) and profi le (h, i)).
+0 5 10 15 20 25 y/m
+0
+5
+10
+15
+20
+25
+x/m
+84
+80
+70
+60
+50
+40
+30
+20
+10
+4
+z/nm
+a
+0 5 10 15 20 25 y/m
+0
+5
+10
+15
+20
+25
+x/m
+50.6
+45.0
+40.0
+35.0
+30.0
+25.0
+20.0
+15.7
+z/nm
+b
+0 5 10 15 20 25 y/m
+0
+5
+10
+15
+20
+25
+x/m
+2.13
+2.00
+1.80
+1.60
+1.40
+1.20
+1.00
+0.80
+0.54
+z/m
+c
+500 m
+d
+500 m
+e
+0 0.2 0.4 0.6 0.8 y/mm
+0
+0.2
+0.4
+0.6
+0.8
+x/mm
+917
+800
+700
+600
+500
+400
+300
+200
+100
+0
+z/nm
+f
+0 10 20 30 40 50 60 70 80 y/m
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+x/m
+387
+350
+300
+250
+200
+150
+100
+50
+0
+z/nm
+g
+h
+1.0
+0.8
+0.6
+0.4
+0.2
+z/m
+0.2 0.4 0.6 0.8 x/mm
+k
+0.4
+0.3
+0.2
+0.1
+z/m
+10 20 30 x/m
+1296 Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 Chekusova et al.
+pletely remove traces of the ink solvent and provide
+good sintering of silver particles.
+The optimized printing technology of the dielectric
+layer made it possible to transit from conductive glass
+substrates with ITO to non-conductive glass and poly-
+(ethylene naphthalate). The use of these materials as
+substrates with the specifi ed architecture of the device
+(see Fig. 1) demands an additional deposition of the
+bottom silver electrode (gate electrode). To provide
+a suffi cient adhesion of silver ink to the glass substrate,
+the substrate surface was modifi ed to form on it an
+interface self-organized layer based on 3-aminopropyltriethoxysilane (APTS) from the gas phase38 of oligomer
+of 3-aminopropyltriethoxysilane (o-APTS) by the
+spincoating method (Fig. 3).39,40
+It was found that the interface layers both deposited
+from the gas phase and obtained by the spincoating
+method provide a suffi cient adhesion of silver ink to the
+glass substrate. However, when the subsequent printing
+of the dielectric layer leads to the situation where toluene (present in the solution) partially dissolves the
+o-APTS-based layer, which impedes its use as the
+modifying basis (see Fig. 3, а, b). At the same time, the
+APTS-based interface layer has a suffi cient degree of
+crosslinking to retain its morphology upon printing and,
+therefore, this layer was further used (see Fig. 3, c). It
+should be mentioned that the printed gate electrode
+also required thermal annealing in a vacuum oven at
+150 C to provide good sintering of silver. Annealing
+at lower temperatures or without vacuum does not
+provide a suffi cient stability of the conductive layer,
+which damages the contacts upon the subsequent deposition of the dielectric layer: the dielectric is mixed
+with silver particles resulting in the shorted electrodes
+upon voltage supply.
+The completing layers in the developed architecture
+of the device are conductive contacts (source and drain
+electrodes), which were printed using a similar procedure of inkjet or screen printing (Fig. 4).
+The conducting properties of the printed silver layers
+were measured prior to measurements of the dielectric
+properties of the PS layers in order to reliably determine
+that the used contacts are ohmic. The voltampere
+characteristics (VAC) of the printed structures were
+measured to estimate the conductivity. All printed
+structures demonstrated the classical resistive VAC
+(Fig. 5, а), and their total (R) and surface (RS) (or sheet
+resistance, viz., specifi c value usually used for comparison of the conductivities of thin fi lms) resistances
+are given in Table 1.
+The data in Table 1 show that all printed structures
+demonstrate rather low resistances (R), but an interesting experimental fact was observed: the surface resistances (RS) of the structures printed by SP on PEN are
+7 times lower than those on glass, whereas the IP structures on PEN are 3 times lower than those on glass.
+A comparison of the samples obtained by the inkjet and
+Table 1. Total and surface resistances of
+printed conductive structures
+Sample R/Ohm Rs/Ohm sq–1
+IP, glass 04.3 1.5
+IP, PEN 02.1 0.5
+SP, glass 16.7 4.6
+SP, PEN 00.7 0.7
+Fig. 5. (a) Voltampere characteristics of the conductive silver
+layers printed in glass (1, 2) and PEN (3, 4) using the inkjet (2, 4)
+and screen (1, 3) printing methods. (b) Dependence of the relative change in the surface resistance on the bending radius of the
+substrate for screen (1) and inkjet (2) printing.
+6
+4
+2
+0
+–2
+–4
+I/mA
+–4 –2 0 2 4 U/mV
+a
+100
+80
+60
+40
+20
+0
+R/R0 (%)
+ 20 30 r/mm
+1
+2
+3
+4
+1
+2
+Structured polymer substrate Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 1297
+screen printing methods shows that the structures obtained by the IP method on glass demonstrate the
+surface resistance (RS) three times lower than that for
+SP on glass, and the RS value of the samples obtained
+on PEN is nearly independent of the printing method.
+Note that the IP structures have higher bending stability demonstrating an order of magnitude lower increase
+in the resistance with decreasing curvature radius to
+16 mm (see Fig. 5, b). This behavior can probably be
+explained by a fi ner-grain morphology of the structures
+deposited by the IP method compared to the structures
+deposited by the SP method (see Fig. 4), which results
+in both higher conductivity and higher bending stability on PEN.
+Several types of samples were studied in order to
+estimate the capacity of dielectric layers: the samples
+prepared on the glass with ITO with the top electrode
+based on IP and SP and those prepared on glass or PEN
+with the top and bottom electrodes based on IP and SP.
+Note that the SP-based electrodes resulted in shorting
+upon deposition on the PS layer, most likely, due to
+the presence of the solvent and partial dissolution of
+the PS layer. Therefore, the further data will be given
+only for capacitors with IP electrodes. The typical
+dependences of the specifi c capacity on the frequency
+and voltage and of the leakage current density on the
+voltage for the studied samples are shown in Fig. 6.
+The primary characteristic for comparison is the
+specifi c capacity at low frequencies, since this parameter would determine the density of charge carriers in
+the transistor channel. The operating range is defi ned
+as the maximum voltage at which the capacity does not
+change yet upon voltage supply and as the leakage current density. An appropriate leakage current is a value
+of 10–8 A, which gives a critical leakage current density
+of 10–6 A cm–2 at the typical surface area of the transistor contacts equal to 0.01 cm2. Thus, the dependences
+obtained clearly show that the highest specifi c capacity
+equal to 27 nF cm–2 is achieved on the glass with ITO
+and coincides with the published data.41 However, the
+operating voltage range of this layer is only 0.5 V. The
+lowest capacity is demonstrated by the sample on the
+glass with the IP electrodes. The sample on PEN shows
+a capacity higher by an order of magnitude than that
+of the sample on glass and lower by an order of magnitude than that on the glass with ITO. At the same time,
+its operating range is the largest of all the studied layers
+being about 5 V. On the whole, the measured electrical
+characteristics make it possible to use the printed substrates as a promising basis for the subsequent deposition
+of the semiconductor active layer and testing them as
+gas sensors.
+Fig. 6. Typical dependences of the specifi c capacity () on the
+frequency (а) and voltage (b) and the leakage current density vs
+voltage (c) for the samples: 1, glass with ITO/PS/IP; 2, PEN/
+IP/PS/IP; 3, glass/IP/PS/IP; 4, glass substrate with ITO; 5, polymeric substrate; 6, glas s substrate; 7, glass with ITO; 8, PEN;
+and 9, glass with PNP and PPC.
+1•10–5
+1•10–7
+1•10–9
+–4 –2 0 2 4 U/V
+7
+8
+9
+c
+J/A cm–2 –1.0 –0.5 0 0.5 E/MV cm–1
+30
+25
+5
+0
+102 103 104 105 106 /Hz
+1
+/nF cm–2 a
+3
+2
+30
+25
+5
+0
+0 2 4 6 8 10 U/V
+4
+/nF cm b –2
+6
+5
+1298 Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 Chekusova et al.
+It should be mentioned that the deposition of the
+subsequent functional layers from solutions containing
+toluene can result in the deformation of the printed
+dielectric layer. Therefore, if the application of these
+solutions is necessary, one can use an alternative procedure developed by us previously and described in
+detail.42 As for manufacturing the printed device prepared in this work, its confi guration makes it possible
+to deposit water-soluble semiconductor compounds,
+for example, PEDOT  :  PSS, above the dielectric to
+produce PPFET. In addition, these substrates can be
+used for the deposition of thin (including monolayer)
+semiconductor fi lms from the water surface by the
+Langmuir—Blodgett and Langmuir—Schaefer methods
+being laboratory analogs of roll-to-roll printing.
+To conclude, the universal approach making possible to produce structured substrates on both glass and
+fl exible polymeric substrates, which were prepared for
+the further deposition of semiconductor and/or receptor layers and using as sensitive units of gas sensors,
+using exclusively additive technologies.
+This work was fi nancially supported by the Russian
+Foundation for Basic Research (Project No. 20-33-
+90236). The morphology of the prepared devices was
+studied using the equipment of the Center for Collective
+Use "Center for Polymer Research" at the Enikolopov
+Institute of Synthetic Polymeric Materials Russian
+Academy of Sciences and fi nancially supported by the
+Ministry of Science and Higher Education of the
+Russian Federation (theme FFSM-2022-0001).
+No human or animal subjects were used in this
+research.
+The authors declare no competing interests.
+References
+1. L. Wang, S. Chen, W. Li, Adv. Mater. 2019, 31, e1804583;
+DOI: 10.1002/adma.201804583.
+2. Z. Ma, P. Chen, W. Cheng, Nano Lett., 2018, 18, 4570—
+4575; DOI: 10.1021/acs.nanolett.8b01825.
+3. Z. Cui, Printed Electronics: Materials, Technologies and
+Applications, Singapore—John Wiley & Sons Singapore,
+2016.
+4. A. Kamyshny, S. Magdassi, Chem. Soc. Rev., 2019, 48,
+1712—1740; DOI: 10.1039/c8cs00738a.
+5. W. Wu, Nanoscale, 2017, 9, 7342—7372; DOI: 10.1039/
+c7nr01604b.
+6. K. Suganuma, Introduction to Printed Electronics, Springer—
+Verlag, New York, 2014.
+7. M. Singh, H. M. Haverinen, P. Dhagat, G. E. Jabbour,
+Adv. Mater., 2010, 22, 673—685; DOI: 10.1002/adma.
+200901141.
+8. S. Hong, J. Shin, Y. Hong, M. Wu, D. Jang, Y. Jeong,
+G. Jung, J. Bae, H. W. Jang, J. Lee, Nanoscale, 2018, 10,
+18019—18027; DOI: 10.1039/c8nr04472d.
+9. W. C. Tian, Y. H. Ho, C. H. Chen, Sensors (Basel), 2013,
+13, 865—874; DOI: 10.3390/s130100865.
+10. O. Kassem, M. Saadaoui, M. Rieu, J. P. Viricelle,
+Proceedings, 2018, 2, 907; DOI: 10.3390/proceedings
+2130907.
+11. G. Hu, J. Kang, L. W. T. Ng, X. Zhu, R. C. T. Howe,
+C. G. Jones, M. C. Hersam, T. Hasan, Chem. Soc. Rev.,
+2018, 47, 3265—3330; DOI: 10.1039/c8cs00084k.
+12. M. G. Campbell, S. F. Liu, T. M. Swager, J. Am. Chem.
+Soc., 2015, 137, 13780—13783; DOI: 10.1021/jacs.5b09600.
+13. C. Anichini, W. Czepa, D. Pakulski, Chem. Soc. Rev.,
+2018, 47, 4860—4908; DOI: 10.1039/c8cs00417j.
+14. S. Cui, H. Pu, S.A. Wells, Z. Wen, S. Mao, J. Chang,
+M. C. Hersam, J. Chen, Nat. Commun., 2015, 6, 8632;
+DOI: 10.1038/ncomms9632.
+15. S. Mao, J. Chang, H. Pu, G. Lu, Q. He, H. Zhang,
+J. Chen, Chem. Soc. Rev., 2017, 46, 6872—6904; DOI:
+10.1039/c6cs00827e.
+16. M. Hartwig, R. Zichner, Y. Joseph, Chemosensors, 2018,
+6, 66; DOI: 10.3390/chemosensors6040066.
+17. A. T. Alreshaid, J. G. Hester, W. Su, J. Electrochemical
+Society, 2018, 165, B407—B413; DOI: 10.1149/
+2.0341810jes.
+18. M. Xue, F. Li, D. Chen, Adv. Mater., 2016, 28, 8265—8270;
+DOI: 10.1002/adma.201602302.
+19. Y. Yang, S. Li, W. Yang, ACS Appl. Mater. Interfaces, 2014,
+6, 13807—14; DOI: 10.1021/am5032456.
+20. J. Zhang, A. Boyd, A. Tselev, Appl. Phys. Letters, 2006,
+88, 123112; DOI: 10.1063/1.2187510.
+21. A. A. Trul, E. V. Agina, S. A. Ponomarenko, Vysokomol.
+Soedin. Ser. B, 2021, 63, 277—294 [Polym. Sci.,
+Ser. B (Engl. Transl.), 2021, 63]; DOI: 10.31857/
+S2308113921050156.
+22. B. Weng, R. L. Shepherd, K. Crowley, Analyst., 2010, 135,
+2779—2789; DOI: 10.1039/c0an00302f.
+23. S. Abdulla, T. L. Mathew, B. Pullithadathil, Sensors and
+Actuators B: Chemical, 2015, 221, 1523—1534; DOI:
+10.1016/j.snb.2015.08.002.
+24. M. A. Ates, Mater. Sci. Eng. C Mater. Biol. Appl., 2013,
+33, 1853—1859; DOI: 10.1016/j.msec.2013.01.035.
+25. H. Yoon, Nanomaterials (Basel), 2013, 3, 524—549; DOI:
+10.3390/nano3030524.
+26. M. Babaei, N. Alizadeh, Sensors and Actuators B: Chemical,
+2013, 183, 617—626; DOI: 10.1016/j.snb.2013.04.045.
+27. V. Dua, S. P. Surwade, S. Ammu, Angew. Chem. Int. Ed.
+Engl., 2010, 49, № 12, 2154—2157; DOI: 10.1002/anie.
+200905089.
+28. A. P. Taylor, L. F. Velasquez-Garcia, Nanotechnology,
+2015, 26, 505301; DOI: 10.1088/0957-4484/26/50/505301.
+29. P. A. Shaposhnik, S. A. Zapunidi, M. V. Shestakov, E. V.
+Agina, S. A. Ponomarenko, Russ. Chem. Rev., 2020, 89,
+1483—1506; DOI: 10.1070/RCR4973.
+30. A. A. Trul, A. S. Sizov, V. P. Chekusova, J. Mater. Chem. C,
+2018, 6, 9649—9659; DOI: 10.1039/c8tc02447b.
+Structured polymer substrate Russ. Chem. Bull., Vol. 71, No. 6, June, 2022 1299
+31. A. S. Sizov, A. A. Trul, V. Chekusova, ACS Appl. Mater.
+Interfaces, 2018, 10, 43831—43841; DOI: 10.1021/acsami.
+8b15427.
+32. A. A. Trul, V. P. Chekusova, M. S. Polinskaya, Sensors
+and Actuators B: Chemical, 2020, 321, 128609; DOI:
+10.1016/j.snb.2020.128609.
+33. D. S. Anisimov, V. P. Chekusova, A. A. Trul, Sci. Rep.,
+2021, 11, 10683; DOI: 10.1038/s41598-021-88569-x.
+34. W. Graebel, Adv. Fluid Mechanics Academic. Press, 2007.
+35. S. D. Hoath, Fundamentals of Inkjet Printing: The Science
+of Inkjet and Droplets, Germany—Wiley—VCH Verlag
+GmbH & Co. KGaA, Weinheim, 2015.
+36. B. Derby, Ann. Rev. Mater. Res., 2010, 40, 395—414; DOI:
+10.1146/annurev-matsci-070909-104502.
+37. D. Jang, D. Kim, J. Moon, Langmuir, 2009, 25, 2629—
+2635; DOI: 10.1021/la900059m.
+38. E. V. Agina, A. S. Sizov, M. Y. Yablokov, ACS Appl. Mater.
+Interfaces, 2015, 7, 11755—11764; DOI: 10.1021/am508905t.
+39. M. N. Kirikova, E. V. Agina, A. A. Bessonov, J. Mater.
+Chem. C, 2016, 4, 2211—2218; DOI: 1039/c5tc03497c.
+40. A. S. Sizov, E. V. Agina, S. A. Ponomarenko, Russ. Chem.
+Rev., 2019, 88, 1220—1247; DOI: 10.1070/rcr4897.
+41. M. H. Yoon, H. Yan, A. Facchetti, J. Am. Chem. Soc.,
+2005, 127, 10388—10395; DOI: 10.1021/ja052488f.
+42. P. A. Shaposhnik, D. A. Anisimov, A. A. Trul, E. V. Agina,
+S. A. Ponomarenko, Dokl. Russ. Akad. Nauk. Chem., Nauki
+Mater., 2021, 496, 71—76 [Dokl. Chem. (Engl. Transl.),
+2021, 496].
+Received October 4, 2021;
+in revised form February 16, 2022;
+accepted March 1, 2022

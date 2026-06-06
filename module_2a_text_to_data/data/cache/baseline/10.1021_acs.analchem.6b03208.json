@@ -1,0 +1,25 @@
+{
+  "stem": "10.1021_acs.analchem.6b03208",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "nitric oxide",
+      "lower_detection_limit": "1 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "Fe(III) meso-tetra(4-carboxyphenyl)porphyrin (FeTCP) on reduced graphene oxide (RGO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "phosphate-buffered saline (PBS)"
+    },
+    {
+      "sensor_type": "bio",
+      "detect_target": "nitric oxide",
+      "lower_detection_limit": "10 pM",
+      "upper_detection_limit": "100 nM",
+      "probe_material": "Fe(III) meso-tetra(4-carboxyphenyl)porphyrin (FeTCP) on reduced graphene oxide (RGO)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": 7.4,
+      "test_medium": "cell medium (RPMI-1640 with fetal bovine serum)"
+    }
+  ]
+}

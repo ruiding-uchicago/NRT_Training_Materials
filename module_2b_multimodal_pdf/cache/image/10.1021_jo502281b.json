@@ -1,0 +1,191 @@
+{
+ "records": [
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "100",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "800",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NP",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NT",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "1200",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NBD",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "600",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "1700",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": ">8000",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  },
+  {
+   "receptor": "4g",
+   "target": "PA",
+   "interferent": "BA",
+   "condition": {
+    "solvent": "THF",
+    "temperature": "not specified",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Amount (equiv.)",
+   "target_value": "20",
+   "interferent_value": "",
+   "evidence": {
+    "figure_or_table": "Table 3",
+    "page": "11624"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 17890,
+  "completion_tokens": 3507,
+  "total_tokens": 21397,
+  "cost": 0.00779662,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00779662,
+   "upstream_inference_prompt_cost": 0.0023257,
+   "upstream_inference_completions_cost": 0.00547092
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2248,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 9
+}

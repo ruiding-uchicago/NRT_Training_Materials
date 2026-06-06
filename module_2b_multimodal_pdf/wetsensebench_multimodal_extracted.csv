@@ -1,0 +1,212 @@
+doi,receptor,target,interferent,solvent,temperature,pH,readout_type,label_basis,target_value,interferent_value,figure_or_table
+10.1021/acs.joc.6b00267,TPEP,PA,NM,THF/water (10:90),not specified,not specified,fluorescence_quenching,quenching efficiency,,,Figure 6
+10.1021/acs.joc.6b00267,TPEP,PA,NB,THF/water (10:90),not specified,not specified,fluorescence_quenching,quenching efficiency,,,Figure 6
+10.1021/acs.joc.6b00267,TPEP,PA,NP,THF/water (10:90),not specified,not specified,fluorescence_quenching,quenching efficiency,,,Figure 6
+10.1021/acs.joc.6b00267,TPEP,PA,DNP,THF/water (10:90),not specified,not specified,fluorescence_quenching,quenching efficiency,,,Figure 6
+10.1021/acs.joc.6b00267,TPEP,PA,TNT,THF/water (10:90),not specified,not specified,fluorescence_quenching,quenching efficiency,,,Figure 6
+10.1021/acs.joc.6b00267,TPEP,PA,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),strong,none,Figure 6
+10.1021/acs.joc.6b00267,TPEP,TNT,DNP,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),moderate,medium,Figure 6
+10.1021/acs.joc.6b00267,TPEP,TNT,NP,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),moderate,low,Figure 6
+10.1021/acs.joc.6b00267,TPEP,TNT,NB,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),moderate,very low,Figure 6
+10.1021/acs.joc.6b00267,TPEP,TNT,NM,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),moderate,negligible,Figure 6
+10.1021/acs.joc.6b00267,TPEP,TNT,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),moderate,none,Figure 6
+10.1021/acs.joc.6b00267,TPEP,DNP,NP,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),medium,low,Figure 6
+10.1021/acs.joc.6b00267,TPEP,DNP,NB,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),medium,very low,Figure 6
+10.1021/acs.joc.6b00267,TPEP,DNP,NM,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),medium,negligible,Figure 6
+10.1021/acs.joc.6b00267,TPEP,DNP,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),medium,none,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NP,NB,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),low,very low,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NP,NM,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),low,negligible,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NP,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),low,none,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NB,NM,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),very low,negligible,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NB,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),very low,none,Figure 6
+10.1021/acs.joc.6b00267,TPEP,NM,Blank,THF/water (10:90),room temperature,N/A,relative fluorescence quenching,relative fluorescence quenching (%),negligible,none,Figure 6
+10.1021/acsomega.6b00288,R1,PA,TNT,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,NB,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,4-NP,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,"1,3-DNB",DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,"2,4-DNT",DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,"3,4-DNT",DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,4-NBA,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,4-DNT,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,NM,DMSO/H2O 1:4 (v/v),not specified,7.4,fluorescence_intensity_change,F1 intensity,,,Figure 3(b)
+10.1021/acsomega.6b00288,R1,PA,"2,4-DNP",DMSO/H2O 1:4 (v/v),room temperature,7.4,fluorescence intensity ratio (F454/F496),selectivity data,strong,negligible,Figure 3
+10.1039/C4CC06225F,cage 4,PA,"2,4-DNP",DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,4-NP,DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,TNT,DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,"2,4-DNT",DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,"3,4-DNT",DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,4-NT,DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,4-NBA,DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,"1,3-DNB",DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,PA,NB,DCM,not specified,not specified,fluorescence_quenching,quenching efficiency,96%,,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,"2,4-dinitrophenol",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,4-nitrophenol,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,"2,4,6-trinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,"2,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,"3,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,4-nitrotoluene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,4-nitrobenzoic acid,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,"1,3-dinitrobenzene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,picric acid,nitrobenzene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),Ksv = 2.2 × 10⁵ M⁻¹,negligible,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol",4-nitrophenol,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol","2,4,6-trinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol","2,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol","3,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol",4-nitrotoluene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol",4-nitrobenzoic acid,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol","1,3-dinitrobenzene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4-dinitrophenol",nitrobenzene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,"2,4,6-trinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,"2,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,"3,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,4-nitrotoluene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,4-nitrobenzoic acid,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,"1,3-dinitrobenzene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,4-nitrophenol,nitrobenzene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene","2,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene","3,4-dinitrotoluene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene",4-nitrotoluene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene",4-nitrobenzoic acid,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene","1,3-dinitrobenzene",DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1039/C4CC06225F,cage 4,"2,4,6-trinitrotoluene",nitrobenzene,DCM,not specified,not applicable,quenching efficiency,quenching efficiency (%),strong,weak,Fig. 3
+10.1016/j.talanta.2016.03.026,calix-7,MC,Acetone,water,not specified,not specified,frequency_change,Δf,1047 Hz,314 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Acetonitrile,water,not specified,not specified,frequency_change,Δf,1047 Hz,195 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,CTC,water,not specified,not specified,frequency_change,Δf,1047 Hz,410 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Dioxane,water,not specified,not specified,frequency_change,Δf,1047 Hz,142 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,DMF,water,not specified,not specified,frequency_change,Δf,1047 Hz,62 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Ethanol,water,not specified,not specified,frequency_change,Δf,1047 Hz,61.5 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Ethylacetate,water,not specified,not specified,frequency_change,Δf,1047 Hz,258 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Chloroform,water,not specified,not specified,frequency_change,Δf,1047 Hz,798 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Xylene,water,not specified,not specified,frequency_change,Δf,1047 Hz,100 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Methanol,water,not specified,not specified,frequency_change,Δf,1047 Hz,56 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,n-Hexane,water,not specified,not specified,frequency_change,Δf,1047 Hz,144 Hz,Table 1
+10.1016/j.talanta.2016.03.026,calix-7,MC,Toluene,water,not specified,not specified,frequency_change,Δf,1047 Hz,85 Hz,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Acetone,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,314,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Acetonitrile,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,195,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,CTC,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,410,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Dioxane,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,142,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,DMF,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,62,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Ethanol,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,61.5,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Ethylacetate,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,258,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Xylene,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,100,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Methanol,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,56,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,n-Hexane,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,144,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,Chloroform,Toluene,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),798,85,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Acetone,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,314,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Acetonitrile,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,195,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Dioxane,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,142,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,DMF,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,62,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Ethanol,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,61.5,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Ethylacetate,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,258,Table 1
+10.1016/j.talanta.2016.03.026,Calix-7,CTC,Xylene,aqueous,not specified,not specified,frequency shift (Δf),frequency shift (Δf),410,100,Table 1
+10.1252/jcej.28.267,α-cyclodextrin,p-nitrophenol,o-nitrophenol,buffer,303 K,7,binding_constant,K_B,,,Fig. 4
+10.1252/jcej.28.267,α-cyclodextrin,p-nitrophenol,m-nitrophenol,buffer,303 K,7,binding_constant,K_B,,,Fig. 4
+10.1252/jcej.28.267,α-cyclodextrin,L-threonine,D-threonine,buffer,303 K,not specified,binding_constant,K_B,,,Fig. 9
+10.1252/jcej.28.267,α-cyclodextrin,L-phenylalanine,D-phenylalanine,buffer,303 K,not specified,binding_constant,K_B,,,Fig. 10
+10.1252/jcej.28.267,α-CD,o-NP,m-NP,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,200 M⁻¹,Fig. 4
+10.1252/jcej.28.267,α-CD,o-NP,p-NP,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,100 M⁻¹,Fig. 4
+10.1252/jcej.28.267,α-CD,m-NP,p-NP,water,303 K,7,binding constant (K_B),K_B value from figure,200 M⁻¹,100 M⁻¹,Fig. 4
+10.1252/jcej.28.267,α-CD,L-Thr,D-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,75 M⁻¹,50 M⁻¹,Fig. 9
+10.1252/jcej.28.267,α-CD,L-Phe,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,50 M⁻¹,25 M⁻¹,Fig. 10
+10.1252/jcej.28.267,α-CD,o-NP,L-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,75 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,o-NP,L-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 10"
+10.1252/jcej.28.267,α-CD,m-NP,L-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,200 M⁻¹,75 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,m-NP,L-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,200 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 10"
+10.1252/jcej.28.267,α-CD,p-NP,L-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,100 M⁻¹,75 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,p-NP,L-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,100 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 10"
+10.1252/jcej.28.267,α-CD,L-Thr,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,75 M⁻¹,25 M⁻¹,"Fig. 9, Fig. 10"
+10.1252/jcej.28.267,α-CD,D-Thr,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,50 M⁻¹,25 M⁻¹,"Fig. 9, Fig. 10"
+10.1252/jcej.28.267,α-CD,L-Thr,L-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,75 M⁻¹,50 M⁻¹,"Fig. 9, Fig. 10"
+10.1252/jcej.28.267,α-CD,o-NP,D-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,m-NP,D-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,200 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,p-NP,D-Thr,water,303 K,7,binding constant (K_B),K_B value from figure,100 M⁻¹,50 M⁻¹,"Fig. 4, Fig. 9"
+10.1252/jcej.28.267,α-CD,o-NP,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,400 M⁻¹,25 M⁻¹,"Fig. 4, Fig. 10"
+10.1252/jcej.28.267,α-CD,m-NP,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,200 M⁻¹,25 M⁻¹,"Fig. 4, Fig. 10"
+10.1252/jcej.28.267,α-CD,p-NP,D-Phe,water,303 K,7,binding constant (K_B),K_B value from figure,100 M⁻¹,25 M⁻¹,"Fig. 4, Fig. 10"
+10.1021/acsomega.3c02349,aza-BODIPY,TNT,TNP,ethanol,room,not specified,fluorescence_quenching,Ksv,1364 M⁻¹,1215 M⁻¹,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP,DNT,ethanol,room,not specified,fluorescence_quenching,Ksv,1215 M⁻¹,968 M⁻¹,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNT,DNT,ethanol,room,not specified,fluorescence_quenching,Ksv,1364 M⁻¹,968 M⁻¹,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (water),TNT (EtOH),"water (target), ethanol (interferent)",room temperature,N/A,Ksv (M⁻¹),Ksv (M⁻¹),1420,1364,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (water),DNT (EtOH),"water (target), ethanol (interferent)",room temperature,N/A,Ksv (M⁻¹),Ksv (M⁻¹),1420,968,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (water),NM,"water (target), ethanol (interferent)",room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (water),NE,"water (target), ethanol (interferent)",room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,TNT (EtOH),TNP (EtOH),ethanol,room temperature,N/A,Ksv (M⁻¹),Ksv (M⁻¹),1364,1215,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (EtOH),DNT (EtOH),ethanol,room temperature,N/A,Ksv (M⁻¹),Ksv (M⁻¹),1215,968,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (EtOH),NM,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,TNP (EtOH),NE,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,TNT (EtOH),DNT (EtOH),ethanol,room temperature,N/A,Ksv (M⁻¹),Ksv (M⁻¹),1364,968,Table 1
+10.1021/acsomega.3c02349,aza-BODIPY,TNT (EtOH),NM,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,TNT (EtOH),NE,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 5
+10.1021/acsomega.3c02349,aza-BODIPY,DNT (EtOH),NM,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 4
+10.1021/acsomega.3c02349,aza-BODIPY,DNT (EtOH),NE,ethanol,room temperature,N/A,quenching efficiency,response strength (strong vs negligible),strong,negligible,Figure 4
+10.1021/jo502281b,4g,PA,TNT,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,280,Table 3
+10.1021/jo502281b,4g,PA,DNP,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,100,Table 3
+10.1021/jo502281b,4g,PA,DNT,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,800,Table 3
+10.1021/jo502281b,4g,PA,NP,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,150,Table 3
+10.1021/jo502281b,4g,PA,NT,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,1200,Table 3
+10.1021/jo502281b,4g,PA,NBD,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,600,Table 3
+10.1021/jo502281b,4g,PA,NB,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,1700,Table 3
+10.1021/jo502281b,4g,PA,NM,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,>8000,Table 3
+10.1021/jo502281b,4g,PA,BA,THF,not specified,not specified,fluorescence_quenching,Amount (equiv.),20,,Table 3
+10.1021/jo502281b,4g,DNP,TNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,280,Table 3
+10.1021/jo502281b,4g,TNT,DNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,800,Table 3
+10.1021/jo502281b,4g,NP,TNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,150,280,Table 3
+10.1021/jo502281b,4g,TNT,NT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,1200,Table 3
+10.1021/jo502281b,4g,TNT,NBD,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,600,Table 3
+10.1021/jo502281b,4g,TNT,NB,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,1700,Table 3
+10.1021/jo502281b,4g,TNT,NM,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,>8000,Table 3
+10.1021/jo502281b,4g,TNT,BA,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,280,Fluorescence enhancement,Table 3
+10.1021/jo502281b,4g,DNP,DNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,800,Table 3
+10.1021/jo502281b,4g,DNP,NP,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,150,Table 3
+10.1021/jo502281b,4g,DNP,NT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,1200,Table 3
+10.1021/jo502281b,4g,DNP,NBD,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,600,Table 3
+10.1021/jo502281b,4g,DNP,NB,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,1700,Table 3
+10.1021/jo502281b,4g,DNP,NM,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,>8000,Table 3
+10.1021/jo502281b,4g,DNP,BA,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,100,Fluorescence enhancement,Table 3
+10.1021/jo502281b,4g,NP,DNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,150,800,Table 3
+10.1021/jo502281b,4g,DNT,NT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,800,1200,Table 3
+10.1021/jo502281b,4g,NBD,DNT,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,600,800,Table 3
+10.1021/jo502281b,4g,DNT,NB,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,800,1700,Table 3
+10.1021/jo502281b,4g,DNT,NM,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,800,>8000,Table 3
+10.1021/jo502281b,4g,DNT,BA,THF,not specified,not applicable,fluorescence quenching,Amount of analyte (equiv.) for 98% fluorescence quenching,800,Fluorescence enhancement,Table 3
+10.1002/anie.201104119,CB6,n-butane,isobutane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,84 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,n-butane,ethane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,24 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,n-butane,propane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,180 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,n-butane,n-pentane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,9 ± 4 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,n-butane,cyclopentane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,61 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,n-butane,cyclohexane,water,25.0 °C,3.0,binding_constant,K,280 × 10³ M⁻¹,25 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,propane,ethane,water,25.0 °C,3.0,binding_constant,K,180 × 10³ M⁻¹,24 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,propane,n-pentane,water,25.0 °C,3.0,binding_constant,K,180 × 10³ M⁻¹,9 ± 4 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,propane,cyclopentane,water,25.0 °C,3.0,binding_constant,K,180 × 10³ M⁻¹,61 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,propane,cyclohexane,water,25.0 °C,3.0,binding_constant,K,180 × 10³ M⁻¹,25 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,isobutane,ethane,water,25.0 °C,3.0,binding_constant,K,84 × 10³ M⁻¹,24 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,isobutane,n-pentane,water,25.0 °C,3.0,binding_constant,K,84 × 10³ M⁻¹,9 ± 4 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,isobutane,cyclopentane,water,25.0 °C,3.0,binding_constant,K,84 × 10³ M⁻¹,61 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,isobutane,cyclohexane,water,25.0 °C,3.0,binding_constant,K,84 × 10³ M⁻¹,25 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,ethane,n-pentane,water,25.0 °C,3.0,binding_constant,K,24 × 10³ M⁻¹,9 ± 4 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,cyclopentane,cyclohexane,water,25.0 °C,3.0,binding_constant,K,61 × 10³ M⁻¹,25 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,cyclopentane,neopentane,water,25.0 °C,3.0,binding_constant,K,61 × 10³ M⁻¹,< 2 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,cyclohexane,neopentane,water,25.0 °C,3.0,binding_constant,K,25 × 10³ M⁻¹,< 2 × 10³ M⁻¹,Table 1
+10.1002/anie.201104119,CB6,isobutane,methane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,<2,Table 1
+10.1002/anie.201104119,CB6,isobutane,ethylene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,3.9,Table 1
+10.1002/anie.201104119,CB6,isobutane,propene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,0.11,Table 1
+10.1002/anie.201104119,CB6,isobutane,propane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,180,Table 1
+10.1002/anie.201104119,CB6,isobutane,n-butane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,280,Table 1
+10.1002/anie.201104119,CB6,isobutane,1-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,79,Table 1
+10.1002/anie.201104119,CB6,isobutane,cis-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,150,Table 1
+10.1002/anie.201104119,CB6,isobutane,trans-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,21,Table 1
+10.1002/anie.201104119,CB6,isobutane,isobutene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,84,Table 1
+10.1002/anie.201104119,CB6,isobutane,neopentane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,850,15 ± 5,Table 1
+10.1002/anie.201104119,CB6,n-butane,methane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,<2,Table 1
+10.1002/anie.201104119,CB6,n-butane,ethylene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,3.9,Table 1
+10.1002/anie.201104119,CB6,n-butane,propene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,0.11,Table 1
+10.1002/anie.201104119,CB6,n-butane,1-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,79,Table 1
+10.1002/anie.201104119,CB6,n-butane,cis-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,150,Table 1
+10.1002/anie.201104119,CB6,n-butane,trans-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,21,Table 1
+10.1002/anie.201104119,CB6,n-butane,isobutene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,84,Table 1
+10.1002/anie.201104119,CB6,n-butane,neopentane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,280,15 ± 5,Table 1
+10.1002/anie.201104119,CB6,propane,methane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,180,<2,Table 1
+10.1002/anie.201104119,CB6,propane,ethylene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,180,3.9,Table 1
+10.1002/anie.201104119,CB6,propane,propene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,180,0.11,Table 1
+10.1002/anie.201104119,CB6,propane,1-butene,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,180,79,Table 1
+10.1002/anie.201104119,CB6,cis-butene,methane,water,25.0 ± 0.1 °C,3.0,binding constant,Table 1,150,<2,Table 1

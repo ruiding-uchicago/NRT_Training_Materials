@@ -1,0 +1,238 @@
+{
+ "records": [
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (water)",
+   "interferent": "TNT (EtOH)",
+   "condition": {
+    "solvent": "water (target), ethanol (interferent)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "Ksv (M⁻¹)",
+   "label_basis": "Ksv (M⁻¹)",
+   "target_value": "1420",
+   "interferent_value": "1364",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (water)",
+   "interferent": "DNT (EtOH)",
+   "condition": {
+    "solvent": "water (target), ethanol (interferent)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "Ksv (M⁻¹)",
+   "label_basis": "Ksv (M⁻¹)",
+   "target_value": "1420",
+   "interferent_value": "968",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (water)",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "water (target), ethanol (interferent)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (water)",
+   "interferent": "NE",
+   "condition": {
+    "solvent": "water (target), ethanol (interferent)",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT (EtOH)",
+   "interferent": "TNP (EtOH)",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "Ksv (M⁻¹)",
+   "label_basis": "Ksv (M⁻¹)",
+   "target_value": "1364",
+   "interferent_value": "1215",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (EtOH)",
+   "interferent": "DNT (EtOH)",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "Ksv (M⁻¹)",
+   "label_basis": "Ksv (M⁻¹)",
+   "target_value": "1215",
+   "interferent_value": "968",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (EtOH)",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP (EtOH)",
+   "interferent": "NE",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT (EtOH)",
+   "interferent": "DNT (EtOH)",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "Ksv (M⁻¹)",
+   "label_basis": "Ksv (M⁻¹)",
+   "target_value": "1364",
+   "interferent_value": "968",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT (EtOH)",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT (EtOH)",
+   "interferent": "NE",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 5",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "DNT (EtOH)",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 4",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "DNT (EtOH)",
+   "interferent": "NE",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room temperature",
+    "pH": "N/A"
+   },
+   "readout_type": "quenching efficiency",
+   "label_basis": "response strength (strong vs negligible)",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 4",
+    "page": "25258"
+   }
+  }
+ ]
+}

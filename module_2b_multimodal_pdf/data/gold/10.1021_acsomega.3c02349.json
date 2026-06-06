@@ -1,0 +1,294 @@
+{
+  "schema": "wetsensebench_extraction_v0.1",
+  "doi": "10.1021/acsomega.3c02349",
+  "paper_metadata": {
+    "title": "Application of aza-BODIPY as a Nitroaromatic Sensor",
+    "authors": [
+      "Bleda Can Sadikogullari",
+      "Ilayda Koramaz",
+      "Berkay Sutay",
+      "Bunyamin Karagoz",
+      "Ayse Daut Ozdemir"
+    ],
+    "journal": "ACS Omega",
+    "year": 2023,
+    "primary_pdf": "/Users/ruiding/mac_python_folder/2026_april_icml_rapids_writeup/wet_validation_collections/batch_1_papers/10.1021-acsomega.3c02349/main.pdf",
+    "si_pdf": "/Users/ruiding/mac_python_folder/2026_april_icml_rapids_writeup/wet_validation_collections/batch_1_papers/10.1021-acsomega.3c02349/SI.pdf"
+  },
+  "exclude_paper": false,
+  "exclude_reason": "",
+  "receptors": [
+    {
+      "receptor_id": "R1_aza_BODIPY",
+      "name": "tetraphenyl-conjugated aza-BODIPY (4,4'-difluoro-4-bora-3a,4a,8-triaza-s-indacene, tetraphenyl substituted)",
+      "description": "Tetraphenyl-substituted aza-BODIPY fluorophore synthesized via O'Shea's method; NIR-emitting at ~668 nm; central BF2-aza-dipyrromethene core with four phenyl substituents.",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "Tetraphenyl-aza-BODIPY (BF2 complex of tetraphenyl aza-dipyrromethene; neutral molecule C32H22BF2N3, exact mass 497.19; paper-reported m/z 498.19 corresponds to [M+H]+)",
+      "smiles": "F[B-]1(F)N2C(c3ccccc3)=CC(c3ccccc3)=C2N=C2C(c3ccccc3)=CC(c3ccccc3)=[N+]21",
+      "smiles_basis": "Figure 1 scheme structure 4 (1,3,5,7-tetraphenyl-aza-BODIPY); RDKit-validated neutral form C32H22BF2N3 exact mass 497.1875 (HR-MS 498.19 is [M+H]+); O'Shea synthesis route",
+      "smiles_verified": true,
+      "smiles_corrected": true,
+      "original_smiles": "FB1(F)N2C(c3ccccc3)=CC(c3ccccc3)=C2/N=C2\\C(c3ccccc3)=CC(c3ccccc3)=N21",
+      "correction_reason": "Original SMILES had neutral 4-valent boron (RDKit valence error). Corrected to standard aza-BODIPY chelate representation with [B-](F)(F) and one [N+] (zwitterionic resonance form of BF2 dative chelate); yields C32H22BF2N3, exact mass 497.1875, matching neutral molecule (paper's 498.19 m/z = [M+H]+)."
+    }
+  ],
+  "analytes": [
+    {
+      "analyte_id": "A_TNP",
+      "name": "2,4,6-trinitrophenol (picric acid, TNP)",
+      "role": "target",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "OC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "A_TNT",
+      "name": "2,4,6-trinitrotoluene (TNT)",
+      "role": "target",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "CC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "A_DNT",
+      "name": "2,4-dinitrotoluene (DNT)",
+      "role": "target",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "CC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "A_NM",
+      "name": "nitromethane (NM)",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "C[N+]([O-])=O",
+      "smiles_verified": true
+    },
+    {
+      "analyte_id": "A_NE",
+      "name": "nitroethane (NE)",
+      "role": "interferent",
+      "charge_class": "neutral",
+      "smiles_or_structure_notes": "CC[N+]([O-])=O",
+      "smiles_verified": true
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "C_ACN_EtOH",
+      "solvent": "acetonitrile with ethanol analyte stock",
+      "temperature": "room temperature",
+      "pH": "not specified",
+      "notes": "aza-BODIPY (2.5e-6 M) in acetonitrile; analyte added as 1 mM solution in ethanol; fluorescence excitation 642 nm, emission ~668 nm."
+    },
+    {
+      "condition_id": "C_ACN_water",
+      "solvent": "acetonitrile with water analyte stock",
+      "temperature": "room temperature",
+      "pH": "not specified",
+      "notes": "aza-BODIPY (2.5e-6 M) in acetonitrile; TNP added as 1 mM solution in water; fluorescence quenching titration."
+    }
+  ],
+  "pairwise_labels": [
+    {
+      "label_id": "L01_TNP_EtOH_vs_TNT_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNP",
+      "interferent_id": "A_TNT",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "Ksv",
+      "target_value": "Ksv(TNP in EtOH) = 1215 M^-1",
+      "interferent_value": "Ksv(TNT in EtOH) = 1364 M^-1",
+      "normalized_direction": "larger Ksv = stronger quenching",
+      "gold_label_for_rapids": "interferent_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Table 1",
+        "quote": "TNP (EtOH) Ksv 1215; TNT (EtOH) Ksv 1364"
+      },
+      "notes": "Same EtOH stock condition. TNT slightly outperforms TNP under EtOH-only condition; paper attributes overall TNP-best result to water co-solvent effect."
+    },
+    {
+      "label_id": "L02_TNP_EtOH_vs_DNT_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNP",
+      "interferent_id": "A_DNT",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "Ksv",
+      "target_value": "Ksv(TNP in EtOH) = 1215 M^-1",
+      "interferent_value": "Ksv(DNT in EtOH) = 968 M^-1",
+      "normalized_direction": "larger Ksv = stronger quenching",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Table 1",
+        "quote": "TNP (EtOH) Ksv 1215; DNT (EtOH) Ksv 968"
+      },
+      "notes": "Same EtOH stock condition; TNP > DNT in Ksv."
+    },
+    {
+      "label_id": "L03_TNT_EtOH_vs_DNT_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNT",
+      "interferent_id": "A_DNT",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "Ksv",
+      "target_value": "Ksv(TNT in EtOH) = 1364 M^-1",
+      "interferent_value": "Ksv(DNT in EtOH) = 968 M^-1",
+      "normalized_direction": "larger Ksv = stronger quenching",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Table 1",
+        "quote": "TNT (EtOH) Ksv 1364; DNT (EtOH) Ksv 968"
+      },
+      "notes": "TNT (three NO2) gives larger Ksv than DNT (two NO2) under same EtOH condition; consistent with pi-pi/electron-acceptor argument."
+    },
+    {
+      "label_id": "L04_TNP_EtOH_vs_NM_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNP",
+      "interferent_id": "A_NM",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "TNP in EtOH shows substantial dilution-corrected quenching (~5 units in Fig 4A)",
+      "interferent_value": "NM in EtOH shows essentially no dilution-corrected quenching (~0 in Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution but nothing else"
+      },
+      "notes": "Nonaromatic NM lacks pi-pi interaction; defeated by TNP."
+    },
+    {
+      "label_id": "L05_TNP_EtOH_vs_NE_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNP",
+      "interferent_id": "A_NE",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "TNP in EtOH shows substantial dilution-corrected quenching (Fig 4A)",
+      "interferent_value": "NE in EtOH shows essentially no dilution-corrected quenching (Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "blind titrations against the solvent. As a result, quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution but nothing else"
+      },
+      "notes": "Nonaromatic NE lacks pi-pi interaction; defeated by TNP."
+    },
+    {
+      "label_id": "L06_TNT_EtOH_vs_NM_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNT",
+      "interferent_id": "A_NM",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "TNT in EtOH Ksv = 1364 M^-1 with significant dilution-corrected quenching (Fig 4A)",
+      "interferent_value": "NM in EtOH essentially no dilution-corrected quenching (Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution"
+      },
+      "notes": "Aromatic NAC defeats nonaromatic nitro compound."
+    },
+    {
+      "label_id": "L07_TNT_EtOH_vs_NE_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_TNT",
+      "interferent_id": "A_NE",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "TNT in EtOH Ksv = 1364 M^-1 with significant dilution-corrected quenching (Fig 4A)",
+      "interferent_value": "NE in EtOH essentially no dilution-corrected quenching (Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution"
+      },
+      "notes": "Aromatic NAC defeats nonaromatic nitro compound."
+    },
+    {
+      "label_id": "L08_DNT_EtOH_vs_NM_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_DNT",
+      "interferent_id": "A_NM",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "DNT in EtOH Ksv = 968 M^-1 with significant dilution-corrected quenching (Fig 4A)",
+      "interferent_value": "NM in EtOH essentially no dilution-corrected quenching (Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution"
+      },
+      "notes": "Aromatic NAC defeats nonaromatic nitro compound."
+    },
+    {
+      "label_id": "L09_DNT_EtOH_vs_NE_EtOH",
+      "receptor_id": "R1_aza_BODIPY",
+      "target_id": "A_DNT",
+      "interferent_id": "A_NE",
+      "condition_id": "C_ACN_EtOH",
+      "readout_type": "fluorescence_quenching",
+      "label_basis": "delta_I",
+      "target_value": "DNT in EtOH Ksv = 968 M^-1 with significant dilution-corrected quenching (Fig 4A)",
+      "interferent_value": "NE in EtOH essentially no dilution-corrected quenching (Fig 4A)",
+      "normalized_direction": "larger dilution-free quenching = stronger response",
+      "gold_label_for_rapids": "target_favored",
+      "rapids_ready": true,
+      "recommended_computational_route": "RAPIDS_MLIP_only",
+      "confidence": "high",
+      "evidence": {
+        "page": "25258",
+        "figure_or_table": "Figure 4A",
+        "quote": "quenching caused by the addition of nonaromatic compounds seems to be caused only from dilution"
+      },
+      "notes": "Aromatic NAC defeats nonaromatic nitro compound."
+    }
+  ],
+  "rapids_results": []
+}

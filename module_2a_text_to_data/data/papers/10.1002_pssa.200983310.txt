@@ -1,0 +1,127 @@
+Vahe V. Buniatyan
+
+Department of Microelectronics and Biomedical Devices, State Engineering University of Armenia, 0009 Yerevan, Armenia
+
+Institute of Nano- and Biotechnologies, Aachen University of Applied Sciences, 52428 Jülich, Germany
+
+Maryam H. Abouzar
+
+Institute of Bio- and Nanosystems, Research Centre Jülich GmbH, 52425 Jülich, Germany
+
+Norayr W. Martirosyan
+
+Jürgen Schubert
+
+Spartak Gevorgian
+
+Department of Microtechnology and Nanoscience, Chalmers University of Technology, 41296 Gothenburg, Sweden
+
+Michael J. Schöning
+
+Corresponding Author
+
+Arshak Poghossian
+
+Give access
+
+Share full-text access
+
+Use the link below to share a full-text version of this article with your friends and colleagues.Learn more.
+
+Share a link
+
+pH-sensitive properties of barium strontium titanate (BST) high-k thin films as alternative gate material for field-effect capacitive (bio-)chemical sensors based on an electrolyte-insulator-semiconductor system have been investigated. The BST films of different compositions (Ba0.31Sr0.69TiO3, Ba0.25Sr0.75TiO3and Mg-doped Ba0.8Sr0.2Mg0.1Ti0.9O3) were deposited by pulsed laser deposition technique from targets fabricated by self-propagating high-temperature synthesis. The realised sensors have been electrochemically characterised by means of impedance-spectroscopy, capacitance–voltage and constant-capacitance method. The sensors possess a Nernstian-like pH sensitivity in the concentration range between pH 3 and 11 with a response time of 5–10 s. An equivalent circuit model for the BST-based capacitive field-effect sensor is discussed.
+
+Because of the unique multifunctional material properties (ferroelectric, pyroelectric, piezoelectric, mirowave and electro-optic), the high permittivity, low loss and electric tuneable features, perovskite-type composite oxides of the ABO3system have received intensive research activities in many applications1-5. Perovskite oxides are used in high-density dynamic random access memories (DRAM)1, voltage-tuneable capacitors (varactors)1-4, ferroelectric field-effect transistors6,7, optical memories and electro-optic modulators1, solid-oxide fuel cells8,etc. In addition, the mixed conductive properties and high catalytic activity of perovskite oxides have been used to develop a large variety of gas and vapour sensors. Examples of realised devices include sensors sensitive to carbon monoxide and hydrocarbon9, hydrogen10, ethanol11,12and acetone12vapour, humidity13,etc. The sensing principle of these sensors is mainly related to the catalytic oxidation of the compounds to be detected in the presence of the oxygen vacancies in perovskite oxides.
+
+Due to the multifunctional material properties and large variety in the oxide composition by choosing different A and B elements, perovskite oxides are also very attractive for the creation of chemical sensors and biosensors working in liquids. For instance, pH-sensitive characteristics of perovskite oxides of different compositions (Li2xCa0.5−xTaO3(0.05 ≤ × ≤ 0.25), lead titanate, Mg2+-doped lead titanate, PrTiO3and Li0.30La0.56TiO3) have been investigated in14-19. The suitability of La0.5Sr0.5CoO3thin films and BaTiO3nanotubes for the detection of hydrogen peroxide was shown in Ref.20,21. The possibility of application of perovskite oxides for immuno-electrodes was demonstrated in Ref.22.
+
+Perovskite oxides of the barium strontium titanate (BST) composition belong to the most popular ferroelectric materials. While their ferroelectric, pyroelectric, piezoelectric, microwave and electro-optic properties have been well studied1-4, to our knowledge, very little is known so far about the behaviour of high-kBST thin films in electrolyte solutions and their application for (bio-)chemical sensors22-24.
+
+In the present work, pH-sensitive properties of BST thin films of different compositions prepared by means of pulsed laser deposition (PLD) technique from targets fabricated by the self-propagating high-temperature synthesis (SHS) have been investigated using field-effect capacitive electrolyte-BST-insulator-semiconductor (EBSTIS) structures. In contrast to the conventional high-temperature ceramic technology, the SHS method is simple, ecologically clean, waste-less, energy-saving, high productive and cost-effective. By variation of the initial mixture components and the combustion conditions, it is possible to produce multiphase materials with a given chemical and phase composition as well as to control their microstructure and properties. In addition, the high velocity of the process provides a short synthesis time. These important features of the SHS technology often result in remarkably improved material properties in comparison with the same composites prepared by conventional ceramic techniques. The possibility of application of SHS-prepared BST thin films as pH-sensitive gate material for capacitive field-effect sensors has been recently demonstrated for the first time by the authors in Ref.23.
+
+Perovskite oxides of different compositions (Ba0.31Sr0.69TiO3, Ba0.25Sr0.75TiO3and Mg-doped Ba0.8Sr0.2Mg0.1Ti0.9O3) have been synthesised using the SHS technological equipment schematically shown in Fig.123,25. In the SHS process, a highly exothermic combustion of a powder mixture is locally initiated from the sample surface by means of a heat flux. After initiation, the reaction proceeds in the mode of self-propagation, resulting in a formation of a high-temperature front that propagates and converts the initial materials into the final high-quality product with a minimal amount of impurities due to the so-called self-purification process26,27.
+
+(online colour at:www.pss-a.com) Schematic of the technological equipment used for the SHS process. 1: quartz-tube reactor; 2: tungsten/rhenium (W/Re) thermocouple; 3: green mixture; 4: combustion front; 5: igniter; 6: signal amplifier; 7: analogue-digital convertor; 8: personal computer.
+
+For the SHS experiments, the initial materials (Ti, TiO2, SrCO3and BaO2) have been milled to powder with grain sizes of about 5–10 µm, dried and thoroughly mixed. The grinding has been done by planetary milling method for 3 h under wet conditions with acetone as a milling medium. The mixture of reactant powders is then placed in a quartz-tube reactor and ignited by the heated wire. The use of oxygen as an oxidant and Ti as a fuel provides combustion temperatures of 1 400–1 800 °C and wave-front propagation velocities of 1–4 mm/s. To prepare targets for the PLD process, the synthesized SHS product has been milled to powders of 0.5–5 µm, pressed into pellets at a pressure of 4.5 ton/cm2, and then heated at 1 350 °C for 4–5 h. The resulting target had a cylindrical shape with a height of 15 mm and a diameter of 15 mm.
+
+The amorphous BST thin films (∼100 nm thick) of Ba0.25Sr0.75TiO3, Ba0.31Sr0.69TiO3and Mg-doped Ba0.8Sr0.2Mg0.1Ti0.9O3composition were prepared onto Si-SiO2substrates (p-Si,ρ= 5–10 Ωcm; 50 nm SiO2, chip size: 10 × 10 mm2) by PLD technique using the targets fabricated by the SHS method. The main advantages of the PLD technique are the compatibility with silicon technology, the controlled deposition of multicomponent materials as perovskite oxides in a defined stoichiometry as well as the short deposition time due to the high growth rates28,29. The BST films were deposited at 400 °C in an oxygen ambient (2 × 10−3mbar) using a KrF excimer laser with a wavelength of 248 nm. The laser pulse length, frequency and energy were 20 ns, 10 Hz and 2.5 J/cm2, respectively. Before the PLD growth, a 300 nm thick Al film was deposited on the rear side of the chip as contact layer.
+
+The prepared BST layers have been physically characterised (thickness, surface morphology, composition) by means of ellipsometry, scanning-electron microscopy (SEM), Rutherford backscattering spectrometry (RBS) and X-ray diffraction analysis (XRD) methods. As an example, Fig.2ashows the cross-sectional SEM picture of a Si-SiO2-BST layer structure with a 47 nm SiO2and a 92 nm BST film. RBS measurements (Fig.2b) could verify the stoichiometric transfer from the original target material to the thin-film state.
+
+(online colour at:www.pss-a.com) Cross-sectional SEM picture of the Si-SiO2-BST layer structure (a) and results of RBS measurements (b).
+
+The realised p-Si-SiO2-BST capacitive field-effect structures were characterised in different pH buffer solutions by means of capacitance–voltage (C–V), constant-capacitance (ConCap) and impedance-spectroscopy (in a frequency range from 1 Hz to 1 MHz) methods using an impedance analyser (Zahner Elektrik). The measurement setup for the electrochemical characterisation of the sensors and schematic of the layer structure is presented in Fig.3.
+
+(online colour at:www.pss-a.com) Measurement setup for the electrochemical characterisation of BST-based capacitive field-effect sensors (a), and schematic of the layer structure (b).
+
+For the measurements, the Si-SiO2-BST chip was mounted into a home-made measuring cell, sealed by an O-ring and contacted on its front side by the electrolyte and a reference electrode (conventional liquid-junction Ag/AgCl electrode, Metrohm), and on its rear side by a gold-plated pin. For operating the sensor, a dc polarisation voltage is applied via the reference electrode to set the working point in the depletion range of the capacitance–voltage curve, and a small superimposed ac voltage with an amplitude of 20 mV is applied to measure the capacitance of the sensor. All potential values are referred to the Ag/AgCl reference electrode. The contact area of the sensor with the solution was about 0.5 cm2. The measurements have been performed in a dark Faraday cage at room temperature. For the details of the experimental setup, see e.g., Ref.30.
+
+Figure4depicts a set ofC–Vcurves for the p-Si-SiO2-Ba0.31Sr0.69TiO3(a) and p-Si-SiO2-Ba0.8Sr0.2Mg0.1Ti0.9O3(b) structure, respectively, as a function of the frequency (so-called capacitance–voltage spectroscopy or frequency-dependentC–Vcurves) measured in Titrisol buffer solution of pH 7 at different frequencies from 30 Hz to 1 kHz. For comparison, theC–Vcurve of a bare p-Si-SiO2EIS (electrolyte-insulator-semiconductor) structure, measured at a frequency of 100 Hz, is presented, too (Fig.4a).
+
+(online colour at:www.pss-a.com) Frequency-dependentC–Vcurves for the p-Si-SiO2-Ba0.31Sr0.69TiO3(a) and p-Si-SiO2-Ba0.8Sr0.2Mg0.1Ti0.9O3(b) structure measured in buffer solution of pH 7 at different frequencies from 30 Hz to 1 kHz. For comparison, theC–Vcurve for a bare p-Si-SiO2structure, measured at a frequency of 100 Hz, is presented, too.
+
+As can be seen, similar to the metal-insulator-semiconductor or EIS capacitor, dependent on the magnitude and polarity of the applied gate voltage,Vg, theC–Vcurves of the BST-based sensors show three distinct regions: accumulation (Vg< −1.5 V), depletion (approximately between −1 and 0 V) and inversion (Vg> 0.5 V). However, in comparison with the bare p-Si-SiO2structure, theC–Vcurves and flat-band voltage of the p-Si-SiO2-BST structure are shifted (ΔVfb∼ 0.6 V) to more negative gate voltages. This is a first indication of the presence of additional positive charges in the EBSTIS structure, in particular, in the BST layer and/or at the BST/SiO2and electrolyte/BST interfaces. In the accumulation range, the capacitance of the whole EBSTIS structure is determined by the geometrical capacitance of the gate insulator,i.e. the capacitances of the SiO2and BST in series. For a capacitive field-effect sensor application, the more useful range represents, however, the depletion region of theC–Vcurve.
+
+Because the BST films usually exhibit a certain ionic or mixed conductivity, they can be described as a parallel network of the BST geometric resistance,RBST, and the capacitance,CBST, which is in series with the capacitance of the bare p-Si-SiO2structure. Due to the high dielectric constant (e.g., a dielectric constant value of 80 has been reported for 150 nm thick amorphous Ba0.3Sr0.7TiO3films at room temperature5), and therefore, higher capacitance of the BST films, the maximum capacitance in the accumulation region is not significantly influenced by the BST layer, compared to the bare p-Si-SiO2structure (∼36 nF for a 50 nm SiO2layer, see Fig.4a). On the other hand, with increase in the frequency, theC–Vcurves slightly shift along the capacitance axis towards smaller capacitance values that is due to the presence of theRBSTresistance. Similar behaviour has also been observed for EIS structures covered with an additional ion-sensitive membrane31-35. This suggestion is supported by impedance spectroscopy measurements.
+
+As an example, Fig.5ashows impedance spectra for a p-Si-SiO2-Ba0.31Sr0.69TiO3structure recorded in a pH 7 buffer solution in the accumulation, depletion and inversion range at polarisation voltages of −3.5, −1 and 2 V, respectively. A linear behaviour has been observed at low frequencies, which bends over to a plateau of a constant impedance at frequencies>1 kHz. In addition, at frequencies of less than 1 kHz, the impedance is increased by passing from the accumulation to the depletion region and even further raised in case of the inversion region. Such behaviour of the impedance curves can be explained due to the decrease in total capacitance of the sensor structure. However, at very low frequencies (<20–30 Hz), the impedance of the sensor in the inversion range recovers to values that correspond to the impedance in the accumulation range, which can be attributed to the low frequencyC–Vbehaviour of the sensor, where the total capacitance of the sensor is again increased passing from the depletion to the inversion range (see Fig.4).
+
+Impedance spectra for a p-Si-SiO2-Ba0.31Sr0.69TiO3structure recorded in pH 7 buffer solution in the accumulation, depletion and inversion range (a), and simplified equivalent circuit of an EBSTIS structure (b). BST is described as parallel network of the BST geometric resistance,RBST, and the capacitance,CBST.
+
+Figure6depicts a typical set ofC–Vcurves for sensors with a Ba0.31Sr0.69TiO3and a Ba0.8Sr0.2Mg0.1Ti0.9O3film measured in buffer solutions with different pH values from pH 3 to 11.
+
+Typical set ofC–Vcurves for BST-based field-effect sensors with Ba0.31Sr0.69TiO3(a) and Ba0.8Sr0.2Mg0.1Ti0.9O3(b) film as pH-sensitive material measured in buffer solutions with different pH values from pH 3 to 11.
+
+As expected, theC–Vcurves of the EBSTIS structure are pH-dependent due to the contribution of the potential at the BST/electrolyte interface. With decrease in pH, theC–Vcurves are shifted along the voltage axis in the direction of a more negative flat-band voltage due to the change of the additional potential drop at the electrolyte/BST interface. A similar behaviour has been observed for an EBSTIS sensor with a Ba0.25Sr0.75TiO3film as pH-sensitive gate material. The EBSTIS sensors with both Ba0.25Sr0.75TiO3and Ba0.31Sr0.69TiO3films show an average pH sensitivity of 46–50 mV/pH in the range of pH 3–11 (the pH sensitivity of the sensors was evaluated from the linear region of theC–Vcurves at ∼60% of the maximum capacitance). For some sensors, a pH sensitivity of 54–56 mV/pH has been observed that is comparable with pH-sensitivity values reported for Si3N4(46–56 mV/pH), Al2O3(49–57 mV/pH) and Ta2O5films (55–59 mV/pH), which have often been utilised as pH-sensitive transducer material in ion-sensitive field-effect transistors35-40. The pH sensitivity of Ba0.8Sr0.2Mg0.1Ti0.9O3films was 35–40 mV/pH in the range from pH 3 to 11 that is comparable with the average pH sensitivity reported for SiO2(∼37 mV/pH in the range of pH 3–935). The smaller pH sensitivity of the Ba0.8Sr0.2Mg0.1Ti0.9O3layer in comparison with Ba0.25Sr0.75TiO3and Ba0.31Sr0.69TiO3films might be explained due to the partial replacement of both the lattice and surface Ti4+ions by Mg2+ions41.
+
+The mechanism of the pH sensitivity of BST films can be explained by the protonation/deprotonation of the hydroxyl groups at the BST surface according to the site-binding model (see e.g., Ref.35and references there). The resulting pH-dependent electrical surface charge of BST leads to a modulation of the space-charge capacitance in the Si, thus generating a pH-dependent sensor signal that in fact, was observed during theC–Vmeasurements.
+
+Figure7exemplarily demonstrates the dynamic pH response of an EBSTIS sensor with a Ba0.31Sr0.69TiO3(a) and a Ba0.8Sr0.2Mg0.1Ti0.9O3(b) layer recorded in different pH buffer solutions at a frequency of 100 Hz. In this experiment, the capacitance of the EBSTIS sensor has been kept at a fixed value within the depletion region of theC–Vcurve (a working point was chosen at ∼60% of the maximum capacitance) using a feedback-control circuit, and the pH-dependent signal changes were directly recorded.
+
+ConCap response of an EBSTIS sensor with Ba0.31Sr0.69TiO3(a) and Ba0.8Sr0.2Mg0.1Ti0.9O3(b) film recorded in buffer solutions of different pH values.
+
+As can be seen, the sensor signal shows a clear dependence on the pH value of the solution within the loop cycle of pH 7 → 13 → 11 → 13 → 3 → 13 (a) and pH 7 → 3 → 11 → 3 → 11 (b). The response time (t90%) was about 5–10 s. In contrast to pH sensors based on sputtered Ba0.7Sr0.3TiO3films reported in Ref.24, which were almost insensitive at pH > 10, our structures are pH-sensitive up to a pH value of 13 (see Fig.7a). On the other hand, in comparison with often used pH-sensitive materials such as Si3N4or Ta2O5, the hysteresis of the BST sensors was relatively large. In addition, surprisingly, the pH sensitivity values evaluated from the ConCap curves were smaller than that from theC–Vcurves. The performed experiments do not allow to explain the origin for this phenomenon. Since such an effect has not been observed for most of the pH-sensitive materials, like SiO2, Ta2O5, Al2O3, it can be attributed to possible polarisation effects in the bulk BST, BST/electrolyte or BST/SiO2interfaces and/or relatively large hysteresis within the loop cycle. In further works, this effect will be studied in detail.
+
+The obtained results demonstrate the potential of PLD-prepared BST films as alternative gate material for capacitive field-effect pH sensors based on an electrolyte-high-k dielectric-insulator-semiconductor system. The main advantages of the realised sensors are their simple structure, and the ecologically clean and cost-effective synthesis of the BST targets of desired composition and doping elements by means of the SHS technology. Future experiments will focus on a detailed investigation of the effects of composition, crystalline structure (amorphous, polycrystalline), post-treatment and oxygen vacancies in the BST films on the device performances.
+
+Although the obtained values of pH sensitivity of BST-based sensors were comparable or smaller than in case of Ta2O5films35-40, nevertheless, BST films are very attractive in the (bio-)chemical sensor field as catalytically active multifunctional materials, for instance, for the development of so-called high-order multisensor systems36,37,39that is based on the same material but different transducer concepts (e.g., field-effect, amperometric electrodes, changes in work function and/or dielectric constant).
+
+The authors gratefully thank H. P. Bochem for technical support. V. B. gratefully thanks the German Academic Exchange Service (DAAD) for financial support.
+
+Volume207,Issue4
+
+Special Issue:Engineering of Functional Interfaces EnFI 2009
+
+April 2010
+
+Pages824-830
+
+Pulsed‐Laser Deposition of Barium Titanate Thin Films
+
+High Tunability of Nonepitaxially Grown Ba0.6Sr0.4TiO3Thin Films Prepared by Plasma-Assisted Pulsed Laser Deposition
+
+Flextensional Barium Strontium Titanate Actuators
+
+Ferroelectric properties of barium strontium titanate thin films grown by RF co‐sputtering
+
+Influence of Crystal Structure on the Fatigue Properties of Pb1−xLax(Zry′, Tiz)O3Thin Films Prepared by Pulsed-Laser Deposition Technique
+
+Copyright © 1999-2025John Wiley & Sons, Incor related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Your password has been changed
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username
+
+The full text of this article hosted at iucr.org is unavailable due to technical difficulties.

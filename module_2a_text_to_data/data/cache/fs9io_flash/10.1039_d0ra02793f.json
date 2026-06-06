@@ -1,0 +1,15 @@
+{
+  "stem": "10.1039_d0ra02793f",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "glucose",
+      "lower_detection_limit": "10e-6 M",
+      "upper_detection_limit": "10e-3 M",
+      "probe_material": "phenylboronic acid",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "9",
+      "test_medium": "N-Cyclohexyl-2-aminoethanesulfonic acid/water"
+    }
+  ]
+}

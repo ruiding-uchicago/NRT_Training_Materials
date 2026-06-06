@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s40242-021-1167-6",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "730%/ppm",
+      "upper_detection_limit": "",
+      "probe_material": "6,13-bis(triisopropylsilylethynyl)pentacene (TIPS-pentacene)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

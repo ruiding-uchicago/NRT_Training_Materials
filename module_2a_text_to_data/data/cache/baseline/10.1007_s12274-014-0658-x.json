@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s12274-014-0658-x",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "mercury(II) ions (Hg2+)",
+      "lower_detection_limit": "30 pM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "few-layer molybdenum disulfide (MoS2)",
+      "test_operating_temperature (celcius)": "",
+      "pH_value": "",
+      "test_medium": "aqueous solution (deionized water with Hg(ClO4)2)"
+    }
+  ]
+}

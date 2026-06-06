@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s10854-019-02429-z",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide",
+      "lower_detection_limit": "1 ppm",
+      "upper_detection_limit": "10 ppm",
+      "probe_material": "poly(vinyl alcohol)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}

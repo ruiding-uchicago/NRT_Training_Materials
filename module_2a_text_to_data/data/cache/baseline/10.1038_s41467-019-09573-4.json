@@ -1,0 +1,15 @@
+{
+  "stem": "10.1038_s41467-019-09573-4",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "hydroxyl radical (•OH)",
+      "lower_detection_limit": "1e-9 M",
+      "upper_detection_limit": "1e-3 M",
+      "probe_material": "protoporphyrin IX with metal ions (Cd2+, Zn2+, Mg2+) on cysteamine-modified Au nanoparticles",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "7.2-7.4",
+      "test_medium": "0.01×PBS buffer or cell culture medium"
+    }
+  ]
+}

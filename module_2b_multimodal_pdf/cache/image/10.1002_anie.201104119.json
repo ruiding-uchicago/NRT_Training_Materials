@@ -1,0 +1,353 @@
+{
+ "records": [
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "isobutane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "84 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "24 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "propane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "180 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "9 ± 4 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "cyclopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "61 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "cyclohexane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "280 × 10³ M⁻¹",
+   "interferent_value": "25 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "180 × 10³ M⁻¹",
+   "interferent_value": "24 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "180 × 10³ M⁻¹",
+   "interferent_value": "9 ± 4 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "cyclopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "180 × 10³ M⁻¹",
+   "interferent_value": "61 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "cyclohexane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "180 × 10³ M⁻¹",
+   "interferent_value": "25 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "84 × 10³ M⁻¹",
+   "interferent_value": "24 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "84 × 10³ M⁻¹",
+   "interferent_value": "9 ± 4 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "cyclopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "84 × 10³ M⁻¹",
+   "interferent_value": "61 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "cyclohexane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "84 × 10³ M⁻¹",
+   "interferent_value": "25 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "ethane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "24 × 10³ M⁻¹",
+   "interferent_value": "9 ± 4 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "cyclohexane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "61 × 10³ M⁻¹",
+   "interferent_value": "25 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclopentane",
+   "interferent": "neopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "61 × 10³ M⁻¹",
+   "interferent_value": "< 2 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cyclohexane",
+   "interferent": "neopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding_constant",
+   "label_basis": "K",
+   "target_value": "25 × 10³ M⁻¹",
+   "interferent_value": "< 2 × 10³ M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 11225,
+  "completion_tokens": 14797,
+  "total_tokens": 26022,
+  "cost": 0.02454257,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.02454257,
+   "upstream_inference_prompt_cost": 0.00145925,
+   "upstream_inference_completions_cost": 0.02308332
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 11988,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 18
+}

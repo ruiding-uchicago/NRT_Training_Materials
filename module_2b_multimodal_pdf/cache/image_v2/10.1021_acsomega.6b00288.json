@@ -1,0 +1,166 @@
+{
+ "records": [
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "TNT",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "NB",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "4-NP",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "1,3-DNB",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "2,4-DNP",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "2,4-DNT",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "3,4-DNT",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "4-NBA",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  },
+  {
+   "receptor": "R1",
+   "target": "PA",
+   "interferent": "NM",
+   "condition": {
+    "solvent": "DMSO/H2O 1:4 (v/v)",
+    "temperature": "room temperature",
+    "pH": "7.4"
+   },
+   "readout_type": "fluorescence intensity ratio (F454/F496)",
+   "label_basis": "selectivity data",
+   "target_value": "strong",
+   "interferent_value": "negligible",
+   "evidence": {
+    "figure_or_table": "Figure 3",
+    "page": "1585"
+   }
+  }
+ ]
+}

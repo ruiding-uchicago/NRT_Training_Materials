@@ -1,0 +1,50 @@
+{
+  "stem": "10.1002_adma.201701706",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "nitrogen dioxide (NO2)",
+      "lower_detection_limit": "400 ppb",
+      "probe_material": "copper phthalocyanine (CuPc)",
+      "test_operating_temperature_celsius": "25 (room temperature, implied from ambient conditions)",
+      "pH_value": "-1",
+      "test_medium": "air (dry air as carrier gas)"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "sulfur dioxide (SO2)",
+      "lower_detection_limit": "",
+      "probe_material": "copper phthalocyanine (CuPc)",
+      "test_operating_temperature_celsius": "25",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "ammonia (NH3)",
+      "lower_detection_limit": "",
+      "probe_material": "copper phthalocyanine (CuPc)",
+      "test_operating_temperature_celsius": "25",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "hydrogen sulfide (H2S)",
+      "lower_detection_limit": "",
+      "probe_material": "copper phthalocyanine (CuPc)",
+      "test_operating_temperature_celsius": "25",
+      "pH_value": "-1",
+      "test_medium": "air"
+    },
+    {
+      "sensor_type": "gas",
+      "detect_target": "carbon dioxide (CO2)",
+      "lower_detection_limit": "",
+      "probe_material": "copper phthalocyanine (CuPc)",
+      "test_operating_temperature_celsius": "25",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "stem": "10.1016_j.aca.2020.12.040",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "Cu2+ (copper ions)",
+      "lower_detection_limit": "33 pmol L−1 (33 pM)",
+      "upper_detection_limit": "100 nmol L−1 (100 nM)",
+      "probe_material": "poly(4-vinylpyridine) (P4VP) modified on SWCNTs, with HfO2 passivation layer",
+      "test_operating_temperature_celcius": "room temperature (implicit, not explicitly stated)",
+      "pH_value": "-1 (not a pH sensor, but liquid medium PBS pH 7.2)",
+      "test_medium": "phosphate buffered saline (PBS, 10 mM, pH 7.2) / aqueous solvent",
+      "selectivity": "The sensor distinguishes Cu2+ from Na+, K+, Cd2+, Hg2+, Mn2+, Mg2+, Cr2+, and Fe2+. Only Cu2+ produces strong signal response.",
+      "reusability": "Can be washed with acetic acid and deionized water for reuse more than 70 times.",
+      "storage_stability": "After storage in sealed box at room temperature for six weeks, current response decreased only 5% to 2 nmol L−1 Cu2+.",
+      "response_time": "Not explicitly stated, but real-time current changes shown (I–t curves).",
+      "measurement_condition": "Gate voltage Vg = 5 V (positive) and Vds = 0.5 V; also tested negative Vg.",
+      "additional_information": "The sensor uses SWCNT-FET with HfO2 high-k dielectric layer; sensitivity enhancement due to HfO2 (100× higher than SiO2). LOD 33 pM, sensitivity 7.9 μA μM−1."
+    }
+  ]
+}

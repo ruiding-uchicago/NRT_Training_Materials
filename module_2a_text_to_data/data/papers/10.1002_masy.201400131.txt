@@ -1,0 +1,83 @@
+Jung Joon Lee
+
+Department of Chemical and Biomolecular Engineering, Yonsei University, Seoul, 120-749 Republic of Korea
+
+Dohyuk Yoo
+
+Chanil Park
+
+Corresponding Author
+
+Jung Hyun Kim
+
+Hyang Hee Choi
+
+Institute of Nanoscience and Nanotechnology, Yonsei University, Seoul, 120-749 Republic of Korea
+
+Give access
+
+Share full-text access
+
+Use the link below to share a full-text version of this article with your friends and colleagues.Learn more.
+
+Share a link
+
+A sensor for two types of ammonia (NH3) and carbon monoxide (CO) is fabricated on silicon substrate by using the drop-coating method and the sensor performance is investigated. Polypyrrole, an electro-conductive plastic, is used as the sensing material of the gas sensor. The gas sensor functions to maintain a constant gate voltage in a state that facilitates measurement of the conductivity of the gate, source, and drain having a source electrode and the drain electrode of a field effect transistor channel between the structures. The sensor exhibits an increase/decrease of the resistance upon exposure to a low concentration of NH3and CO gas. This approach can be applied for highly sensitive room-temperature sensing of CO and NH3at sub-ppm concentrations and for the development of very low-power devices. The synthesized conducting polypyrrole was characterized via field emission scanning electron microscopy (FE-SEM) and Fourier transform infrared spectroscopy (FTIR). The electronic transport properties of the sensors are measured in a field effect transistor geometry under ambient conditions. The sensing properties of the conducting polypyrrole gas sensor at sub-ppm gas concentrations are described.
+
+Gas sensors for detecting toxic gases are very important in environmental gas monitoring fields such as complex technology-based systems, household security, vehicle emission control, and food nutrition and safety.1,2Many sensors for toxic gases have been developed based on metal-oxide thin films, some of which suffer from limitations such as low sensitivity, low response, and high operational temperature of the device. Conductive polymers have recently emerged as novel materials that have found widespread use in the design of gas sensors. The electrical conductivity and charge transport properties of conductive polymers have been exploited to improve the sensitivity and selectivity of gas sensors.3-5Conductive polymers offer the attractive features of low cost, low consumption of electrical power, and high sensitivity. Conductive polymers such as polypyrrole, polyaniline, and polythiophene are recognized as sensing materials with the added advantages of gas-sensing ability and optimum performance at room temperature.6-8Polypyrrole is a thermostable conducting polymer under ambient conditions that has been extensively utilized as a sensing element in the detection of toxic gas and volatile organic compounds (VOCs) because of its notable conductometric response to ammonia (NH3), nitric oxide, and other solvent vapors.9-11The sensing mechanism is based on the electronic interaction between the gaseous component and the positive charge along the conducting polypyrrole (CPpy) chains. When CPpy is exposed to electron-donating gases such as NH3, a redox reaction occurs and the effective number of charge carrier decreases, thus reducing the conductance of the polymer.12,13CPpy can be easily polymerized by standard electrochemical techniques and is sufficiently stable at room temperature. Furthermore, the surface charge characteristics of CPpy can be modified by varying the dopant anion incorporated into the material during synthesis.14,15This paper presents sensitive sub-ppm gas sensors, developed using CPpy films, which enable real-time electrical detection of NH3and carbon monoxide (CO) at room temperature.16-18
+
+A conducting polypyrrole (CPpy) film was prepared as follows: monomer pyrrole (Ppy, Acros Organics, USA) was stored at −5 °C. Poly(4-styrene sulfonic acid) solution (PSSA,Mw∼75,000 18wt.% in H2O), purchased from Sigma-Aldrich Corporation, was prepared. Pure water (>18.2 MΩcm, Millipore Co.) was used throughout the experiment. Chemical oxidative polymerization of polypyrrole was carried out in a 250 mL double-jacketed glass reactor equipped with a mechanical stirrer, a temperature controller, an initiator funnel, and a nitrogen inlet. Ferric chloride (anhydrous FeCl3, Aldrich) and hydrogen peroxide (H2O230%, Junsei) were respectively used as a catalyst and an oxidant. The typical procedure for the preparation of polypyrrole is as follows: the 250 mL double-jacketed glass reactor was charged with 0.5 g of pyrrole monomer, 6.944 g of PSSA solution (18wt% in H2O), and 96.896 g of pure water at 10 °C. Then, 0.845 g of H2O2was added to the reactor and the reaction mixture was stirred for 10 min, followed by the addition of 0.0149 g of FeCl3. Polymerization was allowed to proceed for 24 h and the stirring rate was maintained at 250 rpm. The CPpy films were prepared by simple spin coating using Ppy/PSSA solution. The film coated onto the substrate was annealed on a hot plate at 150 °C.19,20
+
+For the gas sensing experiments, the CPpy film was mounted on the source and drain electrical contacts, i.e., 3 nm Cr/50 nm Au electrodes on a heavily doped Si substrate. The gas-sensing performance of the CPpy sensor was evaluated by using a 250 mL sensing chamber evacuated to 10−3Torr and filled with the target gas diluted in nitrogen. The resistance of the CPpy was measured by selecting any two electrodes exhibiting excellent ohmic contact, as shown in Figure1. These ohmic contact characteristics indicate that the gas molecule does not produce any damage or defects between interface of two electrodes and PPy/PSSA surface.
+
+The gas sensing properties of the CPpy sensor were evaluated by monitoring the changes in the electrical resistance upon exposure to gas at room temperature. The CPpy sensor was connected to the gas inlet line that comes from the mass flow controllers, as shown in Figure2.
+
+The electrical measurements were carried out using a semiconductor parameter analyzer (Keithley model 2400). A Keithley model 2400 multimeter attached to a computer via a GPIB cable was used to acquire the resistance data using National Instruments LabView software. LabView was also used to control the mass flow controllers and record the gas concentration. The experimental parameters of the synthesized Ppy/PSSA are itemized in Table1.
+
+The PPy/PSSA dispersion was successfully synthesized by Fe3+-catalyzed oxidative polymerization in the presence of PSSA as the stabilizer and dopant. The synthetic route is similar to our previous work on conductive PPy and PTh where the polymer nanoparticles have been successfully synthesized by Fe3+-catalyzed oxidative polymerization in an aqueous medium. This facile method includes a FeCl3/H2O2(catalyst/oxidant) combination system, which guarantees less use of initiators and high monomer percent conversion.
+
+The Ppy/PSSA synthesized at room temperature is characterized in terms of the yield, doping level, and electrical properties under a controlled ratio of FeCl3as an oxidant. Accordingly, the conductivity of Ppy/PSSA could be optimized by controlling FeCl3and using a fixed molar ratio of Ppy, PSSA, and H2O2.
+
+The structure of the obtained product was verified using FTIR. The FTIR spectrum in the 1800–600 cm−1region is shown in Figure3.
+
+The FTIR spectrum of PPy in the aqueous medium shows characteristic absorption bands at 1542.95–cm−1(C=C stretching of pyrrole ring), 1475 cm−1(C–N vibration band), 1150 cm−1(C–H in-plane deformation), 1041.49 cm−1(N-H in-plane deformation), 908.41 cm−1(C-H out-of-plane deformation), and 673.11 cm−1(C-C out-of-plane ring deformation or C-H rocking). These peaks of the PPy/PSSA showed good agreement with previous reports
+
+The electrical resistance of CPpy increased/decreased upon exposure to 9 ppm NH3and 9 ppm CO, respectively. The response of the CPpy sensor when exposed to NH3and CO is shown in Figure4(a and b, respectively).
+
+The change of the electrical resistance (response) with NH3concentration shown in Figure4indicates good functionality and scalable sensitivity of the CPpy-based sensor to NH3adsorption. Application of NH3to these materials leads to the recombination of electrons donated by adsorbed NH3molecules with holes, which are the majority carriers in the currentp-type CPpy, and thus to an increase in the resistance of the sensor by reducing the majority-carrier density based on the NH3concentration. More specifically, this means that an increase in the resistance of the sensor was attributed to the depletion of the radical cation of the doped PPy/PSSA by the transfer of an electron from NH3.
+
+The response curve is still clean and reproducible at 9 ppm NH3with response 10%. On the other hand, 9 ppm CO does not induce any reaction of CPpy. The hole localized on the carbon atom in CO responds to the amine nitrogen (-NH-) in the polypyrrole in Figure5, which means that the positive charge is transferred from the carbon to the amine nitrogen; therefore, the conductivity increases with time, as shown in Figure4(b).
+
+Figure6shows a schematic representation of CPpy dispersed on the Cr/Au electrodes on the oxidized Si substrate.
+
+The morphological analysis of CPpy using scanning electron microscopy (SEM image; Figure 6) shows that CPpy has an amorphous region with an uneven surface, which is a desirable property for gas adsorption.
+
+Our results indicate that CPpy can be combined with appropriate polymer materials for fabricating efficient gas sensing materials. To improve the sensitivity and selectivity of CPpy sensors, we investigated the response behaviors of a CPpy sensor and evaluated the sensitivity and selectivity of the devices toward NH3and CO at room temperature. The observed sensitivity was attributed to the depletion of the radical cation of the acid-doped conducting polymer, polypyrrole, by the transfer of an electron from NH3. Furthermore, the sensor was characterized by a very low detection limit of 9 ppm and good reproducibility and good selectivity for NH3gas.
+
+This research was supported by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science, and Technology (no. 2012R1A1A3013893). This work was also supported by the Agency for Defense Development (ADD) of the Republic of Korea and Priority Research Centers Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education, Science, and Technology (2009-0093823).
+
+Volume354,Issue1
+
+Special Issue:MACRO 2014
+
+August 2015
+
+Pages280-286
+
+Copyright © 1999-2025John Wiley & Sons, Incor related companies. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.
+
+Your password has been changed
+
+Enter your email address below.
+
+Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username
+
+The full text of this article hosted at iucr.org is unavailable due to technical difficulties.

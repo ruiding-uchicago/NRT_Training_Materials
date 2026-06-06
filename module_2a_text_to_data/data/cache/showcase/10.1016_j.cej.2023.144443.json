@@ -1,0 +1,15 @@
+{
+  "stem": "10.1016_j.cej.2023.144443",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "aniline",
+      "lower_detection_limit": "0.3 nM",
+      "upper_detection_limit": "",
+      "probe_material": "cGNRs-Pyrene",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "7",
+      "test_medium": "chloroform"
+    }
+  ]
+}

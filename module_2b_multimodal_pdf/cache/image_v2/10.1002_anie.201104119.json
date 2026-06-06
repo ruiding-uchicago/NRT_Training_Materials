@@ -1,0 +1,544 @@
+{
+ "records": [
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "24",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "ethylene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "3.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "propene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "0.11",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "propane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "180",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-butane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "280",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "79",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "cis-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "trans-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "21",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "84",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "9 ± 4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "neopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "15 ± 5",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "isobutane",
+   "interferent": "cyclopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "850",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "24",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "ethylene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "3.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "propene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "0.11",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "79",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "cis-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "150",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "trans-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "21",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "isobutene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "84",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "n-pentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "9 ± 4",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "neopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "15 ± 5",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "n-butane",
+   "interferent": "cyclopentane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "280",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "180",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "ethane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "180",
+   "interferent_value": "24",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "ethylene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "180",
+   "interferent_value": "3.9",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "propene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "180",
+   "interferent_value": "0.11",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "propane",
+   "interferent": "1-butene",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "180",
+   "interferent_value": "79",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  },
+  {
+   "receptor": "CB6",
+   "target": "cis-butene",
+   "interferent": "methane",
+   "condition": {
+    "solvent": "water",
+    "temperature": "25.0 ± 0.1 °C",
+    "pH": "3.0"
+   },
+   "readout_type": "binding constant",
+   "label_basis": "Table 1",
+   "target_value": "150",
+   "interferent_value": "<2",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "9339"
+   }
+  }
+ ]
+}

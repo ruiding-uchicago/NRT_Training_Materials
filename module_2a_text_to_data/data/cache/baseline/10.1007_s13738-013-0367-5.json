@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s13738-013-0367-5",
+  "records": [
+    {
+      "sensor_type": "liquid",
+      "detect_target": "pH (hydrogen ion concentration)",
+      "lower_detection_limit": "pH 2.75",
+      "upper_detection_limit": "pH 12.20",
+      "probe_material": "hydroquinone monosulfonate-doped polypyrrole on copper gate",
+      "test_operating_temperature (celcius)": "25",
+      "pH_value": "2.75-12.20",
+      "test_medium": "universal buffer (aqueous)"
+    }
+  ]
+}

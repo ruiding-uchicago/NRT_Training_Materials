@@ -1,0 +1,83 @@
+{
+ "records": [
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT",
+   "interferent": "TNP",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1364 M⁻¹",
+   "interferent_value": "1215 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNP",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1215 M⁻¹",
+   "interferent_value": "968 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  },
+  {
+   "receptor": "aza-BODIPY",
+   "target": "TNT",
+   "interferent": "DNT",
+   "condition": {
+    "solvent": "ethanol",
+    "temperature": "room",
+    "pH": "not specified"
+   },
+   "readout_type": "fluorescence_quenching",
+   "label_basis": "Ksv",
+   "target_value": "1364 M⁻¹",
+   "interferent_value": "968 M⁻¹",
+   "evidence": {
+    "figure_or_table": "Table 1",
+    "page": "25258"
+   }
+  }
+ ],
+ "_finish": "stop",
+ "_usage": {
+  "prompt_tokens": 17146,
+  "completion_tokens": 3449,
+  "total_tokens": 20595,
+  "cost": 0.00760942,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00760942,
+   "upstream_inference_prompt_cost": 0.00222898,
+   "upstream_inference_completions_cost": 0.00538044
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2990,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "_n": 3
+}

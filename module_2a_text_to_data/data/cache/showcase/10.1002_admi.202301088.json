@@ -1,0 +1,15 @@
+{
+  "stem": "10.1002_admi.202301088",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "water",
+      "lower_detection_limit": "7 RH%",
+      "upper_detection_limit": "35 RH%",
+      "probe_material": "2,8-difluoro-5,11-bis(triethylsilylethynyl) anthradithiophene (diF-TES ADT)",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "air"
+    }
+  ]
+}

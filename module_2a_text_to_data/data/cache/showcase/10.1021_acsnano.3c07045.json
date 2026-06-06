@@ -1,0 +1,15 @@
+{
+  "stem": "10.1021_acsnano.3c07045",
+  "records": [
+    {
+      "sensor_type": "bio",
+      "detect_target": "ethanol",
+      "lower_detection_limit": "10-6%",
+      "upper_detection_limit": "1%",
+      "probe_material": "hexagonal nanoporous molybdenum disulfide (MoS2)/LUSH",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "5.6",
+      "test_medium": "water"
+    }
+  ]
+}

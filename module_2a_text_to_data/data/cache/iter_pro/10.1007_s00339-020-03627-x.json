@@ -1,0 +1,15 @@
+{
+  "stem": "10.1007_s00339-020-03627-x",
+  "records": [
+    {
+      "sensor_type": "gas",
+      "detect_target": "putrescine",
+      "lower_detection_limit": "3 ppb",
+      "upper_detection_limit": "75 ppm",
+      "probe_material": "PDQT(poly[2,5-bis(2-octyldodecyl)pyrrolo-[3,4-c]pyrrole-1,4(2H,5H)-dione-alt-2,2′:5′,2″:5″,2‴-quaterthiophene])",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "−1",
+      "test_medium": "air"
+    }
+  ]
+}
