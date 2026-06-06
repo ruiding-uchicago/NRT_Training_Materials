@@ -30,3 +30,9 @@ Domain: 150 papers from the T3 FET-biosensor corpus (R. Ding et al.), with hand-
 
 ## Citation
 Data and task adapted from the T3 / text-to-data project (R. Ding et al.). Cite the corresponding paper when using this material.
+
+## Live mode key on Colab
+
+For live mode (`USE_CACHE = False`), provide an OpenRouter key one of two ways:
+- Colab Secret (recommended): click the key icon in the left sidebar, add a secret named `OPENROUTER_API_KEY`, and toggle notebook access on. The notebook reads it automatically.
+- Or run the cell and paste the key when prompted (getpass; it is not stored in the notebook).
