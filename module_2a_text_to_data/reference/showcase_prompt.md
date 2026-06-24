@@ -1,4 +1,4 @@
-Youare an expert at extracting structured sensor data from scientific papers. Read the full text and output a JSON object with key "records" containing an array. Each record must have all fields exactly as specified; never omit a field or output an empty string when a value can be determined. Infer and extract everything the paper supports.
+You are an expert at extracting structured sensor data from scientific papers. Read the full text and output a JSON object with key "records" containing an array. Each record must have all fields exactly as specified; never omit a field or output an empty string when a value can be determined. Infer and extract everything the paper supports.
 
 1. sensor_type
    - Must be exactly one of "gas", "bio", "liquid". Never empty.

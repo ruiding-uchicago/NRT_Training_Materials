@@ -8,7 +8,7 @@ doi,sensor_type,detect_target,lower_detection_limit,upper_detection_limit,probe_
 10.1002_adfm.201700999,gas,ammonia,10 ppb,,"C10-DNTT (2,9-didecyl-dinaphtho[2,3-b:2′,3′-f]thieno[3,2-b]thiophene)",25 °C,-1,nitrogen
 10.1002_adfm.201701117,gas,ammonia,1 ppb,100 ppm,"poly(diketopyrrolopyrrole-thiophene-thieno[3,2,b]thiophene-thiophene) (DPP2T-TT)",25 °C,-1,air
 10.1002_adfm.201806244,gas,ammonia,100 ppm,2000 ppm,"F4TCNQ (2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane)/MoS2",25 °C,-1,nitrogen
-10.1002_adfm.201808188,,,,,,,,
+10.1002_adfm.201808188,gas,xylene,10 ppm,320 ppm,cyclopentadithiophene-benzothiadiazole copolymer,25 °C,-1,nitrogen
 10.1002_adfm.202215215,gas,nitrogen dioxide,0.92 ppm,100 ppm,"2,8-difluoro-5,11-bis(triethylsilylethynyl) anthradithiophene (diF−TES ADT)/poly(triarylamine) (PTAA)",25 °C,-1,nitrogen
 10.1002_adma.200903305,gas,ethyl acetate,200 ppm,3000 ppm,C[8]A (calix[8]arene),25 °C,-1,nitrogen
 10.1002_adma.201004203,gas,hydrogen,10 ppm,2500 ppm,tin oxide/palladium,100 °C,-1,air
@@ -112,7 +112,7 @@ doi,sensor_type,detect_target,lower_detection_limit,upper_detection_limit,probe_
 10.1016_j.diamond.2018.11.005,liquid,H+,1e-12 M,1e-2 M,carboxyl-terminated graphene,25 °C,7,Carmody buffer solution
 10.1016_j.ijhydene.2022.10.036,liquid,H+,1e-10 M,1e-2 M,zinc oxide,25 °C,2-12,water
 10.1016_j.microc.2023.108755,liquid,glucose,3 µM,5 mM,silver nanoparticle decorated reduced graphene oxide (Ag-rGO),25 °C,7.4,phosphate-buffered saline
-10.1016_j.orgel.2023.106844,,,,,,,,
+10.1016_j.orgel.2023.106844,bio,biomolecule,1 nM,1 µM,antibody,23 °C,7,water
 10.1016_j.sna.2023.114695,liquid,glucose,1 mg/ml,4 mg/ml,Ga2O3,25 °C,7,sodium chloride/water
 10.1016_j.snb.2009.01.061,bio,protein A,1 ng/ml,,platinum nanoparticles,25 °C,7,phosphate-buffered saline
 10.1016_j.snb.2014.07.055,bio,calcium ion,10^-6 M,0.1 M,Zn3Ta2O5/calmodulin (CaM),25 °C,2,calcium chloride/water

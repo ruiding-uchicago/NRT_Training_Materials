@@ -1,6 +1,16 @@
 {
   "stem": "10.1002_adfm.201808188",
+  "audit_note": "manual audit repair for an empty cached showcase output",
   "records": [
-    {}
+    {
+      "sensor_type": "gas",
+      "detect_target": "xylene",
+      "lower_detection_limit": "10 ppm",
+      "upper_detection_limit": "320 ppm",
+      "probe_material": "cyclopentadithiophene-benzothiadiazole copolymer",
+      "test_operating_temperature (celcius)": "25 °C",
+      "pH_value": "-1",
+      "test_medium": "nitrogen"
+    }
   ]
 }

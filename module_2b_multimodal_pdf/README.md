@@ -9,18 +9,19 @@ Domain: 8 sensor papers from WetSenseBench (R. Ding et al.), each with curated p
 ## Files
 | File | Description |
 |------|-------------|
-| `Module3_Multimodal_PDF_Extraction.ipynb` | the teaching notebook (executed, with outputs) |
+| `Module2b_Multimodal_PDF_Extraction.ipynb` | the teaching notebook (executed, with outputs) |
 | `data/papers/` | the 8 source PDFs |
 | `data/text/` | `pdftotext` output per paper (the text arm input) |
 | `data/images/` | pages rendered to PNG (the image arm input) |
 | `data/gold/` | curated gold extraction per paper |
-| `data/pairs_gold.csv` | the 92 pair RAPIDS comparison table, filtered to these 8 papers |
+| `data/pairs_gold.csv` | the 92-row RAPIDS comparison subset, filtered to these 8 papers |
 | `cache/{text,image,image_v2}/` | shipped worker outputs (precise and exhaustive prompts), so the notebook runs with no key |
 | `figures/*.png` | the headline chart and the climb chart |
 | `wetsensebench_multimodal_extracted.csv` | the dataset the notebook produces |
+| `requirements.txt` | optional local Python dependencies |
 
 ## How to run
-- Offline: open the notebook and run top to bottom. `USE_CACHE = True` reads the shipped outputs, so no key and no cost.
+- Offline: open the notebook and run top to bottom. `USE_CACHE = True` reads the shipped outputs, so no key and no cost. Locally, install optional dependencies with `pip install -r requirements.txt`.
 - Live on your own papers: render PDFs into `data/images/<id>/` with `pdftoppm -png -r 150` and `data/text/<id>.txt` with `pdftotext`, set an OpenRouter key, and set `USE_CACHE = False`. The worker is `qwen/qwen3-vl-30b-a3b-thinking`. Chemical name matching is a deterministic synonym map, no judge model needed.
 
 ## What it teaches
@@ -32,7 +33,7 @@ Domain: 8 sensor papers from WetSenseBench (R. Ding et al.), each with curated p
 6. Raising the multimodal arm from 0.69 to 0.86 honestly: a selectivity ordering recovery metric (the exact pair metric is unfair when the gold curates its pairs unevenly), plus a two pass read with an exhaustive prompt.
 
 ## Result
-Controlled experiment, pooled over 97 gold pairs: text F1 0.68, image F1 0.69, with the image arm more precise (0.81 vs 0.68). On the scanned paper the text arm scores 0.00 and the image arm 0.80. Raising the multimodal arm: under selectivity ordering recovery, a two pass read reaches F1 0.86 (recall 0.79, precision 0.95), up from 0.69. Extraction passes cost about 0.20 dollars total on the worker.
+Controlled experiment, pooled over 97 curated pairwise labels from `data/gold/*.json`: text F1 0.68, image F1 0.69, with the image arm more precise (0.81 vs 0.68). `data/pairs_gold.csv` is a 92-row RAPIDS comparison subset and is kept for reference, so its row count is not the scoring denominator. On the scanned paper the text arm scores 0.00 and the image arm 0.80. Raising the multimodal arm: under selectivity ordering recovery, a two pass read reaches F1 0.86 (recall 0.79, precision 0.95), up from 0.69. Extraction passes cost about 0.20 dollars total on the worker.
 
 ## Citation
 Data and task adapted from WetSenseBench and the T3 text to data project (R. Ding et al.). Cite the corresponding work when using this material.

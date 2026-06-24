@@ -7562,7 +7562,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [1]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">sys</span><span class="o">,</span> <span class="nn">subprocess</span><span class="o">,</span> <span class="nn">os</span>
@@ -7599,7 +7599,7 @@ a.anchor-link {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [2]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">PAPERS</span><span class="o">=</span><span class="nb">sorted</span><span class="p">(</span><span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="s2">"data/papers/*.txt"</span><span class="p">));</span> <span class="n">STEMS</span><span class="o">=</span><span class="p">[</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">p</span><span class="p">)[:</span><span class="o">-</span><span class="mi">4</span><span class="p">]</span> <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">PAPERS</span><span class="p">]</span>
@@ -7652,7 +7652,7 @@ gold: {"sensor_type": "gas", "detect_target": "nitrogen dioxide", "lower_detecti
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [3]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [4]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">pydantic</span> <span class="kn">import</span> <span class="n">BaseModel</span><span class="p">,</span> <span class="n">Field</span><span class="p">,</span> <span class="n">ConfigDict</span><span class="p">,</span> <span class="n">field_validator</span>
@@ -7708,7 +7708,7 @@ gold: {"sensor_type": "gas", "detect_target": "nitrogen dioxide", "lower_detecti
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [4]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [5]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">chat</span><span class="p">(</span><span class="n">messages</span><span class="p">,</span> <span class="n">model</span><span class="o">=</span><span class="n">WORKER</span><span class="p">,</span> <span class="n">reasoning</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">json_mode</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
@@ -7742,7 +7742,7 @@ gold: {"sensor_type": "gas", "detect_target": "nitrogen dioxide", "lower_detecti
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[5]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">
@@ -7846,7 +7846,7 @@ gold: {"sensor_type": "gas", "detect_target": "nitrogen dioxide", "lower_detecti
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [5]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [6]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">SUP</span><span class="o">=</span><span class="nb">str</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s2">"⁰¹²³⁴⁵⁶⁷⁸⁹⁻⁺"</span><span class="p">,</span><span class="s2">"0123456789-+"</span><span class="p">)</span>
@@ -7914,7 +7914,7 @@ gold: {"sensor_type": "gas", "detect_target": "nitrogen dioxide", "lower_detecti
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[5]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[6]:</div>
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain" tabindex="0">
 <pre>sensor_type                             0.824
 detect_target                           0.843
@@ -7958,7 +7958,7 @@ dtype: float64</pre>
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [6]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"="</span><span class="o">*</span><span class="mi">64</span><span class="p">);</span> <span class="nb">print</span><span class="p">(</span><span class="s2">"PROMPT  ·  baseline (first-draft)"</span><span class="p">);</span> <span class="nb">print</span><span class="p">(</span><span class="s2">"="</span><span class="o">*</span><span class="mi">64</span><span class="p">)</span>
@@ -8006,7 +8006,7 @@ For instance:
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [7]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"baseline             "</span><span class="p">,</span> <span class="nb">round</span><span class="p">(</span><span class="n">score</span><span class="p">(</span><span class="s2">"baseline"</span><span class="p">)[</span><span class="s2">"MACRO"</span><span class="p">],</span><span class="mi">3</span><span class="p">))</span>
@@ -8046,7 +8046,7 @@ For instance:
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"="</span><span class="o">*</span><span class="mi">64</span><span class="p">);</span> <span class="nb">print</span><span class="p">(</span><span class="s2">"PROMPT  ·  after optimization (rewritten instructions)"</span><span class="p">);</span> <span class="nb">print</span><span class="p">(</span><span class="s2">"="</span><span class="o">*</span><span class="mi">64</span><span class="p">)</span>
@@ -8164,7 +8164,7 @@ Rules (follow exactly; use paper content, never guess beyond what is supported):
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># the examples appended to the prompt (paper excerpts trimmed here for display)</span>
@@ -8221,6 +8221,7 @@ Moonjeong Jang, Hyoeun Kim, Sunri Lee, Hyun Woo Kim, Jayshree K. Khedkar, Young 
 ...
 CORRECT EXTRACTION:
 {"records": [{"sensor_type": "bio", "detect_target": "acetylcholine", "lower_detection_limit": "1 pM", "upper_detection_limit": "0.1 M", "probe_material": "perallyloxycucurbit[6]uril", "test_operating_temperature (celcius)": "25 °C", "pH_value": "7.4", "test_medium": "water"}]}
+
 </pre>
 </div>
 </div>
@@ -8231,7 +8232,7 @@ CORRECT EXTRACTION:
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"+ few-shot           "</span><span class="p">,</span> <span class="nb">round</span><span class="p">(</span><span class="n">score</span><span class="p">(</span><span class="s2">"fs9io_flash"</span><span class="p">)[</span><span class="s2">"MACRO"</span><span class="p">],</span><span class="mi">3</span><span class="p">))</span>
@@ -8280,7 +8281,7 @@ CORRECT EXTRACTION:
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">_sp</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"reference/showcase_prompt.md"</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
@@ -8301,7 +8302,7 @@ CORRECT EXTRACTION:
 <pre>================================================================
 PROMPT  ·  final instructions (few-shot block appended after these)
 ================================================================
-Youare an expert at extracting structured sensor data from scientific papers. Read the full text and output a JSON object with key "records" containing an array. Each record must have all fields exactly as specified; never omit a field or output an empty string when a value can be determined. Infer and extract everything the paper supports.
+You are an expert at extracting structured sensor data from scientific papers. Read the full text and output a JSON object with key "records" containing an array. Each record must have all fields exactly as specified; never omit a field or output an empty string when a value can be determined. Infer and extract everything the paper supports.
 
 1. sensor_type
    - Must be exactly one of "gas", "bio", "liquid". Never empty.
@@ -8380,7 +8381,7 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">"+ re-opt instructions"</span><span class="p">,</span> <span class="nb">round</span><span class="p">(</span><span class="n">score</span><span class="p">(</span><span class="s2">"showcase"</span><span class="p">)[</span><span class="s2">"MACRO"</span><span class="p">],</span><span class="mi">3</span><span class="p">))</span>
@@ -8407,7 +8408,7 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">climb</span><span class="o">=</span><span class="p">{</span><span class="s2">"baseline</span><span class="se">\n</span><span class="s2">(first draft)"</span><span class="p">:</span><span class="n">score</span><span class="p">(</span><span class="s2">"baseline"</span><span class="p">)[</span><span class="s2">"MACRO"</span><span class="p">],</span>
@@ -8445,7 +8446,7 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># where the gains came from, per field</span>
@@ -8460,7 +8461,7 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[14]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">
@@ -8565,12 +8566,17 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [16]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="n">final_prompt</span><span class="o">=</span><span class="nb">open</span><span class="p">(</span><span class="s2">"reference/showcase_prompt.md"</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
 <span class="n">allrecs</span><span class="o">=</span><span class="p">{</span><span class="n">s</span><span class="p">:</span> <span class="n">extract_paper</span><span class="p">(</span><span class="n">s</span><span class="p">,</span> <span class="n">final_prompt</span><span class="p">,</span> <span class="s2">"showcase"</span><span class="p">)</span> <span class="k">for</span> <span class="n">s</span> <span class="ow">in</span> <span class="n">STEMS</span><span class="p">}</span>   <span class="c1"># cached</span>
-<span class="n">rows</span><span class="o">=</span><span class="p">[{</span><span class="s2">"doi"</span><span class="p">:</span><span class="n">s</span><span class="p">,</span> <span class="o">**</span><span class="p">{</span><span class="n">f</span><span class="p">:</span><span class="n">r</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">f</span><span class="p">,</span><span class="s2">""</span><span class="p">)</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">CORE</span><span class="p">}}</span> <span class="k">for</span> <span class="n">s</span><span class="p">,</span><span class="n">recs</span> <span class="ow">in</span> <span class="n">allrecs</span><span class="o">.</span><span class="n">items</span><span class="p">()</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="p">(</span><span class="n">recs</span> <span class="ow">or</span> <span class="p">[{}])]</span>
+<span class="k">def</span> <span class="nf">blank_record</span><span class="p">(</span><span class="n">r</span><span class="p">):</span>
+    <span class="k">return</span> <span class="nb">all</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">r</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="s2">""</span><span class="p">))</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">==</span><span class="s2">""</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">CORE</span><span class="p">)</span>
+<span class="n">empty</span><span class="o">=</span><span class="p">[</span><span class="n">s</span> <span class="k">for</span> <span class="n">s</span><span class="p">,</span><span class="n">recs</span> <span class="ow">in</span> <span class="n">allrecs</span><span class="o">.</span><span class="n">items</span><span class="p">()</span> <span class="k">if</span> <span class="p">(</span><span class="ow">not</span> <span class="n">recs</span><span class="p">)</span> <span class="ow">or</span> <span class="nb">all</span><span class="p">(</span><span class="n">blank_record</span><span class="p">(</span><span class="n">r</span><span class="p">)</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">recs</span><span class="p">)]</span>
+<span class="k">if</span> <span class="n">empty</span><span class="p">:</span>
+    <span class="k">raise</span> <span class="ne">ValueError</span><span class="p">(</span><span class="s2">"Empty extraction records in showcase cache: "</span><span class="o">+</span><span class="s2">", "</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">empty</span><span class="p">))</span>
+<span class="n">rows</span><span class="o">=</span><span class="p">[{</span><span class="s2">"doi"</span><span class="p">:</span><span class="n">s</span><span class="p">,</span> <span class="o">**</span><span class="p">{</span><span class="n">f</span><span class="p">:</span><span class="n">r</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">f</span><span class="p">,</span><span class="s2">""</span><span class="p">)</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">CORE</span><span class="p">}}</span> <span class="k">for</span> <span class="n">s</span><span class="p">,</span><span class="n">recs</span> <span class="ow">in</span> <span class="n">allrecs</span><span class="o">.</span><span class="n">items</span><span class="p">()</span> <span class="k">for</span> <span class="n">r</span> <span class="ow">in</span> <span class="n">recs</span><span class="p">]</span>
 <span class="n">data</span><span class="o">=</span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">rows</span><span class="p">);</span> <span class="n">data</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">"FET_sensor_extracted_dataset.csv"</span><span class="p">,</span><span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"wrote FET_sensor_extracted_dataset.csv with"</span><span class="p">,</span><span class="nb">len</span><span class="p">(</span><span class="n">data</span><span class="p">),</span><span class="s2">"rows"</span><span class="p">)</span>
 <span class="n">schema_ok</span><span class="o">=</span><span class="nb">sum</span><span class="p">(</span><span class="mi">1</span> <span class="k">for</span> <span class="n">s</span> <span class="ow">in</span> <span class="n">STEMS</span> <span class="k">if</span> <span class="p">(</span><span class="k">lambda</span> <span class="n">r</span><span class="p">:</span> <span class="p">(</span><span class="n">Extraction</span><span class="p">(</span><span class="n">records</span><span class="o">=</span><span class="n">r</span><span class="p">)</span> <span class="ow">or</span> <span class="kc">True</span><span class="p">))(</span><span class="n">allrecs</span><span class="p">[</span><span class="n">s</span><span class="p">]))</span><span class="o">/</span><span class="nb">len</span><span class="p">(</span><span class="n">STEMS</span><span class="p">)</span>
@@ -8594,19 +8600,19 @@ Youare an expert at extracting structured sensor data from scientific papers. Re
 <pre>wrote FET_sensor_extracted_dataset.csv with 150 rows
 schema-valid: 100%   lower-limit parses to a unit: 90%
 missing-field rate:
-sensor_type                             0.013
-detect_target                           0.013
-lower_detection_limit                   0.040
-upper_detection_limit                   0.167
-probe_material                          0.013
-test_operating_temperature (celcius)    0.013
-pH_value                                0.013
-test_medium                             0.013
+sensor_type                             0.000
+detect_target                           0.000
+lower_detection_limit                   0.027
+upper_detection_limit                   0.153
+probe_material                          0.000
+test_operating_temperature (celcius)    0.000
+pH_value                                0.000
+test_medium                             0.000
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[16]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">

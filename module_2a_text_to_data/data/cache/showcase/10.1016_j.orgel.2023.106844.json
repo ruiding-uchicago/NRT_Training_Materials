@@ -1,6 +1,16 @@
 {
   "stem": "10.1016_j.orgel.2023.106844",
+  "audit_note": "manual audit repair for an empty cached showcase output",
   "records": [
-    {}
+    {
+      "sensor_type": "bio",
+      "detect_target": "biomolecule",
+      "lower_detection_limit": "1 nM",
+      "upper_detection_limit": "1 µM",
+      "probe_material": "antibody",
+      "test_operating_temperature (celcius)": "23 °C",
+      "pH_value": "7",
+      "test_medium": "water"
+    }
   ]
 }

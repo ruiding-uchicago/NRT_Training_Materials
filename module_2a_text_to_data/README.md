@@ -9,16 +9,17 @@ Domain: 150 papers from the T3 FET-biosensor corpus (R. Ding et al.), with hand-
 ## Files
 | File | Description |
 |------|-------------|
-| `Module2_Text_to_Dataset.ipynb` | The teaching notebook (executed, with outputs) |
+| `Module2a_Text_to_Dataset.ipynb` | The teaching notebook (executed, with outputs) |
 | `data/papers/` | 150 papers, full text |
 | `data/gold_core.json` | hand-curated ground truth, 8 fields |
 | `data/split3.json` | train / val / test split (60 / 39 / 51) |
 | `data/cache/` | shipped DeepSeek outputs + judge cache, so the notebook runs with no key |
 | `reference/*.md` | the prompt versions: baseline, optimized, few-shot, showcase |
 | `FET_sensor_extracted_dataset.csv` | the dataset the notebook produces |
+| `requirements.txt` | optional local Python dependencies |
 
 ## How to run
-- Offline: open the notebook and run top to bottom. `USE_CACHE = True` reads the shipped outputs, so no key and no cost.
+- Offline: open the notebook and run top to bottom. `USE_CACHE = True` reads the shipped outputs, so no key and no cost. Locally, install optional dependencies with `pip install -r requirements.txt`.
 - Live on your own papers: set an OpenRouter key and `USE_CACHE = False`. Worker is `deepseek-v4-flash`, optimizer is `deepseek-v4-pro`.
 
 ## What it teaches

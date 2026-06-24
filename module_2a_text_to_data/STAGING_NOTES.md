@@ -1,11 +1,13 @@
-# Module 2 staging notes (text → dataset extraction)
+# Module 2a staging notes (text to dataset extraction)
 
-Source: the T3 FET-biosensor project (R. Ding et al.), `T3_Apr04_KDD_revise/`. This folder holds a small, self-contained slice to seed the teaching notebook. Students swap in their own corpus to reuse it.
+Source: the T3 FET-biosensor project (R. Ding et al.), `T3_Apr04_KDD_revise/`. This folder holds the self-contained teaching slice used by `Module2a_Text_to_Dataset.ipynb`. Students can swap in their own corpus to reuse the workflow.
 
 ## What's here
-- `data/papers/<DOI>.txt` — 75 papers (25 gas / 25 liquid / 25 bio), full scraped text (~20-40 KB each), dense with numeric values and units. Drawn from a pool of 421 gas / 272 liquid / 58 bio single-record gold papers.
-- `data/gold_core.json` — hand-curated ground truth, keyed by DOI, list-valued: `{DOI: [record, ...]}`. All 75 are single-record. Each record has the 8 core fields below. Split into dev/test (~37 each) inside the notebook.
-- `reference/human_init_prompt.md` — the real seed prompt (8 core fields). The clean starting point a student would write.
+- `data/papers/<DOI>.txt` - 150 papers, balanced across gas, liquid, and bio FET-sensor examples, full scraped text.
+- `data/gold_core.json` - hand-curated ground truth, keyed by DOI, list-valued: `{DOI: [record, ...]}`. All 150 examples are single-record in this teaching slice.
+- `data/split3.json` - train / validation / test split of 60 / 39 / 51 papers.
+- `data/cache/` - cached model and judge outputs so the notebook runs offline with `USE_CACHE = True`.
+- `reference/human_init_prompt.md` - the seed prompt. Later files in `reference/` show optimized, few-shot, and final prompt versions.
 
 ## Schema: 8 core fields
 | field | type | match metric |
@@ -19,17 +21,16 @@ Source: the T3 FET-biosensor project (R. Ding et al.), `T3_Apr04_KDD_revise/`. T
 | test_operating_temperature (celcius) | number | numeric |
 | pH_value | number or range (-1 for gas) | numeric |
 
-Extraction output is list-valued: `{"records": [ {8 fields}, ... ]}`. A paper can report several devices or analytes; in this slice each is one record (89% of the full corpus is single-record, so the slice stays simple while the schema stays honest).
+Extraction output is list-valued: `{"records": [ {8 fields}, ... ]}`. A paper can report several devices or analytes; in this slice each is one record, so the notebook stays simple while the schema stays honest.
 
 The three field types map cleanly onto the three things worth teaching about extraction metrics: categorical needs exact match, numeric needs unit normalization, and chemical names need an LLM judge because `P3HT` = `poly(3-hexylthiophene)`.
 
-## Build plan (decisions already settled)
-- Enforce the schema with the API structured-output / tool-use feature, not "ask for JSON, then parse."
-- Worker model is cheap (Claude Haiku); optimizer and judge are strong (Sonnet or Opus).
-- Add a `source_quote` field to the notebook schema (not in the real gold, so not scored). The model returns the sentence it pulled each record from. This compresses hallucination and turns the audit into "check the value against its quote."
-- Flow: setup (key via getpass) → Pydantic schema → single-doc extract and eyeball one → dev/test split of the 14 gold → per-field metric with the three match types → iterate the prompt on dev → measure once on held-out test → scale to all docs → audit (schema-valid rate, missing-field rate, unit sanity, spot-check rows against source_quote) → make-it-yours.
-- It is dev/test, not train/test (no weights are fit). The test set is tiny, so report the before/after delta as directional, not precise. That caveat is itself a lesson, and it echoes Module 1.
-- Optional capstone: one strong-model pass that reads the dev failures and rewrites the prompt, scored on the same held-out test. Real auto-optimizers (TextGrad, DSPy) are an extension pointer, not built here.
+## Implemented flow
+- Use a Pydantic schema as the local contract for validated records.
+- Worker model is `deepseek/deepseek-v4-flash`; prompt optimizer is `deepseek/deepseek-v4-pro`, both through OpenRouter in live mode.
+- Default `USE_CACHE = True` reproduces the module without an API key.
+- Flow: setup -> schema -> single-paper extraction -> field-specific evaluation -> prompt optimization on validation -> held-out test reporting -> scale to all papers -> audit missing fields and unit parsing -> export CSV.
+- The notebook uses train / validation / test discipline even though no model weights are fit. Validation chooses prompts; test is reported once for the headline number.
 
 ## Scale-up resources (left in the source project, not copied)
 - 30-field full schema and production prompt: `T3_Apr04_KDD_revise/final_prompt.docx`.
@@ -37,4 +38,4 @@ The three field types map cleanly onto the three things worth teaching about ext
 - 30-field reference outputs: `T3_Apr04_KDD_revise/json_output_raw_nov25_1688/<DOI>.json`.
 
 ## Citation
-R. Ding et al., the T3 / text-to-data paradigm (FET-sensor corpus). Cite the corresponding paper when the module is finalized.
+R. Ding et al., the T3 / text-to-data paradigm (FET-sensor corpus). Cite the corresponding work when using this material.
