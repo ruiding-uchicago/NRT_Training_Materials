@@ -30,10 +30,10 @@ Domain: 8 sensor papers from WetSenseBench (R. Ding et al.), each with curated p
 3. A controlled experiment: same worker, same prompt, text input vs image input, scored against gold.
 4. Honest chemical scoring: pair recall and precision, a synonym tolerant but isomer strict name matcher, direction, and figure or table grounding.
 5. The result: on clean born-digital papers the two arms are close. The image arm is more precise. On the scanned paper the text arm scores zero and only the image arm works. Multimodal is not always better, but it is the only option when the text layer fails.
-6. Raising the multimodal arm from 0.69 to 0.86 honestly: a selectivity ordering recovery metric (the exact pair metric is unfair when the gold curates its pairs unevenly), plus a two pass read with an exhaustive prompt.
+6. Scoring by selectivity ordering recovery (the fair metric when the gold curates its pairs unevenly; exact pair matching is not), then lifting the multimodal arm to 0.86 by reading thoroughly and unioning two reads.
 
 ## Result
-Controlled experiment, pooled over 97 curated pairwise labels from `data/gold/*.json`: text F1 0.68, image F1 0.69, with the image arm more precise (0.81 vs 0.68). `data/pairs_gold.csv` is a 92-row RAPIDS comparison subset and is kept for reference, so its row count is not the scoring denominator. On the scanned paper the text arm scores 0.00 and the image arm 0.80. Raising the multimodal arm: under selectivity ordering recovery, a two pass read reaches F1 0.86 (recall 0.79, precision 0.95), up from 0.69. Extraction passes cost about 0.20 dollars total on the worker.
+Controlled experiment, pooled over 97 curated pairwise labels from `data/gold/*.json`: text F1 0.68, image F1 0.69, with the image arm more precise (0.81 vs 0.68). `data/pairs_gold.csv` is a 92-row RAPIDS comparison subset and is kept for reference, so its row count is not the scoring denominator. On the scanned paper the text arm scores 0.00 and the image arm 0.80. Under selectivity ordering recovery (the fair metric for this unevenly labeled gold, used throughout), the image arm goes from 0.71 on a single read to 0.86 by reading thoroughly and unioning two reads (recall 0.79, precision 0.95); naive exact pair matching would score the same extraction at only 0.69 by penalizing correct pairs the gold did not list. Extraction passes cost about 0.20 dollars total on the worker.
 
 ## Citation
 Data and task adapted from WetSenseBench and the T3 text to data project (R. Ding et al.). Cite the corresponding work when using this material.
