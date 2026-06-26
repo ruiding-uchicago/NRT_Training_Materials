@@ -12,7 +12,6 @@ module_2b_multimodal_pdf/data/papers/
 # os cruft
 .DS_Store
 
-# office drafts and lock/temp files (don't publish working slides)
-*.pptx
+# office lock/temp files (the .pptx itself is tracked)
 ~$*
 .~lock.*
