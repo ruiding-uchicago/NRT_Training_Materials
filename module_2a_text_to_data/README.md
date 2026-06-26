@@ -30,7 +30,9 @@ Domain: 150 papers from the T3 FET-biosensor corpus (R. Ding et al.), with hand-
 5. Scale and audit into a clean CSV.
 
 ## Citation
-Data and task adapted from the T3 / text-to-data project (R. Ding et al.). Cite the corresponding paper when using this material.
+Data and task adapted from the T3 text-to-data project. Please cite:
+
+Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Yuxin Chen, and Junhong Chen. Text-Twin-Translation (T³): A Full-Stack Machine Learning Framework for Functional Material-Device Systems Discovery. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), 2026.
 
 ## Live mode key
 

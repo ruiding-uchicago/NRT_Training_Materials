@@ -23,4 +23,7 @@ These modules reproduce analyses over data derived from published papers. Paper 
 
 ## Citation
 
-R. Ding et al., *Science Advances* 11, eadr9038 (2025), doi 10.1126/sciadv.adr9038, and the DASH repository. Cite the corresponding work when using this material.
+Cite the corresponding work when using this material.
+
+- Modules 1a, 1b: R. Ding et al., *Science Advances* 11, eadr9038 (2025), doi 10.1126/sciadv.adr9038, and the DASH repository.
+- Module 2a: Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Yuxin Chen, and Junhong Chen. Text-Twin-Translation (T³): A Full-Stack Machine Learning Framework for Functional Material-Device Systems Discovery. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), 2026.
