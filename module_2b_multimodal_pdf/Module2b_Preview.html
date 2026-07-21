@@ -7539,7 +7539,7 @@ a.anchor-link {
 <li>A controlled experiment: same worker, same prompt, text input vs image input, scored against gold.</li>
 <li>Honest evaluation of chemical extraction: pair recall and precision, a synonym tolerant but isomer strict name matcher, direction, and figure or table grounding.</li>
 <li>When multimodal wins and when it does not: it wins on precision, and it is the only option when the text layer fails.</li>
-<li>Scoring by selectivity ordering recovery when a benchmark labels its pairs unevenly, then lifting the multimodal arm to 0.86 by reading thoroughly and unioning two reads.</li>
+<li>Scoring by selectivity ordering recovery when a benchmark labels its pairs unevenly, then lifting the multimodal arm to 0.86 by reading thoroughly and unioning two reads, the simplest form of a multi-agent read.</li>
 </ol>
 <p>Everything runs from shipped cache with no API key. To run it live on your own papers, set <code>USE_CACHE = False</code> and an OpenRouter key.</p>
 </div>
@@ -8680,7 +8680,7 @@ text arm predicted 99 pairs total; image arm predicted 73
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="Raising-the-multimodal-arm-above-0.8">Raising the multimodal arm above 0.8<a class="anchor-link" href="#Raising-the-multimodal-arm-above-0.8">¶</a></h2><p>First, the metric, which we get right from the start rather than treat as a lever. A predicted pair should count when the paper's ordering supports it, even if the gold did not happen to list that exact pair. The gold curates a different pairwise subset per paper, so exact pair matching punishes the model for stating correct comparisons the curator left out. That is a flaw in the metric, not the model. So we score by selectivity ordering recovery: a gold ordering of A over B counts as recovered if the model's records imply A is stronger than B, directly or by transitivity through a shared analyte, and precision is checked only on pairs the gold has an opinion about.</p>
-<p>With the metric set correctly, the real gains come from reading more. On a single pass the model under-reads, so we ask it a second time with an exhaustive prompt and union the two reads. That, not the metric, is what moves the number.</p>
+<p>With the metric set correctly, the real gains come from reading more. On a single pass the model under-reads, so we ask it a second time with an exhaustive prompt and union the two reads. This is the simplest form of a multi-agent read: run the model in more than one role, then combine. That, not the metric, is what moves the number.</p>
 </div>
 </div>
 </div>
