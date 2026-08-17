@@ -7718,7 +7718,7 @@ a.anchor-link {
 <span class="w">    </span><span class="sd">"""Return the dataset's full usable dataframe (composition + descriptor columns + target),</span>
 <span class="sd">    cached under data/gallery/. Descriptors are every field the dataset ships except the target,</span>
 <span class="sd">    the composition/formula string, database ids, mostly-missing columns, the high-cardinality</span>
-<span class="sd">    text columns, and the co-measured 'drop' columns that would leak the target."""</span>
+<span class="sd">    text columns, and the columns listed in 'drop'."""</span>
     <span class="n">cfg</span> <span class="o">=</span> <span class="n">DATASETS</span><span class="p">[</span><span class="n">name</span><span class="p">]</span>
     <span class="n">cache</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">"data/gallery/</span><span class="si">{</span><span class="n">name</span><span class="si">}</span><span class="s2">.csv"</span>
     <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">cache</span><span class="p">):</span>
@@ -7727,7 +7727,7 @@ a.anchor-link {
     <span class="n">skip</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">cfg</span><span class="p">[</span><span class="s2">"drop"</span><span class="p">])</span> <span class="o">|</span> <span class="p">{</span><span class="n">cfg</span><span class="p">[</span><span class="s2">"comp"</span><span class="p">],</span> <span class="n">cfg</span><span class="p">[</span><span class="s2">"target"</span><span class="p">]}</span>
     <span class="n">keep</span> <span class="o">=</span> <span class="p">{}</span>
     <span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">raw</span><span class="o">.</span><span class="n">columns</span><span class="p">:</span>
-        <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">skip</span> <span class="ow">or</span> <span class="n">c</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">"id"</span><span class="p">):</span>        <span class="c1"># target, comp, leaky, or a database id</span>
+        <span class="k">if</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">skip</span> <span class="ow">or</span> <span class="n">c</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">"id"</span><span class="p">):</span>        <span class="c1"># target, composition, or a database id</span>
             <span class="k">continue</span>
         <span class="n">s</span> <span class="o">=</span> <span class="n">raw</span><span class="p">[</span><span class="n">c</span><span class="p">]</span>
         <span class="k">if</span> <span class="n">s</span><span class="o">.</span><span class="n">isna</span><span class="p">()</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span> <span class="o">&gt;</span> <span class="n">MAX_MISS</span><span class="p">:</span>                    <span class="c1"># too sparse to be useful</span>
