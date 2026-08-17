@@ -7,3 +7,6 @@ xgboost>=1.6
 shap>=0.41
 matplotlib>=3.4
 seaborn>=0.11
+# 1c only (dataset gallery): matminer datasets + featurizer, pymatgen Composition
+matminer>=0.9
+pymatgen>=2023.0
