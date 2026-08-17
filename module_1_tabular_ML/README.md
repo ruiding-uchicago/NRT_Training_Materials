@@ -16,7 +16,7 @@ Predict acidic-OER electrocatalyst performance from a *composition + synthesis +
 | `Module1c_Dataset_Gallery.ipynb` | 1c, gallery: the same pipeline across five domains (matminer datasets) |
 | `OER_activity.csv` | Activity dataset (1847 rows, GBK-encoded) |
 | `OER_stability.csv` | Stability dataset (453 rows, UTF-8) |
-| `data/gallery/` | Cached (composition, target) CSVs for 1c, one per dataset (auto-written on first run) |
+| `data/gallery/` | Cached full usable dataframes for 1c (composition + descriptor columns + target), one CSV per dataset (auto-written on first run) |
 | `requirements.txt` | Dependencies |
 | `figures/` | Exported figures (for slides; `1b_*` are stability, `1c_*` are the gallery) |
 
@@ -26,17 +26,17 @@ Predict acidic-OER electrocatalyst performance from a *composition + synthesis +
 
 ## 1c, Dataset Gallery
 
-The 1a pipeline (composition to physical-property features, model ladder, SHAP) applied across five small, composition-based datasets loaded through matminer. Swap the `DATASET` line to the domain closest to your work. Real numbers from a run (best-model test R²):
+The 1a pipeline (composition to physical-property features, model ladder, SHAP) applied across five small datasets loaded through matminer. The composition featurization is the transferable backbone; on top of it each dataset also contributes its own descriptor columns (valence-electron count, structure type, lattice constants, and so on), so every domain uses the information it actually provides. Swap the `DATASET` line to the domain closest to your work. Real numbers from a run (best-model test R²):
 
-| `DATASET` | domain | rows | target | best model | test R² |
-|---|---|---|---|---|---|
-| `matbench_steels` | alloys / mechanical | 312 | yield strength (MPa) | XGBoost | 0.88 |
-| `m2ax` | MAX-phase ceramics | 223 | bulk modulus (GPa) | XGBoost | 0.92 |
-| `double_perovskites_gap` | photovoltaics | 1306 | band gap (eV) | MLP | 0.96 |
-| `heusler_magnetic` | magnetics / spintronics | 1153 | magnetic moment (μ_B) | Linear | 0.55 |
-| `expt_formation_enthalpy` | thermodynamics | 1196 | formation enthalpy (eV/atom) | XGBoost | 0.87 |
+| `DATASET` | domain | rows | target | features | best model | test R² |
+|---|---|---|---|---|---|---|
+| `matbench_steels` | alloys / mechanical | 312 | yield strength (MPa) | 132 | XGBoost | 0.88 |
+| `m2ax` | MAX-phase ceramics | 223 | bulk modulus (GPa) | 136 | MLP | 0.93 |
+| `double_perovskites_gap` | photovoltaics | 1306 | band gap (eV) | 194 | XGBoost | 0.98 |
+| `heusler_magnetic` | magnetics / spintronics | 1153 | magnetic moment (μ_B) | 145 | XGBoost | 0.86 |
+| `expt_formation_enthalpy` | thermodynamics | 1196 | formation enthalpy (eV/atom) | 132 | XGBoost | 0.87 |
 
-The low Heusler score is an honest result kept in on purpose: magnetic moment depends on structure and spin state, which composition-only features cannot fully capture. The notebook also shows one classification example (median split of the close-up target) and caches each dataset's (composition, target) under `data/gallery/` so re-runs are offline and fast.
+Heusler is the teaching case: on composition alone its magnetic moment scored only ~0.55, because the moment is set by the Slater-Pauling rule (valence electron count) and the Heusler structure type. The dataset ships both as `num_electron` and `struct type`; adding them as descriptors makes the physics learnable and the best-model R² climbs to ~0.86. `matbench_steels` and `expt_formation_enthalpy` ship no usable extra descriptors, so they stay composition only and unchanged. The notebook also shows one classification example (median split of the close-up target) and caches each dataset's full usable dataframe (composition + descriptor columns + target) under `data/gallery/` so re-runs are offline and fast.
 
 ### 1c dataset and tooling citations
 Datasets load through matminer; references are matminer's own citation metadata.
