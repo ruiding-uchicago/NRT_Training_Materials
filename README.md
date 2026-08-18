@@ -11,6 +11,7 @@ AI and machine learning teaching modules for UChicago PME PhD students, built fr
 | 1c | Dataset gallery: the same tabular pipeline across five materials domains, swap one config to your own field | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruiding-uchicago/NRT_Training_Materials/blob/main/module_1_tabular_ML/Module1c_Dataset_Gallery.ipynb) |
 | 2a | LLM extraction: turn papers into a clean table, with schema, evaluation, and prompt optimization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruiding-uchicago/NRT_Training_Materials/blob/main/module_2a_text_to_data/Module2a_Text_to_Dataset.ipynb) |
 | 2b | Multimodal extraction: read PDF pages as images, text vs image, and a selectivity ordering metric | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruiding-uchicago/NRT_Training_Materials/blob/main/module_2b_multimodal_pdf/Module2b_Multimodal_PDF_Extraction.ipynb) |
+| 3 | Distillation: a large teacher's blind, rejection-sampled reasoning fine-tunes a small student (0.01 to 0.825) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruiding-uchicago/NRT_Training_Materials/blob/main/module_3_distillation/Module3_Distillation.ipynb) |
 
 ## How to run
 
