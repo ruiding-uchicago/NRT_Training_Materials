@@ -24,10 +24,12 @@ Trained on the blind, rejection-sampled chains, the student goes from **0.01 to 
 | `data/chains_task1_train.answerfed.jsonl` | the contaminated answer-fed chains, kept as the cautionary control |
 | `data/task1_test.jsonl` | 500 held-out compounds, answer only |
 | `data/eval_before.json`, `data/eval_after.json` | the shipped before/after metrics |
+| `data/samples.json` | five before/after generations, shown in the notebook |
+| `adapter/` | the shipped distilled LoRA adapter (Qwen3-1.7B); load it to run the student with no training |
 | `figures/before_after.png` | the before vs after chart |
 
 ## How to run
-- **Cache (default, no GPU, no key):** open the notebook and run top to bottom with `USE_CACHE = True`. It reads the shipped chains and the before/after metrics and reproduces the story offline.
+- **Cache (default, no GPU, no key):** open the notebook and run top to bottom with `USE_CACHE = True`. It reads the shipped chains and the before/after metrics and reproduces the story offline. Set `TRY_ADAPTER = True` in the last section to load the shipped adapter and run the distilled model on a compound, no GPU needed for a single item.
 - **Live (a Colab T4 GPU):** open in Colab, set the runtime to a T4 (Runtime, Change runtime type, T4), set `USE_CACHE = False`, and Run all. This LoRA-fine-tunes the student for real and re-scores it. Regenerating the chains is optional and the only step that needs a DeepSeek key; leave `DEEPSEEK_KEY` blank to use the shipped chains.
 
 ## What it teaches
@@ -36,6 +38,7 @@ Trained on the blind, rejection-sampled chains, the student goes from **0.01 to 
 3. The correct recipe: teacher predicts blind, keep only what it gets right (rejection sampling / STaR), then fine-tune.
 4. An honest before/after: a format-fair baseline and a reported answer rate, so the lift is a real reasoning gain and not a format-compliance artifact.
 5. LoRA fine-tuning of a 1.7B student that fits a free Colab T4.
+6. A reusable artifact: the trained adapter ships with the module, so the distilled model can be loaded and run without retraining.
 
 ## Using it on your own field
 Replace solubench task 1 with any answer-only dataset in the same shape, one question and a short verifiable label. Generate chains with the teacher blind, keep the correct ones, rebuild the chat set, and retrain. The pipeline does not change.
