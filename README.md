@@ -28,4 +28,7 @@ These modules reproduce analyses over data derived from published papers. Paper 
 Cite the corresponding work when using this material.
 
 - Modules 1a, 1b: R. Ding et al., *Science Advances* 11, eadr9038 (2025), doi 10.1126/sciadv.adr9038, and the DASH repository.
+- Module 1c: datasets loaded through matminer (Ward et al., *Comput. Mater. Sci.* **152**, 60-69, 2018) and the Matbench suite (Dunn et al., *npj Comput. Mater.* **6**, 138, 2020); each of the five datasets keeps its own original source, listed in full in the notebook's Citations cell.
 - Module 2a: Rui Ding, Zixin Ding, Rodrigo Pires Ferreira, Yuxin Chen, and Junhong Chen. Text-Twin-Translation (T³): A Full-Stack Machine Learning Framework for Functional Material-Device Systems Discovery. In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26), 2026.
+- Module 2b: data and task adapted from WetSenseBench and the T³ text-to-data project (R. Ding et al.; same work as Module 2a).
+- Module 3: task adapted from solubench (the solubility benchmark); cite its source when building on this material.
