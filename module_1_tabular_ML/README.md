@@ -16,7 +16,7 @@ Predict acidic-OER electrocatalyst performance from a *composition + synthesis +
 | `Module1b_Tabular_ML_Stability.ipynb` | 1b, stability: the same pipeline on a new target |
 | `Module1c_Dataset_Gallery.ipynb` | 1c, gallery: the same pipeline across five domains (matminer datasets) |
 | `Module1d_Bring_Your_Own_Table.ipynb` | 1d, bring your own table: upload a local file, pick two columns, ensemble model |
-| `sample_data/` | five ready-to-upload example tables (3 regression + 2 classification) across PME fields; also the no-upload fallback |
+| `sample_data/` | ten ready-to-upload example tables (7 regression + 3 classification) across PME fields; also the no-upload fallback |
 | `OER_activity.csv` | Activity dataset (1847 rows, GBK-encoded) |
 | `OER_stability.csv` | Stability dataset (453 rows, UTF-8) |
 | `data/gallery/` | Cached full usable dataframes for 1c (composition + descriptor columns + target), one CSV per dataset (auto-written on first run) |
@@ -60,7 +60,7 @@ The fastest path from a spreadsheet to a first model, built because *getting you
 - **Automatic featurizing:** numeric passthrough, one-hot for small-cardinality text, id / free-text columns dropped with a note, missing values filled, and regression vs classification decided from the output column.
 - **Ensemble:** Random Forest and XGBoost plus their committee average; parity plot for regression, confusion matrix for classification, and SHAP (or built-in) feature importance.
 
-`sample_data/` ships five ready-to-upload tables (none overlapping Modules 1a-1c) so a student can 对号入座 (find their field) and rehearse the flow: molecular solubility, battery-electrolyte conductivity, and superconductor Tc (regression), plus dielectric ferroelectricity and molecular biodegradability (classification). Each keeps its target in the last column, so it runs with zero edits. The notebook auto-detects regression vs classification and makes no chemistry assumptions, so any table works. When you outgrow it, 1a to 1c add element-aware features, model laddering, and uncertainty.
+`sample_data/` ships ten ready-to-upload tables (none overlapping Modules 1a-1c) so a student can 对号入座 (find their field) and rehearse the flow. Regression: molecular solubility, battery-electrolyte conductivity, superconductor Tc, superhard bulk modulus, high-entropy-alloy hardness, 2D-material band gap, and MOF CO2 uptake. Classification: dielectric ferroelectricity, molecular biodegradability, and perovskite-oxide metal-vs-insulator. Every file keeps its target in the last column, so it runs with zero edits. The notebook auto-detects regression vs classification and makes no chemistry assumptions, so any table works. When you outgrow it, 1a to 1c add element-aware features, model laddering, and uncertainty.
 
 ## What you'll learn (1a teaches it; 1b reuses it on a new target)
 1. Real-world table gotchas: encoding (GBK vs UTF-8), and selecting a high-quality subset by bibliometrics (impact factor, citations, recency) to align with the paper. XGBoost test R² is about 0.84 for activity; Random Forest and the committee reach about 0.88 to 0.90 for stability.
