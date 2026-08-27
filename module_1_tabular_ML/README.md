@@ -7,6 +7,7 @@ Predict acidic-OER electrocatalyst performance from a *composition + synthesis +
 - **1a, Activity:** predict overpotential η₁₀ (lower is better).
 - **1b, Stability:** predict log decay rate (lower is more stable). Same template, new target.
 - **1c, Dataset Gallery:** the same pipeline across five small datasets from different domains, driven by a one-line `DATASET = "..."` config so you can run the one nearest your research.
+- **1d, Bring Your Own Table:** the no-prerequisites on-ramp. Upload any local table, mark the input columns and one output column, and get an ensemble model. Generic, not chemistry-specific.
 
 ## Files
 | File | Description |
@@ -14,6 +15,8 @@ Predict acidic-OER electrocatalyst performance from a *composition + synthesis +
 | `Module1_Tabular_ML_OER.ipynb` | 1a, activity: the full teaching walkthrough |
 | `Module1b_Tabular_ML_Stability.ipynb` | 1b, stability: the same pipeline on a new target |
 | `Module1c_Dataset_Gallery.ipynb` | 1c, gallery: the same pipeline across five domains (matminer datasets) |
+| `Module1d_Bring_Your_Own_Table.ipynb` | 1d, bring your own table: upload a local file, pick two columns, ensemble model |
+| `data/example_table.csv` | 1d fallback table (a cleaned subset of the 1a OER data), used when no file is uploaded |
 | `OER_activity.csv` | Activity dataset (1847 rows, GBK-encoded) |
 | `OER_stability.csv` | Stability dataset (453 rows, UTF-8) |
 | `data/gallery/` | Cached full usable dataframes for 1c (composition + descriptor columns + target), one CSV per dataset (auto-written on first run) |
@@ -47,6 +50,17 @@ Datasets load through matminer; references are matminer's own citation metadata.
 - `double_perovskites_gap` - Pilania, G. et al. "Machine learning bandgaps of double perovskites." *Sci. Rep.* **6**, 19375 (2016). doi:10.1038/srep19375. Data: Computational Materials Repository, https://cmr.fysik.dtu.dk/
 - `heusler_magnetic` - Citrine Informatics, "University of Alabama Heusler database," https://citrination.com/datasets/150561/
 - `expt_formation_enthalpy` - Kim, G., Meschel, S. V., Nash, P., Chen, W. "Experimental formation enthalpies for intermetallic phases and other inorganic compounds." *Sci. Data* **4**, 170162 (2017). doi:10.1038/sdata.2017.162
+
+## 1d, Bring Your Own Table
+
+The fastest path from a spreadsheet to a first model, built because *getting your own data in* is where people get stuck, not the model. Click a button, choose a file from your computer, name the input columns and the one output column, and it does the rest.
+
+- **Robust upload.** Reads `.csv`, `.tsv`, `.txt`, and Excel; retries UTF-8 / GBK / Latin-1 and sniffs the delimiter. In Colab it is a "Choose Files" button for a local file; with no upload it falls back to a shipped example so the notebook always produces a result.
+- **You edit two lines:** `OUTPUT_COLUMN` and `INPUT_COLUMNS` (or `None` for all other columns).
+- **Automatic featurizing:** numeric passthrough, one-hot for small-cardinality text, id / free-text columns dropped with a note, missing values filled, and regression vs classification decided from the output column.
+- **Ensemble:** Random Forest and XGBoost plus their committee average; parity plot for regression, confusion matrix for classification, and SHAP (or built-in) feature importance.
+
+On the shipped example (a cleaned OER subset) it auto-detects regression and the committee reaches test R² about 0.52 from metals plus synthesis and testing conditions; pointed at a categorical output it switches to classification (about 0.90 accuracy on the same table). It makes no chemistry assumptions, so any table works. When you outgrow it, 1a to 1c add element-aware features, model laddering, and uncertainty.
 
 ## What you'll learn (1a teaches it; 1b reuses it on a new target)
 1. Real-world table gotchas: encoding (GBK vs UTF-8), and selecting a high-quality subset by bibliometrics (impact factor, citations, recency) to align with the paper. XGBoost test R² is about 0.84 for activity; Random Forest and the committee reach about 0.88 to 0.90 for stability.
